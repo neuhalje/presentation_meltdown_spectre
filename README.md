@@ -16,7 +16,7 @@ This is for "normal people". With these slides I fill the hole between _we are g
 
 ## Preview
 
-Here are some slides from the presentation ([keynote](slides/Neuhalfen_Meltdown_Spectre_for_normal_people.key), [PDF](Neuhalfen_Meltdown_Spectre_for_normal_people.pdf), [html](html_export/Neuhalfen_Meltdown_Spectre_for_normal_people/)).
+Here are some slides from the presentation ([keynote](slides/Neuhalfen_Meltdown_Spectre_for_normal_people.key), [PDF](Neuhalfen_Meltdown_Spectre_for_normal_people.pdf), [html](https://neuhalje.github.io/presentation_meltdown_spectre/)).
 
 ![First slide](README.assets/1.png)
 
