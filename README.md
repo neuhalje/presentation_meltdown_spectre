@@ -16,6 +16,11 @@ Most coverages of these flaws fall either into the category "Intel caused a terr
 
 This is for "normal people". With these slides I fill the hole between _we are going to die!_ and _white noise_. You, the reader, will understand _what_ went wrong,  _how_ it went wrong, and _why_ this is bad. I will try to minimise the computer specialists words to an absolute minimum. Promised!
 
+## Where?
+
+* _coming_ 18. Gulaschprogrammiernacht (CCC Karlsruhe)
+* [German Perl Workshop 2018](http://act.yapc.eu/gpw2018/talk/7311)
+
 ## Preview
 
 Here are some slides from the presentation ([keynote](slides/Neuhalfen_Meltdown_Spectre_for_normal_people.key), [PDF](Neuhalfen_Meltdown_Spectre_for_normal_people.pdf), [html](https://neuhalje.github.io/presentation_meltdown_spectre/)).
