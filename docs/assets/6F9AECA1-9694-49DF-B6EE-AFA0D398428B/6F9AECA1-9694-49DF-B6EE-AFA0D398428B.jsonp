@@ -30,20 +30,6 @@ local_slide( {
         "width" : 569,
         "height" : 37
       },
-      "28DF7F32629DBB52E3E58279B589DA02" : {
-        "type" : "texture",
-        "index" : 4,
-        "assetRequest" : {
-          "type" : "slide",
-          "state" : "contents",
-          "slide" : "none"
-        },
-        "url" : {
-          "native" : "assets\/6F9AECA1-9694-49DF-B6EE-AFA0D398428B.pdf"
-        },
-        "width" : 26,
-        "height" : 20
-      },
       "6ACCB0EB2355D8328E68C845F61F9912" : {
         "type" : "texture",
         "index" : 11,
@@ -57,6 +43,48 @@ local_slide( {
         },
         "width" : 949,
         "height" : 109
+      },
+      "F1605CDFC6B4CE62F0AB8C1CEA4F40DE" : {
+        "type" : "texture",
+        "index" : 4,
+        "assetRequest" : {
+          "type" : "slide",
+          "state" : "contents",
+          "slide" : "none"
+        },
+        "url" : {
+          "native" : "assets\/6F9AECA1-9694-49DF-B6EE-AFA0D398428B.pdf"
+        },
+        "width" : 26,
+        "height" : 20
+      },
+      "3842A112EB6B2994C20B5FF52F46E810" : {
+        "type" : "texture",
+        "index" : 15,
+        "assetRequest" : {
+          "type" : "slide",
+          "state" : "contents",
+          "slide" : "none"
+        },
+        "url" : {
+          "native" : "assets\/6F9AECA1-9694-49DF-B6EE-AFA0D398428B.pdf"
+        },
+        "width" : 1024,
+        "height" : 768
+      },
+      "E8E4ECF69413C27E1EDBC30FE2F7F19E" : {
+        "type" : "texture",
+        "index" : 13,
+        "assetRequest" : {
+          "type" : "slide",
+          "state" : "contents",
+          "slide" : "none"
+        },
+        "url" : {
+          "native" : "assets\/6F9AECA1-9694-49DF-B6EE-AFA0D398428B.pdf"
+        },
+        "width" : 450,
+        "height" : 218
       },
       "2751AB459D6AAF384FA613A2AABEED3E" : {
         "type" : "texture",
@@ -156,20 +184,6 @@ local_slide( {
         "width" : 977,
         "height" : 89
       },
-      "AA80F88A10961E02A23409569AC70FAC" : {
-        "type" : "texture",
-        "index" : 13,
-        "assetRequest" : {
-          "type" : "slide",
-          "state" : "contents",
-          "slide" : "none"
-        },
-        "url" : {
-          "native" : "assets\/6F9AECA1-9694-49DF-B6EE-AFA0D398428B.pdf"
-        },
-        "width" : 426,
-        "height" : 218
-      },
       "416E176A91B036053E757C7A97EB7062" : {
         "type" : "texture",
         "index" : 8,
@@ -198,23 +212,9 @@ local_slide( {
         "width" : 519,
         "height" : 20
       },
-      "E6D0481B63E16330D41ED9DA6AA71C7E" : {
+      "D27F7BC0BA4E71E52FFAE94F8AF705E8" : {
         "type" : "texture",
         "index" : 14,
-        "assetRequest" : {
-          "type" : "slide",
-          "state" : "contents",
-          "slide" : "none"
-        },
-        "url" : {
-          "native" : "assets\/6F9AECA1-9694-49DF-B6EE-AFA0D398428B.pdf"
-        },
-        "width" : 1024,
-        "height" : 768
-      },
-      "FBD078203CB8442A0A142DF3AC830335" : {
-        "type" : "texture",
-        "index" : 15,
         "assetRequest" : {
           "type" : "slide",
           "state" : "contents",
@@ -445,27 +445,9 @@ local_slide( {
           {
             "text" : "1",
             "targetRectangle" : {
-              "y" : 319.01666259765625,
+              "y" : 396.01666259765625,
               "x" : 571.72442776189746,
               "width" : 10.41599999999994,
-              "height" : 28.40008544921875
-            }
-          },
-          {
-            "text" : "Check access",
-            "targetRectangle" : {
-              "y" : 382.42395055294037,
-              "x" : 612.97601318359375,
-              "width" : 220.572,
-              "height" : 49
-            }
-          },
-          {
-            "text" : "1",
-            "targetRectangle" : {
-              "y" : 242.01666212081909,
-              "x" : 60.724427761897402,
-              "width" : 10.415999999999997,
               "height" : 28.40008544921875
             }
           },
@@ -479,10 +461,73 @@ local_slide( {
             }
           },
           {
+            "text" : "The re-ordering on the right happens, when the “forbidden data” is already cached (because cache access is so fast).",
+            "targetRectangle" : {
+              "y" : 451.70910930633545,
+              "x" : 39.666000366210938,
+              "width" : 982.25999999999999,
+              "height" : 98
+            }
+          },
+          {
+            "text" : "2",
+            "targetRectangle" : {
+              "y" : 319.01666259765625,
+              "x" : 60.724427761897402,
+              "width" : 10.415999999999997,
+              "height" : 28.40008544921875
+            }
+          },
+          {
+            "text" : "Meltdown: READING FORBIDDEN DATA",
+            "targetRectangle" : {
+              "y" : 125,
+              "x" : 36,
+              "width" : 568.60799999999983,
+              "height" : 48.400146484375
+            }
+          },
+          {
+            "text" : "µOPs ordered by execution",
+            "targetRectangle" : {
+              "y" : 183.21197545528412,
+              "x" : 544.97601318359375,
+              "width" : 448.91999999999996,
+              "height" : 49
+            }
+          },
+          {
+            "text" : "µOPs ordered by instruction",
+            "targetRectangle" : {
+              "y" : 183.21197545528412,
+              "x" : 33.97599983215332,
+              "width" : 461.30399999999997,
+              "height" : 49
+            }
+          },
+          {
+            "text" : "Magic",
+            "targetRectangle" : {
+              "y" : 382.42395055294037,
+              "x" : 101.97599792480469,
+              "width" : 101.69999999999999,
+              "height" : 49
+            }
+          },
+          {
+            "text" : "Unless      is able to hide the secret in such a way that the attacker can find it later.",
+            "targetRectangle" : {
+              "y" : 674.20165920257568,
+              "x" : 39.666000366210938,
+              "width" : 936.68399999999997,
+              "height" : 98
+            }
+          },
+          {
             "text" : "Read into register",
             "targetRectangle" : {
-              "y" : 311.21197545528412,
-              "x" : 101.97599792480469,
+              "y" : 234.21197545528412,
+              "x" : 612.97601318359375,
               "width" : 293.11199999999997,
               "height" : 49
             }
@@ -500,90 +545,9 @@ local_slide( {
             "text" : "1",
             "targetRectangle" : {
               "y" : 396.01666259765625,
-              "x" : 571.72442776189746,
-              "width" : 10.41599999999994,
-              "height" : 28.40008544921875
-            }
-          },
-          {
-            "text" : "2",
-            "targetRectangle" : {
-              "y" : 319.01666259765625,
               "x" : 60.724427761897402,
               "width" : 10.415999999999997,
               "height" : 28.40008544921875
-            }
-          },
-          {
-            "text" : "Unless      is able to hide the secret in such a way that the attacker can find it later.",
-            "targetRectangle" : {
-              "y" : 674.20165920257568,
-              "x" : 39.666000366210938,
-              "width" : 936.68399999999997,
-              "height" : 98
-            }
-          },
-          {
-            "text" : "Magic",
-            "targetRectangle" : {
-              "y" : 382.42395055294037,
-              "x" : 101.97599792480469,
-              "width" : 101.69999999999999,
-              "height" : 49
-            }
-          },
-          {
-            "text" : "µOPs ordered by instruction",
-            "targetRectangle" : {
-              "y" : 183.21197545528412,
-              "x" : 33.97599983215332,
-              "width" : 461.30399999999997,
-              "height" : 49
-            }
-          },
-          {
-            "text" : "µOPs ordered by execution",
-            "targetRectangle" : {
-              "y" : 183.21197545528412,
-              "x" : 544.97601318359375,
-              "width" : 448.91999999999996,
-              "height" : 49
-            }
-          },
-          {
-            "text" : "Read into register",
-            "targetRectangle" : {
-              "y" : 234.21197545528412,
-              "x" : 612.97601318359375,
-              "width" : 293.11199999999997,
-              "height" : 49
-            }
-          },
-          {
-            "text" : "The re-ordering on the right happens, when the “forbidden data” is already cached (because cache access is so fast).",
-            "targetRectangle" : {
-              "y" : 451.70910930633545,
-              "x" : 39.666000366210938,
-              "width" : 982.25999999999999,
-              "height" : 98
-            }
-          },
-          {
-            "text" : "1",
-            "targetRectangle" : {
-              "y" : 396.01666259765625,
-              "x" : 60.724427761897402,
-              "width" : 10.415999999999997,
-              "height" : 28.40008544921875
-            }
-          },
-          {
-            "text" : "Meltdown: READING FORBIDDEN DATA",
-            "targetRectangle" : {
-              "y" : 125,
-              "x" : 36,
-              "width" : 568.60799999999983,
-              "height" : 48.400146484375
             }
           },
           {
@@ -627,6 +591,42 @@ local_slide( {
             "targetRectangle" : {
               "y" : 234.21197545528412,
               "x" : 101.97599792480469,
+              "width" : 220.572,
+              "height" : 49
+            }
+          },
+          {
+            "text" : "1",
+            "targetRectangle" : {
+              "y" : 319.01666259765625,
+              "x" : 571.72442776189746,
+              "width" : 10.41599999999994,
+              "height" : 28.40008544921875
+            }
+          },
+          {
+            "text" : "1",
+            "targetRectangle" : {
+              "y" : 242.01666212081909,
+              "x" : 60.724427761897402,
+              "width" : 10.415999999999997,
+              "height" : 28.40008544921875
+            }
+          },
+          {
+            "text" : "Read into register",
+            "targetRectangle" : {
+              "y" : 311.21197545528412,
+              "x" : 101.97599792480469,
+              "width" : 293.11199999999997,
+              "height" : 49
+            }
+          },
+          {
+            "text" : "Check access",
+            "targetRectangle" : {
+              "y" : 382.42395055294037,
+              "x" : 612.97601318359375,
               "width" : 220.572,
               "height" : 49
             }
@@ -1632,7 +1632,7 @@ local_slide( {
                           "pointY" : 0.5
                         }
                       },
-                      "texture" : "28DF7F32629DBB52E3E58279B589DA02"
+                      "texture" : "F1605CDFC6B4CE62F0AB8C1CEA4F40DE"
                     }
                   ]
                 }
@@ -3178,10 +3178,10 @@ local_slide( {
                     "rotation" : 0,
                     "scale" : 1,
                     "position" : {
-                      "pointX" : 801.12970924377441,
+                      "pointX" : 801.24969291687012,
                       "pointY" : 650.09994077682495
                     },
-                    "width" : 426,
+                    "width" : 450,
                     "sublayerTransform" : [
                       1,
                       0,
@@ -3236,7 +3236,7 @@ local_slide( {
                               "type" : "MoveToPoint",
                               "points" : [
                                 [
-                                  1.1297092437744141,
+                                  1.2496929168701172,
                                   1.0999407768249512
                                 ]
                               ]
@@ -3245,7 +3245,7 @@ local_slide( {
                               "type" : "AddLine",
                               "points" : [
                                 [
-                                  424.58122825622559,
+                                  448.46124458312988,
                                   1.0999407768249512
                                 ]
                               ]
@@ -3254,7 +3254,7 @@ local_slide( {
                               "type" : "AddLine",
                               "points" : [
                                 [
-                                  424.58122825622559,
+                                  448.46124458312988,
                                   216.90005922317505
                                 ]
                               ]
@@ -3263,7 +3263,7 @@ local_slide( {
                               "type" : "AddLine",
                               "points" : [
                                 [
-                                  1.1297092437744141,
+                                  1.2496929168701172,
                                   216.90005922317505
                                 ]
                               ]
@@ -3275,7 +3275,7 @@ local_slide( {
                               "type" : "MoveToPoint",
                               "points" : [
                                 [
-                                  1.1297092437744141,
+                                  1.2496929168701172,
                                   1.0999407768249512
                                 ]
                               ]
@@ -3303,10 +3303,10 @@ local_slide( {
                         "rotation" : 0,
                         "scale" : 1,
                         "position" : {
-                          "pointX" : 211.87029075622559,
+                          "pointX" : 223.75030708312988,
                           "pointY" : 107.90005922317505
                         },
-                        "width" : 426,
+                        "width" : 450,
                         "sublayerTransform" : [
                           1,
                           0,
@@ -3340,7 +3340,7 @@ local_slide( {
                           "pointY" : 0.5
                         }
                       },
-                      "texture" : "AA80F88A10961E02A23409569AC70FAC"
+                      "texture" : "E8E4ECF69413C27E1EDBC30FE2F7F19E"
                     }
                   ]
                 }
@@ -3566,27 +3566,9 @@ local_slide( {
           {
             "text" : "1",
             "targetRectangle" : {
-              "y" : 319.01666259765625,
+              "y" : 396.01666259765625,
               "x" : 571.72442776189746,
               "width" : 10.41599999999994,
-              "height" : 28.40008544921875
-            }
-          },
-          {
-            "text" : "Check access",
-            "targetRectangle" : {
-              "y" : 382.42395055294037,
-              "x" : 612.97601318359375,
-              "width" : 220.572,
-              "height" : 49
-            }
-          },
-          {
-            "text" : "1",
-            "targetRectangle" : {
-              "y" : 242.01666212081909,
-              "x" : 60.724427761897402,
-              "width" : 10.415999999999997,
               "height" : 28.40008544921875
             }
           },
@@ -3600,10 +3582,73 @@ local_slide( {
             }
           },
           {
+            "text" : "The re-ordering on the right happens, when the “forbidden data” is already cached (because cache access is so fast).",
+            "targetRectangle" : {
+              "y" : 451.70910930633545,
+              "x" : 39.666000366210938,
+              "width" : 982.25999999999999,
+              "height" : 98
+            }
+          },
+          {
+            "text" : "2",
+            "targetRectangle" : {
+              "y" : 319.01666259765625,
+              "x" : 60.724427761897402,
+              "width" : 10.415999999999997,
+              "height" : 28.40008544921875
+            }
+          },
+          {
+            "text" : "Meltdown: READING FORBIDDEN DATA",
+            "targetRectangle" : {
+              "y" : 125,
+              "x" : 36,
+              "width" : 568.60799999999983,
+              "height" : 48.400146484375
+            }
+          },
+          {
+            "text" : "µOPs ordered by execution",
+            "targetRectangle" : {
+              "y" : 183.21197545528412,
+              "x" : 544.97601318359375,
+              "width" : 448.91999999999996,
+              "height" : 49
+            }
+          },
+          {
+            "text" : "µOPs ordered by instruction",
+            "targetRectangle" : {
+              "y" : 183.21197545528412,
+              "x" : 33.97599983215332,
+              "width" : 461.30399999999997,
+              "height" : 49
+            }
+          },
+          {
+            "text" : "Magic",
+            "targetRectangle" : {
+              "y" : 382.42395055294037,
+              "x" : 101.97599792480469,
+              "width" : 101.69999999999999,
+              "height" : 49
+            }
+          },
+          {
+            "text" : "Unless      is able to hide the secret in such a way that the attacker can find it later.",
+            "targetRectangle" : {
+              "y" : 674.20165920257568,
+              "x" : 39.666000366210938,
+              "width" : 936.68399999999997,
+              "height" : 98
+            }
+          },
+          {
             "text" : "Read into register",
             "targetRectangle" : {
-              "y" : 311.21197545528412,
-              "x" : 101.97599792480469,
+              "y" : 234.21197545528412,
+              "x" : 612.97601318359375,
               "width" : 293.11199999999997,
               "height" : 49
             }
@@ -3621,90 +3666,9 @@ local_slide( {
             "text" : "1",
             "targetRectangle" : {
               "y" : 396.01666259765625,
-              "x" : 571.72442776189746,
-              "width" : 10.41599999999994,
-              "height" : 28.40008544921875
-            }
-          },
-          {
-            "text" : "2",
-            "targetRectangle" : {
-              "y" : 319.01666259765625,
               "x" : 60.724427761897402,
               "width" : 10.415999999999997,
               "height" : 28.40008544921875
-            }
-          },
-          {
-            "text" : "Unless      is able to hide the secret in such a way that the attacker can find it later.",
-            "targetRectangle" : {
-              "y" : 674.20165920257568,
-              "x" : 39.666000366210938,
-              "width" : 936.68399999999997,
-              "height" : 98
-            }
-          },
-          {
-            "text" : "Magic",
-            "targetRectangle" : {
-              "y" : 382.42395055294037,
-              "x" : 101.97599792480469,
-              "width" : 101.69999999999999,
-              "height" : 49
-            }
-          },
-          {
-            "text" : "µOPs ordered by instruction",
-            "targetRectangle" : {
-              "y" : 183.21197545528412,
-              "x" : 33.97599983215332,
-              "width" : 461.30399999999997,
-              "height" : 49
-            }
-          },
-          {
-            "text" : "µOPs ordered by execution",
-            "targetRectangle" : {
-              "y" : 183.21197545528412,
-              "x" : 544.97601318359375,
-              "width" : 448.91999999999996,
-              "height" : 49
-            }
-          },
-          {
-            "text" : "Read into register",
-            "targetRectangle" : {
-              "y" : 234.21197545528412,
-              "x" : 612.97601318359375,
-              "width" : 293.11199999999997,
-              "height" : 49
-            }
-          },
-          {
-            "text" : "The re-ordering on the right happens, when the “forbidden data” is already cached (because cache access is so fast).",
-            "targetRectangle" : {
-              "y" : 451.70910930633545,
-              "x" : 39.666000366210938,
-              "width" : 982.25999999999999,
-              "height" : 98
-            }
-          },
-          {
-            "text" : "1",
-            "targetRectangle" : {
-              "y" : 396.01666259765625,
-              "x" : 60.724427761897402,
-              "width" : 10.415999999999997,
-              "height" : 28.40008544921875
-            }
-          },
-          {
-            "text" : "Meltdown: READING FORBIDDEN DATA",
-            "targetRectangle" : {
-              "y" : 125,
-              "x" : 36,
-              "width" : 568.60799999999983,
-              "height" : 48.400146484375
             }
           },
           {
@@ -3748,6 +3712,42 @@ local_slide( {
             "targetRectangle" : {
               "y" : 234.21197545528412,
               "x" : 101.97599792480469,
+              "width" : 220.572,
+              "height" : 49
+            }
+          },
+          {
+            "text" : "1",
+            "targetRectangle" : {
+              "y" : 319.01666259765625,
+              "x" : 571.72442776189746,
+              "width" : 10.41599999999994,
+              "height" : 28.40008544921875
+            }
+          },
+          {
+            "text" : "1",
+            "targetRectangle" : {
+              "y" : 242.01666212081909,
+              "x" : 60.724427761897402,
+              "width" : 10.415999999999997,
+              "height" : 28.40008544921875
+            }
+          },
+          {
+            "text" : "Read into register",
+            "targetRectangle" : {
+              "y" : 311.21197545528412,
+              "x" : 101.97599792480469,
+              "width" : 293.11199999999997,
+              "height" : 49
+            }
+          },
+          {
+            "text" : "Check access",
+            "targetRectangle" : {
+              "y" : 382.42395055294037,
+              "x" : 612.97601318359375,
               "width" : 220.572,
               "height" : 49
             }
@@ -4753,7 +4753,7 @@ local_slide( {
                           "pointY" : 0.5
                         }
                       },
-                      "texture" : "28DF7F32629DBB52E3E58279B589DA02"
+                      "texture" : "F1605CDFC6B4CE62F0AB8C1CEA4F40DE"
                     }
                   ]
                 }
@@ -6299,10 +6299,10 @@ local_slide( {
                     "rotation" : 0,
                     "scale" : 1,
                     "position" : {
-                      "pointX" : 801.12970924377441,
+                      "pointX" : 801.24969291687012,
                       "pointY" : 650.09994077682495
                     },
-                    "width" : 426,
+                    "width" : 450,
                     "sublayerTransform" : [
                       1,
                       0,
@@ -6357,7 +6357,7 @@ local_slide( {
                               "type" : "MoveToPoint",
                               "points" : [
                                 [
-                                  1.1297092437744141,
+                                  1.2496929168701172,
                                   1.0999407768249512
                                 ]
                               ]
@@ -6366,7 +6366,7 @@ local_slide( {
                               "type" : "AddLine",
                               "points" : [
                                 [
-                                  424.58122825622559,
+                                  448.46124458312988,
                                   1.0999407768249512
                                 ]
                               ]
@@ -6375,7 +6375,7 @@ local_slide( {
                               "type" : "AddLine",
                               "points" : [
                                 [
-                                  424.58122825622559,
+                                  448.46124458312988,
                                   216.90005922317505
                                 ]
                               ]
@@ -6384,7 +6384,7 @@ local_slide( {
                               "type" : "AddLine",
                               "points" : [
                                 [
-                                  1.1297092437744141,
+                                  1.2496929168701172,
                                   216.90005922317505
                                 ]
                               ]
@@ -6396,7 +6396,7 @@ local_slide( {
                               "type" : "MoveToPoint",
                               "points" : [
                                 [
-                                  1.1297092437744141,
+                                  1.2496929168701172,
                                   1.0999407768249512
                                 ]
                               ]
@@ -6424,10 +6424,10 @@ local_slide( {
                         "rotation" : 0,
                         "scale" : 1,
                         "position" : {
-                          "pointX" : 211.87029075622559,
+                          "pointX" : 223.75030708312988,
                           "pointY" : 107.90005922317505
                         },
-                        "width" : 426,
+                        "width" : 450,
                         "sublayerTransform" : [
                           1,
                           0,
@@ -6461,7 +6461,7 @@ local_slide( {
                           "pointY" : 0.5
                         }
                       },
-                      "texture" : "AA80F88A10961E02A23409569AC70FAC"
+                      "texture" : "E8E4ECF69413C27E1EDBC30FE2F7F19E"
                     }
                   ]
                 }
@@ -6491,10 +6491,10 @@ local_slide( {
                 "rotation" : 0,
                 "scale" : 1,
                 "position" : {
-                  "pointX" : 801.12970924377441,
+                  "pointX" : 801.24969291687012,
                   "pointY" : 650.09994077682495
                 },
-                "width" : 426,
+                "width" : 450,
                 "sublayerTransform" : [
                   1,
                   0,
@@ -6547,10 +6547,10 @@ local_slide( {
                     "rotation" : 0,
                     "scale" : 1,
                     "position" : {
-                      "pointX" : -76.129709243774414,
+                      "pointX" : -64.249692916870117,
                       "pointY" : -157.09994077682495
                     },
-                    "width" : 426,
+                    "width" : 450,
                     "sublayerTransform" : [
                       1,
                       0,
@@ -6580,7 +6580,7 @@ local_slide( {
                     "height" : 218,
                     "hidden" : false,
                     "anchorPoint" : {
-                      "pointX" : -0.17870823766144228,
+                      "pointX" : -0.14277709537082248,
                       "pointY" : -0.72064193016892175
                     }
                   },
@@ -6618,7 +6618,7 @@ local_slide( {
                               "type" : "MoveToPoint",
                               "points" : [
                                 [
-                                  1.1297092437744141,
+                                  1.2496929168701172,
                                   1.0999407768249512
                                 ]
                               ]
@@ -6627,7 +6627,7 @@ local_slide( {
                               "type" : "AddLine",
                               "points" : [
                                 [
-                                  424.58122825622559,
+                                  448.46124458312988,
                                   1.0999407768249512
                                 ]
                               ]
@@ -6636,7 +6636,7 @@ local_slide( {
                               "type" : "AddLine",
                               "points" : [
                                 [
-                                  424.58122825622559,
+                                  448.46124458312988,
                                   216.90005922317505
                                 ]
                               ]
@@ -6645,7 +6645,7 @@ local_slide( {
                               "type" : "AddLine",
                               "points" : [
                                 [
-                                  1.1297092437744141,
+                                  1.2496929168701172,
                                   216.90005922317505
                                 ]
                               ]
@@ -6657,7 +6657,7 @@ local_slide( {
                               "type" : "MoveToPoint",
                               "points" : [
                                 [
-                                  1.1297092437744141,
+                                  1.2496929168701172,
                                   1.0999407768249512
                                 ]
                               ]
@@ -6685,10 +6685,10 @@ local_slide( {
                         "rotation" : 0,
                         "scale" : 1,
                         "position" : {
-                          "pointX" : 211.87029075622559,
+                          "pointX" : 223.75030708312988,
                           "pointY" : 107.90005922317505
                         },
-                        "width" : 426,
+                        "width" : 450,
                         "sublayerTransform" : [
                           1,
                           0,
@@ -6722,7 +6722,7 @@ local_slide( {
                           "pointY" : 0.5
                         }
                       },
-                      "texture" : "AA80F88A10961E02A23409569AC70FAC"
+                      "texture" : "E8E4ECF69413C27E1EDBC30FE2F7F19E"
                     }
                   ]
                 }
@@ -6745,27 +6745,9 @@ local_slide( {
           {
             "text" : "1",
             "targetRectangle" : {
-              "y" : 319.01666259765625,
+              "y" : 396.01666259765625,
               "x" : 571.72442776189746,
               "width" : 10.41599999999994,
-              "height" : 28.40008544921875
-            }
-          },
-          {
-            "text" : "Check access",
-            "targetRectangle" : {
-              "y" : 382.42395055294037,
-              "x" : 612.97601318359375,
-              "width" : 220.572,
-              "height" : 49
-            }
-          },
-          {
-            "text" : "1",
-            "targetRectangle" : {
-              "y" : 242.01666212081909,
-              "x" : 60.724427761897402,
-              "width" : 10.415999999999997,
               "height" : 28.40008544921875
             }
           },
@@ -6779,10 +6761,73 @@ local_slide( {
             }
           },
           {
+            "text" : "The re-ordering on the right happens, when the “forbidden data” is already cached (because cache access is so fast).",
+            "targetRectangle" : {
+              "y" : 451.70910930633545,
+              "x" : 39.666000366210938,
+              "width" : 982.25999999999999,
+              "height" : 98
+            }
+          },
+          {
+            "text" : "2",
+            "targetRectangle" : {
+              "y" : 319.01666259765625,
+              "x" : 60.724427761897402,
+              "width" : 10.415999999999997,
+              "height" : 28.40008544921875
+            }
+          },
+          {
+            "text" : "Meltdown: READING FORBIDDEN DATA",
+            "targetRectangle" : {
+              "y" : 125,
+              "x" : 36,
+              "width" : 568.60799999999983,
+              "height" : 48.400146484375
+            }
+          },
+          {
+            "text" : "µOPs ordered by execution",
+            "targetRectangle" : {
+              "y" : 183.21197545528412,
+              "x" : 544.97601318359375,
+              "width" : 448.91999999999996,
+              "height" : 49
+            }
+          },
+          {
+            "text" : "µOPs ordered by instruction",
+            "targetRectangle" : {
+              "y" : 183.21197545528412,
+              "x" : 33.97599983215332,
+              "width" : 461.30399999999997,
+              "height" : 49
+            }
+          },
+          {
+            "text" : "Magic",
+            "targetRectangle" : {
+              "y" : 382.42395055294037,
+              "x" : 101.97599792480469,
+              "width" : 101.69999999999999,
+              "height" : 49
+            }
+          },
+          {
+            "text" : "Unless      is able to hide the secret in such a way that the attacker can find it later.",
+            "targetRectangle" : {
+              "y" : 674.20165920257568,
+              "x" : 39.666000366210938,
+              "width" : 936.68399999999997,
+              "height" : 98
+            }
+          },
+          {
             "text" : "Read into register",
             "targetRectangle" : {
-              "y" : 311.21197545528412,
-              "x" : 101.97599792480469,
+              "y" : 234.21197545528412,
+              "x" : 612.97601318359375,
               "width" : 293.11199999999997,
               "height" : 49
             }
@@ -6800,90 +6845,9 @@ local_slide( {
             "text" : "1",
             "targetRectangle" : {
               "y" : 396.01666259765625,
-              "x" : 571.72442776189746,
-              "width" : 10.41599999999994,
-              "height" : 28.40008544921875
-            }
-          },
-          {
-            "text" : "2",
-            "targetRectangle" : {
-              "y" : 319.01666259765625,
               "x" : 60.724427761897402,
               "width" : 10.415999999999997,
               "height" : 28.40008544921875
-            }
-          },
-          {
-            "text" : "Unless      is able to hide the secret in such a way that the attacker can find it later.",
-            "targetRectangle" : {
-              "y" : 674.20165920257568,
-              "x" : 39.666000366210938,
-              "width" : 936.68399999999997,
-              "height" : 98
-            }
-          },
-          {
-            "text" : "Magic",
-            "targetRectangle" : {
-              "y" : 382.42395055294037,
-              "x" : 101.97599792480469,
-              "width" : 101.69999999999999,
-              "height" : 49
-            }
-          },
-          {
-            "text" : "µOPs ordered by instruction",
-            "targetRectangle" : {
-              "y" : 183.21197545528412,
-              "x" : 33.97599983215332,
-              "width" : 461.30399999999997,
-              "height" : 49
-            }
-          },
-          {
-            "text" : "µOPs ordered by execution",
-            "targetRectangle" : {
-              "y" : 183.21197545528412,
-              "x" : 544.97601318359375,
-              "width" : 448.91999999999996,
-              "height" : 49
-            }
-          },
-          {
-            "text" : "Read into register",
-            "targetRectangle" : {
-              "y" : 234.21197545528412,
-              "x" : 612.97601318359375,
-              "width" : 293.11199999999997,
-              "height" : 49
-            }
-          },
-          {
-            "text" : "The re-ordering on the right happens, when the “forbidden data” is already cached (because cache access is so fast).",
-            "targetRectangle" : {
-              "y" : 451.70910930633545,
-              "x" : 39.666000366210938,
-              "width" : 982.25999999999999,
-              "height" : 98
-            }
-          },
-          {
-            "text" : "1",
-            "targetRectangle" : {
-              "y" : 396.01666259765625,
-              "x" : 60.724427761897402,
-              "width" : 10.415999999999997,
-              "height" : 28.40008544921875
-            }
-          },
-          {
-            "text" : "Meltdown: READING FORBIDDEN DATA",
-            "targetRectangle" : {
-              "y" : 125,
-              "x" : 36,
-              "width" : 568.60799999999983,
-              "height" : 48.400146484375
             }
           },
           {
@@ -6927,6 +6891,42 @@ local_slide( {
             "targetRectangle" : {
               "y" : 234.21197545528412,
               "x" : 101.97599792480469,
+              "width" : 220.572,
+              "height" : 49
+            }
+          },
+          {
+            "text" : "1",
+            "targetRectangle" : {
+              "y" : 319.01666259765625,
+              "x" : 571.72442776189746,
+              "width" : 10.41599999999994,
+              "height" : 28.40008544921875
+            }
+          },
+          {
+            "text" : "1",
+            "targetRectangle" : {
+              "y" : 242.01666212081909,
+              "x" : 60.724427761897402,
+              "width" : 10.415999999999997,
+              "height" : 28.40008544921875
+            }
+          },
+          {
+            "text" : "Read into register",
+            "targetRectangle" : {
+              "y" : 311.21197545528412,
+              "x" : 101.97599792480469,
+              "width" : 293.11199999999997,
+              "height" : 49
+            }
+          },
+          {
+            "text" : "Check access",
+            "targetRectangle" : {
+              "y" : 382.42395055294037,
+              "x" : 612.97601318359375,
               "width" : 220.572,
               "height" : 49
             }
@@ -7932,7 +7932,7 @@ local_slide( {
                           "pointY" : 0.5
                         }
                       },
-                      "texture" : "28DF7F32629DBB52E3E58279B589DA02"
+                      "texture" : "F1605CDFC6B4CE62F0AB8C1CEA4F40DE"
                     }
                   ]
                 }
@@ -9478,10 +9478,10 @@ local_slide( {
                     "rotation" : 0,
                     "scale" : 1,
                     "position" : {
-                      "pointX" : 801.12970924377441,
+                      "pointX" : 801.24969291687012,
                       "pointY" : 650.09994077682495
                     },
-                    "width" : 426,
+                    "width" : 450,
                     "sublayerTransform" : [
                       1,
                       0,
@@ -9536,7 +9536,7 @@ local_slide( {
                               "type" : "MoveToPoint",
                               "points" : [
                                 [
-                                  1.1297092437744141,
+                                  1.2496929168701172,
                                   1.0999407768249512
                                 ]
                               ]
@@ -9545,7 +9545,7 @@ local_slide( {
                               "type" : "AddLine",
                               "points" : [
                                 [
-                                  424.58122825622559,
+                                  448.46124458312988,
                                   1.0999407768249512
                                 ]
                               ]
@@ -9554,7 +9554,7 @@ local_slide( {
                               "type" : "AddLine",
                               "points" : [
                                 [
-                                  424.58122825622559,
+                                  448.46124458312988,
                                   216.90005922317505
                                 ]
                               ]
@@ -9563,7 +9563,7 @@ local_slide( {
                               "type" : "AddLine",
                               "points" : [
                                 [
-                                  1.1297092437744141,
+                                  1.2496929168701172,
                                   216.90005922317505
                                 ]
                               ]
@@ -9575,7 +9575,7 @@ local_slide( {
                               "type" : "MoveToPoint",
                               "points" : [
                                 [
-                                  1.1297092437744141,
+                                  1.2496929168701172,
                                   1.0999407768249512
                                 ]
                               ]
@@ -9603,10 +9603,10 @@ local_slide( {
                         "rotation" : 0,
                         "scale" : 1,
                         "position" : {
-                          "pointX" : 211.87029075622559,
+                          "pointX" : 223.75030708312988,
                           "pointY" : 107.90005922317505
                         },
-                        "width" : 426,
+                        "width" : 450,
                         "sublayerTransform" : [
                           1,
                           0,
@@ -9640,7 +9640,7 @@ local_slide( {
                           "pointY" : 0.5
                         }
                       },
-                      "texture" : "AA80F88A10961E02A23409569AC70FAC"
+                      "texture" : "E8E4ECF69413C27E1EDBC30FE2F7F19E"
                     }
                   ]
                 }
@@ -9829,7 +9829,7 @@ local_slide( {
                           "pointY" : 0.5
                         }
                       },
-                      "texture" : "E6D0481B63E16330D41ED9DA6AA71C7E"
+                      "texture" : "D27F7BC0BA4E71E52FFAE94F8AF705E8"
                     },
                     {
                       "animations" : [
@@ -9910,7 +9910,7 @@ local_slide( {
                           "pointY" : 0.5
                         }
                       },
-                      "texture" : "FBD078203CB8442A0A142DF3AC830335"
+                      "texture" : "3842A112EB6B2994C20B5FF52F46E810"
                     }
                   ]
                 }
@@ -9931,29 +9931,56 @@ local_slide( {
         ],
         "accessibility" : [
           {
+            "text" : "In our burger example:",
+            "targetRectangle" : {
+              "y" : 545.09994077682495,
+              "x" : 672.48745849227907,
+              "width" : 254.73599999999988,
+              "height" : 35.80010986328125
+            }
+          },
+          {
+            "text" : "Customer orders a burger & coffee",
+            "targetRectangle" : {
+              "y" : 588.09994077682495,
+              "x" : 623.07322406768799,
+              "width" : 388.69200000000001,
+              "height" : 35.80010986328125
+            }
+          },
+          {
+            "text" : "Customer gets his burger",
+            "targetRectangle" : {
+              "y" : 631.09994077682495,
+              "x" : 623.07322406768799,
+              "width" : 282.77999999999997,
+              "height" : 35.80010986328125
+            }
+          },
+          {
+            "text" : "Coffee machine breaks",
+            "targetRectangle" : {
+              "y" : 674.09994077682495,
+              "x" : 623.07322406768799,
+              "width" : 256.8599999999999,
+              "height" : 35.80010986328125
+            }
+          },
+          {
+            "text" : "Customer runs away with burger",
+            "targetRectangle" : {
+              "y" : 717.09994077682495,
+              "x" : 623.07322406768799,
+              "width" : 364.53599999999994,
+              "height" : 35.80010986328125
+            }
+          },
+          {
             "text" : "1",
             "targetRectangle" : {
-              "y" : 319.01666259765625,
+              "y" : 396.01666259765625,
               "x" : 571.72442776189746,
               "width" : 10.41599999999994,
-              "height" : 28.40008544921875
-            }
-          },
-          {
-            "text" : "Check access",
-            "targetRectangle" : {
-              "y" : 382.42395055294037,
-              "x" : 612.97601318359375,
-              "width" : 220.572,
-              "height" : 49
-            }
-          },
-          {
-            "text" : "1",
-            "targetRectangle" : {
-              "y" : 242.01666212081909,
-              "x" : 60.724427761897402,
-              "width" : 10.415999999999997,
               "height" : 28.40008544921875
             }
           },
@@ -9967,55 +9994,73 @@ local_slide( {
             }
           },
           {
-            "text" : "In our burger example:",
+            "text" : "The re-ordering on the right happens, when the “forbidden data” is already cached (because cache access is so fast).",
             "targetRectangle" : {
-              "y" : 545.09994077682495,
-              "x" : 672.48747481918338,
-              "width" : 254.73599999999999,
-              "height" : 35.80010986328125
+              "y" : 451.70910930633545,
+              "x" : 39.666000366210938,
+              "width" : 982.25999999999999,
+              "height" : 98
             }
           },
           {
-            "text" : "Customer orders a burger",
+            "text" : "2",
             "targetRectangle" : {
-              "y" : 588.09994077682495,
-              "x" : 634.95324039459229,
-              "width" : 288.71999999999991,
-              "height" : 35.80010986328125
+              "y" : 319.01666259765625,
+              "x" : 60.724427761897402,
+              "width" : 10.415999999999997,
+              "height" : 28.40008544921875
             }
           },
           {
-            "text" : "Customer gets his burger",
+            "text" : "Meltdown: READING FORBIDDEN DATA",
             "targetRectangle" : {
-              "y" : 631.09994077682495,
-              "x" : 634.95324039459229,
-              "width" : 282.77999999999997,
-              "height" : 35.80010986328125
+              "y" : 125,
+              "x" : 36,
+              "width" : 568.60799999999983,
+              "height" : 48.400146484375
             }
           },
           {
-            "text" : "Customer has not enough money",
+            "text" : "µOPs ordered by execution",
             "targetRectangle" : {
-              "y" : 674.09994077682495,
-              "x" : 634.95324039459229,
-              "width" : 364.93200000000002,
-              "height" : 35.80010986328125
+              "y" : 183.21197545528412,
+              "x" : 544.97601318359375,
+              "width" : 448.91999999999996,
+              "height" : 49
             }
           },
           {
-            "text" : "Customer runs away with burger",
+            "text" : "µOPs ordered by instruction",
             "targetRectangle" : {
-              "y" : 717.09994077682495,
-              "x" : 634.95324039459229,
-              "width" : 364.53599999999994,
-              "height" : 35.80010986328125
+              "y" : 183.21197545528412,
+              "x" : 33.97599983215332,
+              "width" : 461.30399999999997,
+              "height" : 49
+            }
+          },
+          {
+            "text" : "Magic",
+            "targetRectangle" : {
+              "y" : 382.42395055294037,
+              "x" : 101.97599792480469,
+              "width" : 101.69999999999999,
+              "height" : 49
+            }
+          },
+          {
+            "text" : "Unless      is able to hide the secret in such a way that the attacker can find it later.",
+            "targetRectangle" : {
+              "y" : 674.20165920257568,
+              "x" : 39.666000366210938,
+              "width" : 936.68399999999997,
+              "height" : 98
             }
           },
           {
             "text" : "Read into register",
             "targetRectangle" : {
-              "y" : 311.21197545528412,
-              "x" : 101.97599792480469,
+              "y" : 234.21197545528412,
+              "x" : 612.97601318359375,
               "width" : 293.11199999999997,
               "height" : 49
             }
@@ -10033,90 +10078,9 @@ local_slide( {
             "text" : "1",
             "targetRectangle" : {
               "y" : 396.01666259765625,
-              "x" : 571.72442776189746,
-              "width" : 10.41599999999994,
-              "height" : 28.40008544921875
-            }
-          },
-          {
-            "text" : "2",
-            "targetRectangle" : {
-              "y" : 319.01666259765625,
               "x" : 60.724427761897402,
               "width" : 10.415999999999997,
               "height" : 28.40008544921875
-            }
-          },
-          {
-            "text" : "Unless      is able to hide the secret in such a way that the attacker can find it later.",
-            "targetRectangle" : {
-              "y" : 674.20165920257568,
-              "x" : 39.666000366210938,
-              "width" : 936.68399999999997,
-              "height" : 98
-            }
-          },
-          {
-            "text" : "Magic",
-            "targetRectangle" : {
-              "y" : 382.42395055294037,
-              "x" : 101.97599792480469,
-              "width" : 101.69999999999999,
-              "height" : 49
-            }
-          },
-          {
-            "text" : "µOPs ordered by instruction",
-            "targetRectangle" : {
-              "y" : 183.21197545528412,
-              "x" : 33.97599983215332,
-              "width" : 461.30399999999997,
-              "height" : 49
-            }
-          },
-          {
-            "text" : "µOPs ordered by execution",
-            "targetRectangle" : {
-              "y" : 183.21197545528412,
-              "x" : 544.97601318359375,
-              "width" : 448.91999999999996,
-              "height" : 49
-            }
-          },
-          {
-            "text" : "Read into register",
-            "targetRectangle" : {
-              "y" : 234.21197545528412,
-              "x" : 612.97601318359375,
-              "width" : 293.11199999999997,
-              "height" : 49
-            }
-          },
-          {
-            "text" : "The re-ordering on the right happens, when the “forbidden data” is already cached (because cache access is so fast).",
-            "targetRectangle" : {
-              "y" : 451.70910930633545,
-              "x" : 39.666000366210938,
-              "width" : 982.25999999999999,
-              "height" : 98
-            }
-          },
-          {
-            "text" : "1",
-            "targetRectangle" : {
-              "y" : 396.01666259765625,
-              "x" : 60.724427761897402,
-              "width" : 10.415999999999997,
-              "height" : 28.40008544921875
-            }
-          },
-          {
-            "text" : "Meltdown: READING FORBIDDEN DATA",
-            "targetRectangle" : {
-              "y" : 125,
-              "x" : 36,
-              "width" : 568.60799999999983,
-              "height" : 48.400146484375
             }
           },
           {
@@ -10160,6 +10124,42 @@ local_slide( {
             "targetRectangle" : {
               "y" : 234.21197545528412,
               "x" : 101.97599792480469,
+              "width" : 220.572,
+              "height" : 49
+            }
+          },
+          {
+            "text" : "1",
+            "targetRectangle" : {
+              "y" : 319.01666259765625,
+              "x" : 571.72442776189746,
+              "width" : 10.41599999999994,
+              "height" : 28.40008544921875
+            }
+          },
+          {
+            "text" : "1",
+            "targetRectangle" : {
+              "y" : 242.01666212081909,
+              "x" : 60.724427761897402,
+              "width" : 10.415999999999997,
+              "height" : 28.40008544921875
+            }
+          },
+          {
+            "text" : "Read into register",
+            "targetRectangle" : {
+              "y" : 311.21197545528412,
+              "x" : 101.97599792480469,
+              "width" : 293.11199999999997,
+              "height" : 49
+            }
+          },
+          {
+            "text" : "Check access",
+            "targetRectangle" : {
+              "y" : 382.42395055294037,
+              "x" : 612.97601318359375,
               "width" : 220.572,
               "height" : 49
             }
@@ -11166,7 +11166,7 @@ local_slide( {
                           "pointY" : 0.5
                         }
                       },
-                      "texture" : "28DF7F32629DBB52E3E58279B589DA02"
+                      "texture" : "F1605CDFC6B4CE62F0AB8C1CEA4F40DE"
                     }
                   ]
                 }
@@ -12710,10 +12710,10 @@ local_slide( {
                     "rotation" : 0,
                     "scale" : 1,
                     "position" : {
-                      "pointX" : 801.12970924377441,
+                      "pointX" : 801.24969291687012,
                       "pointY" : 650.09994077682495
                     },
-                    "width" : 426,
+                    "width" : 450,
                     "sublayerTransform" : [
                       1,
                       0,
@@ -12767,7 +12767,7 @@ local_slide( {
                               "type" : "MoveToPoint",
                               "points" : [
                                 [
-                                  1.1297092437744141,
+                                  1.2496929168701172,
                                   1.0999407768249512
                                 ]
                               ]
@@ -12776,7 +12776,7 @@ local_slide( {
                               "type" : "AddLine",
                               "points" : [
                                 [
-                                  424.58122825622559,
+                                  448.46124458312988,
                                   1.0999407768249512
                                 ]
                               ]
@@ -12785,7 +12785,7 @@ local_slide( {
                               "type" : "AddLine",
                               "points" : [
                                 [
-                                  424.58122825622559,
+                                  448.46124458312988,
                                   216.90005922317505
                                 ]
                               ]
@@ -12794,7 +12794,7 @@ local_slide( {
                               "type" : "AddLine",
                               "points" : [
                                 [
-                                  1.1297092437744141,
+                                  1.2496929168701172,
                                   216.90005922317505
                                 ]
                               ]
@@ -12806,7 +12806,7 @@ local_slide( {
                               "type" : "MoveToPoint",
                               "points" : [
                                 [
-                                  1.1297092437744141,
+                                  1.2496929168701172,
                                   1.0999407768249512
                                 ]
                               ]
@@ -12834,10 +12834,10 @@ local_slide( {
                         "rotation" : 0,
                         "scale" : 1,
                         "position" : {
-                          "pointX" : 211.87029075622559,
+                          "pointX" : 223.75030708312988,
                           "pointY" : 107.90005922317505
                         },
-                        "width" : 426,
+                        "width" : 450,
                         "sublayerTransform" : [
                           1,
                           0,
@@ -12871,7 +12871,7 @@ local_slide( {
                           "pointY" : 0.5
                         }
                       },
-                      "texture" : "AA80F88A10961E02A23409569AC70FAC"
+                      "texture" : "E8E4ECF69413C27E1EDBC30FE2F7F19E"
                     }
                   ]
                 }

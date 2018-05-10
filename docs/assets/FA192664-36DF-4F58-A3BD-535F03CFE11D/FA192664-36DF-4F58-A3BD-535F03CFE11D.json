@@ -396,21 +396,21 @@
       ],
       "accessibility" : [
         {
-          "text" : "What is the problem?",
-          "targetRectangle" : {
-            "y" : 170.42396545410156,
-            "x" : 513.87618188476563,
-            "width" : 343.80799999999999,
-            "height" : 139.20000207424164
-          }
-        },
-        {
           "text" : "￼",
           "targetRectangle" : {
             "y" : 38,
             "x" : 976.09613084793091,
             "width" : 11.51953125,
             "height" : 28
+          }
+        },
+        {
+          "text" : "What is the problem?",
+          "targetRectangle" : {
+            "y" : 170.42396545410156,
+            "x" : 513.87618188476563,
+            "width" : 343.80799999999999,
+            "height" : 139.20000207424164
           }
         },
         {

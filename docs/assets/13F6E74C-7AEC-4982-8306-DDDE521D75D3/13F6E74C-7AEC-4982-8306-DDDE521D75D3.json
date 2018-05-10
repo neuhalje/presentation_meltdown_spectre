@@ -1,5 +1,19 @@
 {
   "assets" : {
+    "04A8D6E4DF90C7784D628299E8FFA88D" : {
+      "type" : "texture",
+      "index" : 11,
+      "assetRequest" : {
+        "type" : "slide",
+        "state" : "contents",
+        "slide" : "none"
+      },
+      "url" : {
+        "native" : "assets\/13F6E74C-7AEC-4982-8306-DDDE521D75D3.pdf"
+      },
+      "width" : 1024,
+      "height" : 768
+    },
     "4CC7434B9F0EB6313280DBA6000260CE" : {
       "type" : "texture",
       "index" : 8,
@@ -28,6 +42,34 @@
       "width" : 627,
       "height" : 133
     },
+    "BFBA21EF4E198B2DBC0CCA113ED981EA" : {
+      "type" : "texture",
+      "index" : 12,
+      "assetRequest" : {
+        "type" : "slide",
+        "state" : "contents",
+        "slide" : "none"
+      },
+      "url" : {
+        "native" : "assets\/13F6E74C-7AEC-4982-8306-DDDE521D75D3.pdf"
+      },
+      "width" : 1024,
+      "height" : 768
+    },
+    "E4C0023E4E82DA4708AE861A605CD6E2" : {
+      "type" : "texture",
+      "index" : 5,
+      "assetRequest" : {
+        "type" : "slide",
+        "state" : "contents",
+        "slide" : "none"
+      },
+      "url" : {
+        "native" : "assets\/13F6E74C-7AEC-4982-8306-DDDE521D75D3.pdf"
+      },
+      "width" : 25,
+      "height" : 20
+    },
     "640D5297D59088D46FE63A28D36F2264" : {
       "type" : "texture",
       "index" : 1,
@@ -41,20 +83,6 @@
       },
       "width" : 964,
       "height" : 5
-    },
-    "31A7002A9D6686DB9E44C96EA593319B" : {
-      "type" : "texture",
-      "index" : 10,
-      "assetRequest" : {
-        "type" : "slide",
-        "state" : "contents",
-        "slide" : "none"
-      },
-      "url" : {
-        "native" : "assets\/13F6E74C-7AEC-4982-8306-DDDE521D75D3.pdf"
-      },
-      "width" : 426,
-      "height" : 176
     },
     "8C2708085BB49CFEFA416DD149FBF097" : {
       "type" : "texture",
@@ -70,20 +98,6 @@
       "width" : 339,
       "height" : 27
     },
-    "FB8C2FC4410FB81675F6B79B1DF953EF" : {
-      "type" : "texture",
-      "index" : 11,
-      "assetRequest" : {
-        "type" : "slide",
-        "state" : "contents",
-        "slide" : "none"
-      },
-      "url" : {
-        "native" : "assets\/13F6E74C-7AEC-4982-8306-DDDE521D75D3.pdf"
-      },
-      "width" : 1024,
-      "height" : 768
-    },
     "10F9168546F9722E8A79111DA6AD83B8" : {
       "type" : "texture",
       "index" : 2,
@@ -97,6 +111,20 @@
       },
       "width" : 840,
       "height" : 261
+    },
+    "6E9F0766FC1ECFAB5E29A1F2C5274C04" : {
+      "type" : "texture",
+      "index" : 10,
+      "assetRequest" : {
+        "type" : "slide",
+        "state" : "contents",
+        "slide" : "none"
+      },
+      "url" : {
+        "native" : "assets\/13F6E74C-7AEC-4982-8306-DDDE521D75D3.pdf"
+      },
+      "width" : 501,
+      "height" : 176
     },
     "B79B8D52CCA3525CDC13722A0DCE9F8E" : {
       "type" : "texture",
@@ -125,34 +153,6 @@
       },
       "width" : 1024,
       "height" : 768
-    },
-    "3985441E6197B196A8CB0A42FC7A6E8C" : {
-      "type" : "texture",
-      "index" : 12,
-      "assetRequest" : {
-        "type" : "slide",
-        "state" : "contents",
-        "slide" : "none"
-      },
-      "url" : {
-        "native" : "assets\/13F6E74C-7AEC-4982-8306-DDDE521D75D3.pdf"
-      },
-      "width" : 1024,
-      "height" : 768
-    },
-    "823ACC6D3CA023E417D24DC13D714A11" : {
-      "type" : "texture",
-      "index" : 5,
-      "assetRequest" : {
-        "type" : "slide",
-        "state" : "contents",
-        "slide" : "none"
-      },
-      "url" : {
-        "native" : "assets\/13F6E74C-7AEC-4982-8306-DDDE521D75D3.pdf"
-      },
-      "width" : 26,
-      "height" : 20
     },
     "F648880DCCA26515020CAF2E5D8A1198" : {
       "type" : "texture",
@@ -205,10 +205,10 @@
               "rotation" : 0,
               "scale" : 1,
               "position" : {
-                "pointX" : 802.12970924377441,
+                "pointX" : 773.24369716644287,
                 "pointY" : 677.21200466156006
               },
-              "width" : 426,
+              "width" : 501,
               "sublayerTransform" : [
                 1,
                 0,
@@ -261,10 +261,10 @@
                   "rotation" : 0,
                   "scale" : 1,
                   "position" : {
-                    "pointX" : -77.129709243774414,
+                    "pointX" : -10.743697166442871,
                     "pointY" : -205.21200466156006
                   },
-                  "width" : 426,
+                  "width" : 501,
                   "sublayerTransform" : [
                     1,
                     0,
@@ -294,7 +294,7 @@
                   "height" : 176,
                   "hidden" : false,
                   "anchorPoint" : {
-                    "pointX" : -0.18105565550181787,
+                    "pointX" : -0.021444505322241261,
                     "pointY" : -1.1659772992134094
                   }
                 },
@@ -332,7 +332,7 @@
                             "type" : "MoveToPoint",
                             "points" : [
                               [
-                                1.1297092437744141,
+                                1.7436971664428711,
                                 1.2120046615600586
                               ]
                             ]
@@ -341,7 +341,7 @@
                             "type" : "AddLine",
                             "points" : [
                               [
-                                424.58122825622559,
+                                499.96724033355713,
                                 1.2120046615600586
                               ]
                             ]
@@ -350,7 +350,7 @@
                             "type" : "AddLine",
                             "points" : [
                               [
-                                424.58122825622559,
+                                499.96724033355713,
                                 174.01211643218994
                               ]
                             ]
@@ -359,7 +359,7 @@
                             "type" : "AddLine",
                             "points" : [
                               [
-                                1.1297092437744141,
+                                1.7436971664428711,
                                 174.01211643218994
                               ]
                             ]
@@ -371,7 +371,7 @@
                             "type" : "MoveToPoint",
                             "points" : [
                               [
-                                1.1297092437744141,
+                                1.7436971664428711,
                                 1.2120046615600586
                               ]
                             ]
@@ -399,10 +399,10 @@
                       "rotation" : 0,
                       "scale" : 1,
                       "position" : {
-                        "pointX" : 211.87029075622559,
+                        "pointX" : 248.75630283355713,
                         "pointY" : 86.787995338439941
                       },
-                      "width" : 426,
+                      "width" : 501,
                       "sublayerTransform" : [
                         1,
                         0,
@@ -436,7 +436,7 @@
                         "pointY" : 0.5
                       }
                     },
-                    "texture" : "31A7002A9D6686DB9E44C96EA593319B"
+                    "texture" : "6E9F0766FC1ECFAB5E29A1F2C5274C04"
                   }
                 ]
               }
@@ -457,6 +457,33 @@
       ],
       "accessibility" : [
         {
+          "text" : "“READ” Instruction",
+          "targetRectangle" : {
+            "y" : 125,
+            "x" : 36,
+            "width" : 308.25600000000003,
+            "height" : 48.400146484375
+          }
+        },
+        {
+          "text" : "1 Register: The CPUs scratchpad",
+          "targetRectangle" : {
+            "y" : 723.64288252592087,
+            "x" : 8.8337583541870117,
+            "width" : 336.96533360522989,
+            "height" : 31.000000250874109
+          }
+        },
+        {
+          "text" : "Meltdown & Spectre for normal people",
+          "targetRectangle" : {
+            "y" : 40,
+            "x" : 36,
+            "width" : 519.28593814373016,
+            "height" : 28
+          }
+        },
+        {
           "text" : "If        fails the program is aborted. ",
           "targetRectangle" : {
             "y" : 475.28228998184204,
@@ -475,20 +502,29 @@
           }
         },
         {
-          "text" : "1 Register: The CPUs scratchpad",
+          "text" : "1",
           "targetRectangle" : {
-            "y" : 723.64288252592087,
-            "x" : 8.8337583541870117,
-            "width" : 336.96533360522989,
-            "height" : 31.000000250874109
+            "y" : 483.58697271347046,
+            "x" : 100.7244277618974,
+            "width" : 10.415999999999997,
+            "height" : 28.40008544921875
           }
         },
         {
-          "text" : "Meltdown & Spectre for normal people",
+          "text" : "2",
           "targetRectangle" : {
-            "y" : 40,
-            "x" : 36,
-            "width" : 519.28593814373016,
+            "y" : 409.58697509765625,
+            "x" : 835.72442776189746,
+            "width" : 10.41599999999994,
+            "height" : 28.40008544921875
+          }
+        },
+        {
+          "text" : "￼",
+          "targetRectangle" : {
+            "y" : 38,
+            "x" : 964.57660043239594,
+            "width" : 23.0390625,
             "height" : 28
           }
         },
@@ -531,46 +567,10 @@
         {
           "text" : "1",
           "targetRectangle" : {
-            "y" : 483.58697271347046,
-            "x" : 100.7244277618974,
-            "width" : 10.415999999999997,
-            "height" : 28.40008544921875
-          }
-        },
-        {
-          "text" : "2",
-          "targetRectangle" : {
-            "y" : 409.58697509765625,
-            "x" : 835.72442776189746,
-            "width" : 10.41599999999994,
-            "height" : 28.40008544921875
-          }
-        },
-        {
-          "text" : "￼",
-          "targetRectangle" : {
-            "y" : 38,
-            "x" : 964.57660043239594,
-            "width" : 23.0390625,
-            "height" : 28
-          }
-        },
-        {
-          "text" : "1",
-          "targetRectangle" : {
             "y" : 334.58697509765625,
             "x" : 835.72442776189746,
             "width" : 10.41599999999994,
             "height" : 28.40008544921875
-          }
-        },
-        {
-          "text" : "“READ” Instruction",
-          "targetRectangle" : {
-            "y" : 125,
-            "x" : 36,
-            "width" : 308.25600000000003,
-            "height" : 48.400146484375
           }
         }
       ],
@@ -1652,10 +1652,10 @@
                   "rotation" : 0,
                   "scale" : 1,
                   "position" : {
-                    "pointX" : 972.57660043239594,
+                    "pointX" : 972.07660043239594,
                     "pointY" : 44
                   },
-                  "width" : 26,
+                  "width" : 25,
                   "sublayerTransform" : [
                     1,
                     0,
@@ -1724,10 +1724,10 @@
                       "rotation" : 0,
                       "scale" : 1,
                       "position" : {
-                        "pointX" : 16.423399567604065,
+                        "pointX" : 15.923399567604065,
                         "pointY" : 18
                       },
-                      "width" : 26,
+                      "width" : 25,
                       "sublayerTransform" : [
                         1,
                         0,
@@ -1761,7 +1761,7 @@
                         "pointY" : 0.5
                       }
                     },
-                    "texture" : "823ACC6D3CA023E417D24DC13D714A11"
+                    "texture" : "E4C0023E4E82DA4708AE861A605CD6E2"
                   }
                 ]
               }
@@ -3111,10 +3111,10 @@
                   "rotation" : 0,
                   "scale" : 1,
                   "position" : {
-                    "pointX" : 802.12970924377441,
+                    "pointX" : 773.24369716644287,
                     "pointY" : 677.21200466156006
                   },
-                  "width" : 426,
+                  "width" : 501,
                   "sublayerTransform" : [
                     1,
                     0,
@@ -3169,7 +3169,7 @@
                             "type" : "MoveToPoint",
                             "points" : [
                               [
-                                1.1297092437744141,
+                                1.7436971664428711,
                                 1.2120046615600586
                               ]
                             ]
@@ -3178,7 +3178,7 @@
                             "type" : "AddLine",
                             "points" : [
                               [
-                                424.58122825622559,
+                                499.96724033355713,
                                 1.2120046615600586
                               ]
                             ]
@@ -3187,7 +3187,7 @@
                             "type" : "AddLine",
                             "points" : [
                               [
-                                424.58122825622559,
+                                499.96724033355713,
                                 174.01211643218994
                               ]
                             ]
@@ -3196,7 +3196,7 @@
                             "type" : "AddLine",
                             "points" : [
                               [
-                                1.1297092437744141,
+                                1.7436971664428711,
                                 174.01211643218994
                               ]
                             ]
@@ -3208,7 +3208,7 @@
                             "type" : "MoveToPoint",
                             "points" : [
                               [
-                                1.1297092437744141,
+                                1.7436971664428711,
                                 1.2120046615600586
                               ]
                             ]
@@ -3236,10 +3236,10 @@
                       "rotation" : 0,
                       "scale" : 1,
                       "position" : {
-                        "pointX" : 211.87029075622559,
+                        "pointX" : 248.75630283355713,
                         "pointY" : 86.787995338439941
                       },
-                      "width" : 426,
+                      "width" : 501,
                       "sublayerTransform" : [
                         1,
                         0,
@@ -3273,7 +3273,7 @@
                         "pointY" : 0.5
                       }
                     },
-                    "texture" : "31A7002A9D6686DB9E44C96EA593319B"
+                    "texture" : "6E9F0766FC1ECFAB5E29A1F2C5274C04"
                   }
                 ]
               }
@@ -3462,7 +3462,7 @@
                         "pointY" : 0.5
                       }
                     },
-                    "texture" : "FB8C2FC4410FB81675F6B79B1DF953EF"
+                    "texture" : "04A8D6E4DF90C7784D628299E8FFA88D"
                   },
                   {
                     "animations" : [
@@ -3543,7 +3543,7 @@
                         "pointY" : 0.5
                       }
                     },
-                    "texture" : "3985441E6197B196A8CB0A42FC7A6E8C"
+                    "texture" : "BFBA21EF4E198B2DBC0CCA113ED981EA"
                   }
                 ]
               }
@@ -3564,29 +3564,38 @@
       ],
       "accessibility" : [
         {
+          "text" : "“READ” Instruction",
+          "targetRectangle" : {
+            "y" : 125,
+            "x" : 36,
+            "width" : 308.25600000000003,
+            "height" : 48.400146484375
+          }
+        },
+        {
           "text" : "In our burger example:",
           "targetRectangle" : {
             "y" : 593.21200466156006,
-            "x" : 673.48747481918338,
+            "x" : 644.4874627418518,
             "width" : 254.73599999999999,
             "height" : 35.80010986328125
           }
         },
         {
-          "text" : "Customer orders a burger",
+          "text" : "Customer orders a burger & coffee",
           "targetRectangle" : {
             "y" : 636.21200466156006,
-            "x" : 635.95324039459229,
-            "width" : 288.71999999999991,
+            "x" : 569.56722831726074,
+            "width" : 388.69200000000001,
             "height" : 35.80010986328125
           }
         },
         {
-          "text" : "Customer has not enough money",
+          "text" : "Burger is ready, coffee machine breaks",
           "targetRectangle" : {
             "y" : 679.21200466156006,
-            "x" : 635.95324039459229,
-            "width" : 364.93200000000002,
+            "x" : 569.56722831726074,
+            "width" : 439.70399999999995,
             "height" : 35.80010986328125
           }
         },
@@ -3594,9 +3603,27 @@
           "text" : "Customer does not get his burger",
           "targetRectangle" : {
             "y" : 722.21200466156006,
-            "x" : 635.95324039459229,
+            "x" : 569.56722831726074,
             "width" : 371.48400000000004,
             "height" : 35.80010986328125
+          }
+        },
+        {
+          "text" : "1 Register: The CPUs scratchpad",
+          "targetRectangle" : {
+            "y" : 723.64288252592087,
+            "x" : 8.8337583541870117,
+            "width" : 336.96533360522989,
+            "height" : 31.000000250874109
+          }
+        },
+        {
+          "text" : "Meltdown & Spectre for normal people",
+          "targetRectangle" : {
+            "y" : 40,
+            "x" : 36,
+            "width" : 519.28593814373016,
+            "height" : 28
           }
         },
         {
@@ -3618,20 +3645,29 @@
           }
         },
         {
-          "text" : "1 Register: The CPUs scratchpad",
+          "text" : "1",
           "targetRectangle" : {
-            "y" : 723.64288252592087,
-            "x" : 8.8337583541870117,
-            "width" : 336.96533360522989,
-            "height" : 31.000000250874109
+            "y" : 483.58697271347046,
+            "x" : 100.7244277618974,
+            "width" : 10.415999999999997,
+            "height" : 28.40008544921875
           }
         },
         {
-          "text" : "Meltdown & Spectre for normal people",
+          "text" : "2",
           "targetRectangle" : {
-            "y" : 40,
-            "x" : 36,
-            "width" : 519.28593814373016,
+            "y" : 409.58697509765625,
+            "x" : 835.72442776189746,
+            "width" : 10.41599999999994,
+            "height" : 28.40008544921875
+          }
+        },
+        {
+          "text" : "￼",
+          "targetRectangle" : {
+            "y" : 38,
+            "x" : 964.57660043239594,
+            "width" : 23.0390625,
             "height" : 28
           }
         },
@@ -3674,46 +3710,10 @@
         {
           "text" : "1",
           "targetRectangle" : {
-            "y" : 483.58697271347046,
-            "x" : 100.7244277618974,
-            "width" : 10.415999999999997,
-            "height" : 28.40008544921875
-          }
-        },
-        {
-          "text" : "2",
-          "targetRectangle" : {
-            "y" : 409.58697509765625,
-            "x" : 835.72442776189746,
-            "width" : 10.41599999999994,
-            "height" : 28.40008544921875
-          }
-        },
-        {
-          "text" : "￼",
-          "targetRectangle" : {
-            "y" : 38,
-            "x" : 964.57660043239594,
-            "width" : 23.0390625,
-            "height" : 28
-          }
-        },
-        {
-          "text" : "1",
-          "targetRectangle" : {
             "y" : 334.58697509765625,
             "x" : 835.72442776189746,
             "width" : 10.41599999999994,
             "height" : 28.40008544921875
-          }
-        },
-        {
-          "text" : "“READ” Instruction",
-          "targetRectangle" : {
-            "y" : 125,
-            "x" : 36,
-            "width" : 308.25600000000003,
-            "height" : 48.400146484375
           }
         }
       ],
@@ -4796,10 +4796,10 @@
                   "rotation" : 0,
                   "scale" : 1,
                   "position" : {
-                    "pointX" : 972.57660043239594,
+                    "pointX" : 972.07660043239594,
                     "pointY" : 44
                   },
-                  "width" : 26,
+                  "width" : 25,
                   "sublayerTransform" : [
                     1,
                     0,
@@ -4868,10 +4868,10 @@
                       "rotation" : 0,
                       "scale" : 1,
                       "position" : {
-                        "pointX" : 16.423399567604065,
+                        "pointX" : 15.923399567604065,
                         "pointY" : 18
                       },
-                      "width" : 26,
+                      "width" : 25,
                       "sublayerTransform" : [
                         1,
                         0,
@@ -4905,7 +4905,7 @@
                         "pointY" : 0.5
                       }
                     },
-                    "texture" : "823ACC6D3CA023E417D24DC13D714A11"
+                    "texture" : "E4C0023E4E82DA4708AE861A605CD6E2"
                   }
                 ]
               }
@@ -6255,10 +6255,10 @@
                   "rotation" : 0,
                   "scale" : 1,
                   "position" : {
-                    "pointX" : 802.12970924377441,
+                    "pointX" : 773.24369716644287,
                     "pointY" : 677.21200466156006
                   },
-                  "width" : 426,
+                  "width" : 501,
                   "sublayerTransform" : [
                     1,
                     0,
@@ -6312,7 +6312,7 @@
                             "type" : "MoveToPoint",
                             "points" : [
                               [
-                                1.1297092437744141,
+                                1.7436971664428711,
                                 1.2120046615600586
                               ]
                             ]
@@ -6321,7 +6321,7 @@
                             "type" : "AddLine",
                             "points" : [
                               [
-                                424.58122825622559,
+                                499.96724033355713,
                                 1.2120046615600586
                               ]
                             ]
@@ -6330,7 +6330,7 @@
                             "type" : "AddLine",
                             "points" : [
                               [
-                                424.58122825622559,
+                                499.96724033355713,
                                 174.01211643218994
                               ]
                             ]
@@ -6339,7 +6339,7 @@
                             "type" : "AddLine",
                             "points" : [
                               [
-                                1.1297092437744141,
+                                1.7436971664428711,
                                 174.01211643218994
                               ]
                             ]
@@ -6351,7 +6351,7 @@
                             "type" : "MoveToPoint",
                             "points" : [
                               [
-                                1.1297092437744141,
+                                1.7436971664428711,
                                 1.2120046615600586
                               ]
                             ]
@@ -6379,10 +6379,10 @@
                       "rotation" : 0,
                       "scale" : 1,
                       "position" : {
-                        "pointX" : 211.87029075622559,
+                        "pointX" : 248.75630283355713,
                         "pointY" : 86.787995338439941
                       },
-                      "width" : 426,
+                      "width" : 501,
                       "sublayerTransform" : [
                         1,
                         0,
@@ -6416,7 +6416,7 @@
                         "pointY" : 0.5
                       }
                     },
-                    "texture" : "31A7002A9D6686DB9E44C96EA593319B"
+                    "texture" : "6E9F0766FC1ECFAB5E29A1F2C5274C04"
                   }
                 ]
               }

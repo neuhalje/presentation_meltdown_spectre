@@ -84,7 +84,7 @@
       "width" : 1024,
       "height" : 768
     },
-    "16289C8EE9B46CAC76264B47F7B91F5C" : {
+    "F664F17499716C164D688B1B971FB835" : {
       "type" : "texture",
       "index" : 4,
       "assetRequest" : {
@@ -405,6 +405,15 @@
           }
         },
         {
+          "text" : "Conclusion",
+          "targetRectangle" : {
+            "y" : 510,
+            "x" : 468,
+            "width" : 518.36400000000003,
+            "height" : 130.8203994750977
+          }
+        },
+        {
           "text" : "Meltdown and Spectre",
           "targetRectangle" : {
             "y" : 361,
@@ -420,15 +429,6 @@
             "x" : 558.755126953125,
             "width" : 363.80078125,
             "height" : 287.94973754882812
-          }
-        },
-        {
-          "text" : "Conclusion",
-          "targetRectangle" : {
-            "y" : 510,
-            "x" : 468,
-            "width" : 518.36400000000003,
-            "height" : 130.8203994750977
           }
         }
       ],
@@ -1427,7 +1427,7 @@
                         "pointY" : 0.5
                       }
                     },
-                    "texture" : "16289C8EE9B46CAC76264B47F7B91F5C"
+                    "texture" : "F664F17499716C164D688B1B971FB835"
                   }
                 ]
               }

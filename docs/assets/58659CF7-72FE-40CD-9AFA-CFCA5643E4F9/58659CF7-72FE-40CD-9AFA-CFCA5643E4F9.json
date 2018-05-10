@@ -2,7 +2,7 @@
   "assets" : {
     "112CD43D9523AC8FCD740912967A046D" : {
       "type" : "texture",
-      "index" : 18,
+      "index" : 19,
       "assetRequest" : {
         "type" : "slide",
         "state" : "contents",
@@ -14,9 +14,37 @@
       "width" : 103,
       "height" : 102
     },
+    "E712FA09E402F50755C4F1C7CC4AD1C9" : {
+      "type" : "texture",
+      "index" : 6,
+      "assetRequest" : {
+        "type" : "slide",
+        "state" : "contents",
+        "slide" : "none"
+      },
+      "url" : {
+        "native" : "assets\/58659CF7-72FE-40CD-9AFA-CFCA5643E4F9.pdf"
+      },
+      "width" : 964,
+      "height" : 224
+    },
     "94128F49B1AAE6C0A352C94369588017" : {
       "type" : "texture",
-      "index" : 5,
+      "index" : 26,
+      "assetRequest" : {
+        "type" : "slide",
+        "state" : "contents",
+        "slide" : "none"
+      },
+      "url" : {
+        "native" : "assets\/58659CF7-72FE-40CD-9AFA-CFCA5643E4F9.pdf"
+      },
+      "width" : 37,
+      "height" : 37
+    },
+    "566C8CD23277B067B878F8C00CD676D8" : {
+      "type" : "texture",
+      "index" : 16,
       "assetRequest" : {
         "type" : "slide",
         "state" : "contents",
@@ -30,7 +58,7 @@
     },
     "0D11B9A6BE752D3A55075D8EC58EE0C0" : {
       "type" : "texture",
-      "index" : 21,
+      "index" : 18,
       "assetRequest" : {
         "type" : "slide",
         "state" : "contents",
@@ -44,7 +72,7 @@
     },
     "B44F786659951F3CC5E018218818E970" : {
       "type" : "texture",
-      "index" : 26,
+      "index" : 27,
       "assetRequest" : {
         "type" : "slide",
         "state" : "contents",
@@ -72,7 +100,7 @@
     },
     "AA4445B21D7AD9B0163D43A497CB01C0" : {
       "type" : "texture",
-      "index" : 15,
+      "index" : 14,
       "assetRequest" : {
         "type" : "slide",
         "state" : "contents",
@@ -98,23 +126,9 @@
       "width" : 103,
       "height" : 102
     },
-    "F648880DCCA26515020CAF2E5D8A1198" : {
+    "9E40C50E55C5349A4C1C30A8A02AE986" : {
       "type" : "texture",
-      "index" : 2,
-      "assetRequest" : {
-        "type" : "slide",
-        "state" : "contents",
-        "slide" : "none"
-      },
-      "url" : {
-        "native" : "assets\/58659CF7-72FE-40CD-9AFA-CFCA5643E4F9.pdf"
-      },
-      "width" : 519,
-      "height" : 20
-    },
-    "4A9966489369249EF6508A7FDA4218DB" : {
-      "type" : "texture",
-      "index" : 9,
+      "index" : 5,
       "assetRequest" : {
         "type" : "slide",
         "state" : "contents",
@@ -128,7 +142,7 @@
     },
     "DA7E3DE423503B863281854E6732766A" : {
       "type" : "texture",
-      "index" : 22,
+      "index" : 1,
       "assetRequest" : {
         "type" : "slide",
         "state" : "contents",
@@ -137,8 +151,8 @@
       "url" : {
         "native" : "assets\/58659CF7-72FE-40CD-9AFA-CFCA5643E4F9.pdf"
       },
-      "width" : 103,
-      "height" : 102
+      "width" : 964,
+      "height" : 5
     },
     "A743EE5FA9D066D2B3354A72DAB1102C" : {
       "type" : "texture",
@@ -154,9 +168,9 @@
       "width" : 103,
       "height" : 102
     },
-    "ED4AD025A8072AD7F61E75A6CDB7B3B5" : {
+    "4A9966489369249EF6508A7FDA4218DB" : {
       "type" : "texture",
-      "index" : 23,
+      "index" : 9,
       "assetRequest" : {
         "type" : "slide",
         "state" : "contents",
@@ -168,9 +182,9 @@
       "width" : 103,
       "height" : 102
     },
-    "FBB5DEA59905EE30EF2803B0A74DF992" : {
+    "ED4AD025A8072AD7F61E75A6CDB7B3B5" : {
       "type" : "texture",
-      "index" : 0,
+      "index" : 22,
       "assetRequest" : {
         "type" : "slide",
         "state" : "contents",
@@ -179,8 +193,8 @@
       "url" : {
         "native" : "assets\/58659CF7-72FE-40CD-9AFA-CFCA5643E4F9.pdf"
       },
-      "width" : 1024,
-      "height" : 768
+      "width" : 103,
+      "height" : 102
     },
     "D7538114DFA654A0AFFBF734CFF09156" : {
       "type" : "texture",
@@ -210,49 +224,7 @@
       "width" : 103,
       "height" : 102
     },
-    "640D5297D59088D46FE63A28D36F2264" : {
-      "type" : "texture",
-      "index" : 1,
-      "assetRequest" : {
-        "type" : "slide",
-        "state" : "contents",
-        "slide" : "none"
-      },
-      "url" : {
-        "native" : "assets\/58659CF7-72FE-40CD-9AFA-CFCA5643E4F9.pdf"
-      },
-      "width" : 964,
-      "height" : 5
-    },
-    "D588800018A87CAEA41D5D75C5957AA1" : {
-      "type" : "texture",
-      "index" : 24,
-      "assetRequest" : {
-        "type" : "slide",
-        "state" : "contents",
-        "slide" : "none"
-      },
-      "url" : {
-        "native" : "assets\/58659CF7-72FE-40CD-9AFA-CFCA5643E4F9.pdf"
-      },
-      "width" : 103,
-      "height" : 102
-    },
-    "DD3340F252FB66FC95DEB45C1B489E37" : {
-      "type" : "texture",
-      "index" : 6,
-      "assetRequest" : {
-        "type" : "slide",
-        "state" : "contents",
-        "slide" : "none"
-      },
-      "url" : {
-        "native" : "assets\/58659CF7-72FE-40CD-9AFA-CFCA5643E4F9.pdf"
-      },
-      "width" : 964,
-      "height" : 224
-    },
-    "3D11DDD6CD298AE0AB9D69F323B18EE8" : {
+    "96836EEB2624C65E8B17D0CAC724552B" : {
       "type" : "texture",
       "index" : 4,
       "assetRequest" : {
@@ -266,9 +238,51 @@
       "width" : 36,
       "height" : 43
     },
+    "D588800018A87CAEA41D5D75C5957AA1" : {
+      "type" : "texture",
+      "index" : 23,
+      "assetRequest" : {
+        "type" : "slide",
+        "state" : "contents",
+        "slide" : "none"
+      },
+      "url" : {
+        "native" : "assets\/58659CF7-72FE-40CD-9AFA-CFCA5643E4F9.pdf"
+      },
+      "width" : 103,
+      "height" : 102
+    },
+    "6EA426D4814CA215CDC9432D0FE892C2" : {
+      "type" : "texture",
+      "index" : 28,
+      "assetRequest" : {
+        "type" : "slide",
+        "state" : "contents",
+        "slide" : "none"
+      },
+      "url" : {
+        "native" : "assets\/58659CF7-72FE-40CD-9AFA-CFCA5643E4F9.pdf"
+      },
+      "width" : 1024,
+      "height" : 768
+    },
+    "3D11DDD6CD298AE0AB9D69F323B18EE8" : {
+      "type" : "texture",
+      "index" : 0,
+      "assetRequest" : {
+        "type" : "slide",
+        "state" : "contents",
+        "slide" : "none"
+      },
+      "url" : {
+        "native" : "assets\/58659CF7-72FE-40CD-9AFA-CFCA5643E4F9.pdf"
+      },
+      "width" : 1024,
+      "height" : 768
+    },
     "9E9E4F23188CF48B0641254AC4B66BB8" : {
       "type" : "texture",
-      "index" : 20,
+      "index" : 21,
       "assetRequest" : {
         "type" : "slide",
         "state" : "contents",
@@ -279,20 +293,6 @@
       },
       "width" : 84,
       "height" : 24
-    },
-    "A7EE658CF1D9C000C3E0ACC41B55502A" : {
-      "type" : "texture",
-      "index" : 3,
-      "assetRequest" : {
-        "type" : "slide",
-        "state" : "contents",
-        "slide" : "none"
-      },
-      "url" : {
-        "native" : "assets\/58659CF7-72FE-40CD-9AFA-CFCA5643E4F9.pdf"
-      },
-      "width" : 241,
-      "height" : 37
     },
     "9C8AD3B6CE881807F913C6BA3DDE01F4" : {
       "type" : "texture",
@@ -308,9 +308,9 @@
       "width" : 65,
       "height" : 76
     },
-    "6D861DBC890AF2121DAE8182F565A3F5" : {
+    "036FF3A0AF45F91BDCB93BDBCF22B92B" : {
       "type" : "texture",
-      "index" : 27,
+      "index" : 15,
       "assetRequest" : {
         "type" : "slide",
         "state" : "contents",
@@ -319,12 +319,12 @@
       "url" : {
         "native" : "assets\/58659CF7-72FE-40CD-9AFA-CFCA5643E4F9.pdf"
       },
-      "width" : 1024,
-      "height" : 768
+      "width" : 628,
+      "height" : 115
     },
-    "63899788D3E871F7AFF586DCAFD14636" : {
+    "AB75C42D5DEB2873281018C038354D81" : {
       "type" : "texture",
-      "index" : 16,
+      "index" : 3,
       "assetRequest" : {
         "type" : "slide",
         "state" : "contents",
@@ -333,8 +333,22 @@
       "url" : {
         "native" : "assets\/58659CF7-72FE-40CD-9AFA-CFCA5643E4F9.pdf"
       },
-      "width" : 103,
-      "height" : 102
+      "width" : 241,
+      "height" : 37
+    },
+    "B4A4C360B7F3018E4B5E72883EF99414" : {
+      "type" : "texture",
+      "index" : 24,
+      "assetRequest" : {
+        "type" : "slide",
+        "state" : "contents",
+        "slide" : "none"
+      },
+      "url" : {
+        "native" : "assets\/58659CF7-72FE-40CD-9AFA-CFCA5643E4F9.pdf"
+      },
+      "width" : 187,
+      "height" : 85
     },
     "616166697C8A0FAE28F0146CC4621395" : {
       "type" : "texture",
@@ -366,7 +380,7 @@
     },
     "4087ADA7E4906E1B68110BE2B174F407" : {
       "type" : "texture",
-      "index" : 19,
+      "index" : 20,
       "assetRequest" : {
         "type" : "slide",
         "state" : "contents",
@@ -380,7 +394,7 @@
     },
     "DFCB85A4C8B63B68666EF34C5B83DF0F" : {
       "type" : "texture",
-      "index" : 14,
+      "index" : 2,
       "assetRequest" : {
         "type" : "slide",
         "state" : "contents",
@@ -389,8 +403,8 @@
       "url" : {
         "native" : "assets\/58659CF7-72FE-40CD-9AFA-CFCA5643E4F9.pdf"
       },
-      "width" : 103,
-      "height" : 102
+      "width" : 519,
+      "height" : 20
     }
   },
   "events" : [
@@ -655,7 +669,7 @@
                         "pointY" : 0.5
                       }
                     },
-                    "texture" : "6D861DBC890AF2121DAE8182F565A3F5"
+                    "texture" : "6EA426D4814CA215CDC9432D0FE892C2"
                   }
                 ]
               }
@@ -678,10 +692,55 @@
         {
           "text" : "b)",
           "targetRectangle" : {
-            "y" : 324.28094482421875,
-            "x" : 229.14759373664856,
+            "y" : 324.28094518184662,
+            "x" : 229.14759826660156,
             "width" : 36.036000000000001,
             "height" : 49
+          }
+        },
+        {
+          "text" : "b) and c) are completely different error scenarios",
+          "targetRectangle" : {
+            "y" : 528.09588146209717,
+            "x" : 21.168125152587891,
+            "width" : 801.58400000000029,
+            "height" : 70
+          }
+        },
+        {
+          "text" : "c) Kernel memory pages are marked “kernel only” but the process could try to access the pages via a pointer",
+          "targetRectangle" : {
+            "y" : 598.09588146209717,
+            "x" : 58.226950883865356,
+            "width" : 905.72600000000011,
+            "height" : 116
+          }
+        },
+        {
+          "text" : "b) Process B has no possibility to even describe the address",
+          "targetRectangle" : {
+            "y" : 714.09588146209717,
+            "x" : 58.226950883865356,
+            "width" : 925.85400000000027,
+            "height" : 46
+          }
+        },
+        {
+          "text" : "c)",
+          "targetRectangle" : {
+            "y" : 153.37500035762787,
+            "x" : 470.78044891357422,
+            "width" : 30.420000000000016,
+            "height" : 49
+          }
+        },
+        {
+          "text" : "0x0000..0",
+          "targetRectangle" : {
+            "y" : 289.51806628704071,
+            "x" : 154.57959425449371,
+            "width" : 82.20799999999997,
+            "height" : 28.40008544921875
           }
         },
         {
@@ -703,30 +762,12 @@
           }
         },
         {
-          "text" : "b) and c) are completely different error scenarios",
+          "text" : "Process A",
           "targetRectangle" : {
-            "y" : 528.09585219621647,
-            "x" : 21.168125152587891,
-            "width" : 801.58400000000029,
-            "height" : 70
-          }
-        },
-        {
-          "text" : "c) Kernel memory pages are marked “kernel only” but the process could try to access the pages via a pointer",
-          "targetRectangle" : {
-            "y" : 598.09585219621647,
-            "x" : 58.226950883865356,
-            "width" : 905.72600000000011,
-            "height" : 116
-          }
-        },
-        {
-          "text" : "b) Process B has no possibility to even describe the address",
-          "targetRectangle" : {
-            "y" : 714.09585219621647,
-            "x" : 58.226950883865356,
-            "width" : 925.85400000000027,
-            "height" : 46
+            "y" : 237.21875,
+            "x" : 43.474161125165999,
+            "width" : 84.951999999999998,
+            "height" : 56.720068697930401
           }
         },
         {
@@ -739,39 +780,12 @@
           }
         },
         {
-          "text" : "0x0000..0",
-          "targetRectangle" : {
-            "y" : 289.51806628704071,
-            "x" : 154.57959425449371,
-            "width" : 82.20799999999997,
-            "height" : 28.40008544921875
-          }
-        },
-        {
           "text" : "Meltdown & Spectre for normal people",
           "targetRectangle" : {
             "y" : 40,
             "x" : 36,
             "width" : 519.28593814373016,
             "height" : 28
-          }
-        },
-        {
-          "text" : "c)",
-          "targetRectangle" : {
-            "y" : 153.37500035762787,
-            "x" : 470.78044891357422,
-            "width" : 30.420000000000016,
-            "height" : 49
-          }
-        },
-        {
-          "text" : "Process A",
-          "targetRectangle" : {
-            "y" : 237.21875,
-            "x" : 43.474161125165999,
-            "width" : 84.951999999999998,
-            "height" : 56.720068697930401
           }
         }
       ],
@@ -1006,7 +1020,7 @@
                         "pointY" : 0.5
                       }
                     },
-                    "texture" : "FBB5DEA59905EE30EF2803B0A74DF992"
+                    "texture" : "3D11DDD6CD298AE0AB9D69F323B18EE8"
                   }
                 ]
               }
@@ -1215,7 +1229,7 @@
                         "pointY" : 0.5
                       }
                     },
-                    "texture" : "640D5297D59088D46FE63A28D36F2264"
+                    "texture" : "DA7E3DE423503B863281854E6732766A"
                   }
                 ]
               }
@@ -1402,7 +1416,7 @@
                         "pointY" : 0.5
                       }
                     },
-                    "texture" : "F648880DCCA26515020CAF2E5D8A1198"
+                    "texture" : "DFCB85A4C8B63B68666EF34C5B83DF0F"
                   }
                 ]
               }
@@ -1589,7 +1603,7 @@
                         "pointY" : 0.5
                       }
                     },
-                    "texture" : "A7EE658CF1D9C000C3E0ACC41B55502A"
+                    "texture" : "AB75C42D5DEB2873281018C038354D81"
                   }
                 ]
               }
@@ -1776,7 +1790,7 @@
                         "pointY" : 0.5
                       }
                     },
-                    "texture" : "3D11DDD6CD298AE0AB9D69F323B18EE8"
+                    "texture" : "96836EEB2624C65E8B17D0CAC724552B"
                   }
                 ]
               }
@@ -2228,7 +2242,7 @@
                         "pointY" : 0.5
                       }
                     },
-                    "texture" : "94128F49B1AAE6C0A352C94369588017"
+                    "texture" : "9E40C50E55C5349A4C1C30A8A02AE986"
                   }
                 ]
               }
@@ -2307,7 +2321,7 @@
                   "scale" : 1,
                   "position" : {
                     "pointX" : 499.16812515258789,
-                    "pointY" : 636.09585219621647
+                    "pointY" : 636.09588146209717
                   },
                   "width" : 964,
                   "sublayerTransform" : [
@@ -2354,7 +2368,7 @@
                     "texturedRectangle" : {
                       "singleTextureOpacity" : 1,
                       "textXHeight" : 0.07558928571428572,
-                      "textBaseline" : 0.95380331921790273,
+                      "textBaseline" : 0.95380344986915588,
                       "isBackgroundTexture" : true,
                       "isVerticalText" : false,
                       "textColor" : [
@@ -2379,7 +2393,7 @@
                       "scale" : 1,
                       "position" : {
                         "pointX" : 485.83187484741211,
-                        "pointY" : 121.90414780378353
+                        "pointY" : 121.90411853790283
                       },
                       "width" : 964,
                       "sublayerTransform" : [
@@ -2415,7 +2429,7 @@
                         "pointY" : 0.5
                       }
                     },
-                    "texture" : "DD3340F252FB66FC95DEB45C1B489E37"
+                    "texture" : "E712FA09E402F50755C4F1C7CC4AD1C9"
                   }
                 ]
               }
@@ -4695,7 +4709,7 @@
                         "pointY" : 0.5
                       }
                     },
-                    "texture" : "DFCB85A4C8B63B68666EF34C5B83DF0F"
+                    "texture" : "036FF3A0AF45F91BDCB93BDBCF22B92B"
                   }
                 ]
               }
@@ -5147,7 +5161,7 @@
                         "pointY" : 0.5
                       }
                     },
-                    "texture" : "63899788D3E871F7AFF586DCAFD14636"
+                    "texture" : "566C8CD23277B067B878F8C00CD676D8"
                   }
                 ]
               }
@@ -5625,7 +5639,7 @@
                         "pointY" : 0.5
                       }
                     },
-                    "texture" : "3D11DDD6CD298AE0AB9D69F323B18EE8"
+                    "texture" : "0D11B9A6BE752D3A55075D8EC58EE0C0"
                   }
                 ]
               }
@@ -6368,7 +6382,7 @@
                   "rotation" : 0,
                   "scale" : 1,
                   "position" : {
-                    "pointX" : 625.63607788085938,
+                    "pointX" : 625.6361083984375,
                     "pointY" : 459
                   },
                   "width" : 103,
@@ -6425,7 +6439,7 @@
                             "type" : "MoveToPoint",
                             "points" : [
                               [
-                                1.136077880859375,
+                                1.1361083984375,
                                 1
                               ]
                             ]
@@ -6434,7 +6448,7 @@
                             "type" : "AddLine",
                             "points" : [
                               [
-                                101.13607788085938,
+                                101.1361083984375,
                                 1
                               ]
                             ]
@@ -6443,7 +6457,7 @@
                             "type" : "AddLine",
                             "points" : [
                               [
-                                101.13607788085938,
+                                101.1361083984375,
                                 101
                               ]
                             ]
@@ -6452,7 +6466,7 @@
                             "type" : "AddLine",
                             "points" : [
                               [
-                                1.136077880859375,
+                                1.1361083984375,
                                 101
                               ]
                             ]
@@ -6464,7 +6478,7 @@
                             "type" : "MoveToPoint",
                             "points" : [
                               [
-                                1.136077880859375,
+                                1.1361083984375,
                                 1
                               ]
                             ]
@@ -6492,7 +6506,7 @@
                       "rotation" : 0,
                       "scale" : 1,
                       "position" : {
-                        "pointX" : 50.363922119140625,
+                        "pointX" : 50.3638916015625,
                         "pointY" : 50
                       },
                       "width" : 103,
@@ -6607,7 +6621,7 @@
                   "rotation" : 0,
                   "scale" : 1,
                   "position" : {
-                    "pointX" : 730.90817260742188,
+                    "pointX" : 730.908203125,
                     "pointY" : 459
                   },
                   "width" : 103,
@@ -6664,7 +6678,7 @@
                             "type" : "MoveToPoint",
                             "points" : [
                               [
-                                1.408172607421875,
+                                1.408203125,
                                 1
                               ]
                             ]
@@ -6673,7 +6687,7 @@
                             "type" : "AddLine",
                             "points" : [
                               [
-                                101.40817260742188,
+                                101.408203125,
                                 1
                               ]
                             ]
@@ -6682,7 +6696,7 @@
                             "type" : "AddLine",
                             "points" : [
                               [
-                                101.40817260742188,
+                                101.408203125,
                                 101
                               ]
                             ]
@@ -6691,7 +6705,7 @@
                             "type" : "AddLine",
                             "points" : [
                               [
-                                1.408172607421875,
+                                1.408203125,
                                 101
                               ]
                             ]
@@ -6703,7 +6717,7 @@
                             "type" : "MoveToPoint",
                             "points" : [
                               [
-                                1.408172607421875,
+                                1.408203125,
                                 1
                               ]
                             ]
@@ -6731,7 +6745,7 @@
                       "rotation" : 0,
                       "scale" : 1,
                       "position" : {
-                        "pointX" : 50.091827392578125,
+                        "pointX" : 50.091796875,
                         "pointY" : 50
                       },
                       "width" : 103,
@@ -6846,7 +6860,7 @@
                   "rotation" : 0,
                   "scale" : 1,
                   "position" : {
-                    "pointX" : 836.18032836914062,
+                    "pointX" : 836.1802978515625,
                     "pointY" : 459
                   },
                   "width" : 103,
@@ -6903,7 +6917,7 @@
                             "type" : "MoveToPoint",
                             "points" : [
                               [
-                                1.680328369140625,
+                                1.6802978515625,
                                 1
                               ]
                             ]
@@ -6912,7 +6926,7 @@
                             "type" : "AddLine",
                             "points" : [
                               [
-                                101.68032836914062,
+                                101.6802978515625,
                                 1
                               ]
                             ]
@@ -6921,7 +6935,7 @@
                             "type" : "AddLine",
                             "points" : [
                               [
-                                101.68032836914062,
+                                101.6802978515625,
                                 101
                               ]
                             ]
@@ -6930,7 +6944,7 @@
                             "type" : "AddLine",
                             "points" : [
                               [
-                                1.680328369140625,
+                                1.6802978515625,
                                 101
                               ]
                             ]
@@ -6942,7 +6956,7 @@
                             "type" : "MoveToPoint",
                             "points" : [
                               [
-                                1.680328369140625,
+                                1.6802978515625,
                                 1
                               ]
                             ]
@@ -6970,7 +6984,7 @@
                       "rotation" : 0,
                       "scale" : 1,
                       "position" : {
-                        "pointX" : 49.819671630859375,
+                        "pointX" : 49.8197021484375,
                         "pointY" : 50
                       },
                       "width" : 103,
@@ -7085,7 +7099,7 @@
                   "rotation" : 0,
                   "scale" : 1,
                   "position" : {
-                    "pointX" : 941.45248413085938,
+                    "pointX" : 941.4525146484375,
                     "pointY" : 459
                   },
                   "width" : 103,
@@ -7142,7 +7156,7 @@
                             "type" : "MoveToPoint",
                             "points" : [
                               [
-                                1.952484130859375,
+                                1.9525146484375,
                                 1
                               ]
                             ]
@@ -7151,7 +7165,7 @@
                             "type" : "AddLine",
                             "points" : [
                               [
-                                101.95248413085938,
+                                101.9525146484375,
                                 1
                               ]
                             ]
@@ -7160,7 +7174,7 @@
                             "type" : "AddLine",
                             "points" : [
                               [
-                                101.95248413085938,
+                                101.9525146484375,
                                 101
                               ]
                             ]
@@ -7169,7 +7183,7 @@
                             "type" : "AddLine",
                             "points" : [
                               [
-                                1.952484130859375,
+                                1.9525146484375,
                                 101
                               ]
                             ]
@@ -7181,7 +7195,7 @@
                             "type" : "MoveToPoint",
                             "points" : [
                               [
-                                1.952484130859375,
+                                1.9525146484375,
                                 1
                               ]
                             ]
@@ -7209,7 +7223,7 @@
                       "rotation" : 0,
                       "scale" : 1,
                       "position" : {
-                        "pointX" : 49.547515869140625,
+                        "pointX" : 49.5474853515625,
                         "pointY" : 50
                       },
                       "width" : 103,
@@ -7324,8 +7338,8 @@
                   "rotation" : 0,
                   "scale" : 1,
                   "position" : {
-                    "pointX" : 199.56298392484484,
-                    "pointY" : 373.21628564069567
+                    "pointX" : 199.56298082543418,
+                    "pointY" : 373.21628587914512
                   },
                   "width" : 187,
                   "sublayerTransform" : [
@@ -7381,8 +7395,8 @@
                             "type" : "MoveToPoint",
                             "points" : [
                               [
-                                6.5638916492462158,
-                                7.2171933650970459
+                                6.5638885498046875,
+                                7.217193603515625
                               ]
                             ]
                           },
@@ -7390,16 +7404,16 @@
                             "type" : "AddCurve",
                             "points" : [
                               [
-                                77.241250332721677,
-                                19.545677508138965
+                                77.241247707328142,
+                                19.545677482395774
                               ],
                               [
-                                127.47566132379455,
-                                35.873887930322724
+                                127.4756568749103,
+                                35.873887138442001
                               ],
                               [
-                                157.26712462246485,
-                                56.201824631648321
+                                157.26711605255116,
+                                56.201822571654304
                               ]
                             ]
                           }
@@ -7426,8 +7440,8 @@
                       "rotation" : 0,
                       "scale" : 1,
                       "position" : {
-                        "pointX" : 92.437016075155171,
-                        "pointY" : 40.783714359304327
+                        "pointX" : 92.437019174565819,
+                        "pointY" : 40.783714120854881
                       },
                       "width" : 187,
                       "sublayerTransform" : [
@@ -7463,7 +7477,7 @@
                         "pointY" : 0.5
                       }
                     },
-                    "texture" : "DD3340F252FB66FC95DEB45C1B489E37"
+                    "texture" : "B4A4C360B7F3018E4B5E72883EF99414"
                   }
                 ]
               }
@@ -7541,8 +7555,8 @@
                   "rotation" : 0,
                   "scale" : 1,
                   "position" : {
-                    "pointX" : 178.53654789924622,
-                    "pointY" : 356.59145717322559
+                    "pointX" : 178.53654479980469,
+                    "pointY" : 356.59146118163795
                   },
                   "width" : 65,
                   "sublayerTransform" : [
@@ -7598,8 +7612,8 @@
                             "type" : "MoveToPoint",
                             "points" : [
                               [
-                                54.907910540699959,
-                                1.5919308146593494
+                                54.90790744125843,
+                                1.5919348230717105
                               ]
                             ]
                           },
@@ -7607,16 +7621,16 @@
                             "type" : "AddCurve",
                             "points" : [
                               [
-                                54.442313228544663,
-                                1.6066346651217032
+                                54.442310129103134,
+                                1.6066386735340643
                               ],
                               [
-                                53.977972024245901,
-                                1.9627258459639165
+                                53.977968924804372,
+                                1.9627298543762777
                               ],
                               [
-                                53.205514951609075,
-                                2.6575043467178716
+                                53.205511852167547,
+                                2.6575083551302328
                               ]
                             ]
                           },
@@ -7624,16 +7638,16 @@
                             "type" : "AddCurve",
                             "points" : [
                               [
-                                45.732128852198912,
-                                9.3797130297271565
+                                45.732125752757383,
+                                9.3797170381395176
                               ],
                               [
-                                38.654952420653444,
-                                16.49739970931978
+                                38.654949321211916,
+                                16.497403717732141
                               ],
                               [
-                                32.013842451851815,
-                                24.044637561824402
+                                32.013839352410287,
+                                24.044641570236763
                               ]
                             ]
                           },
@@ -7641,16 +7655,16 @@
                             "type" : "AddCurve",
                             "points" : [
                               [
-                                31.607885633316073,
-                                24.505878519526277
+                                31.607882533874545,
+                                24.505882527938638
                               ],
                               [
-                                31.166480712181965,
-                                24.939214179160444
+                                31.166477612740437,
+                                24.939218187572806
                               ],
                               [
-                                30.658231149427593,
-                                25.475910890430441
+                                30.658228049986064,
+                                25.475914898842802
                               ]
                             ]
                           },
@@ -7658,16 +7672,16 @@
                             "type" : "AddCurve",
                             "points" : [
                               [
-                                30.208298241130251,
-                                24.837324744082025
+                                30.208295141688723,
+                                24.837328752494386
                               ],
                               [
-                                29.84007391742216,
-                                24.335180234953896
+                                29.840070817980632,
+                                24.335184243366257
                               ],
                               [
-                                29.498080081306398,
-                                23.817651483278951
+                                29.49807698186487,
+                                23.817655491691312
                               ]
                             ]
                           },
@@ -7675,16 +7689,16 @@
                             "type" : "AddCurve",
                             "points" : [
                               [
-                                26.760743979303243,
-                                19.675210966347549
+                                26.760740879861714,
+                                19.675214974759911
                               ],
                               [
-                                24.055457099816067,
-                                15.510668492793457
+                                24.055454000374539,
+                                15.510672501205818
                               ],
                               [
-                                21.276139902882278,
-                                11.396468082090053
+                                21.27613680344075,
+                                11.396472090502414
                               ]
                             ]
                           },
@@ -7692,16 +7706,16 @@
                             "type" : "AddCurve",
                             "points" : [
                               [
-                                20.166424028157508,
-                                9.753894629666604
+                                20.166420928715979,
+                                9.7538986380789652
                               ],
                               [
-                                18.87835930997926,
-                                8.2300110549027181
+                                18.878356210537731,
+                                8.2300150633150793
                               ],
                               [
-                                17.694803996942937,
-                                6.6360659863210003
+                                17.694800897501409,
+                                6.6360699947333615
                               ]
                             ]
                           },
@@ -7709,16 +7723,16 @@
                             "type" : "AddCurve",
                             "points" : [
                               [
-                                17.130669949355706,
-                                5.8764193666033862
+                                17.130666849914178,
+                                5.8764233750157473
                               ],
                               [
-                                16.418438322526526,
-                                5.8571005509177212
+                                16.418435223084998,
+                                5.8571045593300823
                               ],
                               [
-                                15.601487939245999,
-                                6.0622956211088876
+                                15.601484839804471,
+                                6.0622996295212488
                               ]
                             ]
                           },
@@ -7726,16 +7740,16 @@
                             "type" : "AddCurve",
                             "points" : [
                               [
-                                14.779291458447005,
-                                6.2689007339429281
+                                14.779288359005477,
+                                6.2689047423552893
                               ],
                               [
-                                14.301108438160554,
-                                6.8301130992854269
+                                14.301105338719026,
+                                6.830117107697788
                               ],
                               [
-                                14.29001281876117,
-                                7.6133671578361373
+                                14.290009719319642,
+                                7.6133711662484984
                               ]
                             ]
                           },
@@ -7743,16 +7757,16 @@
                             "type" : "AddCurve",
                             "points" : [
                               [
-                                14.272458095726961,
-                                8.8340449991092669
+                                14.272454996285433,
+                                8.834049007521628
                               ],
                               [
-                                13.59497878626189,
-                                9.3839585511344126
+                                13.594975686820362,
+                                9.3839625595467737
                               ],
                               [
-                                12.556091385427862,
-                                9.7192931683931079
+                                12.556088285986334,
+                                9.719297176805469
                               ]
                             ]
                           },
@@ -7760,16 +7774,16 @@
                             "type" : "AddCurve",
                             "points" : [
                               [
-                                11.839623473278607,
-                                9.186232396776461
+                                11.839620373837079,
+                                9.1862364051888221
                               ],
                               [
-                                11.138893853684749,
-                                8.6643626841267292
+                                11.138890754243221,
+                                8.6643666925390903
                               ],
                               [
-                                10.336671950761229,
-                                8.0673389300901022
+                                10.3366688513197,
+                                8.0673429385024633
                               ]
                             ]
                           },
@@ -7777,16 +7791,16 @@
                             "type" : "AddCurve",
                             "points" : [
                               [
-                                9.4735165020128989,
-                                8.9944481251712318
+                                9.4735134025713705,
+                                8.994452133583593
                               ],
                               [
-                                8.7193222524274461,
-                                9.8490786654520548
+                                8.7193191529859178,
+                                9.8490826738644159
                               ],
                               [
-                                7.915487112943083,
-                                10.658763326817336
+                                7.9154840135015547,
+                                10.658767335229697
                               ]
                             ]
                           },
@@ -7794,16 +7808,16 @@
                             "type" : "AddCurve",
                             "points" : [
                               [
-                                7.2026520617514507,
-                                11.376644360305193
+                                7.2026489623099224,
+                                11.376648368717554
                               ],
                               [
-                                7.1731396845143536,
-                                12.103856920540977
+                                7.1731365850728253,
+                                12.103860928953338
                               ],
                               [
-                                7.480430462397635,
-                                13.061032658090028
+                                7.4804273629561067,
+                                13.061036666502389
                               ]
                             ]
                           },
@@ -7811,16 +7825,16 @@
                             "type" : "AddCurve",
                             "points" : [
                               [
-                                10.216565873067339,
-                                21.587847607925823
+                                10.21656277362581,
+                                21.587851616338185
                               ],
                               [
-                                13.726432936404763,
-                                29.773917902437006
+                                13.726429836963234,
+                                29.773921910849367
                               ],
                               [
-                                18.01636760821566,
-                                37.632276430309048
+                                18.016364508774132,
+                                37.632280438721409
                               ]
                             ]
                           },
@@ -7828,16 +7842,16 @@
                             "type" : "AddCurve",
                             "points" : [
                               [
-                                18.236494352681802,
-                                38.035807236612072
+                                18.236491253240274,
+                                38.035811245024433
                               ],
                               [
-                                18.432508752215654,
-                                38.453715551959249
+                                18.432505652774125,
+                                38.45371956037161
                               ],
                               [
-                                18.634274155367166,
-                                38.849174018066606
+                                18.634271055925637,
+                                38.849178026478967
                               ]
                             ]
                           },
@@ -7845,16 +7859,16 @@
                             "type" : "AddCurve",
                             "points" : [
                               [
-                                12.720536838979115,
-                                45.791909964614206
+                                12.720533739537586,
+                                45.791913973026567
                               ],
                               [
-                                6.8657503883678146,
-                                52.667733538235552
+                                6.8657472889262863,
+                                52.667737546647913
                               ],
                               [
-                                1.0365478992462158,
-                                59.511212334551146
+                                1.0365447998046875,
+                                59.511216342963507
                               ]
                             ]
                           },
@@ -7862,16 +7876,16 @@
                             "type" : "AddCurve",
                             "points" : [
                               [
-                                1.5171446169824776,
-                                60.652392479603805
+                                1.5171415175409493,
+                                60.652396488016166
                               ],
                               [
-                                1.8933458413187054,
-                                61.621073303083904
+                                1.8933427418771771,
+                                61.621077311496265
                               ],
                               [
-                                2.3354126820340753,
-                                62.562914057217768
+                                2.3354095825925469,
+                                62.562918065630129
                               ]
                             ]
                           },
@@ -7879,16 +7893,16 @@
                             "type" : "AddCurve",
                             "points" : [
                               [
-                                2.6497783026975412,
-                                63.232795145629098
+                                2.6497752032560129,
+                                63.232799154041459
                               ],
                               [
-                                2.6839148809162907,
-                                63.851188126705438
+                                2.6839117814747624,
+                                63.851192135117799
                               ],
                               [
-                                2.316497175488621,
-                                64.504906062551072
+                                2.3164940760470927,
+                                64.504910070963433
                               ]
                             ]
                           },
@@ -7896,16 +7910,16 @@
                             "type" : "AddCurve",
                             "points" : [
                               [
-                                2.061467257567756,
-                                64.958668868332552
+                                2.0614641581262276,
+                                64.958672876744913
                               ],
                               [
-                                1.8374551990943928,
-                                65.430405099767086
+                                1.8374520996528645,
+                                65.430409108179447
                               ],
                               [
-                                1.6544544463977218,
-                                65.917263884611657
+                                1.6544513469561934,
+                                65.917267893024018
                               ]
                             ]
                           },
@@ -7913,16 +7927,16 @@
                             "type" : "AddCurve",
                             "points" : [
                               [
-                                1.5525588539278488,
-                                66.188423089445223
+                                1.5525557544863204,
+                                66.188427097857584
                               ],
                               [
-                                1.4384654689883973,
-                                66.561856566323058
+                                1.438462369546869,
+                                66.56186057473542
                               ],
                               [
-                                1.5409614071249962,
-                                66.793682354551038
+                                1.5409583076834679,
+                                66.793686362963399
                               ]
                             ]
                           },
@@ -7930,16 +7944,16 @@
                             "type" : "AddCurve",
                             "points" : [
                               [
-                                2.3716366159555946,
-                                68.673527807943174
+                                2.3716335165140663,
+                                68.673531816355535
                               ],
                               [
-                                3.5672912031982378,
-                                70.271512510155389
+                                3.5672881037567095,
+                                70.271516518567751
                               ],
                               [
-                                5.0970766376703978,
-                                71.509948653217634
+                                5.0970735382288694,
+                                71.509952661629995
                               ]
                             ]
                           },
@@ -7947,16 +7961,16 @@
                             "type" : "AddCurve",
                             "points" : [
                               [
-                                5.8530873177346621,
-                                71.191174340273392
+                                5.8530842182931337,
+                                71.191178348685753
                               ],
                               [
-                                6.4125355904257049,
-                                70.89673403835377
+                                6.4125324909841765,
+                                70.896738046766131
                               ],
                               [
-                                7.0075427987612784,
-                                70.72180254715704
+                                7.0075396993197501,
+                                70.721806555569401
                               ]
                             ]
                           },
@@ -7964,16 +7978,16 @@
                             "type" : "AddCurve",
                             "points" : [
                               [
-                                7.6937471319160977,
-                                70.520037144005528
+                                7.6937440324745694,
+                                70.520041152417889
                               ],
                               [
-                                8.2733670190091289,
-                                70.943641046447283
+                                8.2733639195676005,
+                                70.943645054859644
                               ],
                               [
-                                8.0605059964582324,
-                                71.566695172853997
+                                8.0605028970167041,
+                                71.566699181266358
                               ]
                             ]
                           },
@@ -7981,16 +7995,16 @@
                             "type" : "AddCurve",
                             "points" : [
                               [
-                                7.5956290991030073,
-                                72.927798868454829
+                                7.595625999661479,
+                                72.92780287686719
                               ],
                               [
-                                8.5611881251161321,
-                                73.599835043874918
+                                8.5611850256746038,
+                                73.59983905228728
                               ],
                               [
-                                9.2332674022763968,
-                                74.410326323520621
+                                9.2332643028348684,
+                                74.410330331932983
                               ]
                             ]
                           },
@@ -7998,16 +8012,16 @@
                             "type" : "AddCurve",
                             "points" : [
                               [
-                                9.7784489989694521,
-                                75.067874156850394
+                                9.7784458995279238,
+                                75.067878165262755
                               ],
                               [
-                                10.667871879658833,
-                                75.056883213105721
+                                10.667868780217304,
+                                75.056887221518082
                               ],
                               [
-                                11.282447278033942,
-                                74.44815733661153
+                                11.282444178592414,
+                                74.448161345023891
                               ]
                             ]
                           },
@@ -8015,16 +8029,16 @@
                             "type" : "AddCurve",
                             "points" : [
                               [
-                                11.502777216418053,
-                                74.230074846107982
+                                11.502774116976525,
+                                74.230078854520343
                               ],
                               [
-                                11.659242690645442,
-                                73.953127693308033
+                                11.659239591203914,
+                                73.953131701720395
                               ],
                               [
-                                11.84991247439757,
-                                73.704147412490329
+                                11.849909374956042,
+                                73.70415142090269
                               ]
                             ]
                           },
@@ -8032,16 +8046,16 @@
                             "type" : "AddCurve",
                             "points" : [
                               [
-                                16.648503096798777,
-                                67.436286198822927
+                                16.648499997357249,
+                                67.436290207235288
                               ],
                               [
-                                21.447284598335045,
-                                61.16614059292624
+                                21.447281498893517,
+                                61.166144601338601
                               ],
                               [
-                                26.250918124336749,
-                                54.902133906308791
+                                26.250915024895221,
+                                54.902137914721152
                               ]
                             ]
                           },
@@ -8049,16 +8063,16 @@
                             "type" : "AddCurve",
                             "points" : [
                               [
-                                26.592905803061058,
-                                54.45624024680501
+                                26.592902703619529,
+                                54.456244255217371
                               ],
                               [
-                                26.973438752284892,
-                                54.044477008128524
+                                26.973435652843364,
+                                54.044481016540885
                               ],
                               [
-                                27.461510543245822,
-                                53.470860577702751
+                                27.461507443804294,
+                                53.470864586115113
                               ]
                             ]
                           },
@@ -8066,16 +8080,16 @@
                             "type" : "AddCurve",
                             "points" : [
                               [
-                                27.927200216272922,
-                                54.179447028791401
+                                27.927197116831394,
+                                54.179451037203762
                               ],
                               [
-                                28.301360265342282,
-                                54.727251674243689
+                                28.301357165900754,
+                                54.72725568265605
                               ],
                               [
-                                28.659492624457926,
-                                55.286749206066361
+                                28.659489525016397,
+                                55.286753214478722
                               ]
                             ]
                           },
@@ -8083,16 +8097,16 @@
                             "type" : "AddCurve",
                             "points" : [
                               [
-                                31.509416629190127,
-                                59.739103549640276
+                                31.509413529748599,
+                                59.739107558052638
                               ],
                               [
-                                34.598506032762998,
-                                64.016483300277287
+                                34.59850293332147,
+                                64.016487308689648
                               ],
                               [
-                                37.997447689063847,
-                                68.067326461944958
+                                37.997444589622319,
+                                68.067330470357319
                               ]
                             ]
                           },
@@ -8100,16 +8114,16 @@
                             "type" : "AddCurve",
                             "points" : [
                               [
-                                38.972168913559926,
-                                69.229084609235542
+                                38.972165814118398,
+                                69.229088617647903
                               ],
                               [
-                                39.624181251972914,
-                                69.34076737542091
+                                39.624178152531385,
+                                69.340771383833271
                               ],
                               [
-                                40.784332320094109,
-                                68.407805579763135
+                                40.78432922065258,
+                                68.407809588175496
                               ]
                             ]
                           },
@@ -8117,16 +8131,16 @@
                             "type" : "AddCurve",
                             "points" : [
                               [
-                                41.670066923302784,
-                                67.695555480759595
+                                41.670063823861256,
+                                67.695559489171956
                               ],
                               [
-                                42.448090277813662,
-                                66.84957299677535
+                                42.448087178372134,
+                                66.849577005187712
                               ],
                               [
-                                43.30639985948801,
-                                66.037062092732867
+                                43.306396760046482,
+                                66.037066101145228
                               ]
                             ]
                           },
@@ -8134,16 +8148,16 @@
                             "type" : "AddCurve",
                             "points" : [
                               [
-                                44.285579035396495,
-                                66.637112204668938
+                                44.285575935954967,
+                                66.637116213081299
                               ],
                               [
-                                45.290613098018639,
-                                67.25360870917757
+                                45.290609998577111,
+                                67.253612717589931
                               ],
                               [
-                                46.288744724821299,
-                                67.865561058793446
+                                46.288741625379771,
+                                67.865565067205807
                               ]
                             ]
                           },
@@ -8151,16 +8165,16 @@
                             "type" : "AddCurve",
                             "points" : [
                               [
-                                46.877286672130595,
-                                67.377907970451361
+                                46.877283572689066,
+                                67.377911978863722
                               ],
                               [
-                                47.310939437424622,
-                                67.0100777197963
+                                47.310936337983094,
+                                67.010081728208661
                               ],
                               [
-                                47.757849066518247,
-                                66.654968639884373
+                                47.757845967076719,
+                                66.654972648296734
                               ]
                             ]
                           },
@@ -8168,16 +8182,16 @@
                             "type" : "AddCurve",
                             "points" : [
                               [
-                                48.417010136408862,
-                                66.131177821101119
+                                48.417007036967334,
+                                66.13118182951348
                               ],
                               [
-                                48.932931808914418,
-                                65.612294443306382
+                                48.93292870947289,
+                                65.612298451718743
                               ],
                               [
-                                49.044103511609137,
-                                64.643619777217737
+                                49.044100412167609,
+                                64.643623785630098
                               ]
                             ]
                           },
@@ -8185,16 +8199,16 @@
                             "type" : "AddCurve",
                             "points" : [
                               [
-                                49.156081832584277,
-                                63.666669577015455
+                                49.156078733142749,
+                                63.666673585427816
                               ],
                               [
-                                49.688388323747859,
-                                62.764728719500908
+                                49.68838522430633,
+                                62.76473272791327
                               ],
                               [
-                                50.815855958033353,
-                                62.468336524490496
+                                50.815852858591825,
+                                62.468340532902857
                               ]
                             ]
                           },
@@ -8202,16 +8216,16 @@
                             "type" : "AddCurve",
                             "points" : [
                               [
-                                51.677589049355902,
-                                62.241750676389529
+                                51.677585949914373,
+                                62.24175468480189
                               ],
                               [
-                                52.254647461604236,
-                                61.628843931098345
+                                52.254644362162708,
+                                61.628847939510706
                               ],
                               [
-                                52.707406612578779,
-                                60.910959818914762
+                                52.707403513137251,
+                                60.910963827327123
                               ]
                             ]
                           },
@@ -8219,16 +8233,16 @@
                             "type" : "AddCurve",
                             "points" : [
                               [
-                                53.431140246643281,
-                                59.763302098052918
+                                53.431137147201753,
+                                59.763306106465279
                               ],
                               [
-                                53.988969125382027,
-                                58.535425881333595
+                                53.988966025940499,
+                                58.535429889745956
                               ],
                               [
-                                54.239562642760575,
-                                57.310708406429967
+                                54.239559543319046,
+                                57.310712414842328
                               ]
                             ]
                           },
@@ -8236,16 +8250,16 @@
                             "type" : "AddCurve",
                             "points" : [
                               [
-                                49.275719948527694,
-                                51.018463922606315
+                                49.275716849086166,
+                                51.018467931018677
                               ],
                               [
-                                44.393056303219055,
-                                44.829398847370612
+                                44.393053203777527,
+                                44.829402855782973
                               ],
                               [
-                                39.466552030760795,
-                                38.584356926430246
+                                39.466548931319267,
+                                38.584360934842607
                               ]
                             ]
                           },
@@ -8253,16 +8267,16 @@
                             "type" : "AddCurve",
                             "points" : [
                               [
-                                40.003852166393244,
-                                37.877580748428954
+                                40.003849066951716,
+                                37.877584756841316
                               ],
                               [
-                                40.344583737261019,
-                                37.416490646817692
+                                40.34458063781949,
+                                37.416494655230053
                               ],
                               [
-                                40.696059956215322,
-                                36.963928532369664
+                                40.696056856773794,
+                                36.963932540782025
                               ]
                             ]
                           },
@@ -8270,16 +8284,16 @@
                             "type" : "AddCurve",
                             "points" : [
                               [
-                                46.676192424647525,
-                                29.277071828654698
+                                46.676189325205996,
+                                29.277075837067059
                               ],
                               [
-                                53.127180617536396,
-                                22.005799025013175
+                                53.127177518094868,
+                                22.005803033425536
                               ],
                               [
-                                59.983571463730186,
-                                15.09129779697605
+                                59.983568364288658,
+                                15.091301805388412
                               ]
                             ]
                           },
@@ -8287,16 +8301,16 @@
                             "type" : "AddCurve",
                             "points" : [
                               [
-                                60.82289780755309,
-                                14.245089798529818
+                                60.822894708111562,
+                                14.24509380694218
                               ],
                               [
-                                61.631190898449859,
-                                13.401308581990236
+                                61.63118779900833,
+                                13.401312590402597
                               ],
                               [
-                                62.228211573790759,
-                                12.317022733968827
+                                62.228208474349231,
+                                12.317026742381188
                               ]
                             ]
                           },
@@ -8304,16 +8318,16 @@
                             "type" : "AddCurve",
                             "points" : [
                               [
-                                63.368400378819388,
-                                10.24590407246211
+                                63.368397279377859,
+                                10.245908080874472
                               ],
                               [
-                                63.411773044218535,
-                                10.317930158990578
+                                63.411769944777006,
+                                10.317934167402939
                               ],
                               [
-                                62.051666846033186,
-                                8.483480074090096
+                                62.051663746591657,
+                                8.4834840825024571
                               ]
                             ]
                           },
@@ -8321,16 +8335,16 @@
                             "type" : "AddCurve",
                             "points" : [
                               [
-                                61.549469999077701,
-                                7.8061489268568494
+                                61.549466899636172,
+                                7.8061529352692105
                               ],
                               [
-                                60.993100422113457,
-                                7.6333909948432392
+                                60.993097322671929,
+                                7.6333950032556004
                               ],
                               [
-                                60.197947204578668,
-                                7.619672326684622
+                                60.19794410513714,
+                                7.6196763350969832
                               ]
                             ]
                           },
@@ -8338,16 +8352,16 @@
                             "type" : "AddCurve",
                             "points" : [
                               [
-                                58.678241419916048,
-                                7.5936450330102616
+                                58.67823832047452,
+                                7.5936490414226228
                               ],
                               [
-                                57.981963594343142,
-                                6.6460532752587369
+                                57.981960494901614,
+                                6.646057283671098
                               ],
                               [
-                                58.230734523851424,
-                                5.2110978265634458
+                                58.230731424409896,
+                                5.2111018349758069
                               ]
                             ]
                           },
@@ -8355,16 +8369,16 @@
                             "type" : "AddCurve",
                             "points" : [
                               [
-                                58.285830862578223,
-                                4.8935180475612015
+                                58.285827763136695,
+                                4.8935220559735626
                               ],
                               [
-                                58.226646015926235,
-                                4.4723832590923394
+                                58.226642916484707,
+                                4.4723872675047005
                               ],
                               [
-                                58.047884627245367,
-                                4.2211863173513393
+                                58.047881527803838,
+                                4.2211903257637005
                               ]
                             ]
                           },
@@ -8372,16 +8386,16 @@
                             "type" : "AddCurve",
                             "points" : [
                               [
-                                57.627199328352617,
-                                3.6300182425870844
+                                57.627196228911089,
+                                3.6300222509994455
                               ],
                               [
-                                57.156084993454897,
-                                3.0502905049343667
+                                57.156081894013369,
+                                3.0502945133467279
                               ],
                               [
-                                56.610306129790843,
-                                2.5755371516875698
+                                56.610303030349314,
+                                2.5755411600999309
                               ]
                             ]
                           },
@@ -8389,16 +8403,16 @@
                             "type" : "AddCurve",
                             "points" : [
                               [
-                                55.839363775451602,
-                                1.904870995865906
+                                55.839360676010074,
+                                1.9048750042782672
                               ],
                               [
-                                55.373507852855255,
-                                1.5772269635393172
+                                55.373504753413727,
+                                1.5772309719516784
                               ],
                               [
-                                54.907910540699959,
-                                1.5919308146593494
+                                54.90790744125843,
+                                1.5919348230717105
                               ]
                             ]
                           },
@@ -8409,8 +8423,8 @@
                             "type" : "MoveToPoint",
                             "points" : [
                               [
-                                54.907910540699959,
-                                1.5919308146593494
+                                54.90790744125843,
+                                1.5919348230717105
                               ]
                             ]
                           }
@@ -8437,8 +8451,8 @@
                       "rotation" : 0,
                       "scale" : 1,
                       "position" : {
-                        "pointX" : 31.463452100753784,
-                        "pointY" : 36.408542826774408
+                        "pointX" : 31.463455200195312,
+                        "pointY" : 36.408538818362047
                       },
                       "width" : 65,
                       "sublayerTransform" : [
@@ -8552,8 +8566,8 @@
                   "rotation" : 0,
                   "scale" : 1,
                   "position" : {
-                    "pointX" : 243.64759373664856,
-                    "pointY" : 338.78094482421875
+                    "pointX" : 243.64759826660156,
+                    "pointY" : 338.78094518184662
                   },
                   "width" : 37,
                   "sublayerTransform" : [
@@ -8600,7 +8614,7 @@
                     "texturedRectangle" : {
                       "singleTextureOpacity" : 1,
                       "textXHeight" : 0.48454054054054047,
-                      "textBaseline" : 0.78662274334881754,
+                      "textBaseline" : 0.78662275301443563,
                       "isBackgroundTexture" : true,
                       "isVerticalText" : false,
                       "textColor" : [
@@ -8624,8 +8638,8 @@
                       "rotation" : 0,
                       "scale" : 1,
                       "position" : {
-                        "pointX" : 23.35240626335144,
-                        "pointY" : 29.21905517578125
+                        "pointX" : 23.352401733398438,
+                        "pointY" : 29.219054818153381
                       },
                       "width" : 37,
                       "sublayerTransform" : [

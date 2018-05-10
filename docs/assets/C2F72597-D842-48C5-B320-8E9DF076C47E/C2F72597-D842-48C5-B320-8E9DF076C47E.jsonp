@@ -30,7 +30,7 @@ local_slide( {
         "width" : 1024,
         "height" : 768
       },
-      "28D301F0598ECA341481CA572B9DE22D" : {
+      "2FAAF9400176316D0A5489AC6A4FC8D6" : {
         "type" : "texture",
         "index" : 6,
         "assetRequest" : {
@@ -296,7 +296,7 @@ local_slide( {
                           "pointY" : 0.5
                         }
                       },
-                      "texture" : "28D301F0598ECA341481CA572B9DE22D"
+                      "texture" : "2FAAF9400176316D0A5489AC6A4FC8D6"
                     },
                     {
                       "animations" : [
@@ -412,15 +412,6 @@ local_slide( {
               "x" : 36,
               "width" : 519.28593814373016,
               "height" : 28
-            }
-          },
-          {
-            "text" : "Memory model",
-            "targetRectangle" : {
-              "y" : 125,
-              "x" : 36,
-              "width" : 241.82399999999996,
-              "height" : 48.400146484375
             }
           },
           {
@@ -637,6 +628,15 @@ local_slide( {
               "x" : 36,
               "width" : 649.54570312499948,
               "height" : 22
+            }
+          },
+          {
+            "text" : "Memory model",
+            "targetRectangle" : {
+              "y" : 125,
+              "x" : 36,
+              "width" : 241.82399999999996,
+              "height" : 48.400146484375
             }
           },
           {

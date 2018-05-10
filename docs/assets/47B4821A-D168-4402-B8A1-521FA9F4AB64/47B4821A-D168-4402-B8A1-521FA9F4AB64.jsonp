@@ -16,6 +16,20 @@ local_slide( {
         "width" : 1024,
         "height" : 768
       },
+      "6674FF76DB7DDA87FF90D45FAE8B4E15" : {
+        "type" : "texture",
+        "index" : 5,
+        "assetRequest" : {
+          "type" : "slide",
+          "state" : "contents",
+          "slide" : "none"
+        },
+        "url" : {
+          "native" : "assets\/47B4821A-D168-4402-B8A1-521FA9F4AB64.pdf"
+        },
+        "width" : 1024,
+        "height" : 768
+      },
       "A42A26EF14ACB28A027F24C17DF47091" : {
         "type" : "texture",
         "index" : 3,
@@ -44,7 +58,7 @@ local_slide( {
         "width" : 532,
         "height" : 6
       },
-      "57D6084AA3A0D2C886D80207E6D90D02" : {
+      "B69115E4A9922B7969D95A24703BF303" : {
         "type" : "texture",
         "index" : 2,
         "assetRequest" : {
@@ -57,20 +71,6 @@ local_slide( {
         },
         "width" : 458,
         "height" : 127
-      },
-      "62E97EE91669FCECB9C1F97BC75F9273" : {
-        "type" : "texture",
-        "index" : 5,
-        "assetRequest" : {
-          "type" : "slide",
-          "state" : "contents",
-          "slide" : "none"
-        },
-        "url" : {
-          "native" : "assets\/47B4821A-D168-4402-B8A1-521FA9F4AB64.pdf"
-        },
-        "width" : 1024,
-        "height" : 768
       },
       "0773E5495DBE6070C6959754E485BB9A" : {
         "type" : "texture",
@@ -282,7 +282,7 @@ local_slide( {
                           "pointY" : 0.5
                         }
                       },
-                      "texture" : "62E97EE91669FCECB9C1F97BC75F9273"
+                      "texture" : "6674FF76DB7DDA87FF90D45FAE8B4E15"
                     },
                     {
                       "animations" : [
@@ -393,21 +393,21 @@ local_slide( {
             }
           },
           {
-            "text" : "Spectre",
-            "targetRectangle" : {
-              "y" : 510,
-              "x" : 468,
-              "width" : 462.06000000000006,
-              "height" : 170.00051879882812
-            }
-          },
-          {
             "text" : "spectre.png",
             "targetRectangle" : {
               "y" : 158.74632263183594,
               "x" : 15.755126953125,
               "width" : 467.76690673828125,
               "height" : 370.23934936523438
+            }
+          },
+          {
+            "text" : "Spectre",
+            "targetRectangle" : {
+              "y" : 510,
+              "x" : 468,
+              "width" : 462.06000000000006,
+              "height" : 170.00051879882812
             }
           }
         ],
@@ -1038,7 +1038,7 @@ local_slide( {
                           "pointY" : 0.5
                         }
                       },
-                      "texture" : "57D6084AA3A0D2C886D80207E6D90D02"
+                      "texture" : "B69115E4A9922B7969D95A24703BF303"
                     }
                   ]
                 }

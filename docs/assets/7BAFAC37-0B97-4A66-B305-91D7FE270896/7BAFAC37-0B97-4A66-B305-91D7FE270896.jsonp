@@ -30,7 +30,7 @@ local_slide( {
         "width" : 1024,
         "height" : 768
       },
-      "2FAAF9400176316D0A5489AC6A4FC8D6" : {
+      "74D1E4BB7DEE7FC1DDC252E1BEA2F305" : {
         "type" : "texture",
         "index" : 8,
         "assetRequest" : {
@@ -520,21 +520,21 @@ local_slide( {
             }
           },
           {
-            "text" : "... misunderstandings and neglect create more confusion in this world than trickery and malice. At any rate, the last two are certainly much less frequent.",
-            "targetRectangle" : {
-              "y" : 391.42578125,
-              "x" : 262.12491838517735,
-              "width" : 523.87200000000007,
-              "height" : 215.00000213385283
-            }
-          },
-          {
             "text" : "Why did Meltdown & Spectre happen?",
             "targetRectangle" : {
               "y" : 125,
               "x" : 36,
               "width" : 616.99199999999996,
               "height" : 48.400146484375
+            }
+          },
+          {
+            "text" : "... misunderstandings and neglect create more confusion in this world than trickery and malice. At any rate, the last two are certainly much less frequent.",
+            "targetRectangle" : {
+              "y" : 391.42578125,
+              "x" : 262.12491838517735,
+              "width" : 523.87200000000007,
+              "height" : 215.00000213385283
             }
           },
           {
@@ -2252,15 +2252,6 @@ local_slide( {
         ],
         "accessibility" : [
           {
-            "text" : " Goethe's The Sorrows of Young Werther ",
-            "targetRectangle" : {
-              "y" : 665.09994518756866,
-              "x" : 236.29500283813476,
-              "width" : 452.30399999999997,
-              "height" : 35.80010986328125
-            }
-          },
-          {
             "text" : "Accident, malice, incompetence?",
             "targetRectangle" : {
               "y" : 182,
@@ -2270,12 +2261,12 @@ local_slide( {
             }
           },
           {
-            "text" : "... misunderstandings and neglect create more confusion in this world than trickery and malice. At any rate, the last two are certainly much less frequent.",
+            "text" : " Goethe's The Sorrows of Young Werther ",
             "targetRectangle" : {
-              "y" : 391.42578125,
-              "x" : 262.12491838517735,
-              "width" : 523.87200000000007,
-              "height" : 215.00000213385283
+              "y" : 665.09994518756866,
+              "x" : 236.29500283813476,
+              "width" : 452.30399999999997,
+              "height" : 35.80010986328125
             }
           },
           {
@@ -2285,6 +2276,15 @@ local_slide( {
               "x" : 36,
               "width" : 616.99199999999996,
               "height" : 48.400146484375
+            }
+          },
+          {
+            "text" : "... misunderstandings and neglect create more confusion in this world than trickery and malice. At any rate, the last two are certainly much less frequent.",
+            "targetRectangle" : {
+              "y" : 391.42578125,
+              "x" : 262.12491838517735,
+              "width" : 523.87200000000007,
+              "height" : 215.00000213385283
             }
           },
           {
@@ -4002,15 +4002,6 @@ local_slide( {
         ],
         "accessibility" : [
           {
-            "text" : " Goethe's The Sorrows of Young Werther ",
-            "targetRectangle" : {
-              "y" : 665.09994518756866,
-              "x" : 236.29500283813476,
-              "width" : 452.30399999999997,
-              "height" : 35.80010986328125
-            }
-          },
-          {
             "text" : "Accident, malice, incompetence?",
             "targetRectangle" : {
               "y" : 182,
@@ -4029,12 +4020,12 @@ local_slide( {
             }
           },
           {
-            "text" : "... misunderstandings and neglect create more confusion in this world than trickery and malice. At any rate, the last two are certainly much less frequent.",
+            "text" : " Goethe's The Sorrows of Young Werther ",
             "targetRectangle" : {
-              "y" : 391.42578125,
-              "x" : 262.12491838517735,
-              "width" : 523.87200000000007,
-              "height" : 215.00000213385283
+              "y" : 665.09994518756866,
+              "x" : 236.29500283813476,
+              "width" : 452.30399999999997,
+              "height" : 35.80010986328125
             }
           },
           {
@@ -4044,6 +4035,15 @@ local_slide( {
               "x" : 36,
               "width" : 616.99199999999996,
               "height" : 48.400146484375
+            }
+          },
+          {
+            "text" : "... misunderstandings and neglect create more confusion in this world than trickery and malice. At any rate, the last two are certainly much less frequent.",
+            "targetRectangle" : {
+              "y" : 391.42578125,
+              "x" : 262.12491838517735,
+              "width" : 523.87200000000007,
+              "height" : 215.00000213385283
             }
           },
           {
@@ -5609,15 +5609,6 @@ local_slide( {
         ],
         "accessibility" : [
           {
-            "text" : " Goethe's The Sorrows of Young Werther ",
-            "targetRectangle" : {
-              "y" : 665.09994518756866,
-              "x" : 236.29500283813476,
-              "width" : 452.30399999999997,
-              "height" : 35.80010986328125
-            }
-          },
-          {
             "text" : "Accident, malice, incompetence?",
             "targetRectangle" : {
               "y" : 182,
@@ -5645,12 +5636,12 @@ local_slide( {
             }
           },
           {
-            "text" : "... misunderstandings and neglect create more confusion in this world than trickery and malice. At any rate, the last two are certainly much less frequent.",
+            "text" : " Goethe's The Sorrows of Young Werther ",
             "targetRectangle" : {
-              "y" : 391.42578125,
-              "x" : 262.12491838517735,
-              "width" : 523.87200000000007,
-              "height" : 215.00000213385283
+              "y" : 665.09994518756866,
+              "x" : 236.29500283813476,
+              "width" : 452.30399999999997,
+              "height" : 35.80010986328125
             }
           },
           {
@@ -5660,6 +5651,15 @@ local_slide( {
               "x" : 36,
               "width" : 616.99199999999996,
               "height" : 48.400146484375
+            }
+          },
+          {
+            "text" : "... misunderstandings and neglect create more confusion in this world than trickery and malice. At any rate, the last two are certainly much less frequent.",
+            "targetRectangle" : {
+              "y" : 391.42578125,
+              "x" : 262.12491838517735,
+              "width" : 523.87200000000007,
+              "height" : 215.00000213385283
             }
           },
           {
@@ -7190,7 +7190,7 @@ local_slide( {
                           "pointY" : 0.5
                         }
                       },
-                      "texture" : "2FAAF9400176316D0A5489AC6A4FC8D6"
+                      "texture" : "74D1E4BB7DEE7FC1DDC252E1BEA2F305"
                     },
                     {
                       "animations" : [
@@ -7292,15 +7292,6 @@ local_slide( {
         ],
         "accessibility" : [
           {
-            "text" : " Goethe's The Sorrows of Young Werther ",
-            "targetRectangle" : {
-              "y" : 665.09994518756866,
-              "x" : 236.29500283813476,
-              "width" : 452.30399999999997,
-              "height" : 35.80010986328125
-            }
-          },
-          {
             "text" : "Accident, malice, incompetence?",
             "targetRectangle" : {
               "y" : 182,
@@ -7328,12 +7319,12 @@ local_slide( {
             }
           },
           {
-            "text" : "... misunderstandings and neglect create more confusion in this world than trickery and malice. At any rate, the last two are certainly much less frequent.",
+            "text" : " Goethe's The Sorrows of Young Werther ",
             "targetRectangle" : {
-              "y" : 391.42578125,
-              "x" : 262.12491838517735,
-              "width" : 523.87200000000007,
-              "height" : 215.00000213385283
+              "y" : 665.09994518756866,
+              "x" : 236.29500283813476,
+              "width" : 452.30399999999997,
+              "height" : 35.80010986328125
             }
           },
           {
@@ -7343,6 +7334,15 @@ local_slide( {
               "x" : 36,
               "width" : 616.99199999999996,
               "height" : 48.400146484375
+            }
+          },
+          {
+            "text" : "... misunderstandings and neglect create more confusion in this world than trickery and malice. At any rate, the last two are certainly much less frequent.",
+            "targetRectangle" : {
+              "y" : 391.42578125,
+              "x" : 262.12491838517735,
+              "width" : 523.87200000000007,
+              "height" : 215.00000213385283
             }
           },
           {

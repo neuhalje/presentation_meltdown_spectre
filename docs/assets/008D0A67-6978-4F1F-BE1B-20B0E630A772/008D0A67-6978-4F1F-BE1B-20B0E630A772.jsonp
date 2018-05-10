@@ -4,7 +4,7 @@ local_slide( {
     "assets" : {
       "F648880DCCA26515020CAF2E5D8A1198" : {
         "type" : "texture",
-        "index" : 2,
+        "index" : 7,
         "assetRequest" : {
           "type" : "slide",
           "state" : "contents",
@@ -18,7 +18,7 @@ local_slide( {
       },
       "FBB5DEA59905EE30EF2803B0A74DF992" : {
         "type" : "texture",
-        "index" : 7,
+        "index" : 0,
         "assetRequest" : {
           "type" : "slide",
           "state" : "contents",
@@ -32,7 +32,7 @@ local_slide( {
       },
       "FC25123BAE3F9A5D5191110F7EE58F43" : {
         "type" : "texture",
-        "index" : 0,
+        "index" : 2,
         "assetRequest" : {
           "type" : "slide",
           "state" : "contents",
@@ -41,8 +41,8 @@ local_slide( {
         "url" : {
           "native" : "assets\/008D0A67-6978-4F1F-BE1B-20B0E630A772.pdf"
         },
-        "width" : 1024,
-        "height" : 768
+        "width" : 519,
+        "height" : 20
       },
       "7729599987FFF64F4DD919D09669725C" : {
         "type" : "texture",
@@ -359,55 +359,10 @@ local_slide( {
         ],
         "accessibility" : [
           {
-            "text" : "You don’t want",
+            "text" : "bnd.png",
             "targetRectangle" : {
-              "y" : 553.40000128746033,
-              "x" : 52.767989158630371,
-              "width" : 438.46399999999988,
-              "height" : 87
-            }
-          },
-          {
-            "text" : "this",
-            "targetRectangle" : {
-              "y" : 633.60000336170197,
-              "x" : 220.54398915863032,
-              "width" : 102.91200000000003,
-              "height" : 87
-            }
-          },
-          {
-            "text" : "￼",
-            "targetRectangle" : {
-              "y" : 38,
-              "x" : 976.09613084793091,
-              "width" : 11.51953125,
-              "height" : 28
-            }
-          },
-          {
-            "text" : "Security Goals: Browser Tab isolation",
-            "targetRectangle" : {
-              "y" : 125,
-              "x" : 36,
-              "width" : 635.85599999999977,
-              "height" : 48.400146484375
-            }
-          },
-          {
-            "text" : "Meltdown & Spectre for normal people",
-            "targetRectangle" : {
-              "y" : 40,
-              "x" : 36,
-              "width" : 519.28593814373016,
-              "height" : 28
-            }
-          },
-          {
-            "text" : "epost.de.png",
-            "targetRectangle" : {
-              "y" : 191,
-              "x" : 633,
+              "y" : 193,
+              "x" : 126.00000762939453,
               "width" : 258.9375,
               "height" : 368.03125
             }
@@ -431,10 +386,55 @@ local_slide( {
             }
           },
           {
-            "text" : "bnd.png",
+            "text" : "￼",
             "targetRectangle" : {
-              "y" : 193,
-              "x" : 126.00000762939453,
+              "y" : 38,
+              "x" : 976.09613084793091,
+              "width" : 11.51953125,
+              "height" : 28
+            }
+          },
+          {
+            "text" : "Meltdown & Spectre for normal people",
+            "targetRectangle" : {
+              "y" : 40,
+              "x" : 36,
+              "width" : 519.28593814373016,
+              "height" : 28
+            }
+          },
+          {
+            "text" : "You don’t want",
+            "targetRectangle" : {
+              "y" : 553.40000128746033,
+              "x" : 52.767989158630371,
+              "width" : 438.46399999999988,
+              "height" : 87
+            }
+          },
+          {
+            "text" : "this",
+            "targetRectangle" : {
+              "y" : 633.60000336170197,
+              "x" : 220.54398915863032,
+              "width" : 102.91200000000003,
+              "height" : 87
+            }
+          },
+          {
+            "text" : "Security Goals: Browser Tab isolation",
+            "targetRectangle" : {
+              "y" : 125,
+              "x" : 36,
+              "width" : 635.85599999999977,
+              "height" : 48.400146484375
+            }
+          },
+          {
+            "text" : "epost.de.png",
+            "targetRectangle" : {
+              "y" : 191,
+              "x" : 633,
               "width" : 258.9375,
               "height" : 368.03125
             }
@@ -670,7 +670,7 @@ local_slide( {
                           "pointY" : 0.5
                         }
                       },
-                      "texture" : "FC25123BAE3F9A5D5191110F7EE58F43"
+                      "texture" : "FBB5DEA59905EE30EF2803B0A74DF992"
                     }
                   ]
                 }
@@ -1066,7 +1066,7 @@ local_slide( {
                           "pointY" : 0.5
                         }
                       },
-                      "texture" : "F648880DCCA26515020CAF2E5D8A1198"
+                      "texture" : "FC25123BAE3F9A5D5191110F7EE58F43"
                     }
                   ]
                 }
@@ -2094,55 +2094,10 @@ local_slide( {
         ],
         "accessibility" : [
           {
-            "text" : "You don’t want",
+            "text" : "bnd.png",
             "targetRectangle" : {
-              "y" : 553.40000128746033,
-              "x" : 52.767989158630371,
-              "width" : 438.46399999999988,
-              "height" : 87
-            }
-          },
-          {
-            "text" : "this",
-            "targetRectangle" : {
-              "y" : 633.60000336170197,
-              "x" : 220.54398915863032,
-              "width" : 102.91200000000003,
-              "height" : 87
-            }
-          },
-          {
-            "text" : "￼",
-            "targetRectangle" : {
-              "y" : 38,
-              "x" : 976.09613084793091,
-              "width" : 11.51953125,
-              "height" : 28
-            }
-          },
-          {
-            "text" : "Security Goals: Browser Tab isolation",
-            "targetRectangle" : {
-              "y" : 125,
-              "x" : 36,
-              "width" : 635.85599999999977,
-              "height" : 48.400146484375
-            }
-          },
-          {
-            "text" : "Meltdown & Spectre for normal people",
-            "targetRectangle" : {
-              "y" : 40,
-              "x" : 36,
-              "width" : 519.28593814373016,
-              "height" : 28
-            }
-          },
-          {
-            "text" : "epost.de.png",
-            "targetRectangle" : {
-              "y" : 191,
-              "x" : 633,
+              "y" : 193,
+              "x" : 126.00000762939453,
               "width" : 258.9375,
               "height" : 368.03125
             }
@@ -2166,10 +2121,55 @@ local_slide( {
             }
           },
           {
-            "text" : "bnd.png",
+            "text" : "￼",
             "targetRectangle" : {
-              "y" : 193,
-              "x" : 126.00000762939453,
+              "y" : 38,
+              "x" : 976.09613084793091,
+              "width" : 11.51953125,
+              "height" : 28
+            }
+          },
+          {
+            "text" : "Meltdown & Spectre for normal people",
+            "targetRectangle" : {
+              "y" : 40,
+              "x" : 36,
+              "width" : 519.28593814373016,
+              "height" : 28
+            }
+          },
+          {
+            "text" : "You don’t want",
+            "targetRectangle" : {
+              "y" : 553.40000128746033,
+              "x" : 52.767989158630371,
+              "width" : 438.46399999999988,
+              "height" : 87
+            }
+          },
+          {
+            "text" : "this",
+            "targetRectangle" : {
+              "y" : 633.60000336170197,
+              "x" : 220.54398915863032,
+              "width" : 102.91200000000003,
+              "height" : 87
+            }
+          },
+          {
+            "text" : "Security Goals: Browser Tab isolation",
+            "targetRectangle" : {
+              "y" : 125,
+              "x" : 36,
+              "width" : 635.85599999999977,
+              "height" : 48.400146484375
+            }
+          },
+          {
+            "text" : "epost.de.png",
+            "targetRectangle" : {
+              "y" : 191,
+              "x" : 633,
               "width" : 258.9375,
               "height" : 368.03125
             }

@@ -2,7 +2,7 @@
   "assets" : {
     "71C19608CE1122C087158BBF0AD0A37D" : {
       "type" : "texture",
-      "index" : 23,
+      "index" : 24,
       "assetRequest" : {
         "type" : "slide",
         "state" : "contents",
@@ -16,7 +16,7 @@
     },
     "94128F49B1AAE6C0A352C94369588017" : {
       "type" : "texture",
-      "index" : 43,
+      "index" : 44,
       "assetRequest" : {
         "type" : "slide",
         "state" : "contents",
@@ -56,9 +56,9 @@
       "width" : 879,
       "height" : 50
     },
-    "7FCFA7EA9F4E62F341A4ED65BAB374E9" : {
+    "1E0222CCCF332A4B22F070AABF78F78B" : {
       "type" : "texture",
-      "index" : 27,
+      "index" : 2,
       "assetRequest" : {
         "type" : "slide",
         "state" : "contents",
@@ -67,12 +67,12 @@
       "url" : {
         "native" : "assets\/4D77C178-E3F0-4DBF-9000-E5A3A657CC07.pdf"
       },
-      "width" : 628,
-      "height" : 115
+      "width" : 519,
+      "height" : 20
     },
     "616166697C8A0FAE28F0146CC4621395" : {
       "type" : "texture",
-      "index" : 32,
+      "index" : 33,
       "assetRequest" : {
         "type" : "slide",
         "state" : "contents",
@@ -86,7 +86,7 @@
     },
     "3D11DDD6CD298AE0AB9D69F323B18EE8" : {
       "type" : "texture",
-      "index" : 33,
+      "index" : 34,
       "assetRequest" : {
         "type" : "slide",
         "state" : "contents",
@@ -114,7 +114,7 @@
     },
     "AB75C42D5DEB2873281018C038354D81" : {
       "type" : "texture",
-      "index" : 19,
+      "index" : 3,
       "assetRequest" : {
         "type" : "slide",
         "state" : "contents",
@@ -128,7 +128,7 @@
     },
     "F648880DCCA26515020CAF2E5D8A1198" : {
       "type" : "texture",
-      "index" : 2,
+      "index" : 20,
       "assetRequest" : {
         "type" : "slide",
         "state" : "contents",
@@ -142,7 +142,7 @@
     },
     "A743EE5FA9D066D2B3354A72DAB1102C" : {
       "type" : "texture",
-      "index" : 24,
+      "index" : 25,
       "assetRequest" : {
         "type" : "slide",
         "state" : "contents",
@@ -154,9 +154,9 @@
       "width" : 103,
       "height" : 102
     },
-    "4C901ED57E5F48CFDD0BF3CB170380E8" : {
+    "CD1258FF0D95916A8E5A47DF44D95BB2" : {
       "type" : "texture",
-      "index" : 17,
+      "index" : 15,
       "assetRequest" : {
         "type" : "slide",
         "state" : "contents",
@@ -165,12 +165,12 @@
       "url" : {
         "native" : "assets\/4D77C178-E3F0-4DBF-9000-E5A3A657CC07.pdf"
       },
-      "width" : 621,
-      "height" : 115
+      "width" : 103,
+      "height" : 102
     },
     "112CD43D9523AC8FCD740912967A046D" : {
       "type" : "texture",
-      "index" : 34,
+      "index" : 35,
       "assetRequest" : {
         "type" : "slide",
         "state" : "contents",
@@ -198,7 +198,7 @@
     },
     "ED4AD025A8072AD7F61E75A6CDB7B3B5" : {
       "type" : "texture",
-      "index" : 39,
+      "index" : 40,
       "assetRequest" : {
         "type" : "slide",
         "state" : "contents",
@@ -238,9 +238,9 @@
       "width" : 103,
       "height" : 102
     },
-    "28E556F9E7D0FCCA2B8ACDD37202F580" : {
+    "99CD8526EC13EB754A17378E612EBF5C" : {
       "type" : "texture",
-      "index" : 3,
+      "index" : 17,
       "assetRequest" : {
         "type" : "slide",
         "state" : "contents",
@@ -249,26 +249,12 @@
       "url" : {
         "native" : "assets\/4D77C178-E3F0-4DBF-9000-E5A3A657CC07.pdf"
       },
-      "width" : 241,
-      "height" : 37
-    },
-    "CD1258FF0D95916A8E5A47DF44D95BB2" : {
-      "type" : "texture",
-      "index" : 15,
-      "assetRequest" : {
-        "type" : "slide",
-        "state" : "contents",
-        "slide" : "none"
-      },
-      "url" : {
-        "native" : "assets\/4D77C178-E3F0-4DBF-9000-E5A3A657CC07.pdf"
-      },
-      "width" : 103,
-      "height" : 102
+      "width" : 621,
+      "height" : 115
     },
     "A7EE658CF1D9C000C3E0ACC41B55502A" : {
       "type" : "texture",
-      "index" : 20,
+      "index" : 21,
       "assetRequest" : {
         "type" : "slide",
         "state" : "contents",
@@ -282,7 +268,7 @@
     },
     "34E14ABE34DB905F9311DC334784F353" : {
       "type" : "texture",
-      "index" : 22,
+      "index" : 23,
       "assetRequest" : {
         "type" : "slide",
         "state" : "contents",
@@ -296,7 +282,7 @@
     },
     "9E9E4F23188CF48B0641254AC4B66BB8" : {
       "type" : "texture",
-      "index" : 36,
+      "index" : 37,
       "assetRequest" : {
         "type" : "slide",
         "state" : "contents",
@@ -307,20 +293,6 @@
       },
       "width" : 84,
       "height" : 24
-    },
-    "DD3340F252FB66FC95DEB45C1B489E37" : {
-      "type" : "texture",
-      "index" : 41,
-      "assetRequest" : {
-        "type" : "slide",
-        "state" : "contents",
-        "slide" : "none"
-      },
-      "url" : {
-        "native" : "assets\/4D77C178-E3F0-4DBF-9000-E5A3A657CC07.pdf"
-      },
-      "width" : 187,
-      "height" : 85
     },
     "72B359A7C8DC1D3D07008A7813110CED" : {
       "type" : "texture",
@@ -338,7 +310,7 @@
     },
     "DFCB85A4C8B63B68666EF34C5B83DF0F" : {
       "type" : "texture",
-      "index" : 25,
+      "index" : 26,
       "assetRequest" : {
         "type" : "slide",
         "state" : "contents",
@@ -366,7 +338,7 @@
     },
     "01196AD8AAE9864C687F3B768E72A610" : {
       "type" : "texture",
-      "index" : 30,
+      "index" : 31,
       "assetRequest" : {
         "type" : "slide",
         "state" : "contents",
@@ -378,9 +350,9 @@
       "width" : 82,
       "height" : 23
     },
-    "4087ADA7E4906E1B68110BE2B174F407" : {
+    "AA4445B21D7AD9B0163D43A497CB01C0" : {
       "type" : "texture",
-      "index" : 35,
+      "index" : 27,
       "assetRequest" : {
         "type" : "slide",
         "state" : "contents",
@@ -392,9 +364,9 @@
       "width" : 103,
       "height" : 102
     },
-    "AA4445B21D7AD9B0163D43A497CB01C0" : {
+    "4087ADA7E4906E1B68110BE2B174F407" : {
       "type" : "texture",
-      "index" : 26,
+      "index" : 36,
       "assetRequest" : {
         "type" : "slide",
         "state" : "contents",
@@ -422,7 +394,7 @@
     },
     "DE2CC00B926630269DD5D951A89AF5F2" : {
       "type" : "texture",
-      "index" : 42,
+      "index" : 43,
       "assetRequest" : {
         "type" : "slide",
         "state" : "contents",
@@ -436,7 +408,7 @@
     },
     "D588800018A87CAEA41D5D75C5957AA1" : {
       "type" : "texture",
-      "index" : 40,
+      "index" : 41,
       "assetRequest" : {
         "type" : "slide",
         "state" : "contents",
@@ -447,20 +419,6 @@
       },
       "width" : 103,
       "height" : 102
-    },
-    "156BF1C32EA6223B596F82B16BFE39DC" : {
-      "type" : "texture",
-      "index" : 31,
-      "assetRequest" : {
-        "type" : "slide",
-        "state" : "contents",
-        "slide" : "none"
-      },
-      "url" : {
-        "native" : "assets\/4D77C178-E3F0-4DBF-9000-E5A3A657CC07.pdf"
-      },
-      "width" : 13,
-      "height" : 23
     },
     "CF959C302EBFE0E9D727E034628E22DF" : {
       "type" : "texture",
@@ -476,9 +434,23 @@
       "width" : 360,
       "height" : 75
     },
+    "156BF1C32EA6223B596F82B16BFE39DC" : {
+      "type" : "texture",
+      "index" : 32,
+      "assetRequest" : {
+        "type" : "slide",
+        "state" : "contents",
+        "slide" : "none"
+      },
+      "url" : {
+        "native" : "assets\/4D77C178-E3F0-4DBF-9000-E5A3A657CC07.pdf"
+      },
+      "width" : 13,
+      "height" : 23
+    },
     "0D11B9A6BE752D3A55075D8EC58EE0C0" : {
       "type" : "texture",
-      "index" : 37,
+      "index" : 38,
       "assetRequest" : {
         "type" : "slide",
         "state" : "contents",
@@ -489,6 +461,20 @@
       },
       "width" : 103,
       "height" : 102
+    },
+    "B4A4C360B7F3018E4B5E72883EF99414" : {
+      "type" : "texture",
+      "index" : 42,
+      "assetRequest" : {
+        "type" : "slide",
+        "state" : "contents",
+        "slide" : "none"
+      },
+      "url" : {
+        "native" : "assets\/4D77C178-E3F0-4DBF-9000-E5A3A657CC07.pdf"
+      },
+      "width" : 187,
+      "height" : 85
     },
     "CB962D05906D36556037861C5793565A" : {
       "type" : "texture",
@@ -504,9 +490,23 @@
       "width" : 103,
       "height" : 102
     },
+    "036FF3A0AF45F91BDCB93BDBCF22B92B" : {
+      "type" : "texture",
+      "index" : 28,
+      "assetRequest" : {
+        "type" : "slide",
+        "state" : "contents",
+        "slide" : "none"
+      },
+      "url" : {
+        "native" : "assets\/4D77C178-E3F0-4DBF-9000-E5A3A657CC07.pdf"
+      },
+      "width" : 628,
+      "height" : 115
+    },
     "640D5297D59088D46FE63A28D36F2264" : {
       "type" : "texture",
-      "index" : 1,
+      "index" : 19,
       "assetRequest" : {
         "type" : "slide",
         "state" : "contents",
@@ -532,9 +532,9 @@
       "width" : 103,
       "height" : 102
     },
-    "D7538114DFA654A0AFFBF734CFF09156" : {
+    "EC7DDAF258C730FCD66F9EE0B5D48D3C" : {
       "type" : "texture",
-      "index" : 13,
+      "index" : 1,
       "assetRequest" : {
         "type" : "slide",
         "state" : "contents",
@@ -543,12 +543,12 @@
       "url" : {
         "native" : "assets\/4D77C178-E3F0-4DBF-9000-E5A3A657CC07.pdf"
       },
-      "width" : 84,
-      "height" : 24
+      "width" : 964,
+      "height" : 5
     },
     "9A502CAA454AC69F484F06841972618B" : {
       "type" : "texture",
-      "index" : 29,
+      "index" : 30,
       "assetRequest" : {
         "type" : "slide",
         "state" : "contents",
@@ -574,9 +574,23 @@
       "width" : 1024,
       "height" : 768
     },
+    "D7538114DFA654A0AFFBF734CFF09156" : {
+      "type" : "texture",
+      "index" : 13,
+      "assetRequest" : {
+        "type" : "slide",
+        "state" : "contents",
+        "slide" : "none"
+      },
+      "url" : {
+        "native" : "assets\/4D77C178-E3F0-4DBF-9000-E5A3A657CC07.pdf"
+      },
+      "width" : 84,
+      "height" : 24
+    },
     "63899788D3E871F7AFF586DCAFD14636" : {
       "type" : "texture",
-      "index" : 21,
+      "index" : 22,
       "assetRequest" : {
         "type" : "slide",
         "state" : "contents",
@@ -590,7 +604,7 @@
     },
     "DA7E3DE423503B863281854E6732766A" : {
       "type" : "texture",
-      "index" : 38,
+      "index" : 39,
       "assetRequest" : {
         "type" : "slide",
         "state" : "contents",
@@ -604,7 +618,7 @@
     },
     "FE9FE1976778465DA437FE6670D42272" : {
       "type" : "texture",
-      "index" : 28,
+      "index" : 29,
       "assetRequest" : {
         "type" : "slide",
         "state" : "contents",
@@ -640,7 +654,7 @@
               "scale" : 1,
               "position" : {
                 "pointX" : 471,
-                "pointY" : 639.50000429153442
+                "pointY" : 639.50000143051147
               },
               "width" : 908,
               "sublayerTransform" : [
@@ -696,7 +710,7 @@
                   "scale" : 1,
                   "position" : {
                     "pointX" : 495,
-                    "pointY" : -157.50000429153442
+                    "pointY" : -157.50000143051147
                   },
                   "width" : 908,
                   "sublayerTransform" : [
@@ -729,7 +743,7 @@
                   "hidden" : false,
                   "anchorPoint" : {
                     "pointX" : 0.54515418502202639,
-                    "pointY" : -0.80357145046701239
+                    "pointY" : -0.8035714358699565
                   }
                 },
                 "layers" : [
@@ -757,7 +771,7 @@
                     "texturedRectangle" : {
                       "singleTextureOpacity" : 1,
                       "textXHeight" : 0.34128000000000003,
-                      "textBaseline" : 0.78648201942443852,
+                      "textBaseline" : 0.78648196220397948,
                       "isBackgroundTexture" : false,
                       "isVerticalText" : false,
                       "textColor" : [
@@ -782,7 +796,7 @@
                       "scale" : 1,
                       "position" : {
                         "pointX" : 399,
-                        "pointY" : 25.499995708465576
+                        "pointY" : 25.499998569488525
                       },
                       "width" : 790,
                       "sublayerTransform" : [
@@ -832,7 +846,7 @@
                 "texturedRectangle" : {
                   "singleTextureOpacity" : 1,
                   "textXHeight" : 0.34128000000000003,
-                  "textBaseline" : 0.78648201942443852,
+                  "textBaseline" : 0.78648196220397948,
                   "isBackgroundTexture" : false,
                   "isVerticalText" : false,
                   "textColor" : [
@@ -857,7 +871,7 @@
                   "scale" : 1,
                   "position" : {
                     "pointX" : 443.5,
-                    "pointY" : 98.499995708465576
+                    "pointY" : 98.499998569488525
                   },
                   "width" : 879,
                   "sublayerTransform" : [
@@ -905,7 +919,7 @@
                 "texturedRectangle" : {
                   "singleTextureOpacity" : 1,
                   "textXHeight" : 0.34128000000000003,
-                  "textBaseline" : 0.78648201942443852,
+                  "textBaseline" : 0.78648196220397948,
                   "isBackgroundTexture" : false,
                   "isVerticalText" : false,
                   "textColor" : [
@@ -930,7 +944,7 @@
                   "scale" : 1,
                   "position" : {
                     "pointX" : 458,
-                    "pointY" : 171.49999570846558
+                    "pointY" : 171.49999856948853
                   },
                   "width" : 908,
                   "sublayerTransform" : [
@@ -985,51 +999,6 @@
       ],
       "accessibility" : [
         {
-          "text" : "0x0000..0",
-          "targetRectangle" : {
-            "y" : 320.51806628704071,
-            "x" : 154.57959425449371,
-            "width" : 82.20799999999997,
-            "height" : 28.40008544921875
-          }
-        },
-        {
-          "text" : "{",
-          "targetRectangle" : {
-            "y" : 349.25000214576721,
-            "x" : 123.2721004486084,
-            "width" : 546,
-            "height" : 92.000000000000057
-          }
-        },
-        {
-          "text" : "User space",
-          "targetRectangle" : {
-            "y" : 448.5,
-            "x" : 321.72386622202396,
-            "width" : 181.00799999999998,
-            "height" : 49
-          }
-        },
-        {
-          "text" : "c)",
-          "targetRectangle" : {
-            "y" : 184.37500035762787,
-            "x" : 470.78045654296875,
-            "width" : 30.420000000000016,
-            "height" : 49
-          }
-        },
-        {
-          "text" : "Meltdown & Spectre for normal people",
-          "targetRectangle" : {
-            "y" : 40,
-            "x" : 36,
-            "width" : 519.28593814373016,
-            "height" : 28
-          }
-        },
-        {
           "text" : "Kernel space",
           "targetRectangle" : {
             "y" : 448.50000035762787,
@@ -1048,6 +1017,33 @@
           }
         },
         {
+          "text" : "c)",
+          "targetRectangle" : {
+            "y" : 184.37500035762787,
+            "x" : 470.78044891357422,
+            "width" : 30.420000000000016,
+            "height" : 49
+          }
+        },
+        {
+          "text" : "{",
+          "targetRectangle" : {
+            "y" : 349.25,
+            "x" : 123.27209663391113,
+            "width" : 546,
+            "height" : 92.000000000000057
+          }
+        },
+        {
+          "text" : "Meltdown & Spectre for normal people",
+          "targetRectangle" : {
+            "y" : 40,
+            "x" : 36,
+            "width" : 519.28593814373016,
+            "height" : 28
+          }
+        },
+        {
           "text" : "{",
           "targetRectangle" : {
             "y" : 348.60952758789062,
@@ -1063,6 +1059,24 @@
             "x" : 43.474161125165999,
             "width" : 84.951999999999998,
             "height" : 56.720068697930401
+          }
+        },
+        {
+          "text" : "0x0000..0",
+          "targetRectangle" : {
+            "y" : 320.51806628704071,
+            "x" : 154.57959425449371,
+            "width" : 82.20799999999997,
+            "height" : 28.40008544921875
+          }
+        },
+        {
+          "text" : "User space",
+          "targetRectangle" : {
+            "y" : 448.50000035762787,
+            "x" : 321.723876953125,
+            "width" : 181.00799999999998,
+            "height" : 49
           }
         }
       ],
@@ -1505,7 +1519,7 @@
                         "pointY" : 0.5
                       }
                     },
-                    "texture" : "640D5297D59088D46FE63A28D36F2264"
+                    "texture" : "EC7DDAF258C730FCD66F9EE0B5D48D3C"
                   }
                 ]
               }
@@ -1692,7 +1706,7 @@
                         "pointY" : 0.5
                       }
                     },
-                    "texture" : "F648880DCCA26515020CAF2E5D8A1198"
+                    "texture" : "1E0222CCCF332A4B22F070AABF78F78B"
                   }
                 ]
               }
@@ -1879,7 +1893,7 @@
                         "pointY" : 0.5
                       }
                     },
-                    "texture" : "28E556F9E7D0FCCA2B8ACDD37202F580"
+                    "texture" : "AB75C42D5DEB2873281018C038354D81"
                   }
                 ]
               }
@@ -2597,7 +2611,7 @@
                   "scale" : 1,
                   "position" : {
                     "pointX" : 471,
-                    "pointY" : 639.50000429153442
+                    "pointY" : 639.50000143051147
                   },
                   "width" : 908,
                   "sublayerTransform" : [
@@ -2645,7 +2659,7 @@
                     "texturedRectangle" : {
                       "singleTextureOpacity" : 1,
                       "textXHeight" : 0.34128000000000003,
-                      "textBaseline" : 0.78648201942443852,
+                      "textBaseline" : 0.78648196220397948,
                       "isBackgroundTexture" : false,
                       "isVerticalText" : false,
                       "textColor" : [
@@ -2670,7 +2684,7 @@
                       "scale" : 1,
                       "position" : {
                         "pointX" : 399,
-                        "pointY" : 25.499995708465576
+                        "pointY" : 25.499998569488525
                       },
                       "width" : 790,
                       "sublayerTransform" : [
@@ -2718,7 +2732,7 @@
                     "texturedRectangle" : {
                       "singleTextureOpacity" : 1,
                       "textXHeight" : 0.34128000000000003,
-                      "textBaseline" : 0.78648201942443852,
+                      "textBaseline" : 0.78648196220397948,
                       "isBackgroundTexture" : false,
                       "isVerticalText" : false,
                       "textColor" : [
@@ -2743,7 +2757,7 @@
                       "scale" : 1,
                       "position" : {
                         "pointX" : 443.5,
-                        "pointY" : 98.499995708465576
+                        "pointY" : 98.499998569488525
                       },
                       "width" : 879,
                       "sublayerTransform" : [
@@ -2791,7 +2805,7 @@
                     "texturedRectangle" : {
                       "singleTextureOpacity" : 1,
                       "textXHeight" : 0.34128000000000003,
-                      "textBaseline" : 0.78648201942443852,
+                      "textBaseline" : 0.78648196220397948,
                       "isBackgroundTexture" : false,
                       "isVerticalText" : false,
                       "textColor" : [
@@ -2816,7 +2830,7 @@
                       "scale" : 1,
                       "position" : {
                         "pointX" : 458,
-                        "pointY" : 171.49999570846558
+                        "pointY" : 171.49999856948853
                       },
                       "width" : 908,
                       "sublayerTransform" : [
@@ -3169,7 +3183,7 @@
                   "rotation" : 0,
                   "scale" : 1,
                   "position" : {
-                    "pointX" : 308.95572916666669,
+                    "pointX" : 308.95571899414062,
                     "pointY" : 300
                   },
                   "width" : 103,
@@ -3226,7 +3240,7 @@
                             "type" : "MoveToPoint",
                             "points" : [
                               [
-                                1.4557291666666856,
+                                1.455718994140625,
                                 1
                               ]
                             ]
@@ -3235,7 +3249,7 @@
                             "type" : "AddLine",
                             "points" : [
                               [
-                                101.45572916666669,
+                                101.45571899414062,
                                 1
                               ]
                             ]
@@ -3244,7 +3258,7 @@
                             "type" : "AddLine",
                             "points" : [
                               [
-                                101.45572916666669,
+                                101.45571899414062,
                                 101
                               ]
                             ]
@@ -3253,7 +3267,7 @@
                             "type" : "AddLine",
                             "points" : [
                               [
-                                1.4557291666666856,
+                                1.455718994140625,
                                 101
                               ]
                             ]
@@ -3265,7 +3279,7 @@
                             "type" : "MoveToPoint",
                             "points" : [
                               [
-                                1.4557291666666856,
+                                1.455718994140625,
                                 1
                               ]
                             ]
@@ -3293,7 +3307,7 @@
                       "rotation" : 0,
                       "scale" : 1,
                       "position" : {
-                        "pointX" : 50.044270833333314,
+                        "pointX" : 50.044281005859375,
                         "pointY" : 50
                       },
                       "width" : 103,
@@ -3408,7 +3422,7 @@
                   "rotation" : 0,
                   "scale" : 1,
                   "position" : {
-                    "pointX" : 414.22786458333337,
+                    "pointX" : 414.22787475585938,
                     "pointY" : 300
                   },
                   "width" : 103,
@@ -3465,7 +3479,7 @@
                             "type" : "MoveToPoint",
                             "points" : [
                               [
-                                1.7278645833333712,
+                                1.727874755859375,
                                 1
                               ]
                             ]
@@ -3474,7 +3488,7 @@
                             "type" : "AddLine",
                             "points" : [
                               [
-                                101.72786458333337,
+                                101.72787475585938,
                                 1
                               ]
                             ]
@@ -3483,7 +3497,7 @@
                             "type" : "AddLine",
                             "points" : [
                               [
-                                101.72786458333337,
+                                101.72787475585938,
                                 101
                               ]
                             ]
@@ -3492,7 +3506,7 @@
                             "type" : "AddLine",
                             "points" : [
                               [
-                                1.7278645833333712,
+                                1.727874755859375,
                                 101
                               ]
                             ]
@@ -3504,7 +3518,7 @@
                             "type" : "MoveToPoint",
                             "points" : [
                               [
-                                1.7278645833333712,
+                                1.727874755859375,
                                 1
                               ]
                             ]
@@ -3532,7 +3546,7 @@
                       "rotation" : 0,
                       "scale" : 1,
                       "position" : {
-                        "pointX" : 49.772135416666629,
+                        "pointX" : 49.772125244140625,
                         "pointY" : 50
                       },
                       "width" : 103,
@@ -4073,8 +4087,8 @@
                   "rotation" : 0,
                   "scale" : 1,
                   "position" : {
-                    "pointX" : 408.72386622202396,
-                    "pointY" : 463.5
+                    "pointX" : 408.723876953125,
+                    "pointY" : 463.50000035762787
                   },
                   "width" : 182,
                   "sublayerTransform" : [
@@ -4121,7 +4135,7 @@
                     "texturedRectangle" : {
                       "singleTextureOpacity" : 1,
                       "textXHeight" : 0.44905263157894737,
-                      "textBaseline" : 0.71905517578125,
+                      "textBaseline" : 0.71905518519250966,
                       "isBackgroundTexture" : true,
                       "isVerticalText" : false,
                       "textColor" : [
@@ -4145,8 +4159,8 @@
                       "rotation" : 0,
                       "scale" : 1,
                       "position" : {
-                        "pointX" : 95.276133777976042,
-                        "pointY" : 31.5
+                        "pointX" : 95.276123046875,
+                        "pointY" : 31.499999642372131
                       },
                       "width" : 182,
                       "sublayerTransform" : [
@@ -4260,7 +4274,7 @@
                   "rotation" : 0,
                   "scale" : 1,
                   "position" : {
-                    "pointX" : 624.77215766906738,
+                    "pointX" : 624.77215576171875,
                     "pointY" : 300
                   },
                   "width" : 103,
@@ -4317,7 +4331,7 @@
                             "type" : "MoveToPoint",
                             "points" : [
                               [
-                                1.2721576690673828,
+                                1.27215576171875,
                                 1
                               ]
                             ]
@@ -4326,7 +4340,7 @@
                             "type" : "AddLine",
                             "points" : [
                               [
-                                101.27215766906738,
+                                101.27215576171875,
                                 1
                               ]
                             ]
@@ -4335,7 +4349,7 @@
                             "type" : "AddLine",
                             "points" : [
                               [
-                                101.27215766906738,
+                                101.27215576171875,
                                 101
                               ]
                             ]
@@ -4344,7 +4358,7 @@
                             "type" : "AddLine",
                             "points" : [
                               [
-                                1.2721576690673828,
+                                1.27215576171875,
                                 101
                               ]
                             ]
@@ -4356,7 +4370,7 @@
                             "type" : "MoveToPoint",
                             "points" : [
                               [
-                                1.2721576690673828,
+                                1.27215576171875,
                                 1
                               ]
                             ]
@@ -4384,7 +4398,7 @@
                       "rotation" : 0,
                       "scale" : 1,
                       "position" : {
-                        "pointX" : 50.227842330932617,
+                        "pointX" : 50.22784423828125,
                         "pointY" : 50
                       },
                       "width" : 103,
@@ -4499,7 +4513,7 @@
                   "rotation" : 0,
                   "scale" : 1,
                   "position" : {
-                    "pointX" : 823.22784614562988,
+                    "pointX" : 823.22784423828125,
                     "pointY" : 376.5
                   },
                   "width" : 557,
@@ -4566,7 +4580,7 @@
                       "rotation" : 0,
                       "scale" : 1,
                       "position" : {
-                        "pointX" : 276.77215385437012,
+                        "pointX" : 276.77215576171875,
                         "pointY" : 126.5
                       },
                       "width" : 557,
@@ -4785,7 +4799,7 @@
                         "pointY" : 0.5
                       }
                     },
-                    "texture" : "4C901ED57E5F48CFDD0BF3CB170380E8"
+                    "texture" : "99CD8526EC13EB754A17378E612EBF5C"
                   }
                 ]
               }
@@ -4863,8 +4877,8 @@
                   "rotation" : 0,
                   "scale" : 1,
                   "position" : {
-                    "pointX" : 299.2721004486084,
-                    "pointY" : 381.75000309944153
+                    "pointX" : 299.27209663391113,
+                    "pointY" : 381.75000095367432
                   },
                   "width" : 360,
                   "sublayerTransform" : [
@@ -4911,7 +4925,7 @@
                     "texturedRectangle" : {
                       "singleTextureOpacity" : 1,
                       "textXHeight" : 2.5760000000000001,
-                      "textBaseline" : 5.0646810181935624,
+                      "textBaseline" : 5.0646809895833336,
                       "isBackgroundTexture" : true,
                       "isVerticalText" : false,
                       "textColor" : [
@@ -4935,8 +4949,8 @@
                       "rotation" : 0,
                       "scale" : 1,
                       "position" : {
-                        "pointX" : 288.7278995513916,
-                        "pointY" : 61.249996900558472
+                        "pointX" : 288.72790336608887,
+                        "pointY" : 61.249999046325684
                       },
                       "width" : 360,
                       "sublayerTransform" : [
@@ -5003,7 +5017,7 @@
               "scale" : 1,
               "position" : {
                 "pointX" : 471,
-                "pointY" : 639.50000429153442
+                "pointY" : 639.50000143051147
               },
               "width" : 908,
               "sublayerTransform" : [
@@ -5051,7 +5065,7 @@
                 "texturedRectangle" : {
                   "singleTextureOpacity" : 1,
                   "textXHeight" : 0.34128000000000003,
-                  "textBaseline" : 0.78648201942443852,
+                  "textBaseline" : 0.78648196220397948,
                   "isBackgroundTexture" : false,
                   "isVerticalText" : false,
                   "textColor" : [
@@ -5076,7 +5090,7 @@
                   "scale" : 1,
                   "position" : {
                     "pointX" : 399,
-                    "pointY" : 25.499995708465576
+                    "pointY" : 25.499998569488525
                   },
                   "width" : 790,
                   "sublayerTransform" : [
@@ -5132,7 +5146,7 @@
                   "scale" : 1,
                   "position" : {
                     "pointX" : 495,
-                    "pointY" : -157.50000429153442
+                    "pointY" : -157.50000143051147
                   },
                   "width" : 908,
                   "sublayerTransform" : [
@@ -5165,7 +5179,7 @@
                   "hidden" : false,
                   "anchorPoint" : {
                     "pointX" : 0.54515418502202639,
-                    "pointY" : -0.80357145046701239
+                    "pointY" : -0.8035714358699565
                   }
                 },
                 "layers" : [
@@ -5193,7 +5207,7 @@
                     "texturedRectangle" : {
                       "singleTextureOpacity" : 1,
                       "textXHeight" : 0.34128000000000003,
-                      "textBaseline" : 0.78648201942443852,
+                      "textBaseline" : 0.78648196220397948,
                       "isBackgroundTexture" : false,
                       "isVerticalText" : false,
                       "textColor" : [
@@ -5218,7 +5232,7 @@
                       "scale" : 1,
                       "position" : {
                         "pointX" : 443.5,
-                        "pointY" : 98.499995708465576
+                        "pointY" : 98.499998569488525
                       },
                       "width" : 879,
                       "sublayerTransform" : [
@@ -5268,7 +5282,7 @@
                 "texturedRectangle" : {
                   "singleTextureOpacity" : 1,
                   "textXHeight" : 0.34128000000000003,
-                  "textBaseline" : 0.78648201942443852,
+                  "textBaseline" : 0.78648196220397948,
                   "isBackgroundTexture" : false,
                   "isVerticalText" : false,
                   "textColor" : [
@@ -5293,7 +5307,7 @@
                   "scale" : 1,
                   "position" : {
                     "pointX" : 458,
-                    "pointY" : 171.49999570846558
+                    "pointY" : 171.49999856948853
                   },
                   "width" : 908,
                   "sublayerTransform" : [
@@ -5353,7 +5367,7 @@
                   "rotation" : 0,
                   "scale" : 1,
                   "position" : {
-                    "pointX" : 823.22784614562988,
+                    "pointX" : 823.22784423828125,
                     "pointY" : 376.5
                   },
                   "width" : 557,
@@ -5409,7 +5423,7 @@
                       "rotation" : 0,
                       "scale" : 1,
                       "position" : {
-                        "pointX" : -32.727846145629883,
+                        "pointX" : -32.72784423828125,
                         "pointY" : 135
                       },
                       "width" : 557,
@@ -5442,7 +5456,7 @@
                       "height" : 255,
                       "hidden" : false,
                       "anchorPoint" : {
-                        "pointX" : -0.058757353941884888,
+                        "pointX" : -0.058757350517560591,
                         "pointY" : 0.52941176470588236
                       }
                     },
@@ -5489,7 +5503,7 @@
                           "rotation" : 0,
                           "scale" : 1,
                           "position" : {
-                            "pointX" : 276.77215385437012,
+                            "pointX" : 276.77215576171875,
                             "pointY" : 126.5
                           },
                           "width" : 557,
@@ -5553,60 +5567,6 @@
       ],
       "accessibility" : [
         {
-          "text" : "Memory is split into pages (each 4KiB on x86)",
-          "targetRectangle" : {
-            "y" : 545.50000429153442,
-            "x" : 58.05882453918457,
-            "width" : 753.15599999999984,
-            "height" : 73
-          }
-        },
-        {
-          "text" : "0x0000..0",
-          "targetRectangle" : {
-            "y" : 320.51806628704071,
-            "x" : 154.57959425449371,
-            "width" : 82.20799999999997,
-            "height" : 28.40008544921875
-          }
-        },
-        {
-          "text" : "{",
-          "targetRectangle" : {
-            "y" : 349.25000214576721,
-            "x" : 123.2721004486084,
-            "width" : 546,
-            "height" : 92.000000000000057
-          }
-        },
-        {
-          "text" : "User space",
-          "targetRectangle" : {
-            "y" : 448.5,
-            "x" : 321.72386622202396,
-            "width" : 181.00799999999998,
-            "height" : 49
-          }
-        },
-        {
-          "text" : "c)",
-          "targetRectangle" : {
-            "y" : 184.37500035762787,
-            "x" : 470.78045654296875,
-            "width" : 30.420000000000016,
-            "height" : 49
-          }
-        },
-        {
-          "text" : "Meltdown & Spectre for normal people",
-          "targetRectangle" : {
-            "y" : 40,
-            "x" : 36,
-            "width" : 519.28593814373016,
-            "height" : 28
-          }
-        },
-        {
           "text" : "Kernel space",
           "targetRectangle" : {
             "y" : 448.50000035762787,
@@ -5625,6 +5585,33 @@
           }
         },
         {
+          "text" : "c)",
+          "targetRectangle" : {
+            "y" : 184.37500035762787,
+            "x" : 470.78044891357422,
+            "width" : 30.420000000000016,
+            "height" : 49
+          }
+        },
+        {
+          "text" : "{",
+          "targetRectangle" : {
+            "y" : 349.25,
+            "x" : 123.27209663391113,
+            "width" : 546,
+            "height" : 92.000000000000057
+          }
+        },
+        {
+          "text" : "Meltdown & Spectre for normal people",
+          "targetRectangle" : {
+            "y" : 40,
+            "x" : 36,
+            "width" : 519.28593814373016,
+            "height" : 28
+          }
+        },
+        {
           "text" : "{",
           "targetRectangle" : {
             "y" : 348.60952758789062,
@@ -5640,6 +5627,33 @@
             "x" : 43.474161125165999,
             "width" : 84.951999999999998,
             "height" : 56.720068697930401
+          }
+        },
+        {
+          "text" : "Memory is split into pages (each 4KiB on x86)",
+          "targetRectangle" : {
+            "y" : 545.50000143051147,
+            "x" : 58.05882453918457,
+            "width" : 753.15599999999984,
+            "height" : 73
+          }
+        },
+        {
+          "text" : "0x0000..0",
+          "targetRectangle" : {
+            "y" : 320.51806628704071,
+            "x" : 154.57959425449371,
+            "width" : 82.20799999999997,
+            "height" : 28.40008544921875
+          }
+        },
+        {
+          "text" : "User space",
+          "targetRectangle" : {
+            "y" : 448.50000035762787,
+            "x" : 321.723876953125,
+            "width" : 181.00799999999998,
+            "height" : 49
           }
         }
       ],
@@ -7174,7 +7188,7 @@
                   "scale" : 1,
                   "position" : {
                     "pointX" : 471,
-                    "pointY" : 639.50000429153442
+                    "pointY" : 639.50000143051147
                   },
                   "width" : 908,
                   "sublayerTransform" : [
@@ -7222,7 +7236,7 @@
                     "texturedRectangle" : {
                       "singleTextureOpacity" : 1,
                       "textXHeight" : 0.34128000000000003,
-                      "textBaseline" : 0.78648201942443852,
+                      "textBaseline" : 0.78648196220397948,
                       "isBackgroundTexture" : false,
                       "isVerticalText" : false,
                       "textColor" : [
@@ -7247,7 +7261,7 @@
                       "scale" : 1,
                       "position" : {
                         "pointX" : 399,
-                        "pointY" : 25.499995708465576
+                        "pointY" : 25.499998569488525
                       },
                       "width" : 790,
                       "sublayerTransform" : [
@@ -7295,7 +7309,7 @@
                     "texturedRectangle" : {
                       "singleTextureOpacity" : 1,
                       "textXHeight" : 0.34128000000000003,
-                      "textBaseline" : 0.78648201942443852,
+                      "textBaseline" : 0.78648196220397948,
                       "isBackgroundTexture" : false,
                       "isVerticalText" : false,
                       "textColor" : [
@@ -7320,7 +7334,7 @@
                       "scale" : 1,
                       "position" : {
                         "pointX" : 443.5,
-                        "pointY" : 98.499995708465576
+                        "pointY" : 98.499998569488525
                       },
                       "width" : 879,
                       "sublayerTransform" : [
@@ -7368,7 +7382,7 @@
                     "texturedRectangle" : {
                       "singleTextureOpacity" : 1,
                       "textXHeight" : 0.34128000000000003,
-                      "textBaseline" : 0.78648201942443852,
+                      "textBaseline" : 0.78648196220397948,
                       "isBackgroundTexture" : false,
                       "isVerticalText" : false,
                       "textColor" : [
@@ -7393,7 +7407,7 @@
                       "scale" : 1,
                       "position" : {
                         "pointX" : 458,
-                        "pointY" : 171.49999570846558
+                        "pointY" : 171.49999856948853
                       },
                       "width" : 908,
                       "sublayerTransform" : [
@@ -7746,7 +7760,7 @@
                   "rotation" : 0,
                   "scale" : 1,
                   "position" : {
-                    "pointX" : 308.95572916666669,
+                    "pointX" : 308.95571899414062,
                     "pointY" : 300
                   },
                   "width" : 103,
@@ -7803,7 +7817,7 @@
                             "type" : "MoveToPoint",
                             "points" : [
                               [
-                                1.4557291666666856,
+                                1.455718994140625,
                                 1
                               ]
                             ]
@@ -7812,7 +7826,7 @@
                             "type" : "AddLine",
                             "points" : [
                               [
-                                101.45572916666669,
+                                101.45571899414062,
                                 1
                               ]
                             ]
@@ -7821,7 +7835,7 @@
                             "type" : "AddLine",
                             "points" : [
                               [
-                                101.45572916666669,
+                                101.45571899414062,
                                 101
                               ]
                             ]
@@ -7830,7 +7844,7 @@
                             "type" : "AddLine",
                             "points" : [
                               [
-                                1.4557291666666856,
+                                1.455718994140625,
                                 101
                               ]
                             ]
@@ -7842,7 +7856,7 @@
                             "type" : "MoveToPoint",
                             "points" : [
                               [
-                                1.4557291666666856,
+                                1.455718994140625,
                                 1
                               ]
                             ]
@@ -7870,7 +7884,7 @@
                       "rotation" : 0,
                       "scale" : 1,
                       "position" : {
-                        "pointX" : 50.044270833333314,
+                        "pointX" : 50.044281005859375,
                         "pointY" : 50
                       },
                       "width" : 103,
@@ -7985,7 +7999,7 @@
                   "rotation" : 0,
                   "scale" : 1,
                   "position" : {
-                    "pointX" : 414.22786458333337,
+                    "pointX" : 414.22787475585938,
                     "pointY" : 300
                   },
                   "width" : 103,
@@ -8042,7 +8056,7 @@
                             "type" : "MoveToPoint",
                             "points" : [
                               [
-                                1.7278645833333712,
+                                1.727874755859375,
                                 1
                               ]
                             ]
@@ -8051,7 +8065,7 @@
                             "type" : "AddLine",
                             "points" : [
                               [
-                                101.72786458333337,
+                                101.72787475585938,
                                 1
                               ]
                             ]
@@ -8060,7 +8074,7 @@
                             "type" : "AddLine",
                             "points" : [
                               [
-                                101.72786458333337,
+                                101.72787475585938,
                                 101
                               ]
                             ]
@@ -8069,7 +8083,7 @@
                             "type" : "AddLine",
                             "points" : [
                               [
-                                1.7278645833333712,
+                                1.727874755859375,
                                 101
                               ]
                             ]
@@ -8081,7 +8095,7 @@
                             "type" : "MoveToPoint",
                             "points" : [
                               [
-                                1.7278645833333712,
+                                1.727874755859375,
                                 1
                               ]
                             ]
@@ -8109,7 +8123,7 @@
                       "rotation" : 0,
                       "scale" : 1,
                       "position" : {
-                        "pointX" : 49.772135416666629,
+                        "pointX" : 49.772125244140625,
                         "pointY" : 50
                       },
                       "width" : 103,
@@ -8650,8 +8664,8 @@
                   "rotation" : 0,
                   "scale" : 1,
                   "position" : {
-                    "pointX" : 408.72386622202396,
-                    "pointY" : 463.5
+                    "pointX" : 408.723876953125,
+                    "pointY" : 463.50000035762787
                   },
                   "width" : 182,
                   "sublayerTransform" : [
@@ -8698,7 +8712,7 @@
                     "texturedRectangle" : {
                       "singleTextureOpacity" : 1,
                       "textXHeight" : 0.44905263157894737,
-                      "textBaseline" : 0.71905517578125,
+                      "textBaseline" : 0.71905518519250966,
                       "isBackgroundTexture" : true,
                       "isVerticalText" : false,
                       "textColor" : [
@@ -8722,8 +8736,8 @@
                       "rotation" : 0,
                       "scale" : 1,
                       "position" : {
-                        "pointX" : 95.276133777976042,
-                        "pointY" : 31.5
+                        "pointX" : 95.276123046875,
+                        "pointY" : 31.499999642372131
                       },
                       "width" : 182,
                       "sublayerTransform" : [
@@ -8837,7 +8851,7 @@
                   "rotation" : 0,
                   "scale" : 1,
                   "position" : {
-                    "pointX" : 624.77215766906738,
+                    "pointX" : 624.77215576171875,
                     "pointY" : 300
                   },
                   "width" : 103,
@@ -8894,7 +8908,7 @@
                             "type" : "MoveToPoint",
                             "points" : [
                               [
-                                1.2721576690673828,
+                                1.27215576171875,
                                 1
                               ]
                             ]
@@ -8903,7 +8917,7 @@
                             "type" : "AddLine",
                             "points" : [
                               [
-                                101.27215766906738,
+                                101.27215576171875,
                                 1
                               ]
                             ]
@@ -8912,7 +8926,7 @@
                             "type" : "AddLine",
                             "points" : [
                               [
-                                101.27215766906738,
+                                101.27215576171875,
                                 101
                               ]
                             ]
@@ -8921,7 +8935,7 @@
                             "type" : "AddLine",
                             "points" : [
                               [
-                                1.2721576690673828,
+                                1.27215576171875,
                                 101
                               ]
                             ]
@@ -8933,7 +8947,7 @@
                             "type" : "MoveToPoint",
                             "points" : [
                               [
-                                1.2721576690673828,
+                                1.27215576171875,
                                 1
                               ]
                             ]
@@ -8961,7 +8975,7 @@
                       "rotation" : 0,
                       "scale" : 1,
                       "position" : {
-                        "pointX" : 50.227842330932617,
+                        "pointX" : 50.22784423828125,
                         "pointY" : 50
                       },
                       "width" : 103,
@@ -9076,7 +9090,7 @@
                   "rotation" : 0,
                   "scale" : 1,
                   "position" : {
-                    "pointX" : 823.22784614562988,
+                    "pointX" : 823.22784423828125,
                     "pointY" : 376.5
                   },
                   "width" : 557,
@@ -9143,7 +9157,7 @@
                       "rotation" : 0,
                       "scale" : 1,
                       "position" : {
-                        "pointX" : 276.77215385437012,
+                        "pointX" : 276.77215576171875,
                         "pointY" : 126.5
                       },
                       "width" : 557,
@@ -9362,7 +9376,7 @@
                         "pointY" : 0.5
                       }
                     },
-                    "texture" : "4C901ED57E5F48CFDD0BF3CB170380E8"
+                    "texture" : "99CD8526EC13EB754A17378E612EBF5C"
                   }
                 ]
               }
@@ -9440,8 +9454,8 @@
                   "rotation" : 0,
                   "scale" : 1,
                   "position" : {
-                    "pointX" : 299.2721004486084,
-                    "pointY" : 381.75000309944153
+                    "pointX" : 299.27209663391113,
+                    "pointY" : 381.75000095367432
                   },
                   "width" : 360,
                   "sublayerTransform" : [
@@ -9488,7 +9502,7 @@
                     "texturedRectangle" : {
                       "singleTextureOpacity" : 1,
                       "textXHeight" : 2.5760000000000001,
-                      "textBaseline" : 5.0646810181935624,
+                      "textBaseline" : 5.0646809895833336,
                       "isBackgroundTexture" : true,
                       "isVerticalText" : false,
                       "textColor" : [
@@ -9512,8 +9526,8 @@
                       "rotation" : 0,
                       "scale" : 1,
                       "position" : {
-                        "pointX" : 288.7278995513916,
-                        "pointY" : 61.249996900558472
+                        "pointX" : 288.72790336608887,
+                        "pointY" : 61.249999046325684
                       },
                       "width" : 360,
                       "sublayerTransform" : [
@@ -9580,7 +9594,7 @@
               "scale" : 1,
               "position" : {
                 "pointX" : 471,
-                "pointY" : 639.50000429153442
+                "pointY" : 639.50000143051147
               },
               "width" : 908,
               "sublayerTransform" : [
@@ -9628,7 +9642,7 @@
                 "texturedRectangle" : {
                   "singleTextureOpacity" : 1,
                   "textXHeight" : 0.34128000000000003,
-                  "textBaseline" : 0.78648201942443852,
+                  "textBaseline" : 0.78648196220397948,
                   "isBackgroundTexture" : false,
                   "isVerticalText" : false,
                   "textColor" : [
@@ -9653,7 +9667,7 @@
                   "scale" : 1,
                   "position" : {
                     "pointX" : 399,
-                    "pointY" : 25.499995708465576
+                    "pointY" : 25.499998569488525
                   },
                   "width" : 790,
                   "sublayerTransform" : [
@@ -9701,7 +9715,7 @@
                 "texturedRectangle" : {
                   "singleTextureOpacity" : 1,
                   "textXHeight" : 0.34128000000000003,
-                  "textBaseline" : 0.78648201942443852,
+                  "textBaseline" : 0.78648196220397948,
                   "isBackgroundTexture" : false,
                   "isVerticalText" : false,
                   "textColor" : [
@@ -9726,7 +9740,7 @@
                   "scale" : 1,
                   "position" : {
                     "pointX" : 443.5,
-                    "pointY" : 98.499995708465576
+                    "pointY" : 98.499998569488525
                   },
                   "width" : 879,
                   "sublayerTransform" : [
@@ -9782,7 +9796,7 @@
                   "scale" : 1,
                   "position" : {
                     "pointX" : 495,
-                    "pointY" : -157.50000429153442
+                    "pointY" : -157.50000143051147
                   },
                   "width" : 908,
                   "sublayerTransform" : [
@@ -9815,7 +9829,7 @@
                   "hidden" : false,
                   "anchorPoint" : {
                     "pointX" : 0.54515418502202639,
-                    "pointY" : -0.80357145046701239
+                    "pointY" : -0.8035714358699565
                   }
                 },
                 "layers" : [
@@ -9843,7 +9857,7 @@
                     "texturedRectangle" : {
                       "singleTextureOpacity" : 1,
                       "textXHeight" : 0.34128000000000003,
-                      "textBaseline" : 0.78648201942443852,
+                      "textBaseline" : 0.78648196220397948,
                       "isBackgroundTexture" : false,
                       "isVerticalText" : false,
                       "textColor" : [
@@ -9868,7 +9882,7 @@
                       "scale" : 1,
                       "position" : {
                         "pointX" : 458,
-                        "pointY" : 171.49999570846558
+                        "pointY" : 171.49999856948853
                       },
                       "width" : 908,
                       "sublayerTransform" : [
@@ -10103,7 +10117,7 @@
                             "pointY" : 0.5
                           }
                         },
-                        "texture" : "4C901ED57E5F48CFDD0BF3CB170380E8"
+                        "texture" : "99CD8526EC13EB754A17378E612EBF5C"
                       }
                     ]
                   }
@@ -10130,69 +10144,6 @@
       ],
       "accessibility" : [
         {
-          "text" : "Memory is split into pages (each 4KiB on x86)",
-          "targetRectangle" : {
-            "y" : 545.50000429153442,
-            "x" : 58.05882453918457,
-            "width" : 753.15599999999984,
-            "height" : 73
-          }
-        },
-        {
-          "text" : "The kernel maps its own memory into each process",
-          "targetRectangle" : {
-            "y" : 618.50000429153442,
-            "x" : 58.05882453918457,
-            "width" : 842.18400000000008,
-            "height" : 73
-          }
-        },
-        {
-          "text" : "0x0000..0",
-          "targetRectangle" : {
-            "y" : 320.51806628704071,
-            "x" : 154.57959425449371,
-            "width" : 82.20799999999997,
-            "height" : 28.40008544921875
-          }
-        },
-        {
-          "text" : "{",
-          "targetRectangle" : {
-            "y" : 349.25000214576721,
-            "x" : 123.2721004486084,
-            "width" : 546,
-            "height" : 92.000000000000057
-          }
-        },
-        {
-          "text" : "User space",
-          "targetRectangle" : {
-            "y" : 448.5,
-            "x" : 321.72386622202396,
-            "width" : 181.00799999999998,
-            "height" : 49
-          }
-        },
-        {
-          "text" : "c)",
-          "targetRectangle" : {
-            "y" : 184.37500035762787,
-            "x" : 470.78045654296875,
-            "width" : 30.420000000000016,
-            "height" : 49
-          }
-        },
-        {
-          "text" : "Meltdown & Spectre for normal people",
-          "targetRectangle" : {
-            "y" : 40,
-            "x" : 36,
-            "width" : 519.28593814373016,
-            "height" : 28
-          }
-        },
-        {
           "text" : "Kernel space",
           "targetRectangle" : {
             "y" : 448.50000035762787,
@@ -10211,6 +10162,33 @@
           }
         },
         {
+          "text" : "c)",
+          "targetRectangle" : {
+            "y" : 184.37500035762787,
+            "x" : 470.78044891357422,
+            "width" : 30.420000000000016,
+            "height" : 49
+          }
+        },
+        {
+          "text" : "{",
+          "targetRectangle" : {
+            "y" : 349.25,
+            "x" : 123.27209663391113,
+            "width" : 546,
+            "height" : 92.000000000000057
+          }
+        },
+        {
+          "text" : "Meltdown & Spectre for normal people",
+          "targetRectangle" : {
+            "y" : 40,
+            "x" : 36,
+            "width" : 519.28593814373016,
+            "height" : 28
+          }
+        },
+        {
           "text" : "{",
           "targetRectangle" : {
             "y" : 348.60952758789062,
@@ -10226,6 +10204,42 @@
             "x" : 43.474161125165999,
             "width" : 84.951999999999998,
             "height" : 56.720068697930401
+          }
+        },
+        {
+          "text" : "Memory is split into pages (each 4KiB on x86)",
+          "targetRectangle" : {
+            "y" : 545.50000143051147,
+            "x" : 58.05882453918457,
+            "width" : 753.15599999999984,
+            "height" : 73
+          }
+        },
+        {
+          "text" : "The kernel maps its own memory into each process",
+          "targetRectangle" : {
+            "y" : 618.50000143051147,
+            "x" : 58.05882453918457,
+            "width" : 842.18400000000008,
+            "height" : 73
+          }
+        },
+        {
+          "text" : "0x0000..0",
+          "targetRectangle" : {
+            "y" : 320.51806628704071,
+            "x" : 154.57959425449371,
+            "width" : 82.20799999999997,
+            "height" : 28.40008544921875
+          }
+        },
+        {
+          "text" : "User space",
+          "targetRectangle" : {
+            "y" : 448.50000035762787,
+            "x" : 321.723876953125,
+            "width" : 181.00799999999998,
+            "height" : 49
           }
         }
       ],
@@ -11760,7 +11774,7 @@
                   "scale" : 1,
                   "position" : {
                     "pointX" : 471,
-                    "pointY" : 639.50000429153442
+                    "pointY" : 639.50000143051147
                   },
                   "width" : 908,
                   "sublayerTransform" : [
@@ -11808,7 +11822,7 @@
                     "texturedRectangle" : {
                       "singleTextureOpacity" : 1,
                       "textXHeight" : 0.34128000000000003,
-                      "textBaseline" : 0.78648201942443852,
+                      "textBaseline" : 0.78648196220397948,
                       "isBackgroundTexture" : false,
                       "isVerticalText" : false,
                       "textColor" : [
@@ -11833,7 +11847,7 @@
                       "scale" : 1,
                       "position" : {
                         "pointX" : 399,
-                        "pointY" : 25.499995708465576
+                        "pointY" : 25.499998569488525
                       },
                       "width" : 790,
                       "sublayerTransform" : [
@@ -11881,7 +11895,7 @@
                     "texturedRectangle" : {
                       "singleTextureOpacity" : 1,
                       "textXHeight" : 0.34128000000000003,
-                      "textBaseline" : 0.78648201942443852,
+                      "textBaseline" : 0.78648196220397948,
                       "isBackgroundTexture" : false,
                       "isVerticalText" : false,
                       "textColor" : [
@@ -11906,7 +11920,7 @@
                       "scale" : 1,
                       "position" : {
                         "pointX" : 443.5,
-                        "pointY" : 98.499995708465576
+                        "pointY" : 98.499998569488525
                       },
                       "width" : 879,
                       "sublayerTransform" : [
@@ -11954,7 +11968,7 @@
                     "texturedRectangle" : {
                       "singleTextureOpacity" : 1,
                       "textXHeight" : 0.34128000000000003,
-                      "textBaseline" : 0.78648201942443852,
+                      "textBaseline" : 0.78648196220397948,
                       "isBackgroundTexture" : false,
                       "isVerticalText" : false,
                       "textColor" : [
@@ -11979,7 +11993,7 @@
                       "scale" : 1,
                       "position" : {
                         "pointX" : 458,
-                        "pointY" : 171.49999570846558
+                        "pointY" : 171.49999856948853
                       },
                       "width" : 908,
                       "sublayerTransform" : [
@@ -12332,7 +12346,7 @@
                   "rotation" : 0,
                   "scale" : 1,
                   "position" : {
-                    "pointX" : 308.95572916666669,
+                    "pointX" : 308.95571899414062,
                     "pointY" : 300
                   },
                   "width" : 103,
@@ -12389,7 +12403,7 @@
                             "type" : "MoveToPoint",
                             "points" : [
                               [
-                                1.4557291666666856,
+                                1.455718994140625,
                                 1
                               ]
                             ]
@@ -12398,7 +12412,7 @@
                             "type" : "AddLine",
                             "points" : [
                               [
-                                101.45572916666669,
+                                101.45571899414062,
                                 1
                               ]
                             ]
@@ -12407,7 +12421,7 @@
                             "type" : "AddLine",
                             "points" : [
                               [
-                                101.45572916666669,
+                                101.45571899414062,
                                 101
                               ]
                             ]
@@ -12416,7 +12430,7 @@
                             "type" : "AddLine",
                             "points" : [
                               [
-                                1.4557291666666856,
+                                1.455718994140625,
                                 101
                               ]
                             ]
@@ -12428,7 +12442,7 @@
                             "type" : "MoveToPoint",
                             "points" : [
                               [
-                                1.4557291666666856,
+                                1.455718994140625,
                                 1
                               ]
                             ]
@@ -12456,7 +12470,7 @@
                       "rotation" : 0,
                       "scale" : 1,
                       "position" : {
-                        "pointX" : 50.044270833333314,
+                        "pointX" : 50.044281005859375,
                         "pointY" : 50
                       },
                       "width" : 103,
@@ -12571,7 +12585,7 @@
                   "rotation" : 0,
                   "scale" : 1,
                   "position" : {
-                    "pointX" : 414.22786458333337,
+                    "pointX" : 414.22787475585938,
                     "pointY" : 300
                   },
                   "width" : 103,
@@ -12628,7 +12642,7 @@
                             "type" : "MoveToPoint",
                             "points" : [
                               [
-                                1.7278645833333712,
+                                1.727874755859375,
                                 1
                               ]
                             ]
@@ -12637,7 +12651,7 @@
                             "type" : "AddLine",
                             "points" : [
                               [
-                                101.72786458333337,
+                                101.72787475585938,
                                 1
                               ]
                             ]
@@ -12646,7 +12660,7 @@
                             "type" : "AddLine",
                             "points" : [
                               [
-                                101.72786458333337,
+                                101.72787475585938,
                                 101
                               ]
                             ]
@@ -12655,7 +12669,7 @@
                             "type" : "AddLine",
                             "points" : [
                               [
-                                1.7278645833333712,
+                                1.727874755859375,
                                 101
                               ]
                             ]
@@ -12667,7 +12681,7 @@
                             "type" : "MoveToPoint",
                             "points" : [
                               [
-                                1.7278645833333712,
+                                1.727874755859375,
                                 1
                               ]
                             ]
@@ -12695,7 +12709,7 @@
                       "rotation" : 0,
                       "scale" : 1,
                       "position" : {
-                        "pointX" : 49.772135416666629,
+                        "pointX" : 49.772125244140625,
                         "pointY" : 50
                       },
                       "width" : 103,
@@ -13236,8 +13250,8 @@
                   "rotation" : 0,
                   "scale" : 1,
                   "position" : {
-                    "pointX" : 408.72386622202396,
-                    "pointY" : 463.5
+                    "pointX" : 408.723876953125,
+                    "pointY" : 463.50000035762787
                   },
                   "width" : 182,
                   "sublayerTransform" : [
@@ -13284,7 +13298,7 @@
                     "texturedRectangle" : {
                       "singleTextureOpacity" : 1,
                       "textXHeight" : 0.44905263157894737,
-                      "textBaseline" : 0.71905517578125,
+                      "textBaseline" : 0.71905518519250966,
                       "isBackgroundTexture" : true,
                       "isVerticalText" : false,
                       "textColor" : [
@@ -13308,8 +13322,8 @@
                       "rotation" : 0,
                       "scale" : 1,
                       "position" : {
-                        "pointX" : 95.276133777976042,
-                        "pointY" : 31.5
+                        "pointX" : 95.276123046875,
+                        "pointY" : 31.499999642372131
                       },
                       "width" : 182,
                       "sublayerTransform" : [
@@ -13423,7 +13437,7 @@
                   "rotation" : 0,
                   "scale" : 1,
                   "position" : {
-                    "pointX" : 624.77215766906738,
+                    "pointX" : 624.77215576171875,
                     "pointY" : 300
                   },
                   "width" : 103,
@@ -13480,7 +13494,7 @@
                             "type" : "MoveToPoint",
                             "points" : [
                               [
-                                1.2721576690673828,
+                                1.27215576171875,
                                 1
                               ]
                             ]
@@ -13489,7 +13503,7 @@
                             "type" : "AddLine",
                             "points" : [
                               [
-                                101.27215766906738,
+                                101.27215576171875,
                                 1
                               ]
                             ]
@@ -13498,7 +13512,7 @@
                             "type" : "AddLine",
                             "points" : [
                               [
-                                101.27215766906738,
+                                101.27215576171875,
                                 101
                               ]
                             ]
@@ -13507,7 +13521,7 @@
                             "type" : "AddLine",
                             "points" : [
                               [
-                                1.2721576690673828,
+                                1.27215576171875,
                                 101
                               ]
                             ]
@@ -13519,7 +13533,7 @@
                             "type" : "MoveToPoint",
                             "points" : [
                               [
-                                1.2721576690673828,
+                                1.27215576171875,
                                 1
                               ]
                             ]
@@ -13547,7 +13561,7 @@
                       "rotation" : 0,
                       "scale" : 1,
                       "position" : {
-                        "pointX" : 50.227842330932617,
+                        "pointX" : 50.22784423828125,
                         "pointY" : 50
                       },
                       "width" : 103,
@@ -13662,7 +13676,7 @@
                   "rotation" : 0,
                   "scale" : 1,
                   "position" : {
-                    "pointX" : 823.22784614562988,
+                    "pointX" : 823.22784423828125,
                     "pointY" : 376.5
                   },
                   "width" : 557,
@@ -13729,7 +13743,7 @@
                       "rotation" : 0,
                       "scale" : 1,
                       "position" : {
-                        "pointX" : 276.77215385437012,
+                        "pointX" : 276.77215576171875,
                         "pointY" : 126.5
                       },
                       "width" : 557,
@@ -13948,7 +13962,7 @@
                         "pointY" : 0.5
                       }
                     },
-                    "texture" : "4C901ED57E5F48CFDD0BF3CB170380E8"
+                    "texture" : "99CD8526EC13EB754A17378E612EBF5C"
                   }
                 ]
               }
@@ -14026,8 +14040,8 @@
                   "rotation" : 0,
                   "scale" : 1,
                   "position" : {
-                    "pointX" : 299.2721004486084,
-                    "pointY" : 381.75000309944153
+                    "pointX" : 299.27209663391113,
+                    "pointY" : 381.75000095367432
                   },
                   "width" : 360,
                   "sublayerTransform" : [
@@ -14074,7 +14088,7 @@
                     "texturedRectangle" : {
                       "singleTextureOpacity" : 1,
                       "textXHeight" : 2.5760000000000001,
-                      "textBaseline" : 5.0646810181935624,
+                      "textBaseline" : 5.0646809895833336,
                       "isBackgroundTexture" : true,
                       "isVerticalText" : false,
                       "textColor" : [
@@ -14098,8 +14112,8 @@
                       "rotation" : 0,
                       "scale" : 1,
                       "position" : {
-                        "pointX" : 288.7278995513916,
-                        "pointY" : 61.249996900558472
+                        "pointX" : 288.72790336608887,
+                        "pointY" : 61.249999046325684
                       },
                       "width" : 360,
                       "sublayerTransform" : [
@@ -15453,7 +15467,7 @@
                   "scale" : 1,
                   "position" : {
                     "pointX" : 522.9539794921875,
-                    "pointY" : 643.00000286102295
+                    "pointY" : 643
                   },
                   "width" : 1011.907958984375,
                   "sublayerTransform" : [
@@ -15540,7 +15554,7 @@
                     "texturedRectangle" : {
                       "singleTextureOpacity" : 1,
                       "textXHeight" : 0.34128000000000003,
-                      "textBaseline" : 0.78648201942443852,
+                      "textBaseline" : 0.78648196220397948,
                       "isBackgroundTexture" : true,
                       "isVerticalText" : false,
                       "textColor" : [
@@ -15565,7 +15579,7 @@
                       "scale" : 1,
                       "position" : {
                         "pointX" : 505.95397949218756,
-                        "pointY" : 101.5
+                        "pointY" : 101.50000000000001
                       },
                       "width" : 790,
                       "sublayerTransform" : [
@@ -15598,7 +15612,7 @@
                       "hidden" : false,
                       "anchorPoint" : {
                         "pointX" : 0.63538478416732602,
-                        "pointY" : 2.0200000858306884
+                        "pointY" : 2.0200000286102298
                       }
                     },
                     "texture" : "72B359A7C8DC1D3D07008A7813110CED"
@@ -15648,7 +15662,7 @@
                   "scale" : 1,
                   "position" : {
                     "pointX" : 522.9539794921875,
-                    "pointY" : 643.00000286102295
+                    "pointY" : 643
                   },
                   "width" : 1011.907958984375,
                   "sublayerTransform" : [
@@ -15735,202 +15749,7 @@
                     "texturedRectangle" : {
                       "singleTextureOpacity" : 1,
                       "textXHeight" : 0.34128000000000003,
-                      "textBaseline" : 0.78648201942443852,
-                      "isBackgroundTexture" : true,
-                      "isVerticalText" : false,
-                      "textColor" : [
-                        0.51380175352096558,
-                        0.5290953516960144,
-                        0.52940398454666138,
-                        1
-                      ],
-                      "textureType" : 6
-                    },
-                    "initialState" : {
-                      "affineTransform" : [
-                        1,
-                        0,
-                        0,
-                        1,
-                        0,
-                        0
-                      ],
-                      "masksToBounds" : false,
-                      "rotation" : 0,
-                      "scale" : 1,
-                      "position" : {
-                        "pointX" : 505.9539794921875,
-                        "pointY" : 101.5
-                      },
-                      "width" : 908,
-                      "sublayerTransform" : [
-                        1,
-                        0,
-                        0,
-                        0,
-                        0,
-                        1,
-                        0,
-                        0,
-                        0,
-                        0,
-                        1,
-                        0,
-                        0,
-                        0,
-                        0,
-                        1
-                      ],
-                      "contentsRect" : {
-                        "y" : 0,
-                        "x" : 0,
-                        "width" : 1,
-                        "height" : 1
-                      },
-                      "opacity" : 1,
-                      "edgeAntialiasingMask" : 0,
-                      "height" : 50,
-                      "hidden" : false,
-                      "anchorPoint" : {
-                        "pointX" : 0.55281275274469988,
-                        "pointY" : -0.89999991416931158
-                      }
-                    },
-                    "texture" : "EE1E9DD134EEB41FB8EA0F0C4F13210C"
-                  }
-                ]
-              },
-              {
-                "animations" : [
-                  {
-                    "timeOffset" : 0,
-                    "beginTime" : 0,
-                    "repeatCount" : 0,
-                    "animations" : [
-                      {
-                        "timeOffset" : 0,
-                        "from" : {
-                          "scalar" : 0.0070000000000000001
-                        },
-                        "beginTime" : 0,
-                        "repeatCount" : 0,
-                        "fillMode" : "both",
-                        "duration" : 1,
-                        "autoreverses" : false,
-                        "timingFunction" : "EaseInEaseOut",
-                        "property" : "zPosition",
-                        "to" : {
-                          "scalar" : 0.0070000000000000001
-                        }
-                      }
-                    ],
-                    "fillMode" : "both",
-                    "autoreverses" : false,
-                    "duration" : 1
-                  }
-                ],
-                "initialState" : {
-                  "affineTransform" : [
-                    1,
-                    0,
-                    0,
-                    1,
-                    0,
-                    0
-                  ],
-                  "masksToBounds" : false,
-                  "rotation" : 0,
-                  "scale" : 1,
-                  "position" : {
-                    "pointX" : 522.9539794921875,
-                    "pointY" : 643.00000286102295
-                  },
-                  "width" : 1011.907958984375,
-                  "sublayerTransform" : [
-                    1,
-                    0,
-                    0,
-                    0,
-                    0,
-                    1,
-                    0,
-                    0,
-                    0,
-                    0,
-                    1,
-                    0,
-                    0,
-                    0,
-                    0,
-                    1
-                  ],
-                  "contentsRect" : {
-                    "y" : 0,
-                    "x" : 0,
-                    "width" : 1,
-                    "height" : 1
-                  },
-                  "opacity" : 1,
-                  "edgeAntialiasingMask" : 251658240,
-                  "height" : 202.99999713897705,
-                  "hidden" : false,
-                  "anchorPoint" : {
-                    "pointX" : 0.5,
-                    "pointY" : 0.5
-                  }
-                },
-                "layers" : [
-                  {
-                    "animations" : [
-                      {
-                        "timeOffset" : 0,
-                        "beginTime" : 0,
-                        "repeatCount" : 0,
-                        "animations" : [
-                          {
-                            "timeOffset" : 0,
-                            "from" : {
-                              "scalar" : 1
-                            },
-                            "beginTime" : 0,
-                            "repeatCount" : 0,
-                            "fillMode" : "forwards",
-                            "duration" : 0.33329999999999999,
-                            "autoreverses" : false,
-                            "timingFunction" : "EaseInEaseOut",
-                            "property" : "opacity",
-                            "to" : {
-                              "scalar" : 0
-                            }
-                          },
-                          {
-                            "timeOffset" : 0,
-                            "from" : {
-                              "scalar" : true
-                            },
-                            "beginTime" : 0.33329999999999999,
-                            "repeatCount" : 0,
-                            "fillMode" : "forwards",
-                            "property" : "hidden",
-                            "autoreverses" : false,
-                            "duration" : 0.66670000000000007,
-                            "to" : {
-                              "scalar" : true
-                            }
-                          }
-                        ],
-                        "fillMode" : "both",
-                        "autoreverses" : false,
-                        "duration" : 1
-                      }
-                    ],
-                    "layers" : [
-
-                    ],
-                    "texturedRectangle" : {
-                      "singleTextureOpacity" : 1,
-                      "textXHeight" : 0.34128000000000003,
-                      "textBaseline" : 0.78648201942443852,
+                      "textBaseline" : 0.78648196220397948,
                       "isBackgroundTexture" : true,
                       "isVerticalText" : false,
                       "textColor" : [
@@ -15988,10 +15807,205 @@
                       "hidden" : false,
                       "anchorPoint" : {
                         "pointX" : 0.57105117120840443,
-                        "pointY" : 0.5600000858306885
+                        "pointY" : 0.56000002861022946
                       }
                     },
                     "texture" : "B1D1C9EAF6D30BD7421C1785CBD58969"
+                  }
+                ]
+              },
+              {
+                "animations" : [
+                  {
+                    "timeOffset" : 0,
+                    "beginTime" : 0,
+                    "repeatCount" : 0,
+                    "animations" : [
+                      {
+                        "timeOffset" : 0,
+                        "from" : {
+                          "scalar" : 0.0070000000000000001
+                        },
+                        "beginTime" : 0,
+                        "repeatCount" : 0,
+                        "fillMode" : "both",
+                        "duration" : 1,
+                        "autoreverses" : false,
+                        "timingFunction" : "EaseInEaseOut",
+                        "property" : "zPosition",
+                        "to" : {
+                          "scalar" : 0.0070000000000000001
+                        }
+                      }
+                    ],
+                    "fillMode" : "both",
+                    "autoreverses" : false,
+                    "duration" : 1
+                  }
+                ],
+                "initialState" : {
+                  "affineTransform" : [
+                    1,
+                    0,
+                    0,
+                    1,
+                    0,
+                    0
+                  ],
+                  "masksToBounds" : false,
+                  "rotation" : 0,
+                  "scale" : 1,
+                  "position" : {
+                    "pointX" : 522.9539794921875,
+                    "pointY" : 643
+                  },
+                  "width" : 1011.907958984375,
+                  "sublayerTransform" : [
+                    1,
+                    0,
+                    0,
+                    0,
+                    0,
+                    1,
+                    0,
+                    0,
+                    0,
+                    0,
+                    1,
+                    0,
+                    0,
+                    0,
+                    0,
+                    1
+                  ],
+                  "contentsRect" : {
+                    "y" : 0,
+                    "x" : 0,
+                    "width" : 1,
+                    "height" : 1
+                  },
+                  "opacity" : 1,
+                  "edgeAntialiasingMask" : 251658240,
+                  "height" : 202.99999713897705,
+                  "hidden" : false,
+                  "anchorPoint" : {
+                    "pointX" : 0.5,
+                    "pointY" : 0.5
+                  }
+                },
+                "layers" : [
+                  {
+                    "animations" : [
+                      {
+                        "timeOffset" : 0,
+                        "beginTime" : 0,
+                        "repeatCount" : 0,
+                        "animations" : [
+                          {
+                            "timeOffset" : 0,
+                            "from" : {
+                              "scalar" : 1
+                            },
+                            "beginTime" : 0,
+                            "repeatCount" : 0,
+                            "fillMode" : "forwards",
+                            "duration" : 0.33329999999999999,
+                            "autoreverses" : false,
+                            "timingFunction" : "EaseInEaseOut",
+                            "property" : "opacity",
+                            "to" : {
+                              "scalar" : 0
+                            }
+                          },
+                          {
+                            "timeOffset" : 0,
+                            "from" : {
+                              "scalar" : true
+                            },
+                            "beginTime" : 0.33329999999999999,
+                            "repeatCount" : 0,
+                            "fillMode" : "forwards",
+                            "property" : "hidden",
+                            "autoreverses" : false,
+                            "duration" : 0.66670000000000007,
+                            "to" : {
+                              "scalar" : true
+                            }
+                          }
+                        ],
+                        "fillMode" : "both",
+                        "autoreverses" : false,
+                        "duration" : 1
+                      }
+                    ],
+                    "layers" : [
+
+                    ],
+                    "texturedRectangle" : {
+                      "singleTextureOpacity" : 1,
+                      "textXHeight" : 0.34128000000000003,
+                      "textBaseline" : 0.78648196220397948,
+                      "isBackgroundTexture" : true,
+                      "isVerticalText" : false,
+                      "textColor" : [
+                        0.51380175352096558,
+                        0.5290953516960144,
+                        0.52940398454666138,
+                        1
+                      ],
+                      "textureType" : 6
+                    },
+                    "initialState" : {
+                      "affineTransform" : [
+                        1,
+                        0,
+                        0,
+                        1,
+                        0,
+                        0
+                      ],
+                      "masksToBounds" : false,
+                      "rotation" : 0,
+                      "scale" : 1,
+                      "position" : {
+                        "pointX" : 505.9539794921875,
+                        "pointY" : 101.5
+                      },
+                      "width" : 908,
+                      "sublayerTransform" : [
+                        1,
+                        0,
+                        0,
+                        0,
+                        0,
+                        1,
+                        0,
+                        0,
+                        0,
+                        0,
+                        1,
+                        0,
+                        0,
+                        0,
+                        0,
+                        1
+                      ],
+                      "contentsRect" : {
+                        "y" : 0,
+                        "x" : 0,
+                        "width" : 1,
+                        "height" : 1
+                      },
+                      "opacity" : 1,
+                      "edgeAntialiasingMask" : 0,
+                      "height" : 50,
+                      "hidden" : false,
+                      "anchorPoint" : {
+                        "pointX" : 0.55281275274469988,
+                        "pointY" : -0.8999999713897705
+                      }
+                    },
+                    "texture" : "EE1E9DD134EEB41FB8EA0F0C4F13210C"
                   }
                 ]
               },
@@ -16038,7 +16052,7 @@
                   "scale" : 1,
                   "position" : {
                     "pointX" : 534.99997520446777,
-                    "pointY" : 644.09585696458805
+                    "pointY" : 644.09588623046875
                   },
                   "width" : 1035.6637001037598,
                   "sublayerTransform" : [
@@ -16125,7 +16139,7 @@
                     "texturedRectangle" : {
                       "singleTextureOpacity" : 1,
                       "textXHeight" : 0.44557894736842113,
-                      "textBaseline" : 0.72768272381079524,
+                      "textBaseline" : 0.72768349396555043,
                       "isBackgroundTexture" : true,
                       "isVerticalText" : false,
                       "textColor" : [
@@ -16150,7 +16164,7 @@
                       "scale" : 1,
                       "position" : {
                         "pointX" : 517.83184814453125,
-                        "pointY" : 120
+                        "pointY" : 119.99999999999999
                       },
                       "width" : 802,
                       "sublayerTransform" : [
@@ -16183,7 +16197,7 @@
                       "hidden" : true,
                       "anchorPoint" : {
                         "pointX" : 0.6396508395225925,
-                        "pointY" : 2.8972592683214859
+                        "pointY" : 2.897260038476241
                       }
                     },
                     "texture" : "A7EE658CF1D9C000C3E0ACC41B55502A"
@@ -16233,7 +16247,7 @@
                   "scale" : 1,
                   "position" : {
                     "pointX" : 534.99997520446777,
-                    "pointY" : 644.09585696458805
+                    "pointY" : 644.09588623046875
                   },
                   "width" : 1035.6637001037598,
                   "sublayerTransform" : [
@@ -16320,7 +16334,7 @@
                     "texturedRectangle" : {
                       "singleTextureOpacity" : 1,
                       "textXHeight" : 0.42410526315789471,
-                      "textBaseline" : 0.72768272381079524,
+                      "textBaseline" : 0.72768349396555043,
                       "isBackgroundTexture" : true,
                       "isVerticalText" : false,
                       "textColor" : [
@@ -16378,7 +16392,7 @@
                       "hidden" : true,
                       "anchorPoint" : {
                         "pointX" : 0.55668786407276316,
-                        "pointY" : -0.15537231062588239
+                        "pointY" : -0.15537154047112717
                       }
                     },
                     "texture" : "63899788D3E871F7AFF586DCAFD14636"
@@ -16428,7 +16442,7 @@
                   "scale" : 1,
                   "position" : {
                     "pointX" : 534.99997520446777,
-                    "pointY" : 644.09585696458805
+                    "pointY" : 644.09588623046875
                   },
                   "width" : 1035.6637001037598,
                   "sublayerTransform" : [
@@ -16515,7 +16529,7 @@
                     "texturedRectangle" : {
                       "singleTextureOpacity" : 1,
                       "textXHeight" : 0.35275000000000006,
-                      "textBaseline" : 0.78441548968354624,
+                      "textBaseline" : 0.78441609938939416,
                       "isBackgroundTexture" : true,
                       "isVerticalText" : false,
                       "textColor" : [
@@ -16573,7 +16587,7 @@
                       "hidden" : true,
                       "anchorPoint" : {
                         "pointX" : 0.5497325917616247,
-                        "pointY" : 1.0436635874211764
+                        "pointY" : 1.0436641971270244
                       }
                     },
                     "texture" : "34E14ABE34DB905F9311DC334784F353"
@@ -16623,7 +16637,7 @@
                   "scale" : 1,
                   "position" : {
                     "pointX" : 534.99997520446777,
-                    "pointY" : 644.09585696458805
+                    "pointY" : 644.09588623046875
                   },
                   "width" : 1035.6637001037598,
                   "sublayerTransform" : [
@@ -16710,7 +16724,7 @@
                     "texturedRectangle" : {
                       "singleTextureOpacity" : 1,
                       "textXHeight" : 0.35275000000000006,
-                      "textBaseline" : 0.78441548968354624,
+                      "textBaseline" : 0.78441609938939416,
                       "isBackgroundTexture" : true,
                       "isVerticalText" : false,
                       "textColor" : [
@@ -16768,7 +16782,7 @@
                       "hidden" : true,
                       "anchorPoint" : {
                         "pointX" : 0.53319499304680407,
-                        "pointY" : -1.3730030792454901
+                        "pointY" : -1.3730024695396423
                       }
                     },
                     "texture" : "71C19608CE1122C087158BBF0AD0A37D"
@@ -17067,7 +17081,7 @@
                   "rotation" : 0,
                   "scale" : 1,
                   "position" : {
-                    "pointX" : 307.45572916666669,
+                    "pointX" : 307.45571899414062,
                     "pointY" : 299
                   },
                   "width" : 100,
@@ -17167,7 +17181,7 @@
                             "type" : "MoveToPoint",
                             "points" : [
                               [
-                                1.4557291666666856,
+                                1.455718994140625,
                                 1
                               ]
                             ]
@@ -17176,7 +17190,7 @@
                             "type" : "AddLine",
                             "points" : [
                               [
-                                101.45572916666669,
+                                101.45571899414062,
                                 1
                               ]
                             ]
@@ -17185,7 +17199,7 @@
                             "type" : "AddLine",
                             "points" : [
                               [
-                                101.45572916666669,
+                                101.45571899414062,
                                 101
                               ]
                             ]
@@ -17194,7 +17208,7 @@
                             "type" : "AddLine",
                             "points" : [
                               [
-                                1.4557291666666856,
+                                1.455718994140625,
                                 101
                               ]
                             ]
@@ -17206,7 +17220,7 @@
                             "type" : "MoveToPoint",
                             "points" : [
                               [
-                                1.4557291666666856,
+                                1.455718994140625,
                                 1
                               ]
                             ]
@@ -17267,7 +17281,7 @@
                       "height" : 102,
                       "hidden" : false,
                       "anchorPoint" : {
-                        "pointX" : 0.49957018608414255,
+                        "pointX" : 0.49957008732175362,
                         "pointY" : 0.5
                       }
                     },
@@ -17317,7 +17331,7 @@
                   "rotation" : 0,
                   "scale" : 1,
                   "position" : {
-                    "pointX" : 412.72786458333337,
+                    "pointX" : 412.72787475585938,
                     "pointY" : 299
                   },
                   "width" : 100,
@@ -17417,7 +17431,7 @@
                             "type" : "MoveToPoint",
                             "points" : [
                               [
-                                1.7278645833333712,
+                                1.727874755859375,
                                 1
                               ]
                             ]
@@ -17426,7 +17440,7 @@
                             "type" : "AddLine",
                             "points" : [
                               [
-                                101.72786458333337,
+                                101.72787475585938,
                                 1
                               ]
                             ]
@@ -17435,7 +17449,7 @@
                             "type" : "AddLine",
                             "points" : [
                               [
-                                101.72786458333337,
+                                101.72787475585938,
                                 101
                               ]
                             ]
@@ -17444,7 +17458,7 @@
                             "type" : "AddLine",
                             "points" : [
                               [
-                                1.7278645833333712,
+                                1.727874755859375,
                                 101
                               ]
                             ]
@@ -17456,7 +17470,7 @@
                             "type" : "MoveToPoint",
                             "points" : [
                               [
-                                1.7278645833333712,
+                                1.727874755859375,
                                 1
                               ]
                             ]
@@ -17517,7 +17531,7 @@
                       "height" : 102,
                       "hidden" : false,
                       "anchorPoint" : {
-                        "pointX" : 0.50221227750809105,
+                        "pointX" : 0.50221237627047943,
                         "pointY" : 0.5
                       }
                     },
@@ -18015,8 +18029,8 @@
                   "rotation" : 0,
                   "scale" : 1,
                   "position" : {
-                    "pointX" : 412.72786450159549,
-                    "pointY" : 472.99999964237213
+                    "pointX" : 412.72787523269653,
+                    "pointY" : 473
                   },
                   "width" : 190.00799655914307,
                   "sublayerTransform" : [
@@ -18103,7 +18117,7 @@
                     "texturedRectangle" : {
                       "singleTextureOpacity" : 1,
                       "textXHeight" : 0.44905263157894737,
-                      "textBaseline" : 0.71905517578125,
+                      "textBaseline" : 0.71905518519250966,
                       "isBackgroundTexture" : true,
                       "isVerticalText" : false,
                       "textColor" : [
@@ -18160,8 +18174,8 @@
                       "height" : 38,
                       "hidden" : false,
                       "anchorPoint" : {
-                        "pointX" : 0.49850475946167022,
-                        "pointY" : 0.42105263157894735
+                        "pointX" : 0.49850481842376382,
+                        "pointY" : 0.42105264099020706
                       }
                     },
                     "texture" : "24C3B53006CE0636995ABF39EB7653C7"
@@ -18210,7 +18224,7 @@
                   "rotation" : 0,
                   "scale" : 1,
                   "position" : {
-                    "pointX" : 623.27215766906738,
+                    "pointX" : 623.27215576171875,
                     "pointY" : 299
                   },
                   "width" : 100,
@@ -18310,7 +18324,7 @@
                             "type" : "MoveToPoint",
                             "points" : [
                               [
-                                1.2721576690673828,
+                                1.27215576171875,
                                 1
                               ]
                             ]
@@ -18319,7 +18333,7 @@
                             "type" : "AddLine",
                             "points" : [
                               [
-                                101.27215766906738,
+                                101.27215576171875,
                                 1
                               ]
                             ]
@@ -18328,7 +18342,7 @@
                             "type" : "AddLine",
                             "points" : [
                               [
-                                101.27215766906738,
+                                101.27215576171875,
                                 101
                               ]
                             ]
@@ -18337,7 +18351,7 @@
                             "type" : "AddLine",
                             "points" : [
                               [
-                                1.2721576690673828,
+                                1.27215576171875,
                                 101
                               ]
                             ]
@@ -18349,7 +18363,7 @@
                             "type" : "MoveToPoint",
                             "points" : [
                               [
-                                1.2721576690673828,
+                                1.27215576171875,
                                 1
                               ]
                             ]
@@ -18410,7 +18424,7 @@
                       "height" : 102,
                       "hidden" : false,
                       "anchorPoint" : {
-                        "pointX" : 0.49778793853463477,
+                        "pointX" : 0.49778792001668687,
                         "pointY" : 0.5
                       }
                     },
@@ -18460,8 +18474,8 @@
                   "rotation" : 0,
                   "scale" : 1,
                   "position" : {
-                    "pointX" : 821.72784614562988,
-                    "pointY" : 375.25000017881393
+                    "pointX" : 821.72784423828125,
+                    "pointY" : 375.25
                   },
                   "width" : 554,
                   "sublayerTransform" : [
@@ -18490,7 +18504,7 @@
                   },
                   "opacity" : 1,
                   "edgeAntialiasingMask" : 251658240,
-                  "height" : 252.50000035762787,
+                  "height" : 252.5,
                   "hidden" : false,
                   "anchorPoint" : {
                     "pointX" : 0.5,
@@ -18566,7 +18580,7 @@
                       "rotation" : 0,
                       "scale" : 1,
                       "position" : {
-                        "pointX" : 277,
+                        "pointX" : 277.00000190734863,
                         "pointY" : 126.25000017881393
                       },
                       "width" : 557,
@@ -19390,10 +19404,10 @@
                   "rotation" : 0,
                   "scale" : 1,
                   "position" : {
-                    "pointX" : 361.65631152686012,
-                    "pointY" : 193.41175748113756
+                    "pointX" : 361.65631866455078,
+                    "pointY" : 193.41175842285156
                   },
-                  "width" : 491.34883216016556,
+                  "width" : 491.34884643554688,
                   "sublayerTransform" : [
                     1,
                     0,
@@ -19420,7 +19434,7 @@
                   },
                   "opacity" : 1,
                   "edgeAntialiasingMask" : 251658240,
-                  "height" : 106.61459162243139,
+                  "height" : 106.61459350585938,
                   "hidden" : false,
                   "anchorPoint" : {
                     "pointX" : 0.5,
@@ -19470,7 +19484,7 @@
                           {
                             "timeOffset" : 0,
                             "from" : {
-                              "texture" : "4C901ED57E5F48CFDD0BF3CB170380E8"
+                              "texture" : "99CD8526EC13EB754A17378E612EBF5C"
                             },
                             "beginTime" : 0,
                             "repeatCount" : 0,
@@ -19480,7 +19494,7 @@
                             "timingFunction" : "EaseInEaseOut",
                             "property" : "contents",
                             "to" : {
-                              "texture" : "7FCFA7EA9F4E62F341A4ED65BAB374E9"
+                              "texture" : "036FF3A0AF45F91BDCB93BDBCF22B92B"
                             }
                           },
                           {
@@ -19497,7 +19511,7 @@
                             "timingFunction" : "EaseInEaseOut",
                             "property" : "transform.translation",
                             "to" : {
-                              "pointX" : 3.4971386263092086,
+                              "pointX" : 3.4971385347670321,
                               "pointY" : -31
                             }
                           }
@@ -19531,8 +19545,8 @@
                       "rotation" : 0,
                       "scale" : 1,
                       "position" : {
-                        "pointX" : 303.26425983008278,
-                        "pointY" : 53.307295811215681
+                        "pointX" : 303.26425170898438,
+                        "pointY" : 53.307296752929688
                       },
                       "width" : 621,
                       "sublayerTransform" : [
@@ -19564,11 +19578,11 @@
                       "height" : 115,
                       "hidden" : false,
                       "anchorPoint" : {
-                        "pointX" : 0.4995912323298875,
-                        "pointY" : 0.4731457172272831
+                        "pointX" : 0.49959121925243433,
+                        "pointY" : 0.47314572541610056
                       }
                     },
-                    "texture" : "4C901ED57E5F48CFDD0BF3CB170380E8"
+                    "texture" : "99CD8526EC13EB754A17378E612EBF5C"
                   }
                 ]
               },
@@ -19614,8 +19628,8 @@
                   "rotation" : 0,
                   "scale" : 1,
                   "position" : {
-                    "pointX" : 396.27209997177124,
-                    "pointY" : 394.75000023841858
+                    "pointX" : 396.27209615707397,
+                    "pointY" : 394.74999809265137
                   },
                   "width" : 100.99999904632568,
                   "sublayerTransform" : [
@@ -19702,7 +19716,7 @@
                     "texturedRectangle" : {
                       "singleTextureOpacity" : 1,
                       "textXHeight" : 0.53666666666666674,
-                      "textBaseline" : 1.4495863232347701,
+                      "textBaseline" : 1.4495863172743055,
                       "isBackgroundTexture" : true,
                       "isVerticalText" : false,
                       "textColor" : [
@@ -19759,8 +19773,8 @@
                       "height" : 360,
                       "hidden" : false,
                       "anchorPoint" : {
-                        "pointX" : 0.64362800598144532,
-                        "pointY" : 0.46875000596046446
+                        "pointX" : 0.6436279551188151,
+                        "pointY" : 0.46875
                       }
                     },
                     "texture" : "FE9FE1976778465DA437FE6670D42272"
@@ -21842,7 +21856,7 @@
                   "rotation" : 0,
                   "scale" : 1,
                   "position" : {
-                    "pointX" : 624.13607788085938,
+                    "pointX" : 624.1361083984375,
                     "pointY" : 458
                   },
                   "width" : 100,
@@ -21939,7 +21953,7 @@
                             "type" : "MoveToPoint",
                             "points" : [
                               [
-                                1.136077880859375,
+                                1.1361083984375,
                                 1
                               ]
                             ]
@@ -21948,7 +21962,7 @@
                             "type" : "AddLine",
                             "points" : [
                               [
-                                101.13607788085938,
+                                101.1361083984375,
                                 1
                               ]
                             ]
@@ -21957,7 +21971,7 @@
                             "type" : "AddLine",
                             "points" : [
                               [
-                                101.13607788085938,
+                                101.1361083984375,
                                 101
                               ]
                             ]
@@ -21966,7 +21980,7 @@
                             "type" : "AddLine",
                             "points" : [
                               [
-                                1.136077880859375,
+                                1.1361083984375,
                                 101
                               ]
                             ]
@@ -21978,7 +21992,7 @@
                             "type" : "MoveToPoint",
                             "points" : [
                               [
-                                1.136077880859375,
+                                1.1361083984375,
                                 1
                               ]
                             ]
@@ -22039,7 +22053,7 @@
                       "height" : 102,
                       "hidden" : true,
                       "anchorPoint" : {
-                        "pointX" : 0.49646677554232405,
+                        "pointX" : 0.49646707182949029,
                         "pointY" : 0.5
                       }
                     },
@@ -22089,7 +22103,7 @@
                   "rotation" : 0,
                   "scale" : 1,
                   "position" : {
-                    "pointX" : 729.40817260742188,
+                    "pointX" : 729.408203125,
                     "pointY" : 458
                   },
                   "width" : 100,
@@ -22186,7 +22200,7 @@
                             "type" : "MoveToPoint",
                             "points" : [
                               [
-                                1.408172607421875,
+                                1.408203125,
                                 1
                               ]
                             ]
@@ -22195,7 +22209,7 @@
                             "type" : "AddLine",
                             "points" : [
                               [
-                                101.40817260742188,
+                                101.408203125,
                                 1
                               ]
                             ]
@@ -22204,7 +22218,7 @@
                             "type" : "AddLine",
                             "points" : [
                               [
-                                101.40817260742188,
+                                101.408203125,
                                 101
                               ]
                             ]
@@ -22213,7 +22227,7 @@
                             "type" : "AddLine",
                             "points" : [
                               [
-                                1.408172607421875,
+                                1.408203125,
                                 101
                               ]
                             ]
@@ -22225,7 +22239,7 @@
                             "type" : "MoveToPoint",
                             "points" : [
                               [
-                                1.408172607421875,
+                                1.408203125,
                                 1
                               ]
                             ]
@@ -22286,7 +22300,7 @@
                       "height" : 102,
                       "hidden" : true,
                       "anchorPoint" : {
-                        "pointX" : 0.49910847191671726,
+                        "pointX" : 0.4991087682038835,
                         "pointY" : 0.5
                       }
                     },
@@ -22336,7 +22350,7 @@
                   "rotation" : 0,
                   "scale" : 1,
                   "position" : {
-                    "pointX" : 834.68032836914062,
+                    "pointX" : 834.6802978515625,
                     "pointY" : 458
                   },
                   "width" : 100,
@@ -22433,7 +22447,7 @@
                             "type" : "MoveToPoint",
                             "points" : [
                               [
-                                1.680328369140625,
+                                1.6802978515625,
                                 1
                               ]
                             ]
@@ -22442,7 +22456,7 @@
                             "type" : "AddLine",
                             "points" : [
                               [
-                                101.68032836914062,
+                                101.6802978515625,
                                 1
                               ]
                             ]
@@ -22451,7 +22465,7 @@
                             "type" : "AddLine",
                             "points" : [
                               [
-                                101.68032836914062,
+                                101.6802978515625,
                                 101
                               ]
                             ]
@@ -22460,7 +22474,7 @@
                             "type" : "AddLine",
                             "points" : [
                               [
-                                1.680328369140625,
+                                1.6802978515625,
                                 101
                               ]
                             ]
@@ -22472,7 +22486,7 @@
                             "type" : "MoveToPoint",
                             "points" : [
                               [
-                                1.680328369140625,
+                                1.6802978515625,
                                 1
                               ]
                             ]
@@ -22500,7 +22514,7 @@
                       "rotation" : 0,
                       "scale" : 1,
                       "position" : {
-                        "pointX" : 49.999999999999993,
+                        "pointX" : 50.000000000000007,
                         "pointY" : 50
                       },
                       "width" : 103,
@@ -22533,7 +22547,7 @@
                       "height" : 102,
                       "hidden" : true,
                       "anchorPoint" : {
-                        "pointX" : 0.5017507608654429,
+                        "pointX" : 0.50175046457827677,
                         "pointY" : 0.5
                       }
                     },
@@ -22583,7 +22597,7 @@
                   "rotation" : 0,
                   "scale" : 1,
                   "position" : {
-                    "pointX" : 939.95248413085938,
+                    "pointX" : 939.9525146484375,
                     "pointY" : 458
                   },
                   "width" : 100,
@@ -22680,7 +22694,7 @@
                             "type" : "MoveToPoint",
                             "points" : [
                               [
-                                1.952484130859375,
+                                1.9525146484375,
                                 1
                               ]
                             ]
@@ -22689,7 +22703,7 @@
                             "type" : "AddLine",
                             "points" : [
                               [
-                                101.95248413085938,
+                                101.9525146484375,
                                 1
                               ]
                             ]
@@ -22698,7 +22712,7 @@
                             "type" : "AddLine",
                             "points" : [
                               [
-                                101.95248413085938,
+                                101.9525146484375,
                                 101
                               ]
                             ]
@@ -22707,7 +22721,7 @@
                             "type" : "AddLine",
                             "points" : [
                               [
-                                1.952484130859375,
+                                1.9525146484375,
                                 101
                               ]
                             ]
@@ -22719,7 +22733,7 @@
                             "type" : "MoveToPoint",
                             "points" : [
                               [
-                                1.952484130859375,
+                                1.9525146484375,
                                 1
                               ]
                             ]
@@ -22747,7 +22761,7 @@
                       "rotation" : 0,
                       "scale" : 1,
                       "position" : {
-                        "pointX" : 50,
+                        "pointX" : 50.000000000000007,
                         "pointY" : 50
                       },
                       "width" : 103,
@@ -22780,7 +22794,7 @@
                       "height" : 102,
                       "hidden" : true,
                       "anchorPoint" : {
-                        "pointX" : 0.50439304981416866,
+                        "pointX" : 0.50439334610133502,
                         "pointY" : 0.5
                       }
                     },
@@ -22830,10 +22844,10 @@
                   "rotation" : 0,
                   "scale" : 1,
                   "position" : {
-                    "pointX" : 198.284085888032,
-                    "pointY" : 371.37067999279884
+                    "pointX" : 198.28407897438103,
+                    "pointY" : 371.37068023170525
                   },
-                  "width" : 184.4422039263743,
+                  "width" : 184.4421962978937,
                   "sublayerTransform" : [
                     1,
                     0,
@@ -22860,7 +22874,7 @@
                   },
                   "opacity" : 1,
                   "edgeAntialiasingMask" : 251658240,
-                  "height" : 81.308788704206336,
+                  "height" : 81.308788705120264,
                   "hidden" : false,
                   "anchorPoint" : {
                     "pointX" : 0.5,
@@ -22927,8 +22941,8 @@
                             "type" : "MoveToPoint",
                             "points" : [
                               [
-                                6.56389164924623,
-                                7.2171933650970459
+                                6.5638885498046875,
+                                7.217193603515625
                               ]
                             ]
                           },
@@ -22936,16 +22950,16 @@
                             "type" : "AddCurve",
                             "points" : [
                               [
-                                77.241250332721691,
-                                19.545677508138965
+                                77.241247707328142,
+                                19.545677482395774
                               ],
                               [
-                                127.47566132379457,
-                                35.873887930322724
+                                127.4756568749103,
+                                35.873887138442001
                               ],
                               [
-                                157.26712462246485,
-                                56.201824631648321
+                                157.26711605255116,
+                                56.201822571654304
                               ]
                             ]
                           }
@@ -22972,8 +22986,8 @@
                       "rotation" : 0,
                       "scale" : 1,
                       "position" : {
-                        "pointX" : 92.221340005895513,
-                        "pointY" : 40.654632394811529
+                        "pointX" : 92.221336191167381,
+                        "pointY" : 40.654632394780663
                       },
                       "width" : 187,
                       "sublayerTransform" : [
@@ -23005,11 +23019,11 @@
                       "height" : 85,
                       "hidden" : true,
                       "anchorPoint" : {
-                        "pointX" : 0.49884665203604472,
-                        "pointY" : 0.49848138865302588
+                        "pointX" : 0.49884661506204042,
+                        "pointY" : 0.49848139145795034
                       }
                     },
-                    "texture" : "DD3340F252FB66FC95DEB45C1B489E37"
+                    "texture" : "B4A4C360B7F3018E4B5E72883EF99414"
                   }
                 ]
               },
@@ -23055,8 +23069,8 @@
                   "rotation" : 0,
                   "scale" : 1,
                   "position" : {
-                    "pointX" : 177.05738171881023,
-                    "pointY" : 355.24780249492517
+                    "pointX" : 177.05737861936871,
+                    "pointY" : 355.24780650333753
                   },
                   "width" : 62.041667639128065,
                   "sublayerTransform" : [
@@ -23152,8 +23166,8 @@
                             "type" : "MoveToPoint",
                             "points" : [
                               [
-                                54.907910540699959,
-                                1.5919308146594062
+                                54.90790744125843,
+                                1.5919348230717674
                               ]
                             ]
                           },
@@ -23161,16 +23175,16 @@
                             "type" : "AddCurve",
                             "points" : [
                               [
-                                54.442313228544663,
-                                1.60663466512176
+                                54.442310129103134,
+                                1.6066386735341212
                               ],
                               [
-                                53.977972024245901,
-                                1.9627258459639734
+                                53.977968924804372,
+                                1.9627298543763345
                               ],
                               [
-                                53.205514951609075,
-                                2.6575043467179285
+                                53.205511852167547,
+                                2.6575083551302896
                               ]
                             ]
                           },
@@ -23178,16 +23192,16 @@
                             "type" : "AddCurve",
                             "points" : [
                               [
-                                45.732128852198912,
-                                9.3797130297272133
+                                45.732125752757383,
+                                9.3797170381395745
                               ],
                               [
-                                38.654952420653444,
-                                16.497399709319836
+                                38.654949321211916,
+                                16.497403717732197
                               ],
                               [
-                                32.013842451851815,
-                                24.044637561824459
+                                32.013839352410287,
+                                24.04464157023682
                               ]
                             ]
                           },
@@ -23195,16 +23209,16 @@
                             "type" : "AddCurve",
                             "points" : [
                               [
-                                31.607885633316073,
-                                24.505878519526334
+                                31.607882533874545,
+                                24.505882527938695
                               ],
                               [
-                                31.166480712181965,
-                                24.939214179160501
+                                31.166477612740437,
+                                24.939218187572862
                               ],
                               [
-                                30.658231149427593,
-                                25.475910890430498
+                                30.658228049986064,
+                                25.475914898842859
                               ]
                             ]
                           },
@@ -23212,16 +23226,16 @@
                             "type" : "AddCurve",
                             "points" : [
                               [
-                                30.208298241130251,
-                                24.837324744082082
+                                30.208295141688723,
+                                24.837328752494443
                               ],
                               [
-                                29.84007391742216,
-                                24.335180234953953
+                                29.840070817980632,
+                                24.335184243366314
                               ],
                               [
-                                29.498080081306398,
-                                23.817651483279008
+                                29.49807698186487,
+                                23.817655491691369
                               ]
                             ]
                           },
@@ -23229,16 +23243,16 @@
                             "type" : "AddCurve",
                             "points" : [
                               [
-                                26.760743979303243,
-                                19.675210966347606
+                                26.760740879861714,
+                                19.675214974759967
                               ],
                               [
-                                24.055457099816067,
-                                15.510668492793513
+                                24.055454000374539,
+                                15.510672501205875
                               ],
                               [
-                                21.276139902882278,
-                                11.396468082090109
+                                21.27613680344075,
+                                11.396472090502471
                               ]
                             ]
                           },
@@ -23246,16 +23260,16 @@
                             "type" : "AddCurve",
                             "points" : [
                               [
-                                20.166424028157508,
-                                9.7538946296666609
+                                20.166420928715979,
+                                9.753898638079022
                               ],
                               [
-                                18.87835930997926,
-                                8.230011054902775
+                                18.878356210537731,
+                                8.2300150633151361
                               ],
                               [
-                                17.694803996942937,
-                                6.6360659863210572
+                                17.694800897501409,
+                                6.6360699947334183
                               ]
                             ]
                           },
@@ -23263,16 +23277,16 @@
                             "type" : "AddCurve",
                             "points" : [
                               [
-                                17.130669949355706,
-                                5.876419366603443
+                                17.130666849914178,
+                                5.8764233750158041
                               ],
                               [
-                                16.418438322526526,
-                                5.857100550917778
+                                16.418435223084998,
+                                5.8571045593301392
                               ],
                               [
-                                15.601487939245999,
-                                6.0622956211089445
+                                15.601484839804471,
+                                6.0622996295213056
                               ]
                             ]
                           },
@@ -23280,16 +23294,16 @@
                             "type" : "AddCurve",
                             "points" : [
                               [
-                                14.779291458447005,
-                                6.268900733942985
+                                14.779288359005477,
+                                6.2689047423553461
                               ],
                               [
-                                14.301108438160554,
-                                6.8301130992854837
+                                14.301105338719026,
+                                6.8301171076978449
                               ],
                               [
-                                14.29001281876117,
-                                7.6133671578361941
+                                14.290009719319642,
+                                7.6133711662485553
                               ]
                             ]
                           },
@@ -23297,16 +23311,16 @@
                             "type" : "AddCurve",
                             "points" : [
                               [
-                                14.272458095726961,
-                                8.8340449991093237
+                                14.272454996285433,
+                                8.8340490075216849
                               ],
                               [
-                                13.59497878626189,
-                                9.3839585511344694
+                                13.594975686820362,
+                                9.3839625595468306
                               ],
                               [
-                                12.556091385427862,
-                                9.7192931683931647
+                                12.556088285986334,
+                                9.7192971768055259
                               ]
                             ]
                           },
@@ -23314,16 +23328,16 @@
                             "type" : "AddCurve",
                             "points" : [
                               [
-                                11.839623473278607,
-                                9.1862323967765178
+                                11.839620373837079,
+                                9.186236405188879
                               ],
                               [
-                                11.138893853684749,
-                                8.664362684126786
+                                11.138890754243221,
+                                8.6643666925391472
                               ],
                               [
-                                10.336671950761229,
-                                8.067338930090159
+                                10.3366688513197,
+                                8.0673429385025202
                               ]
                             ]
                           },
@@ -23331,16 +23345,16 @@
                             "type" : "AddCurve",
                             "points" : [
                               [
-                                9.4735165020128989,
-                                8.9944481251712887
+                                9.4735134025713705,
+                                8.9944521335836498
                               ],
                               [
-                                8.7193222524274461,
-                                9.8490786654521116
+                                8.7193191529859178,
+                                9.8490826738644728
                               ],
                               [
-                                7.915487112943083,
-                                10.658763326817393
+                                7.9154840135015547,
+                                10.658767335229754
                               ]
                             ]
                           },
@@ -23348,16 +23362,16 @@
                             "type" : "AddCurve",
                             "points" : [
                               [
-                                7.2026520617514507,
-                                11.376644360305249
+                                7.2026489623099224,
+                                11.376648368717611
                               ],
                               [
-                                7.1731396845143536,
-                                12.103856920541034
+                                7.1731365850728253,
+                                12.103860928953395
                               ],
                               [
-                                7.480430462397635,
-                                13.061032658090085
+                                7.4804273629561067,
+                                13.061036666502446
                               ]
                             ]
                           },
@@ -23365,16 +23379,16 @@
                             "type" : "AddCurve",
                             "points" : [
                               [
-                                10.216565873067339,
-                                21.58784760792588
+                                10.21656277362581,
+                                21.587851616338241
                               ],
                               [
-                                13.726432936404763,
-                                29.773917902437063
+                                13.726429836963234,
+                                29.773921910849424
                               ],
                               [
-                                18.01636760821566,
-                                37.632276430309105
+                                18.016364508774132,
+                                37.632280438721466
                               ]
                             ]
                           },
@@ -23382,16 +23396,16 @@
                             "type" : "AddCurve",
                             "points" : [
                               [
-                                18.236494352681802,
-                                38.035807236612129
+                                18.236491253240274,
+                                38.03581124502449
                               ],
                               [
-                                18.432508752215654,
-                                38.453715551959306
+                                18.432505652774125,
+                                38.453719560371667
                               ],
                               [
-                                18.634274155367166,
-                                38.849174018066662
+                                18.634271055925637,
+                                38.849178026479024
                               ]
                             ]
                           },
@@ -23399,16 +23413,16 @@
                             "type" : "AddCurve",
                             "points" : [
                               [
-                                12.720536838979115,
-                                45.791909964614263
+                                12.720533739537586,
+                                45.791913973026624
                               ],
                               [
-                                6.8657503883678146,
-                                52.667733538235609
+                                6.8657472889262863,
+                                52.66773754664797
                               ],
                               [
-                                1.0365478992462158,
-                                59.511212334551203
+                                1.0365447998046875,
+                                59.511216342963564
                               ]
                             ]
                           },
@@ -23416,16 +23430,16 @@
                             "type" : "AddCurve",
                             "points" : [
                               [
-                                1.5171446169824776,
-                                60.652392479603861
+                                1.5171415175409493,
+                                60.652396488016223
                               ],
                               [
-                                1.8933458413187054,
-                                61.621073303083961
+                                1.8933427418771771,
+                                61.621077311496322
                               ],
                               [
-                                2.3354126820340753,
-                                62.562914057217824
+                                2.3354095825925469,
+                                62.562918065630186
                               ]
                             ]
                           },
@@ -23433,16 +23447,16 @@
                             "type" : "AddCurve",
                             "points" : [
                               [
-                                2.6497783026975412,
-                                63.232795145629154
+                                2.6497752032560129,
+                                63.232799154041516
                               ],
                               [
-                                2.6839148809162907,
-                                63.851188126705495
+                                2.6839117814747624,
+                                63.851192135117856
                               ],
                               [
-                                2.316497175488621,
-                                64.504906062551129
+                                2.3164940760470927,
+                                64.50491007096349
                               ]
                             ]
                           },
@@ -23450,16 +23464,16 @@
                             "type" : "AddCurve",
                             "points" : [
                               [
-                                2.061467257567756,
-                                64.958668868332609
+                                2.0614641581262276,
+                                64.95867287674497
                               ],
                               [
-                                1.8374551990943928,
-                                65.430405099767142
+                                1.8374520996528645,
+                                65.430409108179504
                               ],
                               [
-                                1.6544544463977218,
-                                65.917263884611714
+                                1.6544513469561934,
+                                65.917267893024075
                               ]
                             ]
                           },
@@ -23467,16 +23481,16 @@
                             "type" : "AddCurve",
                             "points" : [
                               [
-                                1.5525588539278488,
-                                66.18842308944528
+                                1.5525557544863204,
+                                66.188427097857641
                               ],
                               [
-                                1.4384654689883973,
-                                66.561856566323115
+                                1.438462369546869,
+                                66.561860574735476
                               ],
                               [
-                                1.5409614071249962,
-                                66.793682354551095
+                                1.5409583076834679,
+                                66.793686362963456
                               ]
                             ]
                           },
@@ -23484,16 +23498,16 @@
                             "type" : "AddCurve",
                             "points" : [
                               [
-                                2.3716366159555946,
-                                68.673527807943231
+                                2.3716335165140663,
+                                68.673531816355592
                               ],
                               [
-                                3.5672912031982378,
-                                70.271512510155446
+                                3.5672881037567095,
+                                70.271516518567807
                               ],
                               [
-                                5.0970766376703978,
-                                71.509948653217691
+                                5.0970735382288694,
+                                71.509952661630052
                               ]
                             ]
                           },
@@ -23501,16 +23515,16 @@
                             "type" : "AddCurve",
                             "points" : [
                               [
-                                5.8530873177346621,
-                                71.191174340273449
+                                5.8530842182931337,
+                                71.19117834868581
                               ],
                               [
-                                6.4125355904257049,
-                                70.896734038353827
+                                6.4125324909841765,
+                                70.896738046766188
                               ],
                               [
-                                7.0075427987612784,
-                                70.721802547157097
+                                7.0075396993197501,
+                                70.721806555569458
                               ]
                             ]
                           },
@@ -23518,16 +23532,16 @@
                             "type" : "AddCurve",
                             "points" : [
                               [
-                                7.6937471319160977,
-                                70.520037144005585
+                                7.6937440324745694,
+                                70.520041152417946
                               ],
                               [
-                                8.2733670190091289,
-                                70.94364104644734
+                                8.2733639195676005,
+                                70.943645054859701
                               ],
                               [
-                                8.0605059964582324,
-                                71.566695172854054
+                                8.0605028970167041,
+                                71.566699181266415
                               ]
                             ]
                           },
@@ -23535,16 +23549,16 @@
                             "type" : "AddCurve",
                             "points" : [
                               [
-                                7.5956290991030073,
-                                72.927798868454886
+                                7.595625999661479,
+                                72.927802876867247
                               ],
                               [
-                                8.5611881251161321,
-                                73.599835043874975
+                                8.5611850256746038,
+                                73.599839052287336
                               ],
                               [
-                                9.2332674022763968,
-                                74.410326323520678
+                                9.2332643028348684,
+                                74.410330331933039
                               ]
                             ]
                           },
@@ -23552,16 +23566,16 @@
                             "type" : "AddCurve",
                             "points" : [
                               [
-                                9.7784489989694521,
-                                75.067874156850451
+                                9.7784458995279238,
+                                75.067878165262812
                               ],
                               [
-                                10.667871879658833,
-                                75.056883213105777
+                                10.667868780217304,
+                                75.056887221518139
                               ],
                               [
-                                11.282447278033942,
-                                74.448157336611587
+                                11.282444178592414,
+                                74.448161345023948
                               ]
                             ]
                           },
@@ -23569,16 +23583,16 @@
                             "type" : "AddCurve",
                             "points" : [
                               [
-                                11.502777216418053,
-                                74.230074846108039
+                                11.502774116976525,
+                                74.2300788545204
                               ],
                               [
-                                11.659242690645442,
-                                73.95312769330809
+                                11.659239591203914,
+                                73.953131701720451
                               ],
                               [
-                                11.84991247439757,
-                                73.704147412490386
+                                11.849909374956042,
+                                73.704151420902747
                               ]
                             ]
                           },
@@ -23586,16 +23600,16 @@
                             "type" : "AddCurve",
                             "points" : [
                               [
-                                16.648503096798777,
-                                67.436286198822984
+                                16.648499997357249,
+                                67.436290207235345
                               ],
                               [
-                                21.447284598335045,
-                                61.166140592926297
+                                21.447281498893517,
+                                61.166144601338658
                               ],
                               [
-                                26.250918124336749,
-                                54.902133906308848
+                                26.250915024895221,
+                                54.902137914721209
                               ]
                             ]
                           },
@@ -23603,16 +23617,16 @@
                             "type" : "AddCurve",
                             "points" : [
                               [
-                                26.592905803061058,
-                                54.456240246805066
+                                26.592902703619529,
+                                54.456244255217428
                               ],
                               [
-                                26.973438752284892,
-                                54.044477008128581
+                                26.973435652843364,
+                                54.044481016540942
                               ],
                               [
-                                27.461510543245822,
-                                53.470860577702808
+                                27.461507443804294,
+                                53.470864586115169
                               ]
                             ]
                           },
@@ -23620,16 +23634,16 @@
                             "type" : "AddCurve",
                             "points" : [
                               [
-                                27.927200216272922,
-                                54.179447028791458
+                                27.927197116831394,
+                                54.179451037203819
                               ],
                               [
-                                28.301360265342282,
-                                54.727251674243746
+                                28.301357165900754,
+                                54.727255682656107
                               ],
                               [
-                                28.659492624457926,
-                                55.286749206066418
+                                28.659489525016397,
+                                55.286753214478779
                               ]
                             ]
                           },
@@ -23637,16 +23651,16 @@
                             "type" : "AddCurve",
                             "points" : [
                               [
-                                31.509416629190127,
-                                59.739103549640333
+                                31.509413529748599,
+                                59.739107558052694
                               ],
                               [
-                                34.598506032762998,
-                                64.016483300277343
+                                34.59850293332147,
+                                64.016487308689705
                               ],
                               [
-                                37.997447689063847,
-                                68.067326461945015
+                                37.997444589622319,
+                                68.067330470357376
                               ]
                             ]
                           },
@@ -23654,16 +23668,16 @@
                             "type" : "AddCurve",
                             "points" : [
                               [
-                                38.972168913559926,
-                                69.229084609235599
+                                38.972165814118398,
+                                69.22908861764796
                               ],
                               [
-                                39.624181251972914,
-                                69.340767375420967
+                                39.624178152531385,
+                                69.340771383833328
                               ],
                               [
-                                40.784332320094109,
-                                68.407805579763192
+                                40.78432922065258,
+                                68.407809588175553
                               ]
                             ]
                           },
@@ -23671,16 +23685,16 @@
                             "type" : "AddCurve",
                             "points" : [
                               [
-                                41.670066923302784,
-                                67.695555480759651
+                                41.670063823861256,
+                                67.695559489172012
                               ],
                               [
-                                42.448090277813662,
-                                66.849572996775407
+                                42.448087178372134,
+                                66.849577005187768
                               ],
                               [
-                                43.30639985948801,
-                                66.037062092732924
+                                43.306396760046482,
+                                66.037066101145285
                               ]
                             ]
                           },
@@ -23688,16 +23702,16 @@
                             "type" : "AddCurve",
                             "points" : [
                               [
-                                44.285579035396495,
-                                66.637112204668995
+                                44.285575935954967,
+                                66.637116213081356
                               ],
                               [
-                                45.290613098018639,
-                                67.253608709177627
+                                45.290609998577111,
+                                67.253612717589988
                               ],
                               [
-                                46.288744724821299,
-                                67.865561058793503
+                                46.288741625379771,
+                                67.865565067205864
                               ]
                             ]
                           },
@@ -23705,16 +23719,16 @@
                             "type" : "AddCurve",
                             "points" : [
                               [
-                                46.877286672130595,
-                                67.377907970451417
+                                46.877283572689066,
+                                67.377911978863779
                               ],
                               [
-                                47.310939437424622,
-                                67.010077719796357
+                                47.310936337983094,
+                                67.010081728208718
                               ],
                               [
-                                47.757849066518247,
-                                66.65496863988443
+                                47.757845967076719,
+                                66.654972648296791
                               ]
                             ]
                           },
@@ -23722,16 +23736,16 @@
                             "type" : "AddCurve",
                             "points" : [
                               [
-                                48.417010136408862,
-                                66.131177821101176
+                                48.417007036967334,
+                                66.131181829513537
                               ],
                               [
-                                48.932931808914418,
-                                65.612294443306439
+                                48.93292870947289,
+                                65.6122984517188
                               ],
                               [
-                                49.044103511609137,
-                                64.643619777217793
+                                49.044100412167609,
+                                64.643623785630155
                               ]
                             ]
                           },
@@ -23739,16 +23753,16 @@
                             "type" : "AddCurve",
                             "points" : [
                               [
-                                49.156081832584277,
-                                63.666669577015512
+                                49.156078733142749,
+                                63.666673585427873
                               ],
                               [
-                                49.688388323747859,
-                                62.764728719500965
+                                49.68838522430633,
+                                62.764732727913326
                               ],
                               [
-                                50.815855958033353,
-                                62.468336524490553
+                                50.815852858591825,
+                                62.468340532902914
                               ]
                             ]
                           },
@@ -23756,16 +23770,16 @@
                             "type" : "AddCurve",
                             "points" : [
                               [
-                                51.677589049355902,
-                                62.241750676389586
+                                51.677585949914373,
+                                62.241754684801947
                               ],
                               [
-                                52.254647461604236,
-                                61.628843931098402
+                                52.254644362162708,
+                                61.628847939510763
                               ],
                               [
-                                52.707406612578779,
-                                60.910959818914819
+                                52.707403513137251,
+                                60.91096382732718
                               ]
                             ]
                           },
@@ -23773,16 +23787,16 @@
                             "type" : "AddCurve",
                             "points" : [
                               [
-                                53.431140246643281,
-                                59.763302098052975
+                                53.431137147201753,
+                                59.763306106465336
                               ],
                               [
-                                53.988969125382027,
-                                58.535425881333651
+                                53.988966025940499,
+                                58.535429889746013
                               ],
                               [
-                                54.239562642760575,
-                                57.310708406430024
+                                54.239559543319046,
+                                57.310712414842385
                               ]
                             ]
                           },
@@ -23790,16 +23804,16 @@
                             "type" : "AddCurve",
                             "points" : [
                               [
-                                49.275719948527694,
-                                51.018463922606372
+                                49.275716849086166,
+                                51.018467931018733
                               ],
                               [
-                                44.393056303219055,
-                                44.829398847370669
+                                44.393053203777527,
+                                44.82940285578303
                               ],
                               [
-                                39.466552030760795,
-                                38.584356926430303
+                                39.466548931319267,
+                                38.584360934842664
                               ]
                             ]
                           },
@@ -23807,16 +23821,16 @@
                             "type" : "AddCurve",
                             "points" : [
                               [
-                                40.003852166393244,
-                                37.877580748429011
+                                40.003849066951716,
+                                37.877584756841372
                               ],
                               [
-                                40.344583737261019,
-                                37.416490646817749
+                                40.34458063781949,
+                                37.41649465523011
                               ],
                               [
-                                40.696059956215322,
-                                36.963928532369721
+                                40.696056856773794,
+                                36.963932540782082
                               ]
                             ]
                           },
@@ -23824,16 +23838,16 @@
                             "type" : "AddCurve",
                             "points" : [
                               [
-                                46.676192424647525,
-                                29.277071828654755
+                                46.676189325205996,
+                                29.277075837067116
                               ],
                               [
-                                53.127180617536396,
-                                22.005799025013232
+                                53.127177518094868,
+                                22.005803033425593
                               ],
                               [
-                                59.983571463730186,
-                                15.091297796976107
+                                59.983568364288658,
+                                15.091301805388468
                               ]
                             ]
                           },
@@ -23841,16 +23855,16 @@
                             "type" : "AddCurve",
                             "points" : [
                               [
-                                60.82289780755309,
-                                14.245089798529875
+                                60.822894708111562,
+                                14.245093806942236
                               ],
                               [
-                                61.631190898449859,
-                                13.401308581990293
+                                61.63118779900833,
+                                13.401312590402654
                               ],
                               [
-                                62.228211573790759,
-                                12.317022733968884
+                                62.228208474349231,
+                                12.317026742381245
                               ]
                             ]
                           },
@@ -23858,16 +23872,16 @@
                             "type" : "AddCurve",
                             "points" : [
                               [
-                                63.368400378819388,
-                                10.245904072462167
+                                63.368397279377859,
+                                10.245908080874528
                               ],
                               [
-                                63.411773044218535,
-                                10.317930158990634
+                                63.411769944777006,
+                                10.317934167402996
                               ],
                               [
-                                62.051666846033186,
-                                8.4834800740901528
+                                62.051663746591657,
+                                8.483484082502514
                               ]
                             ]
                           },
@@ -23875,16 +23889,16 @@
                             "type" : "AddCurve",
                             "points" : [
                               [
-                                61.549469999077701,
-                                7.8061489268569062
+                                61.549466899636172,
+                                7.8061529352692673
                               ],
                               [
-                                60.993100422113457,
-                                7.6333909948432961
+                                60.993097322671929,
+                                7.6333950032556572
                               ],
                               [
-                                60.197947204578668,
-                                7.6196723266846789
+                                60.19794410513714,
+                                7.61967633509704
                               ]
                             ]
                           },
@@ -23892,16 +23906,16 @@
                             "type" : "AddCurve",
                             "points" : [
                               [
-                                58.678241419916048,
-                                7.5936450330103185
+                                58.67823832047452,
+                                7.5936490414226796
                               ],
                               [
-                                57.981963594343142,
-                                6.6460532752587937
+                                57.981960494901614,
+                                6.6460572836711549
                               ],
                               [
-                                58.230734523851424,
-                                5.2110978265635026
+                                58.230731424409896,
+                                5.2111018349758638
                               ]
                             ]
                           },
@@ -23909,16 +23923,16 @@
                             "type" : "AddCurve",
                             "points" : [
                               [
-                                58.285830862578223,
-                                4.8935180475612583
+                                58.285827763136695,
+                                4.8935220559736194
                               ],
                               [
-                                58.226646015926235,
-                                4.4723832590923962
+                                58.226642916484707,
+                                4.4723872675047573
                               ],
                               [
-                                58.047884627245367,
-                                4.2211863173513962
+                                58.047881527803838,
+                                4.2211903257637573
                               ]
                             ]
                           },
@@ -23926,16 +23940,16 @@
                             "type" : "AddCurve",
                             "points" : [
                               [
-                                57.627199328352617,
-                                3.6300182425871412
+                                57.627196228911089,
+                                3.6300222509995024
                               ],
                               [
-                                57.156084993454897,
-                                3.0502905049344236
+                                57.156081894013369,
+                                3.0502945133467847
                               ],
                               [
-                                56.610306129790843,
-                                2.5755371516876266
+                                56.610303030349314,
+                                2.5755411600999878
                               ]
                             ]
                           },
@@ -23943,16 +23957,16 @@
                             "type" : "AddCurve",
                             "points" : [
                               [
-                                55.839363775451602,
-                                1.9048709958659629
+                                55.839360676010074,
+                                1.904875004278324
                               ],
                               [
-                                55.373507852855255,
-                                1.5772269635393741
+                                55.373504753413727,
+                                1.5772309719517352
                               ],
                               [
-                                54.907910540699959,
-                                1.5919308146594062
+                                54.90790744125843,
+                                1.5919348230717674
                               ]
                             ]
                           },
@@ -23963,8 +23977,8 @@
                             "type" : "MoveToPoint",
                             "points" : [
                               [
-                                54.907910540699959,
-                                1.5919308146594062
+                                54.90790744125843,
+                                1.5919348230717674
                               ]
                             ]
                           }
@@ -24024,8 +24038,8 @@
                       "height" : 77,
                       "hidden" : true,
                       "anchorPoint" : {
-                        "pointX" : 0.49319049028249889,
-                        "pointY" : 0.49672470832025922
+                        "pointX" : 0.49319044259878303,
+                        "pointY" : 0.49672476037756264
                       }
                     },
                     "texture" : "DE2CC00B926630269DD5D951A89AF5F2"
@@ -24074,8 +24088,8 @@
                   "rotation" : 0,
                   "scale" : 1,
                   "position" : {
-                    "pointX" : 247.66559374332428,
-                    "pointY" : 348.78094446659088
+                    "pointX" : 247.66559827327728,
+                    "pointY" : 348.78094482421875
                   },
                   "width" : 45.03600001335144,
                   "sublayerTransform" : [
@@ -24162,7 +24176,7 @@
                     "texturedRectangle" : {
                       "singleTextureOpacity" : 1,
                       "textXHeight" : 0.48454054054054047,
-                      "textBaseline" : 0.78662274334881754,
+                      "textBaseline" : 0.78662275301443563,
                       "isBackgroundTexture" : true,
                       "isVerticalText" : false,
                       "textColor" : [
@@ -24219,8 +24233,8 @@
                       "height" : 37,
                       "hidden" : true,
                       "anchorPoint" : {
-                        "pointX" : 0.47744847936888002,
-                        "pointY" : 0.48056607633023651
+                        "pointX" : 0.47744860180004223,
+                        "pointY" : 0.48056608599585454
                       }
                     },
                     "texture" : "94128F49B1AAE6C0A352C94369588017"
@@ -24244,78 +24258,6 @@
       ],
       "accessibility" : [
         {
-          "text" : "Memory is split into pages (each 4KiB on x86)",
-          "targetRectangle" : {
-            "y" : 545.50000429153442,
-            "x" : 58.05882453918457,
-            "width" : 753.15599999999984,
-            "height" : 73
-          }
-        },
-        {
-          "text" : "The kernel maps its own memory into each process",
-          "targetRectangle" : {
-            "y" : 618.50000429153442,
-            "x" : 58.05882453918457,
-            "width" : 842.18400000000008,
-            "height" : 73
-          }
-        },
-        {
-          "text" : "This “kernel” memory is only accessible by the kernel",
-          "targetRectangle" : {
-            "y" : 691.50000429153442,
-            "x" : 58.05882453918457,
-            "width" : 872.46000000000015,
-            "height" : 49
-          }
-        },
-        {
-          "text" : "0x0000..0",
-          "targetRectangle" : {
-            "y" : 320.51806628704071,
-            "x" : 154.57959425449371,
-            "width" : 82.20799999999997,
-            "height" : 28.40008544921875
-          }
-        },
-        {
-          "text" : "{",
-          "targetRectangle" : {
-            "y" : 349.25000214576721,
-            "x" : 123.2721004486084,
-            "width" : 546,
-            "height" : 92.000000000000057
-          }
-        },
-        {
-          "text" : "User space",
-          "targetRectangle" : {
-            "y" : 448.5,
-            "x" : 321.72386622202396,
-            "width" : 181.00799999999998,
-            "height" : 49
-          }
-        },
-        {
-          "text" : "c)",
-          "targetRectangle" : {
-            "y" : 184.37500035762787,
-            "x" : 470.78045654296875,
-            "width" : 30.420000000000016,
-            "height" : 49
-          }
-        },
-        {
-          "text" : "Meltdown & Spectre for normal people",
-          "targetRectangle" : {
-            "y" : 40,
-            "x" : 36,
-            "width" : 519.28593814373016,
-            "height" : 28
-          }
-        },
-        {
           "text" : "Kernel space",
           "targetRectangle" : {
             "y" : 448.50000035762787,
@@ -24334,6 +24276,33 @@
           }
         },
         {
+          "text" : "c)",
+          "targetRectangle" : {
+            "y" : 184.37500035762787,
+            "x" : 470.78044891357422,
+            "width" : 30.420000000000016,
+            "height" : 49
+          }
+        },
+        {
+          "text" : "{",
+          "targetRectangle" : {
+            "y" : 349.25,
+            "x" : 123.27209663391113,
+            "width" : 546,
+            "height" : 92.000000000000057
+          }
+        },
+        {
+          "text" : "Meltdown & Spectre for normal people",
+          "targetRectangle" : {
+            "y" : 40,
+            "x" : 36,
+            "width" : 519.28593814373016,
+            "height" : 28
+          }
+        },
+        {
           "text" : "{",
           "targetRectangle" : {
             "y" : 348.60952758789062,
@@ -24349,6 +24318,51 @@
             "x" : 43.474161125165999,
             "width" : 84.951999999999998,
             "height" : 56.720068697930401
+          }
+        },
+        {
+          "text" : "Memory is split into pages (each 4KiB on x86)",
+          "targetRectangle" : {
+            "y" : 545.50000143051147,
+            "x" : 58.05882453918457,
+            "width" : 753.15599999999984,
+            "height" : 73
+          }
+        },
+        {
+          "text" : "The kernel maps its own memory into each process",
+          "targetRectangle" : {
+            "y" : 618.50000143051147,
+            "x" : 58.05882453918457,
+            "width" : 842.18400000000008,
+            "height" : 73
+          }
+        },
+        {
+          "text" : "This “kernel” memory is only accessible by the kernel",
+          "targetRectangle" : {
+            "y" : 691.50000143051147,
+            "x" : 58.05882453918457,
+            "width" : 872.46000000000015,
+            "height" : 49
+          }
+        },
+        {
+          "text" : "0x0000..0",
+          "targetRectangle" : {
+            "y" : 320.51806628704071,
+            "x" : 154.57959425449371,
+            "width" : 82.20799999999997,
+            "height" : 28.40008544921875
+          }
+        },
+        {
+          "text" : "User space",
+          "targetRectangle" : {
+            "y" : 448.50000035762787,
+            "x" : 321.723876953125,
+            "width" : 181.00799999999998,
+            "height" : 49
           }
         }
       ],
@@ -25884,7 +25898,7 @@
                   "scale" : 1,
                   "position" : {
                     "pointX" : 471,
-                    "pointY" : 639.50000429153442
+                    "pointY" : 639.50000143051147
                   },
                   "width" : 908,
                   "sublayerTransform" : [
@@ -25931,7 +25945,7 @@
                     "texturedRectangle" : {
                       "singleTextureOpacity" : 1,
                       "textXHeight" : 0.34128000000000003,
-                      "textBaseline" : 0.78648201942443852,
+                      "textBaseline" : 0.78648196220397948,
                       "isBackgroundTexture" : false,
                       "isVerticalText" : false,
                       "textColor" : [
@@ -25956,7 +25970,7 @@
                       "scale" : 1,
                       "position" : {
                         "pointX" : 399,
-                        "pointY" : 25.499995708465576
+                        "pointY" : 25.499998569488525
                       },
                       "width" : 790,
                       "sublayerTransform" : [
@@ -26004,7 +26018,7 @@
                     "texturedRectangle" : {
                       "singleTextureOpacity" : 1,
                       "textXHeight" : 0.34128000000000003,
-                      "textBaseline" : 0.78648201942443852,
+                      "textBaseline" : 0.78648196220397948,
                       "isBackgroundTexture" : false,
                       "isVerticalText" : false,
                       "textColor" : [
@@ -26029,7 +26043,7 @@
                       "scale" : 1,
                       "position" : {
                         "pointX" : 443.5,
-                        "pointY" : 98.499995708465576
+                        "pointY" : 98.499998569488525
                       },
                       "width" : 879,
                       "sublayerTransform" : [
@@ -26077,7 +26091,7 @@
                     "texturedRectangle" : {
                       "singleTextureOpacity" : 1,
                       "textXHeight" : 0.34128000000000003,
-                      "textBaseline" : 0.78648201942443852,
+                      "textBaseline" : 0.78648196220397948,
                       "isBackgroundTexture" : false,
                       "isVerticalText" : false,
                       "textColor" : [
@@ -26102,7 +26116,7 @@
                       "scale" : 1,
                       "position" : {
                         "pointX" : 458,
-                        "pointY" : 171.49999570846558
+                        "pointY" : 171.49999856948853
                       },
                       "width" : 908,
                       "sublayerTransform" : [
@@ -26455,7 +26469,7 @@
                   "rotation" : 0,
                   "scale" : 1,
                   "position" : {
-                    "pointX" : 308.95572916666669,
+                    "pointX" : 308.95571899414062,
                     "pointY" : 300
                   },
                   "width" : 103,
@@ -26512,7 +26526,7 @@
                             "type" : "MoveToPoint",
                             "points" : [
                               [
-                                1.4557291666666856,
+                                1.455718994140625,
                                 1
                               ]
                             ]
@@ -26521,7 +26535,7 @@
                             "type" : "AddLine",
                             "points" : [
                               [
-                                101.45572916666669,
+                                101.45571899414062,
                                 1
                               ]
                             ]
@@ -26530,7 +26544,7 @@
                             "type" : "AddLine",
                             "points" : [
                               [
-                                101.45572916666669,
+                                101.45571899414062,
                                 101
                               ]
                             ]
@@ -26539,7 +26553,7 @@
                             "type" : "AddLine",
                             "points" : [
                               [
-                                1.4557291666666856,
+                                1.455718994140625,
                                 101
                               ]
                             ]
@@ -26551,7 +26565,7 @@
                             "type" : "MoveToPoint",
                             "points" : [
                               [
-                                1.4557291666666856,
+                                1.455718994140625,
                                 1
                               ]
                             ]
@@ -26579,7 +26593,7 @@
                       "rotation" : 0,
                       "scale" : 1,
                       "position" : {
-                        "pointX" : 50.044270833333314,
+                        "pointX" : 50.044281005859375,
                         "pointY" : 50
                       },
                       "width" : 103,
@@ -26694,7 +26708,7 @@
                   "rotation" : 0,
                   "scale" : 1,
                   "position" : {
-                    "pointX" : 414.22786458333337,
+                    "pointX" : 414.22787475585938,
                     "pointY" : 300
                   },
                   "width" : 103,
@@ -26751,7 +26765,7 @@
                             "type" : "MoveToPoint",
                             "points" : [
                               [
-                                1.7278645833333712,
+                                1.727874755859375,
                                 1
                               ]
                             ]
@@ -26760,7 +26774,7 @@
                             "type" : "AddLine",
                             "points" : [
                               [
-                                101.72786458333337,
+                                101.72787475585938,
                                 1
                               ]
                             ]
@@ -26769,7 +26783,7 @@
                             "type" : "AddLine",
                             "points" : [
                               [
-                                101.72786458333337,
+                                101.72787475585938,
                                 101
                               ]
                             ]
@@ -26778,7 +26792,7 @@
                             "type" : "AddLine",
                             "points" : [
                               [
-                                1.7278645833333712,
+                                1.727874755859375,
                                 101
                               ]
                             ]
@@ -26790,7 +26804,7 @@
                             "type" : "MoveToPoint",
                             "points" : [
                               [
-                                1.7278645833333712,
+                                1.727874755859375,
                                 1
                               ]
                             ]
@@ -26818,7 +26832,7 @@
                       "rotation" : 0,
                       "scale" : 1,
                       "position" : {
-                        "pointX" : 49.772135416666629,
+                        "pointX" : 49.772125244140625,
                         "pointY" : 50
                       },
                       "width" : 103,
@@ -27359,8 +27373,8 @@
                   "rotation" : 0,
                   "scale" : 1,
                   "position" : {
-                    "pointX" : 408.72386622202396,
-                    "pointY" : 463.5
+                    "pointX" : 408.723876953125,
+                    "pointY" : 463.50000035762787
                   },
                   "width" : 182,
                   "sublayerTransform" : [
@@ -27407,7 +27421,7 @@
                     "texturedRectangle" : {
                       "singleTextureOpacity" : 1,
                       "textXHeight" : 0.44905263157894737,
-                      "textBaseline" : 0.71905517578125,
+                      "textBaseline" : 0.71905518519250966,
                       "isBackgroundTexture" : true,
                       "isVerticalText" : false,
                       "textColor" : [
@@ -27431,8 +27445,8 @@
                       "rotation" : 0,
                       "scale" : 1,
                       "position" : {
-                        "pointX" : 95.276133777976042,
-                        "pointY" : 31.5
+                        "pointX" : 95.276123046875,
+                        "pointY" : 31.499999642372131
                       },
                       "width" : 182,
                       "sublayerTransform" : [
@@ -27546,7 +27560,7 @@
                   "rotation" : 0,
                   "scale" : 1,
                   "position" : {
-                    "pointX" : 624.77215766906738,
+                    "pointX" : 624.77215576171875,
                     "pointY" : 300
                   },
                   "width" : 103,
@@ -27603,7 +27617,7 @@
                             "type" : "MoveToPoint",
                             "points" : [
                               [
-                                1.2721576690673828,
+                                1.27215576171875,
                                 1
                               ]
                             ]
@@ -27612,7 +27626,7 @@
                             "type" : "AddLine",
                             "points" : [
                               [
-                                101.27215766906738,
+                                101.27215576171875,
                                 1
                               ]
                             ]
@@ -27621,7 +27635,7 @@
                             "type" : "AddLine",
                             "points" : [
                               [
-                                101.27215766906738,
+                                101.27215576171875,
                                 101
                               ]
                             ]
@@ -27630,7 +27644,7 @@
                             "type" : "AddLine",
                             "points" : [
                               [
-                                1.2721576690673828,
+                                1.27215576171875,
                                 101
                               ]
                             ]
@@ -27642,7 +27656,7 @@
                             "type" : "MoveToPoint",
                             "points" : [
                               [
-                                1.2721576690673828,
+                                1.27215576171875,
                                 1
                               ]
                             ]
@@ -27670,7 +27684,7 @@
                       "rotation" : 0,
                       "scale" : 1,
                       "position" : {
-                        "pointX" : 50.227842330932617,
+                        "pointX" : 50.22784423828125,
                         "pointY" : 50
                       },
                       "width" : 103,
@@ -27785,7 +27799,7 @@
                   "rotation" : 0,
                   "scale" : 1,
                   "position" : {
-                    "pointX" : 823.22784614562988,
+                    "pointX" : 823.22784423828125,
                     "pointY" : 376.5
                   },
                   "width" : 557,
@@ -27851,7 +27865,7 @@
                       "rotation" : 0,
                       "scale" : 1,
                       "position" : {
-                        "pointX" : 276.77215385437012,
+                        "pointX" : 276.77215576171875,
                         "pointY" : 126.5
                       },
                       "width" : 557,
@@ -28069,7 +28083,7 @@
                         "pointY" : 0.5
                       }
                     },
-                    "texture" : "4C901ED57E5F48CFDD0BF3CB170380E8"
+                    "texture" : "99CD8526EC13EB754A17378E612EBF5C"
                   }
                 ]
               }
@@ -28147,8 +28161,8 @@
                   "rotation" : 0,
                   "scale" : 1,
                   "position" : {
-                    "pointX" : 299.2721004486084,
-                    "pointY" : 381.75000309944153
+                    "pointX" : 299.27209663391113,
+                    "pointY" : 381.75000095367432
                   },
                   "width" : 360,
                   "sublayerTransform" : [
@@ -28195,7 +28209,7 @@
                     "texturedRectangle" : {
                       "singleTextureOpacity" : 1,
                       "textXHeight" : 2.5760000000000001,
-                      "textBaseline" : 5.0646810181935624,
+                      "textBaseline" : 5.0646809895833336,
                       "isBackgroundTexture" : true,
                       "isVerticalText" : false,
                       "textColor" : [
@@ -28219,8 +28233,8 @@
                       "rotation" : 0,
                       "scale" : 1,
                       "position" : {
-                        "pointX" : 288.7278995513916,
-                        "pointY" : 61.249996900558472
+                        "pointX" : 288.72790336608887,
+                        "pointY" : 61.249999046325684
                       },
                       "width" : 360,
                       "sublayerTransform" : [

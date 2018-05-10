@@ -2,34 +2,6 @@ local_slide( {
   "name" : "A6D61F64-8350-4522-9627-26F5EF1AE3DA",
   "json" : {
     "assets" : {
-      "A36CE115C3C1DF8F023CCD4989323094" : {
-        "type" : "texture",
-        "index" : 1,
-        "assetRequest" : {
-          "type" : "slide",
-          "state" : "contents",
-          "slide" : "none"
-        },
-        "url" : {
-          "native" : "assets\/A6D61F64-8350-4522-9627-26F5EF1AE3DA.pdf"
-        },
-        "width" : 964,
-        "height" : 5
-      },
-      "62E97EE91669FCECB9C1F97BC75F9273" : {
-        "type" : "texture",
-        "index" : 21,
-        "assetRequest" : {
-          "type" : "slide",
-          "state" : "contents",
-          "slide" : "none"
-        },
-        "url" : {
-          "native" : "assets\/A6D61F64-8350-4522-9627-26F5EF1AE3DA.pdf"
-        },
-        "width" : 1024,
-        "height" : 768
-      },
       "DA1FD20E9D1F02A808FE856154D81DA6" : {
         "type" : "texture",
         "index" : 9,
@@ -43,6 +15,20 @@ local_slide( {
         },
         "width" : 49,
         "height" : 49
+      },
+      "763F2C241DC1912BA77A29A23BE50E3F" : {
+        "type" : "texture",
+        "index" : 6,
+        "assetRequest" : {
+          "type" : "slide",
+          "state" : "contents",
+          "slide" : "none"
+        },
+        "url" : {
+          "native" : "assets\/A6D61F64-8350-4522-9627-26F5EF1AE3DA.pdf"
+        },
+        "width" : 26,
+        "height" : 20
       },
       "1793D08204B7643D1BE72CA81E8B18E7" : {
         "type" : "texture",
@@ -100,9 +86,9 @@ local_slide( {
         "width" : 454,
         "height" : 380
       },
-      "F648880DCCA26515020CAF2E5D8A1198" : {
+      "6674FF76DB7DDA87FF90D45FAE8B4E15" : {
         "type" : "texture",
-        "index" : 4,
+        "index" : 21,
         "assetRequest" : {
           "type" : "slide",
           "state" : "contents",
@@ -111,8 +97,8 @@ local_slide( {
         "url" : {
           "native" : "assets\/A6D61F64-8350-4522-9627-26F5EF1AE3DA.pdf"
         },
-        "width" : 519,
-        "height" : 20
+        "width" : 1024,
+        "height" : 768
       },
       "62ADB738D678D9F26333AAC5C3F82203" : {
         "type" : "texture",
@@ -127,6 +113,20 @@ local_slide( {
         },
         "width" : 49,
         "height" : 49
+      },
+      "F648880DCCA26515020CAF2E5D8A1198" : {
+        "type" : "texture",
+        "index" : 4,
+        "assetRequest" : {
+          "type" : "slide",
+          "state" : "contents",
+          "slide" : "none"
+        },
+        "url" : {
+          "native" : "assets\/A6D61F64-8350-4522-9627-26F5EF1AE3DA.pdf"
+        },
+        "width" : 519,
+        "height" : 20
       },
       "FBB5DEA59905EE30EF2803B0A74DF992" : {
         "type" : "texture",
@@ -156,6 +156,20 @@ local_slide( {
         "width" : 838,
         "height" : 159
       },
+      "640D5297D59088D46FE63A28D36F2264" : {
+        "type" : "texture",
+        "index" : 1,
+        "assetRequest" : {
+          "type" : "slide",
+          "state" : "contents",
+          "slide" : "none"
+        },
+        "url" : {
+          "native" : "assets\/A6D61F64-8350-4522-9627-26F5EF1AE3DA.pdf"
+        },
+        "width" : 964,
+        "height" : 5
+      },
       "F1F707B7E0DE74DB450F5DED8EA342AF" : {
         "type" : "texture",
         "index" : 11,
@@ -183,6 +197,20 @@ local_slide( {
         },
         "width" : 308,
         "height" : 270
+      },
+      "AAABDF438719A55F5175322A93D661B8" : {
+        "type" : "texture",
+        "index" : 20,
+        "assetRequest" : {
+          "type" : "slide",
+          "state" : "contents",
+          "slide" : "none"
+        },
+        "url" : {
+          "native" : "assets\/A6D61F64-8350-4522-9627-26F5EF1AE3DA.pdf"
+        },
+        "width" : 1024,
+        "height" : 768
       },
       "0B4964CBA0DC492B861686625A68AA4E" : {
         "type" : "texture",
@@ -240,20 +268,6 @@ local_slide( {
         "width" : 153,
         "height" : 22
       },
-      "F1605CDFC6B4CE62F0AB8C1CEA4F40DE" : {
-        "type" : "texture",
-        "index" : 6,
-        "assetRequest" : {
-          "type" : "slide",
-          "state" : "contents",
-          "slide" : "none"
-        },
-        "url" : {
-          "native" : "assets\/A6D61F64-8350-4522-9627-26F5EF1AE3DA.pdf"
-        },
-        "width" : 26,
-        "height" : 20
-      },
       "08BA7CB5F009C7BA151C3EE33D959353" : {
         "type" : "texture",
         "index" : 18,
@@ -295,20 +309,6 @@ local_slide( {
         },
         "width" : 49,
         "height" : 49
-      },
-      "C409A63BCD8E095EAA507613BF153D0E" : {
-        "type" : "texture",
-        "index" : 20,
-        "assetRequest" : {
-          "type" : "slide",
-          "state" : "contents",
-          "slide" : "none"
-        },
-        "url" : {
-          "native" : "assets\/A6D61F64-8350-4522-9627-26F5EF1AE3DA.pdf"
-        },
-        "width" : 1024,
-        "height" : 768
       }
     },
     "events" : [
@@ -492,7 +492,7 @@ local_slide( {
                           "pointY" : 0.5
                         }
                       },
-                      "texture" : "C409A63BCD8E095EAA507613BF153D0E"
+                      "texture" : "AAABDF438719A55F5175322A93D661B8"
                     },
                     {
                       "animations" : [
@@ -573,7 +573,7 @@ local_slide( {
                           "pointY" : 0.5
                         }
                       },
-                      "texture" : "62E97EE91669FCECB9C1F97BC75F9273"
+                      "texture" : "6674FF76DB7DDA87FF90D45FAE8B4E15"
                     }
                   ]
                 }
@@ -594,56 +594,11 @@ local_slide( {
         ],
         "accessibility" : [
           {
-            "text" : "D",
+            "text" : "E",
             "targetRectangle" : {
-              "y" : 548.96734619140625,
-              "x" : 103.9684277618974,
-              "width" : 11.927999999999997,
-              "height" : 28.40008544921875
-            }
-          },
-          {
-            "text" : "Meltdown & Spectre for normal people",
-            "targetRectangle" : {
-              "y" : 40,
-              "x" : 36,
-              "width" : 519.28593814373016,
-              "height" : 28
-            }
-          },
-          {
-            "text" : "C",
-            "targetRectangle" : {
-              "y" : 475.99658203125,
-              "x" : 104.23442776189741,
-              "width" : 11.396000000000001,
-              "height" : 28.40008544921875
-            }
-          },
-          {
-            "text" : "spectre",
-            "targetRectangle" : {
-              "y" : 125,
-              "x" : 36,
-              "width" : 130.464,
-              "height" : 48.400146484375
-            }
-          },
-          {
-            "text" : "Attacker Process",
-            "targetRectangle" : {
-              "y" : 669.32034301757812,
-              "x" : 660.56600000000003,
-              "width" : 168.86799999999994,
-              "height" : 28.40008544921875
-            }
-          },
-          {
-            "text" : "D",
-            "targetRectangle" : {
-              "y" : 548.96734619140625,
-              "x" : 103.9684277618974,
-              "width" : 11.927999999999997,
+              "y" : 621.9381103515625,
+              "x" : 104.75242776189741,
+              "width" : 10.359999999999999,
               "height" : 28.40008544921875
             }
           },
@@ -657,30 +612,12 @@ local_slide( {
             }
           },
           {
-            "text" : "Counter > 0?",
+            "text" : "spectre.png",
             "targetRectangle" : {
-              "y" : 575.10595721006393,
-              "x" : 200.51849365234375,
-              "width" : 150.43200000000002,
-              "height" : 33
-            }
-          },
-          {
-            "text" : "B",
-            "targetRectangle" : {
-              "y" : 403.02581787109375,
-              "x" : 103.9684277618974,
-              "width" : 11.927999999999997,
-              "height" : 28.40008544921875
-            }
-          },
-          {
-            "text" : "E",
-            "targetRectangle" : {
-              "y" : 621.9381103515625,
-              "x" : 104.75242776189741,
-              "width" : 10.359999999999999,
-              "height" : 28.40008544921875
+              "y" : 91.537521362304688,
+              "x" : 864.53656005859375,
+              "width" : 128.11909484863281,
+              "height" : 101.40676879882812
             }
           },
           {
@@ -693,12 +630,12 @@ local_slide( {
             }
           },
           {
-            "text" : "spectre.png",
+            "text" : "Attacker Process",
             "targetRectangle" : {
-              "y" : 91.537521362304688,
-              "x" : 864.53656005859375,
-              "width" : 128.11909484863281,
-              "height" : 101.40676879882812
+              "y" : 669.32034301757812,
+              "x" : 660.56600000000003,
+              "width" : 168.86799999999994,
+              "height" : 28.40008544921875
             }
           },
           {
@@ -711,12 +648,75 @@ local_slide( {
             }
           },
           {
+            "text" : "D",
+            "targetRectangle" : {
+              "y" : 548.96734619140625,
+              "x" : 103.9684277618974,
+              "width" : 11.927999999999997,
+              "height" : 28.40008544921875
+            }
+          },
+          {
+            "text" : "B",
+            "targetRectangle" : {
+              "y" : 403.02581787109375,
+              "x" : 103.9684277618974,
+              "width" : 11.927999999999997,
+              "height" : 28.40008544921875
+            }
+          },
+          {
             "text" : "Spectre attacks other processes by forcing them to speculatively run other code paths",
             "targetRectangle" : {
               "y" : 196.85000610351562,
               "x" : 35.999980926513672,
               "width" : 842.14799999999991,
               "height" : 122
+            }
+          },
+          {
+            "text" : "C",
+            "targetRectangle" : {
+              "y" : 475.99658203125,
+              "x" : 104.23442776189741,
+              "width" : 11.396000000000001,
+              "height" : 28.40008544921875
+            }
+          },
+          {
+            "text" : "Meltdown & Spectre for normal people",
+            "targetRectangle" : {
+              "y" : 40,
+              "x" : 36,
+              "width" : 519.28593814373016,
+              "height" : 28
+            }
+          },
+          {
+            "text" : "D",
+            "targetRectangle" : {
+              "y" : 548.96734619140625,
+              "x" : 103.9684277618974,
+              "width" : 11.927999999999997,
+              "height" : 28.40008544921875
+            }
+          },
+          {
+            "text" : "Counter > 0?",
+            "targetRectangle" : {
+              "y" : 575.10595721006393,
+              "x" : 200.51849365234375,
+              "width" : 150.43200000000002,
+              "height" : 33
+            }
+          },
+          {
+            "text" : "spectre",
+            "targetRectangle" : {
+              "y" : 125,
+              "x" : 36,
+              "width" : 130.464,
+              "height" : 48.400146484375
             }
           }
         ],
@@ -1160,7 +1160,7 @@ local_slide( {
                           "pointY" : 0.5
                         }
                       },
-                      "texture" : "A36CE115C3C1DF8F023CCD4989323094"
+                      "texture" : "640D5297D59088D46FE63A28D36F2264"
                     }
                   ]
                 }
@@ -2089,7 +2089,7 @@ local_slide( {
                           "pointY" : 0.5
                         }
                       },
-                      "texture" : "F1605CDFC6B4CE62F0AB8C1CEA4F40DE"
+                      "texture" : "763F2C241DC1912BA77A29A23BE50E3F"
                     }
                   ]
                 }

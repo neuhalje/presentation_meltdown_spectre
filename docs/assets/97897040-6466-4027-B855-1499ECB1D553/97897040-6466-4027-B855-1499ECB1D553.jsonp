@@ -2,9 +2,9 @@ local_slide( {
   "name" : "97897040-6466-4027-B855-1499ECB1D553",
   "json" : {
     "assets" : {
-      "640D5297D59088D46FE63A28D36F2264" : {
+      "F648880DCCA26515020CAF2E5D8A1198" : {
         "type" : "texture",
-        "index" : 1,
+        "index" : 3,
         "assetRequest" : {
           "type" : "slide",
           "state" : "contents",
@@ -13,12 +13,12 @@ local_slide( {
         "url" : {
           "native" : "assets\/97897040-6466-4027-B855-1499ECB1D553.pdf"
         },
-        "width" : 964,
-        "height" : 5
+        "width" : 519,
+        "height" : 20
       },
-      "CC32A5469D6340B0C741650AD118EB11" : {
+      "FBB5DEA59905EE30EF2803B0A74DF992" : {
         "type" : "texture",
-        "index" : 10,
+        "index" : 0,
         "assetRequest" : {
           "type" : "slide",
           "state" : "contents",
@@ -44,9 +44,9 @@ local_slide( {
         "width" : 525,
         "height" : 37
       },
-      "1BA01D6860A7DB5638C558EDEFB7DF85" : {
+      "7B575677CFCDF13BE559ABBF5FCBAF68" : {
         "type" : "texture",
-        "index" : 7,
+        "index" : 2,
         "assetRequest" : {
           "type" : "slide",
           "state" : "contents",
@@ -55,36 +55,8 @@ local_slide( {
         "url" : {
           "native" : "assets\/97897040-6466-4027-B855-1499ECB1D553.pdf"
         },
-        "width" : 232,
-        "height" : 244
-      },
-      "F675B260672508F95296715F6693DF37" : {
-        "type" : "texture",
-        "index" : 6,
-        "assetRequest" : {
-          "type" : "slide",
-          "state" : "contents",
-          "slide" : "none"
-        },
-        "url" : {
-          "native" : "assets\/97897040-6466-4027-B855-1499ECB1D553.pdf"
-        },
-        "width" : 442,
-        "height" : 133
-      },
-      "FBB5DEA59905EE30EF2803B0A74DF992" : {
-        "type" : "texture",
-        "index" : 9,
-        "assetRequest" : {
-          "type" : "slide",
-          "state" : "contents",
-          "slide" : "none"
-        },
-        "url" : {
-          "native" : "assets\/97897040-6466-4027-B855-1499ECB1D553.pdf"
-        },
-        "width" : 1024,
-        "height" : 768
+        "width" : 993,
+        "height" : 486
       },
       "FC196F97A62B071AB88180AFFB995B6B" : {
         "type" : "texture",
@@ -100,6 +72,62 @@ local_slide( {
         "width" : 246,
         "height" : 463
       },
+      "640D5297D59088D46FE63A28D36F2264" : {
+        "type" : "texture",
+        "index" : 1,
+        "assetRequest" : {
+          "type" : "slide",
+          "state" : "contents",
+          "slide" : "none"
+        },
+        "url" : {
+          "native" : "assets\/97897040-6466-4027-B855-1499ECB1D553.pdf"
+        },
+        "width" : 964,
+        "height" : 5
+      },
+      "F675B260672508F95296715F6693DF37" : {
+        "type" : "texture",
+        "index" : 6,
+        "assetRequest" : {
+          "type" : "slide",
+          "state" : "contents",
+          "slide" : "none"
+        },
+        "url" : {
+          "native" : "assets\/97897040-6466-4027-B855-1499ECB1D553.pdf"
+        },
+        "width" : 442,
+        "height" : 133
+      },
+      "1BA01D6860A7DB5638C558EDEFB7DF85" : {
+        "type" : "texture",
+        "index" : 7,
+        "assetRequest" : {
+          "type" : "slide",
+          "state" : "contents",
+          "slide" : "none"
+        },
+        "url" : {
+          "native" : "assets\/97897040-6466-4027-B855-1499ECB1D553.pdf"
+        },
+        "width" : 232,
+        "height" : 244
+      },
+      "6FDC3F1EF0ACF45236304A2E229AEBBF" : {
+        "type" : "texture",
+        "index" : 10,
+        "assetRequest" : {
+          "type" : "slide",
+          "state" : "contents",
+          "slide" : "none"
+        },
+        "url" : {
+          "native" : "assets\/97897040-6466-4027-B855-1499ECB1D553.pdf"
+        },
+        "width" : 1024,
+        "height" : 768
+      },
       "BF927B3A3AE070064D392FCA26670553" : {
         "type" : "texture",
         "index" : 5,
@@ -114,9 +142,9 @@ local_slide( {
         "width" : 14,
         "height" : 20
       },
-      "BAC2DD64D655B3F7E1EF6633D09070CA" : {
+      "CC32A5469D6340B0C741650AD118EB11" : {
         "type" : "texture",
-        "index" : 0,
+        "index" : 9,
         "assetRequest" : {
           "type" : "slide",
           "state" : "contents",
@@ -127,48 +155,6 @@ local_slide( {
         },
         "width" : 1024,
         "height" : 768
-      },
-      "7B575677CFCDF13BE559ABBF5FCBAF68" : {
-        "type" : "texture",
-        "index" : 2,
-        "assetRequest" : {
-          "type" : "slide",
-          "state" : "contents",
-          "slide" : "none"
-        },
-        "url" : {
-          "native" : "assets\/97897040-6466-4027-B855-1499ECB1D553.pdf"
-        },
-        "width" : 993,
-        "height" : 486
-      },
-      "6FDC3F1EF0ACF45236304A2E229AEBBF" : {
-        "type" : "texture",
-        "index" : 11,
-        "assetRequest" : {
-          "type" : "slide",
-          "state" : "contents",
-          "slide" : "none"
-        },
-        "url" : {
-          "native" : "assets\/97897040-6466-4027-B855-1499ECB1D553.pdf"
-        },
-        "width" : 1024,
-        "height" : 768
-      },
-      "F648880DCCA26515020CAF2E5D8A1198" : {
-        "type" : "texture",
-        "index" : 3,
-        "assetRequest" : {
-          "type" : "slide",
-          "state" : "contents",
-          "slide" : "none"
-        },
-        "url" : {
-          "native" : "assets\/97897040-6466-4027-B855-1499ECB1D553.pdf"
-        },
-        "width" : 519,
-        "height" : 20
       }
     },
     "events" : [
@@ -389,35 +375,17 @@ local_slide( {
           {
             "text" : "VM",
             "targetRectangle" : {
-              "y" : 300.5154727101326,
-              "x" : 841.24000597000122,
+              "y" : 298.8577578663826,
+              "x" : 220.23997497558594,
               "width" : 32.740000000000009,
               "height" : 27
             }
           },
           {
-            "text" : "You don’t want",
-            "targetRectangle" : {
-              "y" : 553.40000128746033,
-              "x" : 52.767989158630371,
-              "width" : 438.46399999999988,
-              "height" : 87
-            }
-          },
-          {
-            "text" : "this",
-            "targetRectangle" : {
-              "y" : 633.60000336170197,
-              "x" : 220.54398915863032,
-              "width" : 102.91200000000003,
-              "height" : 87
-            }
-          },
-          {
             "text" : "VM",
             "targetRectangle" : {
-              "y" : 298.8577578663826,
-              "x" : 220.23997497558594,
+              "y" : 300.5154727101326,
+              "x" : 841.24000597000122,
               "width" : 32.740000000000009,
               "height" : 27
             }
@@ -432,12 +400,39 @@ local_slide( {
             }
           },
           {
+            "text" : "Security Goals: Cloud Isolation",
+            "targetRectangle" : {
+              "y" : 125,
+              "x" : 36,
+              "width" : 525.35999999999979,
+              "height" : 48.400146484375
+            }
+          },
+          {
+            "text" : "VM",
+            "targetRectangle" : {
+              "y" : 298.8577578663826,
+              "x" : 339.23997497558594,
+              "width" : 32.740000000000009,
+              "height" : 27
+            }
+          },
+          {
             "text" : "VM",
             "targetRectangle" : {
               "y" : 300.5154727101326,
               "x" : 722.24000597000122,
               "width" : 32.740000000000009,
               "height" : 27
+            }
+          },
+          {
+            "text" : "￼",
+            "targetRectangle" : {
+              "y" : 38,
+              "x" : 976.09613084793091,
+              "width" : 11.51953125,
+              "height" : 28
             }
           },
           {
@@ -459,30 +454,21 @@ local_slide( {
             }
           },
           {
-            "text" : "VM",
+            "text" : "You don’t want",
             "targetRectangle" : {
-              "y" : 298.8577578663826,
-              "x" : 339.23997497558594,
-              "width" : 32.740000000000009,
-              "height" : 27
+              "y" : 553.40000128746033,
+              "x" : 52.767989158630371,
+              "width" : 438.46399999999988,
+              "height" : 87
             }
           },
           {
-            "text" : "Security Goals: Cloud Isolation",
+            "text" : "this",
             "targetRectangle" : {
-              "y" : 125,
-              "x" : 36,
-              "width" : 525.35999999999979,
-              "height" : 48.400146484375
-            }
-          },
-          {
-            "text" : "￼",
-            "targetRectangle" : {
-              "y" : 38,
-              "x" : 976.09613084793091,
-              "width" : 11.51953125,
-              "height" : 28
+              "y" : 633.60000336170197,
+              "x" : 220.54398915863032,
+              "width" : 102.91200000000003,
+              "height" : 87
             }
           }
         ],
@@ -716,7 +702,7 @@ local_slide( {
                           "pointY" : 0.5
                         }
                       },
-                      "texture" : "BAC2DD64D655B3F7E1EF6633D09070CA"
+                      "texture" : "FBB5DEA59905EE30EF2803B0A74DF992"
                     }
                   ]
                 }
@@ -2746,35 +2732,17 @@ local_slide( {
           {
             "text" : "VM",
             "targetRectangle" : {
-              "y" : 300.5154727101326,
-              "x" : 841.24000597000122,
+              "y" : 298.8577578663826,
+              "x" : 220.23997497558594,
               "width" : 32.740000000000009,
               "height" : 27
             }
           },
           {
-            "text" : "You don’t want",
-            "targetRectangle" : {
-              "y" : 553.40000128746033,
-              "x" : 52.767989158630371,
-              "width" : 438.46399999999988,
-              "height" : 87
-            }
-          },
-          {
-            "text" : "this",
-            "targetRectangle" : {
-              "y" : 633.60000336170197,
-              "x" : 220.54398915863032,
-              "width" : 102.91200000000003,
-              "height" : 87
-            }
-          },
-          {
             "text" : "VM",
             "targetRectangle" : {
-              "y" : 298.8577578663826,
-              "x" : 220.23997497558594,
+              "y" : 300.5154727101326,
+              "x" : 841.24000597000122,
               "width" : 32.740000000000009,
               "height" : 27
             }
@@ -2789,12 +2757,39 @@ local_slide( {
             }
           },
           {
+            "text" : "Security Goals: Cloud Isolation",
+            "targetRectangle" : {
+              "y" : 125,
+              "x" : 36,
+              "width" : 525.35999999999979,
+              "height" : 48.400146484375
+            }
+          },
+          {
+            "text" : "VM",
+            "targetRectangle" : {
+              "y" : 298.8577578663826,
+              "x" : 339.23997497558594,
+              "width" : 32.740000000000009,
+              "height" : 27
+            }
+          },
+          {
             "text" : "VM",
             "targetRectangle" : {
               "y" : 300.5154727101326,
               "x" : 722.24000597000122,
               "width" : 32.740000000000009,
               "height" : 27
+            }
+          },
+          {
+            "text" : "￼",
+            "targetRectangle" : {
+              "y" : 38,
+              "x" : 976.09613084793091,
+              "width" : 11.51953125,
+              "height" : 28
             }
           },
           {
@@ -2816,30 +2811,21 @@ local_slide( {
             }
           },
           {
-            "text" : "VM",
+            "text" : "You don’t want",
             "targetRectangle" : {
-              "y" : 298.8577578663826,
-              "x" : 339.23997497558594,
-              "width" : 32.740000000000009,
-              "height" : 27
+              "y" : 553.40000128746033,
+              "x" : 52.767989158630371,
+              "width" : 438.46399999999988,
+              "height" : 87
             }
           },
           {
-            "text" : "Security Goals: Cloud Isolation",
+            "text" : "this",
             "targetRectangle" : {
-              "y" : 125,
-              "x" : 36,
-              "width" : 525.35999999999979,
-              "height" : 48.400146484375
-            }
-          },
-          {
-            "text" : "￼",
-            "targetRectangle" : {
-              "y" : 38,
-              "x" : 976.09613084793091,
-              "width" : 11.51953125,
-              "height" : 28
+              "y" : 633.60000336170197,
+              "x" : 220.54398915863032,
+              "width" : 102.91200000000003,
+              "height" : 87
             }
           }
         ],

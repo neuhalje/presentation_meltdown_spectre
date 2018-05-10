@@ -2,6 +2,20 @@ local_slide( {
   "name" : "C0C2E9BE-FFA6-44F8-BD72-10F34AFE2AAA",
   "json" : {
     "assets" : {
+      "A2AA572AED7647430A264A145FCD4095" : {
+        "type" : "texture",
+        "index" : 26,
+        "assetRequest" : {
+          "type" : "slide",
+          "state" : "contents",
+          "slide" : "none"
+        },
+        "url" : {
+          "native" : "assets\/C0C2E9BE-FFA6-44F8-BD72-10F34AFE2AAA.pdf"
+        },
+        "width" : 411,
+        "height" : 200
+      },
       "612D914B55853ACEB5946830E0FECE8D" : {
         "type" : "texture",
         "index" : 34,
@@ -142,6 +156,20 @@ local_slide( {
         "width" : 41,
         "height" : 41
       },
+      "4D02EF657AB6AB445B4725FFD6D389DD" : {
+        "type" : "texture",
+        "index" : 37,
+        "assetRequest" : {
+          "type" : "slide",
+          "state" : "contents",
+          "slide" : "none"
+        },
+        "url" : {
+          "native" : "assets\/C0C2E9BE-FFA6-44F8-BD72-10F34AFE2AAA.pdf"
+        },
+        "width" : 1024,
+        "height" : 768
+      },
       "5962E8782B72A2CEDFDB1B2142083DDF" : {
         "type" : "texture",
         "index" : 21,
@@ -169,20 +197,6 @@ local_slide( {
         },
         "width" : 420,
         "height" : 182
-      },
-      "A038F46969D6E83C36736C1C15D08B0A" : {
-        "type" : "texture",
-        "index" : 3,
-        "assetRequest" : {
-          "type" : "slide",
-          "state" : "contents",
-          "slide" : "none"
-        },
-        "url" : {
-          "native" : "assets\/C0C2E9BE-FFA6-44F8-BD72-10F34AFE2AAA.pdf"
-        },
-        "width" : 41,
-        "height" : 41
       },
       "491E4BB11383C37A139B869B455FA175" : {
         "type" : "texture",
@@ -240,9 +254,9 @@ local_slide( {
         "width" : 955,
         "height" : 52
       },
-      "41810EFE28B86FAD369CB06BE621ECF0" : {
+      "A038F46969D6E83C36736C1C15D08B0A" : {
         "type" : "texture",
-        "index" : 37,
+        "index" : 3,
         "assetRequest" : {
           "type" : "slide",
           "state" : "contents",
@@ -251,8 +265,8 @@ local_slide( {
         "url" : {
           "native" : "assets\/C0C2E9BE-FFA6-44F8-BD72-10F34AFE2AAA.pdf"
         },
-        "width" : 1024,
-        "height" : 768
+        "width" : 41,
+        "height" : 41
       },
       "6D4D033222AE7D24C0D54CD0A32C17F6" : {
         "type" : "texture",
@@ -282,9 +296,9 @@ local_slide( {
         "width" : 416,
         "height" : 99
       },
-      "C135EBC219747A38A9A55876F926A0F8" : {
+      "6A75014F098483DD95C044D0284AC0EC" : {
         "type" : "texture",
-        "index" : 27,
+        "index" : 8,
         "assetRequest" : {
           "type" : "slide",
           "state" : "contents",
@@ -293,8 +307,8 @@ local_slide( {
         "url" : {
           "native" : "assets\/C0C2E9BE-FFA6-44F8-BD72-10F34AFE2AAA.pdf"
         },
-        "width" : 415,
-        "height" : 121
+        "width" : 26,
+        "height" : 20
       },
       "8FC694D5DA5A573A4DA9E923CDF58732" : {
         "type" : "texture",
@@ -366,20 +380,6 @@ local_slide( {
         "width" : 41,
         "height" : 41
       },
-      "B9467AD622E52CC570A9D213787B0137" : {
-        "type" : "texture",
-        "index" : 38,
-        "assetRequest" : {
-          "type" : "slide",
-          "state" : "contents",
-          "slide" : "none"
-        },
-        "url" : {
-          "native" : "assets\/C0C2E9BE-FFA6-44F8-BD72-10F34AFE2AAA.pdf"
-        },
-        "width" : 1024,
-        "height" : 768
-      },
       "76C96F9973E3E8A2845094A37269F943" : {
         "type" : "texture",
         "index" : 2,
@@ -449,20 +449,6 @@ local_slide( {
         },
         "width" : 189,
         "height" : 50
-      },
-      "A3E33767547A1BE07E8AABE548F39045" : {
-        "type" : "texture",
-        "index" : 8,
-        "assetRequest" : {
-          "type" : "slide",
-          "state" : "contents",
-          "slide" : "none"
-        },
-        "url" : {
-          "native" : "assets\/C0C2E9BE-FFA6-44F8-BD72-10F34AFE2AAA.pdf"
-        },
-        "width" : 26,
-        "height" : 20
       },
       "41E06B20A2DF3B6250FD4089139B85AC" : {
         "type" : "texture",
@@ -534,9 +520,9 @@ local_slide( {
         "width" : 900,
         "height" : 51
       },
-      "A2AA572AED7647430A264A145FCD4095" : {
+      "033FB3ED2808E719984728E5D5891D65" : {
         "type" : "texture",
-        "index" : 26,
+        "index" : 27,
         "assetRequest" : {
           "type" : "slide",
           "state" : "contents",
@@ -545,8 +531,22 @@ local_slide( {
         "url" : {
           "native" : "assets\/C0C2E9BE-FFA6-44F8-BD72-10F34AFE2AAA.pdf"
         },
-        "width" : 411,
-        "height" : 200
+        "width" : 415,
+        "height" : 121
+      },
+      "7C7979F479552B338474C7B841C91FBC" : {
+        "type" : "texture",
+        "index" : 38,
+        "assetRequest" : {
+          "type" : "slide",
+          "state" : "contents",
+          "slide" : "none"
+        },
+        "url" : {
+          "native" : "assets\/C0C2E9BE-FFA6-44F8-BD72-10F34AFE2AAA.pdf"
+        },
+        "width" : 1024,
+        "height" : 768
       }
     },
     "events" : [
@@ -1727,6 +1727,15 @@ local_slide( {
         ],
         "accessibility" : [
           {
+            "text" : "Places",
+            "targetRectangle" : {
+              "y" : 461.73553484678268,
+              "x" : 633.56646728515625,
+              "width" : 73.799999999999955,
+              "height" : 33
+            }
+          },
+          {
             "text" : "“It’s a 1”",
             "targetRectangle" : {
               "y" : 248.0433349609375,
@@ -1736,11 +1745,11 @@ local_slide( {
             }
           },
           {
-            "text" : "Spy",
+            "text" : "…",
             "targetRectangle" : {
-              "y" : 314.57160979509354,
-              "x" : 77.810489654541016,
-              "width" : 36.299999999999997,
+              "y" : 210.85113555192947,
+              "x" : 651.73046875,
+              "width" : 20,
               "height" : 27
             }
           },
@@ -1754,12 +1763,21 @@ local_slide( {
             }
           },
           {
-            "text" : "…",
+            "text" : "“It’s a 3”",
             "targetRectangle" : {
-              "y" : 210.85113555192947,
-              "x" : 651.73046875,
-              "width" : 20,
-              "height" : 27
+              "y" : 344.9027099609375,
+              "x" : 623.54046874999995,
+              "width" : 79.380000000000109,
+              "height" : 28.40008544921875
+            }
+          },
+          {
+            "text" : "“It’s a 1”",
+            "targetRectangle" : {
+              "y" : 249.02923583984375,
+              "x" : 623.54046874999995,
+              "width" : 79.380000000000109,
+              "height" : 28.40008544921875
             }
           },
           {
@@ -1799,30 +1817,30 @@ local_slide( {
             }
           },
           {
-            "text" : "110011010\\u2028010111010\\u2028111100100\\u2028000101101\\u2028100110010",
-            "targetRectangle" : {
-              "y" : 186.37684416770935,
-              "x" : 36.550823211669922,
-              "width" : 125.8193359375,
-              "height" : 125
-            }
-          },
-          {
-            "text" : "“It’s a 3”",
-            "targetRectangle" : {
-              "y" : 344.9027099609375,
-              "x" : 623.54046874999995,
-              "width" : 79.380000000000109,
-              "height" : 28.40008544921875
-            }
-          },
-          {
             "text" : "Secret (“3”)",
             "targetRectangle" : {
               "y" : 421.2933349609375,
               "x" : 609.06446875000006,
               "width" : 108.33199999999988,
               "height" : 28.40008544921875
+            }
+          },
+          {
+            "text" : "Spy",
+            "targetRectangle" : {
+              "y" : 314.57160979509354,
+              "x" : 77.810489654541016,
+              "width" : 36.299999999999997,
+              "height" : 27
+            }
+          },
+          {
+            "text" : "…",
+            "targetRectangle" : {
+              "y" : 381.61364775896072,
+              "x" : 651.73046875,
+              "width" : 20,
+              "height" : 27
             }
           },
           {
@@ -1844,15 +1862,6 @@ local_slide( {
             }
           },
           {
-            "text" : "…",
-            "targetRectangle" : {
-              "y" : 381.61364775896072,
-              "x" : 651.73046875,
-              "width" : 20,
-              "height" : 27
-            }
-          },
-          {
             "text" : "￼",
             "targetRectangle" : {
               "y" : 38,
@@ -1862,21 +1871,12 @@ local_slide( {
             }
           },
           {
-            "text" : "Places",
+            "text" : "110011010\\u2028010111010\\u2028111100100\\u2028000101101\\u2028100110010",
             "targetRectangle" : {
-              "y" : 461.73553484678268,
-              "x" : 633.56646728515625,
-              "width" : 73.799999999999955,
-              "height" : 33
-            }
-          },
-          {
-            "text" : "“It’s a 1”",
-            "targetRectangle" : {
-              "y" : 249.02923583984375,
-              "x" : 623.54046874999995,
-              "width" : 79.380000000000109,
-              "height" : 28.40008544921875
+              "y" : 186.37684416770935,
+              "x" : 36.550823211669922,
+              "width" : 125.8193359375,
+              "height" : 125
             }
           }
         ],
@@ -3934,7 +3934,7 @@ local_slide( {
                           "pointY" : 0.5
                         }
                       },
-                      "texture" : "A3E33767547A1BE07E8AABE548F39045"
+                      "texture" : "6A75014F098483DD95C044D0284AC0EC"
                     }
                   ]
                 }
@@ -7708,7 +7708,7 @@ local_slide( {
                           "pointY" : 0.5
                         }
                       },
-                      "texture" : "C135EBC219747A38A9A55876F926A0F8"
+                      "texture" : "033FB3ED2808E719984728E5D5891D65"
                     }
                   ]
                 }
@@ -13011,7 +13011,7 @@ local_slide( {
                                   "pointY" : 0.5
                                 }
                               },
-                              "texture" : "C135EBC219747A38A9A55876F926A0F8"
+                              "texture" : "033FB3ED2808E719984728E5D5891D65"
                             }
                           ]
                         }
@@ -13637,6 +13637,15 @@ local_slide( {
         ],
         "accessibility" : [
           {
+            "text" : "Places",
+            "targetRectangle" : {
+              "y" : 461.73553484678268,
+              "x" : 633.56646728515625,
+              "width" : 73.799999999999955,
+              "height" : 33
+            }
+          },
+          {
             "text" : "“It’s a 1”",
             "targetRectangle" : {
               "y" : 248.0433349609375,
@@ -13646,11 +13655,20 @@ local_slide( {
             }
           },
           {
-            "text" : "Spy",
+            "text" : " Spy will read the secret ",
             "targetRectangle" : {
-              "y" : 314.57160979509354,
-              "x" : 77.810489654541016,
-              "width" : 36.299999999999997,
+              "y" : 518.84917736053467,
+              "x" : 77.020826568603511,
+              "width" : 408.88800000000003,
+              "height" : 49
+            }
+          },
+          {
+            "text" : "…",
+            "targetRectangle" : {
+              "y" : 210.85113555192947,
+              "x" : 651.73046875,
+              "width" : 20,
               "height" : 27
             }
           },
@@ -13664,12 +13682,21 @@ local_slide( {
             }
           },
           {
-            "text" : "…",
+            "text" : "“It’s a 3”",
             "targetRectangle" : {
-              "y" : 210.85113555192947,
-              "x" : 651.73046875,
-              "width" : 20,
-              "height" : 27
+              "y" : 344.9027099609375,
+              "x" : 623.54046874999995,
+              "width" : 79.380000000000109,
+              "height" : 28.40008544921875
+            }
+          },
+          {
+            "text" : "“It’s a 1”",
+            "targetRectangle" : {
+              "y" : 249.02923583984375,
+              "x" : 623.54046874999995,
+              "width" : 79.380000000000109,
+              "height" : 28.40008544921875
             }
           },
           {
@@ -13709,39 +13736,30 @@ local_slide( {
             }
           },
           {
-            "text" : "110011010\\u2028010111010\\u2028111100100\\u2028000101101\\u2028100110010",
-            "targetRectangle" : {
-              "y" : 186.37684416770935,
-              "x" : 36.550823211669922,
-              "width" : 125.8193359375,
-              "height" : 125
-            }
-          },
-          {
-            "text" : "“It’s a 3”",
-            "targetRectangle" : {
-              "y" : 344.9027099609375,
-              "x" : 623.54046874999995,
-              "width" : 79.380000000000109,
-              "height" : 28.40008544921875
-            }
-          },
-          {
-            "text" : " Spy will read the secret ",
-            "targetRectangle" : {
-              "y" : 518.84917736053467,
-              "x" : 77.020826568603511,
-              "width" : 408.88800000000003,
-              "height" : 49
-            }
-          },
-          {
             "text" : "Secret (“3”)",
             "targetRectangle" : {
               "y" : 421.2933349609375,
               "x" : 609.06446875000006,
               "width" : 108.33199999999988,
               "height" : 28.40008544921875
+            }
+          },
+          {
+            "text" : "Spy",
+            "targetRectangle" : {
+              "y" : 314.57160979509354,
+              "x" : 77.810489654541016,
+              "width" : 36.299999999999997,
+              "height" : 27
+            }
+          },
+          {
+            "text" : "…",
+            "targetRectangle" : {
+              "y" : 381.61364775896072,
+              "x" : 651.73046875,
+              "width" : 20,
+              "height" : 27
             }
           },
           {
@@ -13763,15 +13781,6 @@ local_slide( {
             }
           },
           {
-            "text" : "…",
-            "targetRectangle" : {
-              "y" : 381.61364775896072,
-              "x" : 651.73046875,
-              "width" : 20,
-              "height" : 27
-            }
-          },
-          {
             "text" : "￼",
             "targetRectangle" : {
               "y" : 38,
@@ -13781,21 +13790,12 @@ local_slide( {
             }
           },
           {
-            "text" : "Places",
+            "text" : "110011010\\u2028010111010\\u2028111100100\\u2028000101101\\u2028100110010",
             "targetRectangle" : {
-              "y" : 461.73553484678268,
-              "x" : 633.56646728515625,
-              "width" : 73.799999999999955,
-              "height" : 33
-            }
-          },
-          {
-            "text" : "“It’s a 1”",
-            "targetRectangle" : {
-              "y" : 249.02923583984375,
-              "x" : 623.54046874999995,
-              "width" : 79.380000000000109,
-              "height" : 28.40008544921875
+              "y" : 186.37684416770935,
+              "x" : 36.550823211669922,
+              "width" : 125.8193359375,
+              "height" : 125
             }
           }
         ],
@@ -15853,7 +15853,7 @@ local_slide( {
                           "pointY" : 0.5
                         }
                       },
-                      "texture" : "A3E33767547A1BE07E8AABE548F39045"
+                      "texture" : "6A75014F098483DD95C044D0284AC0EC"
                     }
                   ]
                 }
@@ -19627,7 +19627,7 @@ local_slide( {
                           "pointY" : 0.5
                         }
                       },
-                      "texture" : "C135EBC219747A38A9A55876F926A0F8"
+                      "texture" : "033FB3ED2808E719984728E5D5891D65"
                     }
                   ]
                 }
@@ -23759,7 +23759,7 @@ local_slide( {
                           "pointY" : 0.5
                         }
                       },
-                      "texture" : "C135EBC219747A38A9A55876F926A0F8"
+                      "texture" : "033FB3ED2808E719984728E5D5891D65"
                     }
                   ]
                 }
@@ -25739,6 +25739,15 @@ local_slide( {
         ],
         "accessibility" : [
           {
+            "text" : "Places",
+            "targetRectangle" : {
+              "y" : 461.73553484678268,
+              "x" : 633.56646728515625,
+              "width" : 73.799999999999955,
+              "height" : 33
+            }
+          },
+          {
             "text" : "“It’s a 1”",
             "targetRectangle" : {
               "y" : 248.0433349609375,
@@ -25748,11 +25757,29 @@ local_slide( {
             }
           },
           {
-            "text" : "Spy",
+            "text" : " Spy will read the secret ",
             "targetRectangle" : {
-              "y" : 314.57160979509354,
-              "x" : 77.810489654541016,
-              "width" : 36.299999999999997,
+              "y" : 518.84917736053467,
+              "x" : 77.020826568603511,
+              "width" : 408.88800000000003,
+              "height" : 49
+            }
+          },
+          {
+            "text" : " Depending on the value, Spy will mark a grey block",
+            "targetRectangle" : {
+              "y" : 567.34917736053467,
+              "x" : 77.020826568603511,
+              "width" : 867.13199999999983,
+              "height" : 49
+            }
+          },
+          {
+            "text" : "…",
+            "targetRectangle" : {
+              "y" : 210.85113555192947,
+              "x" : 651.73046875,
+              "width" : 20,
               "height" : 27
             }
           },
@@ -25766,12 +25793,21 @@ local_slide( {
             }
           },
           {
-            "text" : "…",
+            "text" : "“It’s a 3”",
             "targetRectangle" : {
-              "y" : 210.85113555192947,
-              "x" : 651.73046875,
-              "width" : 20,
-              "height" : 27
+              "y" : 344.9027099609375,
+              "x" : 623.54046874999995,
+              "width" : 79.380000000000109,
+              "height" : 28.40008544921875
+            }
+          },
+          {
+            "text" : "“It’s a 1”",
+            "targetRectangle" : {
+              "y" : 249.02923583984375,
+              "x" : 623.54046874999995,
+              "width" : 79.380000000000109,
+              "height" : 28.40008544921875
             }
           },
           {
@@ -25811,48 +25847,30 @@ local_slide( {
             }
           },
           {
-            "text" : "110011010\\u2028010111010\\u2028111100100\\u2028000101101\\u2028100110010",
-            "targetRectangle" : {
-              "y" : 186.37684416770935,
-              "x" : 36.550823211669922,
-              "width" : 125.8193359375,
-              "height" : 125
-            }
-          },
-          {
-            "text" : "“It’s a 3”",
-            "targetRectangle" : {
-              "y" : 344.9027099609375,
-              "x" : 623.54046874999995,
-              "width" : 79.380000000000109,
-              "height" : 28.40008544921875
-            }
-          },
-          {
-            "text" : " Spy will read the secret ",
-            "targetRectangle" : {
-              "y" : 518.84917736053467,
-              "x" : 77.020826568603511,
-              "width" : 408.88800000000003,
-              "height" : 49
-            }
-          },
-          {
-            "text" : " Depending on the value, Spy will mark a grey block",
-            "targetRectangle" : {
-              "y" : 567.34917736053467,
-              "x" : 77.020826568603511,
-              "width" : 867.13199999999983,
-              "height" : 49
-            }
-          },
-          {
             "text" : "Secret (“3”)",
             "targetRectangle" : {
               "y" : 421.2933349609375,
               "x" : 609.06446875000006,
               "width" : 108.33199999999988,
               "height" : 28.40008544921875
+            }
+          },
+          {
+            "text" : "Spy",
+            "targetRectangle" : {
+              "y" : 314.57160979509354,
+              "x" : 77.810489654541016,
+              "width" : 36.299999999999997,
+              "height" : 27
+            }
+          },
+          {
+            "text" : "…",
+            "targetRectangle" : {
+              "y" : 381.61364775896072,
+              "x" : 651.73046875,
+              "width" : 20,
+              "height" : 27
             }
           },
           {
@@ -25874,15 +25892,6 @@ local_slide( {
             }
           },
           {
-            "text" : "…",
-            "targetRectangle" : {
-              "y" : 381.61364775896072,
-              "x" : 651.73046875,
-              "width" : 20,
-              "height" : 27
-            }
-          },
-          {
             "text" : "￼",
             "targetRectangle" : {
               "y" : 38,
@@ -25892,21 +25901,12 @@ local_slide( {
             }
           },
           {
-            "text" : "Places",
+            "text" : "110011010\\u2028010111010\\u2028111100100\\u2028000101101\\u2028100110010",
             "targetRectangle" : {
-              "y" : 461.73553484678268,
-              "x" : 633.56646728515625,
-              "width" : 73.799999999999955,
-              "height" : 33
-            }
-          },
-          {
-            "text" : "“It’s a 1”",
-            "targetRectangle" : {
-              "y" : 249.02923583984375,
-              "x" : 623.54046874999995,
-              "width" : 79.380000000000109,
-              "height" : 28.40008544921875
+              "y" : 186.37684416770935,
+              "x" : 36.550823211669922,
+              "width" : 125.8193359375,
+              "height" : 125
             }
           }
         ],
@@ -27964,7 +27964,7 @@ local_slide( {
                           "pointY" : 0.5
                         }
                       },
-                      "texture" : "A3E33767547A1BE07E8AABE548F39045"
+                      "texture" : "6A75014F098483DD95C044D0284AC0EC"
                     }
                   ]
                 }
@@ -31739,7 +31739,7 @@ local_slide( {
                           "pointY" : 0.5
                         }
                       },
-                      "texture" : "C135EBC219747A38A9A55876F926A0F8"
+                      "texture" : "033FB3ED2808E719984728E5D5891D65"
                     }
                   ]
                 }
@@ -36557,6 +36557,15 @@ local_slide( {
         ],
         "accessibility" : [
           {
+            "text" : "Places",
+            "targetRectangle" : {
+              "y" : 461.73553484678268,
+              "x" : 633.56646728515625,
+              "width" : 73.799999999999955,
+              "height" : 33
+            }
+          },
+          {
             "text" : "“It’s a 1”",
             "targetRectangle" : {
               "y" : 248.0433349609375,
@@ -36566,11 +36575,38 @@ local_slide( {
             }
           },
           {
-            "text" : "Spy",
+            "text" : " Spy will read the secret ",
             "targetRectangle" : {
-              "y" : 314.57160979509354,
-              "x" : 77.810489654541016,
-              "width" : 36.299999999999997,
+              "y" : 518.84917736053467,
+              "x" : 77.020826568603511,
+              "width" : 408.88800000000003,
+              "height" : 49
+            }
+          },
+          {
+            "text" : " Depending on the value, Spy will mark a grey block",
+            "targetRectangle" : {
+              "y" : 567.34917736053467,
+              "x" : 77.020826568603511,
+              "width" : 867.13199999999983,
+              "height" : 49
+            }
+          },
+          {
+            "text" : " CPU detects Spys access validation and terminates Spy",
+            "targetRectangle" : {
+              "y" : 615.84917736053467,
+              "x" : 77.020826568603511,
+              "width" : 922.53600000000029,
+              "height" : 49
+            }
+          },
+          {
+            "text" : "…",
+            "targetRectangle" : {
+              "y" : 210.85113555192947,
+              "x" : 651.73046875,
+              "width" : 20,
               "height" : 27
             }
           },
@@ -36584,12 +36620,21 @@ local_slide( {
             }
           },
           {
-            "text" : "…",
+            "text" : "“It’s a 3”",
             "targetRectangle" : {
-              "y" : 210.85113555192947,
-              "x" : 651.73046875,
-              "width" : 20,
-              "height" : 27
+              "y" : 344.9027099609375,
+              "x" : 623.54046874999995,
+              "width" : 79.380000000000109,
+              "height" : 28.40008544921875
+            }
+          },
+          {
+            "text" : "“It’s a 1”",
+            "targetRectangle" : {
+              "y" : 249.02923583984375,
+              "x" : 623.54046874999995,
+              "width" : 79.380000000000109,
+              "height" : 28.40008544921875
             }
           },
           {
@@ -36629,57 +36674,30 @@ local_slide( {
             }
           },
           {
-            "text" : "110011010\\u2028010111010\\u2028111100100\\u2028000101101\\u2028100110010",
-            "targetRectangle" : {
-              "y" : 186.37684416770935,
-              "x" : 36.550823211669922,
-              "width" : 125.8193359375,
-              "height" : 125
-            }
-          },
-          {
-            "text" : "“It’s a 3”",
-            "targetRectangle" : {
-              "y" : 344.9027099609375,
-              "x" : 623.54046874999995,
-              "width" : 79.380000000000109,
-              "height" : 28.40008544921875
-            }
-          },
-          {
-            "text" : " Spy will read the secret ",
-            "targetRectangle" : {
-              "y" : 518.84917736053467,
-              "x" : 77.020826568603511,
-              "width" : 408.88800000000003,
-              "height" : 49
-            }
-          },
-          {
-            "text" : " Depending on the value, Spy will mark a grey block",
-            "targetRectangle" : {
-              "y" : 567.34917736053467,
-              "x" : 77.020826568603511,
-              "width" : 867.13199999999983,
-              "height" : 49
-            }
-          },
-          {
-            "text" : " CPU detects Spys access validation and terminates Spy",
-            "targetRectangle" : {
-              "y" : 615.84917736053467,
-              "x" : 77.020826568603511,
-              "width" : 922.53600000000029,
-              "height" : 49
-            }
-          },
-          {
             "text" : "Secret (“3”)",
             "targetRectangle" : {
               "y" : 421.2933349609375,
               "x" : 609.06446875000006,
               "width" : 108.33199999999988,
               "height" : 28.40008544921875
+            }
+          },
+          {
+            "text" : "Spy",
+            "targetRectangle" : {
+              "y" : 314.57160979509354,
+              "x" : 77.810489654541016,
+              "width" : 36.299999999999997,
+              "height" : 27
+            }
+          },
+          {
+            "text" : "…",
+            "targetRectangle" : {
+              "y" : 381.61364775896072,
+              "x" : 651.73046875,
+              "width" : 20,
+              "height" : 27
             }
           },
           {
@@ -36701,15 +36719,6 @@ local_slide( {
             }
           },
           {
-            "text" : "…",
-            "targetRectangle" : {
-              "y" : 381.61364775896072,
-              "x" : 651.73046875,
-              "width" : 20,
-              "height" : 27
-            }
-          },
-          {
             "text" : "￼",
             "targetRectangle" : {
               "y" : 38,
@@ -36719,21 +36728,12 @@ local_slide( {
             }
           },
           {
-            "text" : "Places",
+            "text" : "110011010\\u2028010111010\\u2028111100100\\u2028000101101\\u2028100110010",
             "targetRectangle" : {
-              "y" : 461.73553484678268,
-              "x" : 633.56646728515625,
-              "width" : 73.799999999999955,
-              "height" : 33
-            }
-          },
-          {
-            "text" : "“It’s a 1”",
-            "targetRectangle" : {
-              "y" : 249.02923583984375,
-              "x" : 623.54046874999995,
-              "width" : 79.380000000000109,
-              "height" : 28.40008544921875
+              "y" : 186.37684416770935,
+              "x" : 36.550823211669922,
+              "width" : 125.8193359375,
+              "height" : 125
             }
           }
         ],
@@ -38791,7 +38791,7 @@ local_slide( {
                           "pointY" : 0.5
                         }
                       },
-                      "texture" : "A3E33767547A1BE07E8AABE548F39045"
+                      "texture" : "6A75014F098483DD95C044D0284AC0EC"
                     }
                   ]
                 }
@@ -42567,7 +42567,7 @@ local_slide( {
                           "pointY" : 0.5
                         }
                       },
-                      "texture" : "C135EBC219747A38A9A55876F926A0F8"
+                      "texture" : "033FB3ED2808E719984728E5D5891D65"
                     }
                   ]
                 }
@@ -46711,90 +46711,18 @@ local_slide( {
         ],
         "accessibility" : [
           {
+            "text" : "Places",
+            "targetRectangle" : {
+              "y" : 461.73553484678268,
+              "x" : 633.56646728515625,
+              "width" : 73.799999999999955,
+              "height" : 33
+            }
+          },
+          {
             "text" : "“It’s a 1”",
             "targetRectangle" : {
               "y" : 248.0433349609375,
-              "x" : 623.54046874999995,
-              "width" : 79.380000000000109,
-              "height" : 28.40008544921875
-            }
-          },
-          {
-            "text" : "Spy",
-            "targetRectangle" : {
-              "y" : 314.57160979509354,
-              "x" : 77.810489654541016,
-              "width" : 36.299999999999997,
-              "height" : 27
-            }
-          },
-          {
-            "text" : "“It’s a 2”",
-            "targetRectangle" : {
-              "y" : 296.00936889648438,
-              "x" : 623.54046874999995,
-              "width" : 79.380000000000109,
-              "height" : 28.40008544921875
-            }
-          },
-          {
-            "text" : "…",
-            "targetRectangle" : {
-              "y" : 210.85113555192947,
-              "x" : 651.73046875,
-              "width" : 20,
-              "height" : 27
-            }
-          },
-          {
-            "text" : "Meltdown: The Sidechannel (Idea)",
-            "targetRectangle" : {
-              "y" : 125,
-              "x" : 36,
-              "width" : 548.54399999999976,
-              "height" : 48.400146484375
-            }
-          },
-          {
-            "text" : "“It’s a 2”",
-            "targetRectangle" : {
-              "y" : 295.9730224609375,
-              "x" : 623.54046874999995,
-              "width" : 79.380000000000109,
-              "height" : 28.40008544921875
-            }
-          },
-          {
-            "text" : "meltdown.png",
-            "targetRectangle" : {
-              "y" : 91.537521362304688,
-              "x" : 928.58154296875,
-              "width" : 70.384666442871094,
-              "height" : 114.92495727539062
-            }
-          },
-          {
-            "text" : "Collector",
-            "targetRectangle" : {
-              "y" : 482.24700957536697,
-              "x" : 51.850505828857422,
-              "width" : 88.220000000000027,
-              "height" : 27
-            }
-          },
-          {
-            "text" : "110011010\\u2028010111010\\u2028111100100\\u2028000101101\\u2028100110010",
-            "targetRectangle" : {
-              "y" : 186.37684416770935,
-              "x" : 36.550823211669922,
-              "width" : 125.8193359375,
-              "height" : 125
-            }
-          },
-          {
-            "text" : "“It’s a 3”",
-            "targetRectangle" : {
-              "y" : 344.9027099609375,
               "x" : 623.54046874999995,
               "width" : 79.380000000000109,
               "height" : 28.40008544921875
@@ -46837,12 +46765,102 @@ local_slide( {
             }
           },
           {
+            "text" : "…",
+            "targetRectangle" : {
+              "y" : 210.85113555192947,
+              "x" : 651.73046875,
+              "width" : 20,
+              "height" : 27
+            }
+          },
+          {
+            "text" : "“It’s a 2”",
+            "targetRectangle" : {
+              "y" : 296.00936889648438,
+              "x" : 623.54046874999995,
+              "width" : 79.380000000000109,
+              "height" : 28.40008544921875
+            }
+          },
+          {
+            "text" : "“It’s a 3”",
+            "targetRectangle" : {
+              "y" : 344.9027099609375,
+              "x" : 623.54046874999995,
+              "width" : 79.380000000000109,
+              "height" : 28.40008544921875
+            }
+          },
+          {
+            "text" : "“It’s a 1”",
+            "targetRectangle" : {
+              "y" : 249.02923583984375,
+              "x" : 623.54046874999995,
+              "width" : 79.380000000000109,
+              "height" : 28.40008544921875
+            }
+          },
+          {
+            "text" : "Meltdown: The Sidechannel (Idea)",
+            "targetRectangle" : {
+              "y" : 125,
+              "x" : 36,
+              "width" : 548.54399999999976,
+              "height" : 48.400146484375
+            }
+          },
+          {
+            "text" : "“It’s a 2”",
+            "targetRectangle" : {
+              "y" : 295.9730224609375,
+              "x" : 623.54046874999995,
+              "width" : 79.380000000000109,
+              "height" : 28.40008544921875
+            }
+          },
+          {
+            "text" : "meltdown.png",
+            "targetRectangle" : {
+              "y" : 91.537521362304688,
+              "x" : 928.58154296875,
+              "width" : 70.384666442871094,
+              "height" : 114.92495727539062
+            }
+          },
+          {
+            "text" : "Collector",
+            "targetRectangle" : {
+              "y" : 482.24700957536697,
+              "x" : 51.850505828857422,
+              "width" : 88.220000000000027,
+              "height" : 27
+            }
+          },
+          {
             "text" : "Secret (“3”)",
             "targetRectangle" : {
               "y" : 421.2933349609375,
               "x" : 609.06446875000006,
               "width" : 108.33199999999988,
               "height" : 28.40008544921875
+            }
+          },
+          {
+            "text" : "Spy",
+            "targetRectangle" : {
+              "y" : 314.57160979509354,
+              "x" : 77.810489654541016,
+              "width" : 36.299999999999997,
+              "height" : 27
+            }
+          },
+          {
+            "text" : "…",
+            "targetRectangle" : {
+              "y" : 381.61364775896072,
+              "x" : 651.73046875,
+              "width" : 20,
+              "height" : 27
             }
           },
           {
@@ -46864,15 +46882,6 @@ local_slide( {
             }
           },
           {
-            "text" : "…",
-            "targetRectangle" : {
-              "y" : 381.61364775896072,
-              "x" : 651.73046875,
-              "width" : 20,
-              "height" : 27
-            }
-          },
-          {
             "text" : "￼",
             "targetRectangle" : {
               "y" : 38,
@@ -46882,21 +46891,12 @@ local_slide( {
             }
           },
           {
-            "text" : "Places",
+            "text" : "110011010\\u2028010111010\\u2028111100100\\u2028000101101\\u2028100110010",
             "targetRectangle" : {
-              "y" : 461.73553484678268,
-              "x" : 633.56646728515625,
-              "width" : 73.799999999999955,
-              "height" : 33
-            }
-          },
-          {
-            "text" : "“It’s a 1”",
-            "targetRectangle" : {
-              "y" : 249.02923583984375,
-              "x" : 623.54046874999995,
-              "width" : 79.380000000000109,
-              "height" : 28.40008544921875
+              "y" : 186.37684416770935,
+              "x" : 36.550823211669922,
+              "width" : 125.8193359375,
+              "height" : 125
             }
           }
         ],
@@ -48954,7 +48954,7 @@ local_slide( {
                           "pointY" : 0.5
                         }
                       },
-                      "texture" : "A3E33767547A1BE07E8AABE548F39045"
+                      "texture" : "6A75014F098483DD95C044D0284AC0EC"
                     }
                   ]
                 }
@@ -52731,7 +52731,7 @@ local_slide( {
                           "pointY" : 0.5
                         }
                       },
-                      "texture" : "C135EBC219747A38A9A55876F926A0F8"
+                      "texture" : "033FB3ED2808E719984728E5D5891D65"
                     }
                   ]
                 }
@@ -57487,90 +57487,18 @@ local_slide( {
         ],
         "accessibility" : [
           {
+            "text" : "Places",
+            "targetRectangle" : {
+              "y" : 461.73553484678268,
+              "x" : 633.56646728515625,
+              "width" : 73.799999999999955,
+              "height" : 33
+            }
+          },
+          {
             "text" : "“It’s a 1”",
             "targetRectangle" : {
               "y" : 248.0433349609375,
-              "x" : 623.54046874999995,
-              "width" : 79.380000000000109,
-              "height" : 28.40008544921875
-            }
-          },
-          {
-            "text" : "Spy",
-            "targetRectangle" : {
-              "y" : 314.57160979509354,
-              "x" : 77.810489654541016,
-              "width" : 36.299999999999997,
-              "height" : 27
-            }
-          },
-          {
-            "text" : "“It’s a 2”",
-            "targetRectangle" : {
-              "y" : 296.00936889648438,
-              "x" : 623.54046874999995,
-              "width" : 79.380000000000109,
-              "height" : 28.40008544921875
-            }
-          },
-          {
-            "text" : "…",
-            "targetRectangle" : {
-              "y" : 210.85113555192947,
-              "x" : 651.73046875,
-              "width" : 20,
-              "height" : 27
-            }
-          },
-          {
-            "text" : "Meltdown: The Sidechannel (Idea)",
-            "targetRectangle" : {
-              "y" : 125,
-              "x" : 36,
-              "width" : 548.54399999999976,
-              "height" : 48.400146484375
-            }
-          },
-          {
-            "text" : "“It’s a 2”",
-            "targetRectangle" : {
-              "y" : 295.9730224609375,
-              "x" : 623.54046874999995,
-              "width" : 79.380000000000109,
-              "height" : 28.40008544921875
-            }
-          },
-          {
-            "text" : "meltdown.png",
-            "targetRectangle" : {
-              "y" : 91.537521362304688,
-              "x" : 928.58154296875,
-              "width" : 70.384666442871094,
-              "height" : 114.92495727539062
-            }
-          },
-          {
-            "text" : "Collector",
-            "targetRectangle" : {
-              "y" : 482.24700957536697,
-              "x" : 51.850505828857422,
-              "width" : 88.220000000000027,
-              "height" : 27
-            }
-          },
-          {
-            "text" : "110011010\\u2028010111010\\u2028111100100\\u2028000101101\\u2028100110010",
-            "targetRectangle" : {
-              "y" : 186.37684416770935,
-              "x" : 36.550823211669922,
-              "width" : 125.8193359375,
-              "height" : 125
-            }
-          },
-          {
-            "text" : "“It’s a 3”",
-            "targetRectangle" : {
-              "y" : 344.9027099609375,
               "x" : 623.54046874999995,
               "width" : 79.380000000000109,
               "height" : 28.40008544921875
@@ -57613,12 +57541,102 @@ local_slide( {
             }
           },
           {
+            "text" : "…",
+            "targetRectangle" : {
+              "y" : 210.85113555192947,
+              "x" : 651.73046875,
+              "width" : 20,
+              "height" : 27
+            }
+          },
+          {
+            "text" : "“It’s a 2”",
+            "targetRectangle" : {
+              "y" : 296.00936889648438,
+              "x" : 623.54046874999995,
+              "width" : 79.380000000000109,
+              "height" : 28.40008544921875
+            }
+          },
+          {
+            "text" : "“It’s a 3”",
+            "targetRectangle" : {
+              "y" : 344.9027099609375,
+              "x" : 623.54046874999995,
+              "width" : 79.380000000000109,
+              "height" : 28.40008544921875
+            }
+          },
+          {
+            "text" : "“It’s a 1”",
+            "targetRectangle" : {
+              "y" : 249.02923583984375,
+              "x" : 623.54046874999995,
+              "width" : 79.380000000000109,
+              "height" : 28.40008544921875
+            }
+          },
+          {
+            "text" : "Meltdown: The Sidechannel (Idea)",
+            "targetRectangle" : {
+              "y" : 125,
+              "x" : 36,
+              "width" : 548.54399999999976,
+              "height" : 48.400146484375
+            }
+          },
+          {
+            "text" : "“It’s a 2”",
+            "targetRectangle" : {
+              "y" : 295.9730224609375,
+              "x" : 623.54046874999995,
+              "width" : 79.380000000000109,
+              "height" : 28.40008544921875
+            }
+          },
+          {
+            "text" : "meltdown.png",
+            "targetRectangle" : {
+              "y" : 91.537521362304688,
+              "x" : 928.58154296875,
+              "width" : 70.384666442871094,
+              "height" : 114.92495727539062
+            }
+          },
+          {
+            "text" : "Collector",
+            "targetRectangle" : {
+              "y" : 482.24700957536697,
+              "x" : 51.850505828857422,
+              "width" : 88.220000000000027,
+              "height" : 27
+            }
+          },
+          {
             "text" : "Secret (“3”)",
             "targetRectangle" : {
               "y" : 421.2933349609375,
               "x" : 609.06446875000006,
               "width" : 108.33199999999988,
               "height" : 28.40008544921875
+            }
+          },
+          {
+            "text" : "Spy",
+            "targetRectangle" : {
+              "y" : 314.57160979509354,
+              "x" : 77.810489654541016,
+              "width" : 36.299999999999997,
+              "height" : 27
+            }
+          },
+          {
+            "text" : "…",
+            "targetRectangle" : {
+              "y" : 381.61364775896072,
+              "x" : 651.73046875,
+              "width" : 20,
+              "height" : 27
             }
           },
           {
@@ -57640,15 +57658,6 @@ local_slide( {
             }
           },
           {
-            "text" : "…",
-            "targetRectangle" : {
-              "y" : 381.61364775896072,
-              "x" : 651.73046875,
-              "width" : 20,
-              "height" : 27
-            }
-          },
-          {
             "text" : "￼",
             "targetRectangle" : {
               "y" : 38,
@@ -57658,21 +57667,12 @@ local_slide( {
             }
           },
           {
-            "text" : "Places",
+            "text" : "110011010\\u2028010111010\\u2028111100100\\u2028000101101\\u2028100110010",
             "targetRectangle" : {
-              "y" : 461.73553484678268,
-              "x" : 633.56646728515625,
-              "width" : 73.799999999999955,
-              "height" : 33
-            }
-          },
-          {
-            "text" : "“It’s a 1”",
-            "targetRectangle" : {
-              "y" : 249.02923583984375,
-              "x" : 623.54046874999995,
-              "width" : 79.380000000000109,
-              "height" : 28.40008544921875
+              "y" : 186.37684416770935,
+              "x" : 36.550823211669922,
+              "width" : 125.8193359375,
+              "height" : 125
             }
           }
         ],
@@ -59730,7 +59730,7 @@ local_slide( {
                           "pointY" : 0.5
                         }
                       },
-                      "texture" : "A3E33767547A1BE07E8AABE548F39045"
+                      "texture" : "6A75014F098483DD95C044D0284AC0EC"
                     }
                   ]
                 }
@@ -63507,7 +63507,7 @@ local_slide( {
                           "pointY" : 0.5
                         }
                       },
-                      "texture" : "C135EBC219747A38A9A55876F926A0F8"
+                      "texture" : "033FB3ED2808E719984728E5D5891D65"
                     }
                   ]
                 }
@@ -68602,90 +68602,18 @@ local_slide( {
         ],
         "accessibility" : [
           {
+            "text" : "Places",
+            "targetRectangle" : {
+              "y" : 461.73553484678268,
+              "x" : 633.56646728515625,
+              "width" : 73.799999999999955,
+              "height" : 33
+            }
+          },
+          {
             "text" : "“It’s a 1”",
             "targetRectangle" : {
               "y" : 248.0433349609375,
-              "x" : 623.54046874999995,
-              "width" : 79.380000000000109,
-              "height" : 28.40008544921875
-            }
-          },
-          {
-            "text" : "Spy",
-            "targetRectangle" : {
-              "y" : 314.57160979509354,
-              "x" : 77.810489654541016,
-              "width" : 36.299999999999997,
-              "height" : 27
-            }
-          },
-          {
-            "text" : "“It’s a 2”",
-            "targetRectangle" : {
-              "y" : 296.00936889648438,
-              "x" : 623.54046874999995,
-              "width" : 79.380000000000109,
-              "height" : 28.40008544921875
-            }
-          },
-          {
-            "text" : "…",
-            "targetRectangle" : {
-              "y" : 210.85113555192947,
-              "x" : 651.73046875,
-              "width" : 20,
-              "height" : 27
-            }
-          },
-          {
-            "text" : "Meltdown: The Sidechannel (Idea)",
-            "targetRectangle" : {
-              "y" : 125,
-              "x" : 36,
-              "width" : 548.54399999999976,
-              "height" : 48.400146484375
-            }
-          },
-          {
-            "text" : "“It’s a 2”",
-            "targetRectangle" : {
-              "y" : 295.9730224609375,
-              "x" : 623.54046874999995,
-              "width" : 79.380000000000109,
-              "height" : 28.40008544921875
-            }
-          },
-          {
-            "text" : "meltdown.png",
-            "targetRectangle" : {
-              "y" : 91.537521362304688,
-              "x" : 928.58154296875,
-              "width" : 70.384666442871094,
-              "height" : 114.92495727539062
-            }
-          },
-          {
-            "text" : "Collector",
-            "targetRectangle" : {
-              "y" : 482.24700957536697,
-              "x" : 51.850505828857422,
-              "width" : 88.220000000000027,
-              "height" : 27
-            }
-          },
-          {
-            "text" : "110011010\\u2028010111010\\u2028111100100\\u2028000101101\\u2028100110010",
-            "targetRectangle" : {
-              "y" : 186.37684416770935,
-              "x" : 36.550823211669922,
-              "width" : 125.8193359375,
-              "height" : 125
-            }
-          },
-          {
-            "text" : "“It’s a 3”",
-            "targetRectangle" : {
-              "y" : 344.9027099609375,
               "x" : 623.54046874999995,
               "width" : 79.380000000000109,
               "height" : 28.40008544921875
@@ -68728,12 +68656,102 @@ local_slide( {
             }
           },
           {
+            "text" : "…",
+            "targetRectangle" : {
+              "y" : 210.85113555192947,
+              "x" : 651.73046875,
+              "width" : 20,
+              "height" : 27
+            }
+          },
+          {
+            "text" : "“It’s a 2”",
+            "targetRectangle" : {
+              "y" : 296.00936889648438,
+              "x" : 623.54046874999995,
+              "width" : 79.380000000000109,
+              "height" : 28.40008544921875
+            }
+          },
+          {
+            "text" : "“It’s a 3”",
+            "targetRectangle" : {
+              "y" : 344.9027099609375,
+              "x" : 623.54046874999995,
+              "width" : 79.380000000000109,
+              "height" : 28.40008544921875
+            }
+          },
+          {
+            "text" : "“It’s a 1”",
+            "targetRectangle" : {
+              "y" : 249.02923583984375,
+              "x" : 623.54046874999995,
+              "width" : 79.380000000000109,
+              "height" : 28.40008544921875
+            }
+          },
+          {
+            "text" : "Meltdown: The Sidechannel (Idea)",
+            "targetRectangle" : {
+              "y" : 125,
+              "x" : 36,
+              "width" : 548.54399999999976,
+              "height" : 48.400146484375
+            }
+          },
+          {
+            "text" : "“It’s a 2”",
+            "targetRectangle" : {
+              "y" : 295.9730224609375,
+              "x" : 623.54046874999995,
+              "width" : 79.380000000000109,
+              "height" : 28.40008544921875
+            }
+          },
+          {
+            "text" : "meltdown.png",
+            "targetRectangle" : {
+              "y" : 91.537521362304688,
+              "x" : 928.58154296875,
+              "width" : 70.384666442871094,
+              "height" : 114.92495727539062
+            }
+          },
+          {
+            "text" : "Collector",
+            "targetRectangle" : {
+              "y" : 482.24700957536697,
+              "x" : 51.850505828857422,
+              "width" : 88.220000000000027,
+              "height" : 27
+            }
+          },
+          {
             "text" : "Secret (“3”)",
             "targetRectangle" : {
               "y" : 421.2933349609375,
               "x" : 609.06446875000006,
               "width" : 108.33199999999988,
               "height" : 28.40008544921875
+            }
+          },
+          {
+            "text" : "Spy",
+            "targetRectangle" : {
+              "y" : 314.57160979509354,
+              "x" : 77.810489654541016,
+              "width" : 36.299999999999997,
+              "height" : 27
+            }
+          },
+          {
+            "text" : "…",
+            "targetRectangle" : {
+              "y" : 381.61364775896072,
+              "x" : 651.73046875,
+              "width" : 20,
+              "height" : 27
             }
           },
           {
@@ -68755,15 +68773,6 @@ local_slide( {
             }
           },
           {
-            "text" : "…",
-            "targetRectangle" : {
-              "y" : 381.61364775896072,
-              "x" : 651.73046875,
-              "width" : 20,
-              "height" : 27
-            }
-          },
-          {
             "text" : "￼",
             "targetRectangle" : {
               "y" : 38,
@@ -68773,21 +68782,12 @@ local_slide( {
             }
           },
           {
-            "text" : "Places",
+            "text" : "110011010\\u2028010111010\\u2028111100100\\u2028000101101\\u2028100110010",
             "targetRectangle" : {
-              "y" : 461.73553484678268,
-              "x" : 633.56646728515625,
-              "width" : 73.799999999999955,
-              "height" : 33
-            }
-          },
-          {
-            "text" : "“It’s a 1”",
-            "targetRectangle" : {
-              "y" : 249.02923583984375,
-              "x" : 623.54046874999995,
-              "width" : 79.380000000000109,
-              "height" : 28.40008544921875
+              "y" : 186.37684416770935,
+              "x" : 36.550823211669922,
+              "width" : 125.8193359375,
+              "height" : 125
             }
           }
         ],
@@ -70845,7 +70845,7 @@ local_slide( {
                           "pointY" : 0.5
                         }
                       },
-                      "texture" : "A3E33767547A1BE07E8AABE548F39045"
+                      "texture" : "6A75014F098483DD95C044D0284AC0EC"
                     }
                   ]
                 }
@@ -74622,7 +74622,7 @@ local_slide( {
                           "pointY" : 0.5
                         }
                       },
-                      "texture" : "C135EBC219747A38A9A55876F926A0F8"
+                      "texture" : "033FB3ED2808E719984728E5D5891D65"
                     }
                   ]
                 }
@@ -78685,7 +78685,7 @@ local_slide( {
                           "pointY" : 0.5
                         }
                       },
-                      "texture" : "41810EFE28B86FAD369CB06BE621ECF0"
+                      "texture" : "4D02EF657AB6AB445B4725FFD6D389DD"
                     },
                     {
                       "animations" : [
@@ -78766,7 +78766,7 @@ local_slide( {
                           "pointY" : 0.5
                         }
                       },
-                      "texture" : "B9467AD622E52CC570A9D213787B0137"
+                      "texture" : "7C7979F479552B338474C7B841C91FBC"
                     }
                   ]
                 }
@@ -78787,90 +78787,18 @@ local_slide( {
         ],
         "accessibility" : [
           {
+            "text" : "Places",
+            "targetRectangle" : {
+              "y" : 461.73553484678268,
+              "x" : 633.56646728515625,
+              "width" : 73.799999999999955,
+              "height" : 33
+            }
+          },
+          {
             "text" : "“It’s a 1”",
             "targetRectangle" : {
               "y" : 248.0433349609375,
-              "x" : 623.54046874999995,
-              "width" : 79.380000000000109,
-              "height" : 28.40008544921875
-            }
-          },
-          {
-            "text" : "Spy",
-            "targetRectangle" : {
-              "y" : 314.57160979509354,
-              "x" : 77.810489654541016,
-              "width" : 36.299999999999997,
-              "height" : 27
-            }
-          },
-          {
-            "text" : "“It’s a 2”",
-            "targetRectangle" : {
-              "y" : 296.00936889648438,
-              "x" : 623.54046874999995,
-              "width" : 79.380000000000109,
-              "height" : 28.40008544921875
-            }
-          },
-          {
-            "text" : "…",
-            "targetRectangle" : {
-              "y" : 210.85113555192947,
-              "x" : 651.73046875,
-              "width" : 20,
-              "height" : 27
-            }
-          },
-          {
-            "text" : "Meltdown: The Sidechannel (Idea)",
-            "targetRectangle" : {
-              "y" : 125,
-              "x" : 36,
-              "width" : 548.54399999999976,
-              "height" : 48.400146484375
-            }
-          },
-          {
-            "text" : "“It’s a 2”",
-            "targetRectangle" : {
-              "y" : 295.9730224609375,
-              "x" : 623.54046874999995,
-              "width" : 79.380000000000109,
-              "height" : 28.40008544921875
-            }
-          },
-          {
-            "text" : "meltdown.png",
-            "targetRectangle" : {
-              "y" : 91.537521362304688,
-              "x" : 928.58154296875,
-              "width" : 70.384666442871094,
-              "height" : 114.92495727539062
-            }
-          },
-          {
-            "text" : "Collector",
-            "targetRectangle" : {
-              "y" : 482.24700957536697,
-              "x" : 51.850505828857422,
-              "width" : 88.220000000000027,
-              "height" : 27
-            }
-          },
-          {
-            "text" : "110011010\\u2028010111010\\u2028111100100\\u2028000101101\\u2028100110010",
-            "targetRectangle" : {
-              "y" : 186.37684416770935,
-              "x" : 36.550823211669922,
-              "width" : 125.8193359375,
-              "height" : 125
-            }
-          },
-          {
-            "text" : "“It’s a 3”",
-            "targetRectangle" : {
-              "y" : 344.9027099609375,
               "x" : 623.54046874999995,
               "width" : 79.380000000000109,
               "height" : 28.40008544921875
@@ -78913,12 +78841,102 @@ local_slide( {
             }
           },
           {
+            "text" : "…",
+            "targetRectangle" : {
+              "y" : 210.85113555192947,
+              "x" : 651.73046875,
+              "width" : 20,
+              "height" : 27
+            }
+          },
+          {
+            "text" : "“It’s a 2”",
+            "targetRectangle" : {
+              "y" : 296.00936889648438,
+              "x" : 623.54046874999995,
+              "width" : 79.380000000000109,
+              "height" : 28.40008544921875
+            }
+          },
+          {
+            "text" : "“It’s a 3”",
+            "targetRectangle" : {
+              "y" : 344.9027099609375,
+              "x" : 623.54046874999995,
+              "width" : 79.380000000000109,
+              "height" : 28.40008544921875
+            }
+          },
+          {
+            "text" : "“It’s a 1”",
+            "targetRectangle" : {
+              "y" : 249.02923583984375,
+              "x" : 623.54046874999995,
+              "width" : 79.380000000000109,
+              "height" : 28.40008544921875
+            }
+          },
+          {
+            "text" : "Meltdown: The Sidechannel (Idea)",
+            "targetRectangle" : {
+              "y" : 125,
+              "x" : 36,
+              "width" : 548.54399999999976,
+              "height" : 48.400146484375
+            }
+          },
+          {
+            "text" : "“It’s a 2”",
+            "targetRectangle" : {
+              "y" : 295.9730224609375,
+              "x" : 623.54046874999995,
+              "width" : 79.380000000000109,
+              "height" : 28.40008544921875
+            }
+          },
+          {
+            "text" : "meltdown.png",
+            "targetRectangle" : {
+              "y" : 91.537521362304688,
+              "x" : 928.58154296875,
+              "width" : 70.384666442871094,
+              "height" : 114.92495727539062
+            }
+          },
+          {
+            "text" : "Collector",
+            "targetRectangle" : {
+              "y" : 482.24700957536697,
+              "x" : 51.850505828857422,
+              "width" : 88.220000000000027,
+              "height" : 27
+            }
+          },
+          {
             "text" : "Secret (“3”)",
             "targetRectangle" : {
               "y" : 421.2933349609375,
               "x" : 609.06446875000006,
               "width" : 108.33199999999988,
               "height" : 28.40008544921875
+            }
+          },
+          {
+            "text" : "Spy",
+            "targetRectangle" : {
+              "y" : 314.57160979509354,
+              "x" : 77.810489654541016,
+              "width" : 36.299999999999997,
+              "height" : 27
+            }
+          },
+          {
+            "text" : "…",
+            "targetRectangle" : {
+              "y" : 381.61364775896072,
+              "x" : 651.73046875,
+              "width" : 20,
+              "height" : 27
             }
           },
           {
@@ -78940,15 +78958,6 @@ local_slide( {
             }
           },
           {
-            "text" : "…",
-            "targetRectangle" : {
-              "y" : 381.61364775896072,
-              "x" : 651.73046875,
-              "width" : 20,
-              "height" : 27
-            }
-          },
-          {
             "text" : "￼",
             "targetRectangle" : {
               "y" : 38,
@@ -78958,21 +78967,12 @@ local_slide( {
             }
           },
           {
-            "text" : "Places",
+            "text" : "110011010\\u2028010111010\\u2028111100100\\u2028000101101\\u2028100110010",
             "targetRectangle" : {
-              "y" : 461.73553484678268,
-              "x" : 633.56646728515625,
-              "width" : 73.799999999999955,
-              "height" : 33
-            }
-          },
-          {
-            "text" : "“It’s a 1”",
-            "targetRectangle" : {
-              "y" : 249.02923583984375,
-              "x" : 623.54046874999995,
-              "width" : 79.380000000000109,
-              "height" : 28.40008544921875
+              "y" : 186.37684416770935,
+              "x" : 36.550823211669922,
+              "width" : 125.8193359375,
+              "height" : 125
             }
           }
         ],
@@ -81030,7 +81030,7 @@ local_slide( {
                           "pointY" : 0.5
                         }
                       },
-                      "texture" : "A3E33767547A1BE07E8AABE548F39045"
+                      "texture" : "6A75014F098483DD95C044D0284AC0EC"
                     }
                   ]
                 }
@@ -84804,7 +84804,7 @@ local_slide( {
                           "pointY" : 0.5
                         }
                       },
-                      "texture" : "C135EBC219747A38A9A55876F926A0F8"
+                      "texture" : "033FB3ED2808E719984728E5D5891D65"
                     }
                   ]
                 }

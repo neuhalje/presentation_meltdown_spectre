@@ -322,6 +322,20 @@
       "width" : 103,
       "height" : 102
     },
+    "3BA683228962E5CBDF4628BAD3721995" : {
+      "type" : "texture",
+      "index" : 34,
+      "assetRequest" : {
+        "type" : "slide",
+        "state" : "contents",
+        "slide" : "none"
+      },
+      "url" : {
+        "native" : "assets\/E4A02B64-FD6A-40E1-B374-E65EB21C247E.pdf"
+      },
+      "width" : 1024,
+      "height" : 768
+    },
     "D588800018A87CAEA41D5D75C5957AA1" : {
       "type" : "texture",
       "index" : 26,
@@ -377,20 +391,6 @@
       },
       "width" : 103,
       "height" : 102
-    },
-    "AE1A3D519FED2EFF79C38FD82C983C79" : {
-      "type" : "texture",
-      "index" : 34,
-      "assetRequest" : {
-        "type" : "slide",
-        "state" : "contents",
-        "slide" : "none"
-      },
-      "url" : {
-        "native" : "assets\/E4A02B64-FD6A-40E1-B374-E65EB21C247E.pdf"
-      },
-      "width" : 1024,
-      "height" : 768
     },
     "640D5297D59088D46FE63A28D36F2264" : {
       "type" : "texture",
@@ -1084,48 +1084,12 @@
       ],
       "accessibility" : [
         {
-          "text" : "spectre.png",
-          "targetRectangle" : {
-            "y" : 91.988036036491394,
-            "x" : 795.43090128898621,
-            "width" : 128.11909484863281,
-            "height" : 101.40676879882812
-          }
-        },
-        {
           "text" : "Process A",
           "targetRectangle" : {
             "y" : 237.21875,
             "x" : 43.474161125165999,
             "width" : 84.951999999999998,
             "height" : 56.720068697930401
-          }
-        },
-        {
-          "text" : "0x0000..0",
-          "targetRectangle" : {
-            "y" : 289.51806628704071,
-            "x" : 154.57959425449371,
-            "width" : 82.20799999999997,
-            "height" : 28.40008544921875
-          }
-        },
-        {
-          "text" : "meltdown.png",
-          "targetRectangle" : {
-            "y" : 92.087006688117981,
-            "x" : 723.58154296875,
-            "width" : 70.384666442871094,
-            "height" : 114.92495727539062
-          }
-        },
-        {
-          "text" : "Meltdown & Spectre for normal people",
-          "targetRectangle" : {
-            "y" : 40,
-            "x" : 36,
-            "width" : 519.28593814373016,
-            "height" : 28
           }
         },
         {
@@ -1138,21 +1102,30 @@
           }
         },
         {
-          "text" : "c)",
+          "text" : "b)",
           "targetRectangle" : {
-            "y" : 153.37500035762787,
-            "x" : 470.78044891357422,
-            "width" : 30.420000000000016,
+            "y" : 324.28094518184662,
+            "x" : 229.14759826660156,
+            "width" : 36.036000000000001,
             "height" : 49
           }
         },
         {
-          "text" : "spectre.png",
+          "text" : "meltdown.png",
           "targetRectangle" : {
-            "y" : 309.988037109375,
-            "x" : 289.16832733154297,
-            "width" : 128.11909484863281,
-            "height" : 101.40676879882812
+            "y" : 92.087005615234375,
+            "x" : 723.58154296875,
+            "width" : 70.384666442871094,
+            "height" : 114.92495727539062
+          }
+        },
+        {
+          "text" : "c)",
+          "targetRectangle" : {
+            "y" : 153.37500035762787,
+            "x" : 470.78045654296875,
+            "width" : 30.420000000000016,
+            "height" : 49
           }
         },
         {
@@ -1165,12 +1138,21 @@
           }
         },
         {
-          "text" : "b)",
+          "text" : "spectre.png",
           "targetRectangle" : {
-            "y" : 324.28094518184662,
-            "x" : 229.14759826660156,
-            "width" : 36.036000000000001,
-            "height" : 49
+            "y" : 309.988037109375,
+            "x" : 289.1683349609375,
+            "width" : 128.11909484863281,
+            "height" : 101.40676879882812
+          }
+        },
+        {
+          "text" : "Meltdown & Spectre for normal people",
+          "targetRectangle" : {
+            "y" : 40,
+            "x" : 36,
+            "width" : 519.28593814373016,
+            "height" : 28
           }
         },
         {
@@ -1180,6 +1162,24 @@
             "x" : 36,
             "width" : 241.82399999999996,
             "height" : 48.400146484375
+          }
+        },
+        {
+          "text" : "0x0000..0",
+          "targetRectangle" : {
+            "y" : 289.51806628704071,
+            "x" : 154.57959425449371,
+            "width" : 82.20799999999997,
+            "height" : 28.40008544921875
+          }
+        },
+        {
+          "text" : "spectre.png",
+          "targetRectangle" : {
+            "y" : 91.988037109375,
+            "x" : 795.430908203125,
+            "width" : 128.11909484863281,
+            "height" : 101.40676879882812
           }
         }
       ],
@@ -5029,7 +5029,7 @@
                   "rotation" : 0,
                   "scale" : 1,
                   "position" : {
-                    "pointX" : 482.78044891357422,
+                    "pointX" : 482.78045654296875,
                     "pointY" : 167.37500035762787
                   },
                   "width" : 32,
@@ -5101,7 +5101,7 @@
                       "rotation" : 0,
                       "scale" : 1,
                       "position" : {
-                        "pointX" : 19.219551086425781,
+                        "pointX" : 19.21954345703125,
                         "pointY" : 29.624999642372131
                       },
                       "width" : 32,
@@ -8172,7 +8172,7 @@
                   "scale" : 1,
                   "position" : {
                     "pointX" : 760.08154296875,
-                    "pointY" : 151.08700668811798
+                    "pointY" : 151.08700561523438
                   },
                   "width" : 73,
                   "sublayerTransform" : [
@@ -8238,7 +8238,7 @@
                       "scale" : 1,
                       "position" : {
                         "pointX" : 34.91845703125,
-                        "pointY" : 57.912993311882019
+                        "pointY" : 57.912994384765625
                       },
                       "width" : 73,
                       "sublayerTransform" : [
@@ -8352,8 +8352,8 @@
                   "rotation" : 0,
                   "scale" : 1,
                   "position" : {
-                    "pointX" : 860.93090128898621,
-                    "pointY" : 144.48803603649139
+                    "pointX" : 860.930908203125,
+                    "pointY" : 144.488037109375
                   },
                   "width" : 131,
                   "sublayerTransform" : [
@@ -8418,8 +8418,8 @@
                       "rotation" : 0,
                       "scale" : 1,
                       "position" : {
-                        "pointX" : 64.069098711013794,
-                        "pointY" : 50.511963963508606
+                        "pointX" : 64.069091796875,
+                        "pointY" : 50.511962890625
                       },
                       "width" : 131,
                       "sublayerTransform" : [
@@ -8533,7 +8533,7 @@
                   "rotation" : 0,
                   "scale" : 1,
                   "position" : {
-                    "pointX" : 354.66832733154297,
+                    "pointX" : 354.6683349609375,
                     "pointY" : 362.488037109375
                   },
                   "width" : 131,
@@ -8599,7 +8599,7 @@
                       "rotation" : 0,
                       "scale" : 1,
                       "position" : {
-                        "pointX" : 64.331672668457031,
+                        "pointX" : 64.3316650390625,
                         "pointY" : 50.511962890625
                       },
                       "width" : 131,
@@ -9086,7 +9086,7 @@
                         "pointY" : 0.5
                       }
                     },
-                    "texture" : "AE1A3D519FED2EFF79C38FD82C983C79"
+                    "texture" : "3BA683228962E5CBDF4628BAD3721995"
                   },
                   {
                     "animations" : [
@@ -9188,48 +9188,12 @@
       ],
       "accessibility" : [
         {
-          "text" : "spectre.png",
-          "targetRectangle" : {
-            "y" : 91.988036036491394,
-            "x" : 795.43090128898621,
-            "width" : 128.11909484863281,
-            "height" : 101.40676879882812
-          }
-        },
-        {
           "text" : "Process A",
           "targetRectangle" : {
             "y" : 237.21875,
             "x" : 43.474161125165999,
             "width" : 84.951999999999998,
             "height" : 56.720068697930401
-          }
-        },
-        {
-          "text" : "0x0000..0",
-          "targetRectangle" : {
-            "y" : 289.51806628704071,
-            "x" : 154.57959425449371,
-            "width" : 82.20799999999997,
-            "height" : 28.40008544921875
-          }
-        },
-        {
-          "text" : "meltdown.png",
-          "targetRectangle" : {
-            "y" : 92.087006688117981,
-            "x" : 723.58154296875,
-            "width" : 70.384666442871094,
-            "height" : 114.92495727539062
-          }
-        },
-        {
-          "text" : "Meltdown & Spectre for normal people",
-          "targetRectangle" : {
-            "y" : 40,
-            "x" : 36,
-            "width" : 519.28593814373016,
-            "height" : 28
           }
         },
         {
@@ -9242,21 +9206,21 @@
           }
         },
         {
-          "text" : "c)",
+          "text" : "b)",
           "targetRectangle" : {
-            "y" : 153.37500035762787,
-            "x" : 470.78044891357422,
-            "width" : 30.420000000000016,
+            "y" : 324.28094518184662,
+            "x" : 229.14759826660156,
+            "width" : 36.036000000000001,
             "height" : 49
           }
         },
         {
-          "text" : "spectre.png",
+          "text" : "meltdown.png",
           "targetRectangle" : {
-            "y" : 309.988037109375,
-            "x" : 289.16832733154297,
-            "width" : 128.11909484863281,
-            "height" : 101.40676879882812
+            "y" : 92.087005615234375,
+            "x" : 723.58154296875,
+            "width" : 70.384666442871094,
+            "height" : 114.92495727539062
           }
         },
         {
@@ -9278,6 +9242,15 @@
           }
         },
         {
+          "text" : "c)",
+          "targetRectangle" : {
+            "y" : 153.37500035762787,
+            "x" : 470.78045654296875,
+            "width" : 30.420000000000016,
+            "height" : 49
+          }
+        },
+        {
           "text" : "Process B",
           "targetRectangle" : {
             "y" : 427.21875,
@@ -9287,12 +9260,21 @@
           }
         },
         {
-          "text" : "b)",
+          "text" : "spectre.png",
           "targetRectangle" : {
-            "y" : 324.28094518184662,
-            "x" : 229.14759826660156,
-            "width" : 36.036000000000001,
-            "height" : 49
+            "y" : 309.988037109375,
+            "x" : 289.1683349609375,
+            "width" : 128.11909484863281,
+            "height" : 101.40676879882812
+          }
+        },
+        {
+          "text" : "Meltdown & Spectre for normal people",
+          "targetRectangle" : {
+            "y" : 40,
+            "x" : 36,
+            "width" : 519.28593814373016,
+            "height" : 28
           }
         },
         {
@@ -9302,6 +9284,24 @@
             "x" : 36,
             "width" : 241.82399999999996,
             "height" : 48.400146484375
+          }
+        },
+        {
+          "text" : "0x0000..0",
+          "targetRectangle" : {
+            "y" : 289.51806628704071,
+            "x" : 154.57959425449371,
+            "width" : 82.20799999999997,
+            "height" : 28.40008544921875
+          }
+        },
+        {
+          "text" : "spectre.png",
+          "targetRectangle" : {
+            "y" : 91.988037109375,
+            "x" : 795.430908203125,
+            "width" : 128.11909484863281,
+            "height" : 101.40676879882812
           }
         }
       ],
@@ -13152,7 +13152,7 @@
                   "rotation" : 0,
                   "scale" : 1,
                   "position" : {
-                    "pointX" : 482.78044891357422,
+                    "pointX" : 482.78045654296875,
                     "pointY" : 167.37500035762787
                   },
                   "width" : 32,
@@ -13224,7 +13224,7 @@
                       "rotation" : 0,
                       "scale" : 1,
                       "position" : {
-                        "pointX" : 19.219551086425781,
+                        "pointX" : 19.21954345703125,
                         "pointY" : 29.624999642372131
                       },
                       "width" : 32,
@@ -16295,7 +16295,7 @@
                   "scale" : 1,
                   "position" : {
                     "pointX" : 760.08154296875,
-                    "pointY" : 151.08700668811798
+                    "pointY" : 151.08700561523438
                   },
                   "width" : 73,
                   "sublayerTransform" : [
@@ -16361,7 +16361,7 @@
                       "scale" : 1,
                       "position" : {
                         "pointX" : 34.91845703125,
-                        "pointY" : 57.912993311882019
+                        "pointY" : 57.912994384765625
                       },
                       "width" : 73,
                       "sublayerTransform" : [
@@ -16475,8 +16475,8 @@
                   "rotation" : 0,
                   "scale" : 1,
                   "position" : {
-                    "pointX" : 860.93090128898621,
-                    "pointY" : 144.48803603649139
+                    "pointX" : 860.930908203125,
+                    "pointY" : 144.488037109375
                   },
                   "width" : 131,
                   "sublayerTransform" : [
@@ -16541,8 +16541,8 @@
                       "rotation" : 0,
                       "scale" : 1,
                       "position" : {
-                        "pointX" : 64.069098711013794,
-                        "pointY" : 50.511963963508606
+                        "pointX" : 64.069091796875,
+                        "pointY" : 50.511962890625
                       },
                       "width" : 131,
                       "sublayerTransform" : [
@@ -16656,7 +16656,7 @@
                   "rotation" : 0,
                   "scale" : 1,
                   "position" : {
-                    "pointX" : 354.66832733154297,
+                    "pointX" : 354.6683349609375,
                     "pointY" : 362.488037109375
                   },
                   "width" : 131,
@@ -16722,7 +16722,7 @@
                       "rotation" : 0,
                       "scale" : 1,
                       "position" : {
-                        "pointX" : 64.331672668457031,
+                        "pointX" : 64.3316650390625,
                         "pointY" : 50.511962890625
                       },
                       "width" : 131,

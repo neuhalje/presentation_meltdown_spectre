@@ -17,7 +17,7 @@ This is for "normal people". With these slides I fill the hole between _we are g
 
 ## Where?
 
-* _coming_ 18. Gulaschprogrammiernacht (CCC Karlsruhe)
+* [18. Gulaschprogrammiernacht (CCC Karlsruhe)](https://pretalx.entropia.de/gpn18/talk/BT8SGL/) 
 * [German Perl Workshop 2018](http://act.yapc.eu/gpw2018/talk/7311)
 
 ## Preview

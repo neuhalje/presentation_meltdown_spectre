@@ -2,6 +2,20 @@ local_slide( {
   "name" : "6F9E9B1A-C318-4D78-AC64-B248650AC33A",
   "json" : {
     "assets" : {
+      "A17781C2F9711F3457CF2C7A0C7885B3" : {
+        "type" : "texture",
+        "index" : 7,
+        "assetRequest" : {
+          "type" : "slide",
+          "state" : "contents",
+          "slide" : "none"
+        },
+        "url" : {
+          "native" : "assets\/6F9E9B1A-C318-4D78-AC64-B248650AC33A.pdf"
+        },
+        "width" : 26,
+        "height" : 20
+      },
       "7C835DEA1FE3EF01B29E77C6577F2757" : {
         "type" : "texture",
         "index" : 6,
@@ -100,7 +114,21 @@ local_slide( {
         "width" : 454,
         "height" : 380
       },
-      "9AF75EE31987FCC02226936C7C714C16" : {
+      "F648880DCCA26515020CAF2E5D8A1198" : {
+        "type" : "texture",
+        "index" : 5,
+        "assetRequest" : {
+          "type" : "slide",
+          "state" : "contents",
+          "slide" : "none"
+        },
+        "url" : {
+          "native" : "assets\/6F9E9B1A-C318-4D78-AC64-B248650AC33A.pdf"
+        },
+        "width" : 519,
+        "height" : 20
+      },
+      "93E5837163226DF0F9C90C843477F24F" : {
         "type" : "texture",
         "index" : 23,
         "assetRequest" : {
@@ -127,20 +155,6 @@ local_slide( {
         },
         "width" : 49,
         "height" : 49
-      },
-      "F648880DCCA26515020CAF2E5D8A1198" : {
-        "type" : "texture",
-        "index" : 5,
-        "assetRequest" : {
-          "type" : "slide",
-          "state" : "contents",
-          "slide" : "none"
-        },
-        "url" : {
-          "native" : "assets\/6F9E9B1A-C318-4D78-AC64-B248650AC33A.pdf"
-        },
-        "width" : 519,
-        "height" : 20
       },
       "FBB5DEA59905EE30EF2803B0A74DF992" : {
         "type" : "texture",
@@ -268,20 +282,6 @@ local_slide( {
         "width" : 454,
         "height" : 380
       },
-      "EB28A0036FA5298B2EF7C90775A6D9A3" : {
-        "type" : "texture",
-        "index" : 7,
-        "assetRequest" : {
-          "type" : "slide",
-          "state" : "contents",
-          "slide" : "none"
-        },
-        "url" : {
-          "native" : "assets\/6F9E9B1A-C318-4D78-AC64-B248650AC33A.pdf"
-        },
-        "width" : 22,
-        "height" : 20
-      },
       "E8B163D9DF04252A48B9072DAFBEA578" : {
         "type" : "texture",
         "index" : 13,
@@ -310,7 +310,7 @@ local_slide( {
         "width" : 380,
         "height" : 265
       },
-      "4A88B5B06B7B55F407FA977646DC7FD9" : {
+      "B804534D028E4968055E79C9522E9BE4" : {
         "type" : "texture",
         "index" : 24,
         "assetRequest" : {
@@ -534,7 +534,7 @@ local_slide( {
                           "pointY" : 0.5
                         }
                       },
-                      "texture" : "9AF75EE31987FCC02226936C7C714C16"
+                      "texture" : "93E5837163226DF0F9C90C843477F24F"
                     },
                     {
                       "animations" : [
@@ -615,7 +615,7 @@ local_slide( {
                           "pointY" : 0.5
                         }
                       },
-                      "texture" : "4A88B5B06B7B55F407FA977646DC7FD9"
+                      "texture" : "B804534D028E4968055E79C9522E9BE4"
                     }
                   ]
                 }
@@ -636,51 +636,6 @@ local_slide( {
         ],
         "accessibility" : [
           {
-            "text" : "spectre.png",
-            "targetRectangle" : {
-              "y" : 91.537521362304688,
-              "x" : 864.53656005859375,
-              "width" : 128.11909484863281,
-              "height" : 101.40676879882812
-            }
-          },
-          {
-            "text" : "spectre: Speculative execution",
-            "targetRectangle" : {
-              "y" : 125,
-              "x" : 36,
-              "width" : 513.3599999999999,
-              "height" : 48.400146484375
-            }
-          },
-          {
-            "text" : "0",
-            "targetRectangle" : {
-              "y" : 223.77774047851562,
-              "x" : 273.79200000000003,
-              "width" : 10.41599999999994,
-              "height" : 28.40008544921875
-            }
-          },
-          {
-            "text" : "Counter",
-            "targetRectangle" : {
-              "y" : 250.87774676084518,
-              "x" : 231.58000183105469,
-              "width" : 93.840000000000032,
-              "height" : 33
-            }
-          },
-          {
-            "text" : "E",
-            "targetRectangle" : {
-              "y" : 491.9381103515625,
-              "x" : 104.75242776189741,
-              "width" : 10.359999999999999,
-              "height" : 28.40008544921875
-            }
-          },
-          {
             "text" : "Victim Process",
             "targetRectangle" : {
               "y" : 539.32034301757812,
@@ -690,101 +645,11 @@ local_slide( {
             }
           },
           {
-            "text" : "Counter > 0?",
-            "targetRectangle" : {
-              "y" : 445.10598772764206,
-              "x" : 200.51849365234375,
-              "width" : 150.43200000000002,
-              "height" : 33
-            }
-          },
-          {
-            "text" : "Prime the branch prediction to expect a loop",
-            "targetRectangle" : {
-              "y" : 212.39390563964844,
-              "x" : 592.1817741394043,
-              "width" : 329.73599999999999,
-              "height" : 70.199999213218689
-            }
-          },
-          {
-            "text" : "Make sure Counter is not cached so the CPU is more likely to speculatively run the code",
-            "targetRectangle" : {
-              "y" : 282.59390485286713,
-              "x" : 592.1817741394043,
-              "width" : 345.91200000000003,
-              "height" : 116.39999842643738
-            }
-          },
-          {
-            "text" : "Find a way  that victim leaks data when B & C are executed speculatively",
-            "targetRectangle" : {
-              "y" : 398.9939032793045,
-              "x" : 592.1817741394043,
-              "width" : 332.11199999999997,
-              "height" : 79.199999213218689
-            }
-          },
-          {
             "text" : "D",
             "targetRectangle" : {
               "y" : 418.96734619140625,
               "x" : 103.9684277618974,
               "width" : 11.927999999999997,
-              "height" : 28.40008544921875
-            }
-          },
-          {
-            "text" : "￼",
-            "targetRectangle" : {
-              "y" : 38,
-              "x" : 964.57660043239594,
-              "width" : 23.0390625,
-              "height" : 28
-            }
-          },
-          {
-            "text" : "A",
-            "targetRectangle" : {
-              "y" : 206.64398193359375,
-              "x" : 104.23442776189741,
-              "width" : 11.396000000000001,
-              "height" : 28.40008544921875
-            }
-          },
-          {
-            "text" : "D",
-            "targetRectangle" : {
-              "y" : 418.96734619140625,
-              "x" : 103.9684277618974,
-              "width" : 11.927999999999997,
-              "height" : 28.40008544921875
-            }
-          },
-          {
-            "text" : "B",
-            "targetRectangle" : {
-              "y" : 273.02581787109375,
-              "x" : 103.9684277618974,
-              "width" : 11.927999999999997,
-              "height" : 28.40008544921875
-            }
-          },
-          {
-            "text" : "Attacker Process",
-            "targetRectangle" : {
-              "y" : 539.32034301757812,
-              "x" : 660.56600000000003,
-              "width" : 168.86799999999994,
-              "height" : 28.40008544921875
-            }
-          },
-          {
-            "text" : "C",
-            "targetRectangle" : {
-              "y" : 345.99658203125,
-              "x" : 104.23442776189741,
-              "width" : 11.396000000000001,
               "height" : 28.40008544921875
             }
           },
@@ -816,12 +681,147 @@ local_slide( {
             }
           },
           {
+            "text" : "spectre.png",
+            "targetRectangle" : {
+              "y" : 91.537521362304688,
+              "x" : 864.53656005859375,
+              "width" : 128.11909484863281,
+              "height" : 101.40676879882812
+            }
+          },
+          {
             "text" : "Meltdown & Spectre for normal people",
             "targetRectangle" : {
               "y" : 40,
               "x" : 36,
               "width" : 519.28593814373016,
               "height" : 28
+            }
+          },
+          {
+            "text" : "E",
+            "targetRectangle" : {
+              "y" : 491.9381103515625,
+              "x" : 104.75242776189741,
+              "width" : 10.359999999999999,
+              "height" : 28.40008544921875
+            }
+          },
+          {
+            "text" : "Counter > 0?",
+            "targetRectangle" : {
+              "y" : 445.10598772764206,
+              "x" : 200.51849365234375,
+              "width" : 150.43200000000002,
+              "height" : 33
+            }
+          },
+          {
+            "text" : "spectre: Speculative execution",
+            "targetRectangle" : {
+              "y" : 125,
+              "x" : 36,
+              "width" : 513.3599999999999,
+              "height" : 48.400146484375
+            }
+          },
+          {
+            "text" : "￼",
+            "targetRectangle" : {
+              "y" : 38,
+              "x" : 964.57660043239594,
+              "width" : 23.0390625,
+              "height" : 28
+            }
+          },
+          {
+            "text" : "0",
+            "targetRectangle" : {
+              "y" : 223.77774047851562,
+              "x" : 273.79200000000003,
+              "width" : 10.41599999999994,
+              "height" : 28.40008544921875
+            }
+          },
+          {
+            "text" : "A",
+            "targetRectangle" : {
+              "y" : 206.64398193359375,
+              "x" : 104.23442776189741,
+              "width" : 11.396000000000001,
+              "height" : 28.40008544921875
+            }
+          },
+          {
+            "text" : "Counter",
+            "targetRectangle" : {
+              "y" : 250.87774676084518,
+              "x" : 231.58000183105469,
+              "width" : 93.840000000000032,
+              "height" : 33
+            }
+          },
+          {
+            "text" : "Attacker Process",
+            "targetRectangle" : {
+              "y" : 539.32034301757812,
+              "x" : 660.56600000000003,
+              "width" : 168.86799999999994,
+              "height" : 28.40008544921875
+            }
+          },
+          {
+            "text" : "D",
+            "targetRectangle" : {
+              "y" : 418.96734619140625,
+              "x" : 103.9684277618974,
+              "width" : 11.927999999999997,
+              "height" : 28.40008544921875
+            }
+          },
+          {
+            "text" : "B",
+            "targetRectangle" : {
+              "y" : 273.02581787109375,
+              "x" : 103.9684277618974,
+              "width" : 11.927999999999997,
+              "height" : 28.40008544921875
+            }
+          },
+          {
+            "text" : "Prime the branch prediction to expect a loop",
+            "targetRectangle" : {
+              "y" : 212.39390563964844,
+              "x" : 592.1817741394043,
+              "width" : 329.73599999999999,
+              "height" : 70.199999213218689
+            }
+          },
+          {
+            "text" : "Make sure Counter is not cached so the CPU is more likely to speculatively run the code",
+            "targetRectangle" : {
+              "y" : 282.59390485286713,
+              "x" : 592.1817741394043,
+              "width" : 345.91200000000003,
+              "height" : 116.39999842643738
+            }
+          },
+          {
+            "text" : "Find a way  that victim leaks data when B & C are executed speculatively",
+            "targetRectangle" : {
+              "y" : 398.9939032793045,
+              "x" : 592.1817741394043,
+              "width" : 332.11199999999997,
+              "height" : 79.199999213218689
+            }
+          },
+          {
+            "text" : "C",
+            "targetRectangle" : {
+              "y" : 345.99658203125,
+              "x" : 104.23442776189741,
+              "width" : 11.396000000000001,
+              "height" : 28.40008544921875
             }
           }
         ],
@@ -2373,10 +2373,10 @@ local_slide( {
                     "rotation" : 0,
                     "scale" : 1,
                     "position" : {
-                      "pointX" : 970.57660043239594,
+                      "pointX" : 972.57660043239594,
                       "pointY" : 44
                     },
-                    "width" : 22,
+                    "width" : 26,
                     "sublayerTransform" : [
                       1,
                       0,
@@ -2445,10 +2445,10 @@ local_slide( {
                         "rotation" : 0,
                         "scale" : 1,
                         "position" : {
-                          "pointX" : 14.423399567604065,
+                          "pointX" : 16.423399567604065,
                           "pointY" : 18
                         },
-                        "width" : 22,
+                        "width" : 26,
                         "sublayerTransform" : [
                           1,
                           0,
@@ -2482,7 +2482,7 @@ local_slide( {
                           "pointY" : 0.5
                         }
                       },
-                      "texture" : "EB28A0036FA5298B2EF7C90775A6D9A3"
+                      "texture" : "A17781C2F9711F3457CF2C7A0C7885B3"
                     }
                   ]
                 }

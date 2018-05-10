@@ -396,6 +396,15 @@
       ],
       "accessibility" : [
         {
+          "text" : "Meltdown & Spectre for normal people",
+          "targetRectangle" : {
+            "y" : 40,
+            "x" : 36,
+            "width" : 519.28593814373016,
+            "height" : 28
+          }
+        },
+        {
           "text" : "Result:Programs can read memory it should not",
           "targetRectangle" : {
             "y" : 153.78125,
@@ -441,12 +450,12 @@
           }
         },
         {
-          "text" : "Meltdown & Spectre for normal people",
+          "text" : "meltdown.png",
           "targetRectangle" : {
-            "y" : 40,
-            "x" : 36,
-            "width" : 519.28593814373016,
-            "height" : 28
+            "y" : 249.86283874511719,
+            "x" : 30.822967529296875,
+            "width" : 240.08045959472656,
+            "height" : 392.00631713867188
           }
         },
         {
@@ -456,15 +465,6 @@
             "x" : 36,
             "width" : 164.68800000000005,
             "height" : 48.400146484375
-          }
-        },
-        {
-          "text" : "meltdown.png",
-          "targetRectangle" : {
-            "y" : 249.86283874511719,
-            "x" : 30.822967529296875,
-            "width" : 240.08045959472656,
-            "height" : 392.00631713867188
           }
         }
       ],

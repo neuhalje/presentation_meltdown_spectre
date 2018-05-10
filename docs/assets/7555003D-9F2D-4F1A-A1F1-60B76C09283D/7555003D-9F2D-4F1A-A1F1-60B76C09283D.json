@@ -14,6 +14,20 @@
       "width" : 449,
       "height" : 126
     },
+    "71BAB40DB99A63B66A510065D74C6B37" : {
+      "type" : "texture",
+      "index" : 4,
+      "assetRequest" : {
+        "type" : "slide",
+        "state" : "contents",
+        "slide" : "none"
+      },
+      "url" : {
+        "native" : "assets\/7555003D-9F2D-4F1A-A1F1-60B76C09283D.pdf"
+      },
+      "width" : 26,
+      "height" : 20
+    },
     "116601EA8E21D5BF0533E83AB9C7A45E" : {
       "type" : "texture",
       "index" : 10,
@@ -70,34 +84,6 @@
       "width" : 103,
       "height" : 67
     },
-    "6A75014F098483DD95C044D0284AC0EC" : {
-      "type" : "texture",
-      "index" : 4,
-      "assetRequest" : {
-        "type" : "slide",
-        "state" : "contents",
-        "slide" : "none"
-      },
-      "url" : {
-        "native" : "assets\/7555003D-9F2D-4F1A-A1F1-60B76C09283D.pdf"
-      },
-      "width" : 26,
-      "height" : 20
-    },
-    "05C72D7D28893E969BB3DF07A863E33B" : {
-      "type" : "texture",
-      "index" : 18,
-      "assetRequest" : {
-        "type" : "slide",
-        "state" : "contents",
-        "slide" : "none"
-      },
-      "url" : {
-        "native" : "assets\/7555003D-9F2D-4F1A-A1F1-60B76C09283D.pdf"
-      },
-      "width" : 1024,
-      "height" : 768
-    },
     "72DBE22E71A3E7B3597DD685B4C53AA6" : {
       "type" : "texture",
       "index" : 11,
@@ -111,6 +97,20 @@
       },
       "width" : 56,
       "height" : 36
+    },
+    "FE1B4A6E51DBA5F39162C19FE044E4BC" : {
+      "type" : "texture",
+      "index" : 18,
+      "assetRequest" : {
+        "type" : "slide",
+        "state" : "contents",
+        "slide" : "none"
+      },
+      "url" : {
+        "native" : "assets\/7555003D-9F2D-4F1A-A1F1-60B76C09283D.pdf"
+      },
+      "width" : 1024,
+      "height" : 768
     },
     "DEAC4ABE09724D3685A8B8F95159073C" : {
       "type" : "texture",
@@ -182,7 +182,7 @@
       "width" : 80,
       "height" : 118
     },
-    "3469DB6FF1028AE2EFAD59914F24E8F6" : {
+    "3BF77FB537B7F9002E64F7C214D5986F" : {
       "type" : "texture",
       "index" : 17,
       "assetRequest" : {
@@ -483,33 +483,6 @@
       ],
       "accessibility" : [
         {
-          "text" : "￼",
-          "targetRectangle" : {
-            "y" : 38,
-            "x" : 964.57660043239594,
-            "width" : 23.0390625,
-            "height" : 28
-          }
-        },
-        {
-          "text" : "…",
-          "targetRectangle" : {
-            "y" : 606.90564036369324,
-            "x" : 706.1072998046875,
-            "width" : 64,
-            "height" : 81
-          }
-        },
-        {
-          "text" : "spectre: Branch prediction",
-          "targetRectangle" : {
-            "y" : 125,
-            "x" : 36,
-            "width" : 453.98399999999987,
-            "height" : 48.400146484375
-          }
-        },
-        {
           "text" : "Tuesday",
           "targetRectangle" : {
             "y" : 608.81524729728699,
@@ -552,6 +525,33 @@
             "x" : 36,
             "width" : 519.28593814373016,
             "height" : 28
+          }
+        },
+        {
+          "text" : "￼",
+          "targetRectangle" : {
+            "y" : 38,
+            "x" : 964.57660043239594,
+            "width" : 23.0390625,
+            "height" : 28
+          }
+        },
+        {
+          "text" : "…",
+          "targetRectangle" : {
+            "y" : 606.90564036369324,
+            "x" : 706.1072998046875,
+            "width" : 64,
+            "height" : 81
+          }
+        },
+        {
+          "text" : "spectre: Branch prediction",
+          "targetRectangle" : {
+            "y" : 125,
+            "x" : 36,
+            "width" : 453.98399999999987,
+            "height" : 48.400146484375
           }
         }
       ],
@@ -1555,7 +1555,7 @@
                         "pointY" : 0.5
                       }
                     },
-                    "texture" : "6A75014F098483DD95C044D0284AC0EC"
+                    "texture" : "71BAB40DB99A63B66A510065D74C6B37"
                   }
                 ]
               }
@@ -8852,33 +8852,6 @@
       ],
       "accessibility" : [
         {
-          "text" : "￼",
-          "targetRectangle" : {
-            "y" : 38,
-            "x" : 964.57660043239594,
-            "width" : 23.0390625,
-            "height" : 28
-          }
-        },
-        {
-          "text" : "…",
-          "targetRectangle" : {
-            "y" : 606.90564036369324,
-            "x" : 706.1072998046875,
-            "width" : 64,
-            "height" : 81
-          }
-        },
-        {
-          "text" : "spectre: Branch prediction",
-          "targetRectangle" : {
-            "y" : 125,
-            "x" : 36,
-            "width" : 453.98399999999987,
-            "height" : 48.400146484375
-          }
-        },
-        {
           "text" : "Tuesday",
           "targetRectangle" : {
             "y" : 608.81524729728699,
@@ -8921,6 +8894,33 @@
             "x" : 36,
             "width" : 519.28593814373016,
             "height" : 28
+          }
+        },
+        {
+          "text" : "￼",
+          "targetRectangle" : {
+            "y" : 38,
+            "x" : 964.57660043239594,
+            "width" : 23.0390625,
+            "height" : 28
+          }
+        },
+        {
+          "text" : "…",
+          "targetRectangle" : {
+            "y" : 606.90564036369324,
+            "x" : 706.1072998046875,
+            "width" : 64,
+            "height" : 81
+          }
+        },
+        {
+          "text" : "spectre: Branch prediction",
+          "targetRectangle" : {
+            "y" : 125,
+            "x" : 36,
+            "width" : 453.98399999999987,
+            "height" : 48.400146484375
           }
         }
       ],
@@ -9924,7 +9924,7 @@
                         "pointY" : 0.5
                       }
                     },
-                    "texture" : "6A75014F098483DD95C044D0284AC0EC"
+                    "texture" : "71BAB40DB99A63B66A510065D74C6B37"
                   }
                 ]
               }
@@ -17221,33 +17221,6 @@
       ],
       "accessibility" : [
         {
-          "text" : "￼",
-          "targetRectangle" : {
-            "y" : 38,
-            "x" : 964.57660043239594,
-            "width" : 23.0390625,
-            "height" : 28
-          }
-        },
-        {
-          "text" : "…",
-          "targetRectangle" : {
-            "y" : 606.90564036369324,
-            "x" : 706.1072998046875,
-            "width" : 64,
-            "height" : 81
-          }
-        },
-        {
-          "text" : "spectre: Branch prediction",
-          "targetRectangle" : {
-            "y" : 125,
-            "x" : 36,
-            "width" : 453.98399999999987,
-            "height" : 48.400146484375
-          }
-        },
-        {
           "text" : "Tuesday",
           "targetRectangle" : {
             "y" : 608.81524729728699,
@@ -17290,6 +17263,33 @@
             "x" : 36,
             "width" : 519.28593814373016,
             "height" : 28
+          }
+        },
+        {
+          "text" : "￼",
+          "targetRectangle" : {
+            "y" : 38,
+            "x" : 964.57660043239594,
+            "width" : 23.0390625,
+            "height" : 28
+          }
+        },
+        {
+          "text" : "…",
+          "targetRectangle" : {
+            "y" : 606.90564036369324,
+            "x" : 706.1072998046875,
+            "width" : 64,
+            "height" : 81
+          }
+        },
+        {
+          "text" : "spectre: Branch prediction",
+          "targetRectangle" : {
+            "y" : 125,
+            "x" : 36,
+            "width" : 453.98399999999987,
+            "height" : 48.400146484375
           }
         }
       ],
@@ -18293,7 +18293,7 @@
                         "pointY" : 0.5
                       }
                     },
-                    "texture" : "6A75014F098483DD95C044D0284AC0EC"
+                    "texture" : "71BAB40DB99A63B66A510065D74C6B37"
                   }
                 ]
               }
@@ -25590,33 +25590,6 @@
       ],
       "accessibility" : [
         {
-          "text" : "￼",
-          "targetRectangle" : {
-            "y" : 38,
-            "x" : 964.57660043239594,
-            "width" : 23.0390625,
-            "height" : 28
-          }
-        },
-        {
-          "text" : "…",
-          "targetRectangle" : {
-            "y" : 606.90564036369324,
-            "x" : 706.1072998046875,
-            "width" : 64,
-            "height" : 81
-          }
-        },
-        {
-          "text" : "spectre: Branch prediction",
-          "targetRectangle" : {
-            "y" : 125,
-            "x" : 36,
-            "width" : 453.98399999999987,
-            "height" : 48.400146484375
-          }
-        },
-        {
           "text" : "Tuesday",
           "targetRectangle" : {
             "y" : 608.81524729728699,
@@ -25659,6 +25632,33 @@
             "x" : 36,
             "width" : 519.28593814373016,
             "height" : 28
+          }
+        },
+        {
+          "text" : "￼",
+          "targetRectangle" : {
+            "y" : 38,
+            "x" : 964.57660043239594,
+            "width" : 23.0390625,
+            "height" : 28
+          }
+        },
+        {
+          "text" : "…",
+          "targetRectangle" : {
+            "y" : 606.90564036369324,
+            "x" : 706.1072998046875,
+            "width" : 64,
+            "height" : 81
+          }
+        },
+        {
+          "text" : "spectre: Branch prediction",
+          "targetRectangle" : {
+            "y" : 125,
+            "x" : 36,
+            "width" : 453.98399999999987,
+            "height" : 48.400146484375
           }
         }
       ],
@@ -26662,7 +26662,7 @@
                         "pointY" : 0.5
                       }
                     },
-                    "texture" : "6A75014F098483DD95C044D0284AC0EC"
+                    "texture" : "71BAB40DB99A63B66A510065D74C6B37"
                   }
                 ]
               }
@@ -33924,7 +33924,7 @@
                         "pointY" : 0.5
                       }
                     },
-                    "texture" : "3469DB6FF1028AE2EFAD59914F24E8F6"
+                    "texture" : "3BF77FB537B7F9002E64F7C214D5986F"
                   },
                   {
                     "animations" : [
@@ -34005,7 +34005,7 @@
                         "pointY" : 0.5
                       }
                     },
-                    "texture" : "05C72D7D28893E969BB3DF07A863E33B"
+                    "texture" : "FE1B4A6E51DBA5F39162C19FE044E4BC"
                   }
                 ]
               }
@@ -34025,33 +34025,6 @@
 
       ],
       "accessibility" : [
-        {
-          "text" : "￼",
-          "targetRectangle" : {
-            "y" : 38,
-            "x" : 964.57660043239594,
-            "width" : 23.0390625,
-            "height" : 28
-          }
-        },
-        {
-          "text" : "…",
-          "targetRectangle" : {
-            "y" : 606.90564036369324,
-            "x" : 706.1072998046875,
-            "width" : 64,
-            "height" : 81
-          }
-        },
-        {
-          "text" : "spectre: Branch prediction",
-          "targetRectangle" : {
-            "y" : 125,
-            "x" : 36,
-            "width" : 453.98399999999987,
-            "height" : 48.400146484375
-          }
-        },
         {
           "text" : "Tuesday",
           "targetRectangle" : {
@@ -34095,6 +34068,33 @@
             "x" : 36,
             "width" : 519.28593814373016,
             "height" : 28
+          }
+        },
+        {
+          "text" : "￼",
+          "targetRectangle" : {
+            "y" : 38,
+            "x" : 964.57660043239594,
+            "width" : 23.0390625,
+            "height" : 28
+          }
+        },
+        {
+          "text" : "…",
+          "targetRectangle" : {
+            "y" : 606.90564036369324,
+            "x" : 706.1072998046875,
+            "width" : 64,
+            "height" : 81
+          }
+        },
+        {
+          "text" : "spectre: Branch prediction",
+          "targetRectangle" : {
+            "y" : 125,
+            "x" : 36,
+            "width" : 453.98399999999987,
+            "height" : 48.400146484375
           }
         }
       ],
@@ -35099,7 +35099,7 @@
                         "pointY" : 0.5
                       }
                     },
-                    "texture" : "6A75014F098483DD95C044D0284AC0EC"
+                    "texture" : "71BAB40DB99A63B66A510065D74C6B37"
                   }
                 ]
               }

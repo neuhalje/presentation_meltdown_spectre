@@ -2,6 +2,20 @@ local_slide( {
   "name" : "D0CA6225-5B8F-4913-A191-142E7FB852E7",
   "json" : {
     "assets" : {
+      "F648880DCCA26515020CAF2E5D8A1198" : {
+        "type" : "texture",
+        "index" : 2,
+        "assetRequest" : {
+          "type" : "slide",
+          "state" : "contents",
+          "slide" : "none"
+        },
+        "url" : {
+          "native" : "assets\/D0CA6225-5B8F-4913-A191-142E7FB852E7.pdf"
+        },
+        "width" : 519,
+        "height" : 20
+      },
       "FBB5DEA59905EE30EF2803B0A74DF992" : {
         "type" : "texture",
         "index" : 0,
@@ -15,20 +29,6 @@ local_slide( {
         },
         "width" : 1024,
         "height" : 768
-      },
-      "FBD078203CB8442A0A142DF3AC830335" : {
-        "type" : "texture",
-        "index" : 2,
-        "assetRequest" : {
-          "type" : "slide",
-          "state" : "contents",
-          "slide" : "none"
-        },
-        "url" : {
-          "native" : "assets\/D0CA6225-5B8F-4913-A191-142E7FB852E7.pdf"
-        },
-        "width" : 519,
-        "height" : 20
       },
       "75AC6A34BE2F7756C4BE0D7C2EB783A1" : {
         "type" : "texture",
@@ -44,6 +44,20 @@ local_slide( {
         "width" : 131,
         "height" : 173
       },
+      "28125ABE8709E5B26D7DA703988471D3" : {
+        "type" : "texture",
+        "index" : 4,
+        "assetRequest" : {
+          "type" : "slide",
+          "state" : "contents",
+          "slide" : "none"
+        },
+        "url" : {
+          "native" : "assets\/D0CA6225-5B8F-4913-A191-142E7FB852E7.pdf"
+        },
+        "width" : 26,
+        "height" : 20
+      },
       "562C12C23922DC7A82842DACA4F2C56C" : {
         "type" : "texture",
         "index" : 3,
@@ -57,20 +71,6 @@ local_slide( {
         },
         "width" : 163,
         "height" : 37
-      },
-      "CCD6A5AE21D5B85F1FBAAD01AE7A9974" : {
-        "type" : "texture",
-        "index" : 9,
-        "assetRequest" : {
-          "type" : "slide",
-          "state" : "contents",
-          "slide" : "none"
-        },
-        "url" : {
-          "native" : "assets\/D0CA6225-5B8F-4913-A191-142E7FB852E7.pdf"
-        },
-        "width" : 1024,
-        "height" : 768
       },
       "F15D838EF2515D38DE0D197714D6BD90" : {
         "type" : "texture",
@@ -86,20 +86,6 @@ local_slide( {
         "width" : 892,
         "height" : 430
       },
-      "8FC694D5DA5A573A4DA9E923CDF58732" : {
-        "type" : "texture",
-        "index" : 5,
-        "assetRequest" : {
-          "type" : "slide",
-          "state" : "contents",
-          "slide" : "none"
-        },
-        "url" : {
-          "native" : "assets\/D0CA6225-5B8F-4913-A191-142E7FB852E7.pdf"
-        },
-        "width" : 73,
-        "height" : 118
-      },
       "640D5297D59088D46FE63A28D36F2264" : {
         "type" : "texture",
         "index" : 1,
@@ -114,9 +100,9 @@ local_slide( {
         "width" : 964,
         "height" : 5
       },
-      "6D00AF8D142398F8889D54B9DDFE72CE" : {
+      "8FC694D5DA5A573A4DA9E923CDF58732" : {
         "type" : "texture",
-        "index" : 4,
+        "index" : 5,
         "assetRequest" : {
           "type" : "slide",
           "state" : "contents",
@@ -125,10 +111,10 @@ local_slide( {
         "url" : {
           "native" : "assets\/D0CA6225-5B8F-4913-A191-142E7FB852E7.pdf"
         },
-        "width" : 26,
-        "height" : 20
+        "width" : 73,
+        "height" : 118
       },
-      "E6D0481B63E16330D41ED9DA6AA71C7E" : {
+      "D27F7BC0BA4E71E52FFAE94F8AF705E8" : {
         "type" : "texture",
         "index" : 10,
         "assetRequest" : {
@@ -155,6 +141,20 @@ local_slide( {
         },
         "width" : 131,
         "height" : 166
+      },
+      "187BC9835D1A616A5775C32FDC938423" : {
+        "type" : "texture",
+        "index" : 9,
+        "assetRequest" : {
+          "type" : "slide",
+          "state" : "contents",
+          "slide" : "none"
+        },
+        "url" : {
+          "native" : "assets\/D0CA6225-5B8F-4913-A191-142E7FB852E7.pdf"
+        },
+        "width" : 1024,
+        "height" : 768
       }
     },
     "events" : [
@@ -338,7 +338,7 @@ local_slide( {
                           "pointY" : 0.5
                         }
                       },
-                      "texture" : "CCD6A5AE21D5B85F1FBAAD01AE7A9974"
+                      "texture" : "187BC9835D1A616A5775C32FDC938423"
                     },
                     {
                       "animations" : [
@@ -419,7 +419,7 @@ local_slide( {
                           "pointY" : 0.5
                         }
                       },
-                      "texture" : "E6D0481B63E16330D41ED9DA6AA71C7E"
+                      "texture" : "D27F7BC0BA4E71E52FFAE94F8AF705E8"
                     }
                   ]
                 }
@@ -439,78 +439,6 @@ local_slide( {
 
         ],
         "accessibility" : [
-          {
-            "text" : "Meltdown",
-            "targetRectangle" : {
-              "y" : 125,
-              "x" : 36,
-              "width" : 164.68800000000005,
-              "height" : 48.400146484375
-            }
-          },
-          {
-            "text" : "Spy",
-            "targetRectangle" : {
-              "y" : 464.69476348161697,
-              "x" : 57.810488700866699,
-              "width" : 36.299999999999997,
-              "height" : 27
-            }
-          },
-          {
-            "text" : "110011010\\u2028010111010\\u2028111100100\\u2028000101101\\u2028100110010",
-            "targetRectangle" : {
-              "y" : 464.69476103782654,
-              "x" : 832.55078125,
-              "width" : 125.8193359375,
-              "height" : 125
-            }
-          },
-          {
-            "text" : "meltdown.png",
-            "targetRectangle" : {
-              "y" : 91.537521362304688,
-              "x" : 928.58154296875,
-              "width" : 70.384666442871094,
-              "height" : 114.92495727539062
-            }
-          },
-          {
-            "text" : "Meltdown & Spectre for normal people",
-            "targetRectangle" : {
-              "y" : 40,
-              "x" : 36,
-              "width" : 519.28593814373016,
-              "height" : 28
-            }
-          },
-          {
-            "text" : "110011010\\u2028010111010\\u2028111100100\\u2028000101101\\u2028100110010",
-            "targetRectangle" : {
-              "y" : 336.49999785423279,
-              "x" : 16.550822257995605,
-              "width" : 125.8193359375,
-              "height" : 125
-            }
-          },
-          {
-            "text" : "￼",
-            "targetRectangle" : {
-              "y" : 38,
-              "x" : 964.57660043239594,
-              "width" : 23.0390625,
-              "height" : 28
-            }
-          },
-          {
-            "text" : "Collector",
-            "targetRectangle" : {
-              "y" : 599.69470244646072,
-              "x" : 847.8504638671875,
-              "width" : 88.220000000000027,
-              "height" : 27
-            }
-          },
           {
             "text" : "For Meltdown two actors are needed",
             "targetRectangle" : {
@@ -545,6 +473,78 @@ local_slide( {
               "x" : 35.999980926513672,
               "width" : 772.05600000000004,
               "height" : 49
+            }
+          },
+          {
+            "text" : "Meltdown & Spectre for normal people",
+            "targetRectangle" : {
+              "y" : 40,
+              "x" : 36,
+              "width" : 519.28593814373016,
+              "height" : 28
+            }
+          },
+          {
+            "text" : "110011010\\u2028010111010\\u2028111100100\\u2028000101101\\u2028100110010",
+            "targetRectangle" : {
+              "y" : 464.69476103782654,
+              "x" : 832.55078125,
+              "width" : 125.8193359375,
+              "height" : 125
+            }
+          },
+          {
+            "text" : "Meltdown",
+            "targetRectangle" : {
+              "y" : 125,
+              "x" : 36,
+              "width" : 164.68800000000005,
+              "height" : 48.400146484375
+            }
+          },
+          {
+            "text" : "meltdown.png",
+            "targetRectangle" : {
+              "y" : 91.537521362304688,
+              "x" : 928.58154296875,
+              "width" : 70.384666442871094,
+              "height" : 114.92495727539062
+            }
+          },
+          {
+            "text" : "Spy",
+            "targetRectangle" : {
+              "y" : 464.69476348161697,
+              "x" : 57.810488700866699,
+              "width" : 36.299999999999997,
+              "height" : 27
+            }
+          },
+          {
+            "text" : "110011010\\u2028010111010\\u2028111100100\\u2028000101101\\u2028100110010",
+            "targetRectangle" : {
+              "y" : 336.49999785423279,
+              "x" : 16.550822257995605,
+              "width" : 125.8193359375,
+              "height" : 125
+            }
+          },
+          {
+            "text" : "￼",
+            "targetRectangle" : {
+              "y" : 38,
+              "x" : 964.57660043239594,
+              "width" : 23.0390625,
+              "height" : 28
+            }
+          },
+          {
+            "text" : "Collector",
+            "targetRectangle" : {
+              "y" : 599.69470244646072,
+              "x" : 847.8504638671875,
+              "width" : 88.220000000000027,
+              "height" : 27
             }
           }
         ],
@@ -1175,7 +1175,7 @@ local_slide( {
                           "pointY" : 0.5
                         }
                       },
-                      "texture" : "FBD078203CB8442A0A142DF3AC830335"
+                      "texture" : "F648880DCCA26515020CAF2E5D8A1198"
                     }
                   ]
                 }
@@ -1549,7 +1549,7 @@ local_slide( {
                           "pointY" : 0.5
                         }
                       },
-                      "texture" : "6D00AF8D142398F8889D54B9DDFE72CE"
+                      "texture" : "28125ABE8709E5B26D7DA703988471D3"
                     }
                   ]
                 }

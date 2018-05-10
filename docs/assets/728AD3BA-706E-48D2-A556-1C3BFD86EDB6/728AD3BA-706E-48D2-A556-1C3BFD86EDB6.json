@@ -28,20 +28,6 @@
       "width" : 964,
       "height" : 5
     },
-    "12E3220A7F9283F4940644755EDA2F68" : {
-      "type" : "texture",
-      "index" : 10,
-      "assetRequest" : {
-        "type" : "slide",
-        "state" : "contents",
-        "slide" : "none"
-      },
-      "url" : {
-        "native" : "assets\/728AD3BA-706E-48D2-A556-1C3BFD86EDB6.pdf"
-      },
-      "width" : 1024,
-      "height" : 768
-    },
     "5068F4BA529FE1203AC5E18CF144C35C" : {
       "type" : "texture",
       "index" : 2,
@@ -55,6 +41,20 @@
       },
       "width" : 874,
       "height" : 304
+    },
+    "1D5A6C96C2679833BBBBB668E76BD237" : {
+      "type" : "texture",
+      "index" : 10,
+      "assetRequest" : {
+        "type" : "slide",
+        "state" : "contents",
+        "slide" : "none"
+      },
+      "url" : {
+        "native" : "assets\/728AD3BA-706E-48D2-A556-1C3BFD86EDB6.pdf"
+      },
+      "width" : 1024,
+      "height" : 768
     },
     "CA07E850997DC67A94F68DC716589C62" : {
       "type" : "texture",
@@ -84,20 +84,6 @@
       "width" : 1024,
       "height" : 768
     },
-    "8809B95B82461E58CDDCD12C4844D664" : {
-      "type" : "texture",
-      "index" : 5,
-      "assetRequest" : {
-        "type" : "slide",
-        "state" : "contents",
-        "slide" : "none"
-      },
-      "url" : {
-        "native" : "assets\/728AD3BA-706E-48D2-A556-1C3BFD86EDB6.pdf"
-      },
-      "width" : 26,
-      "height" : 20
-    },
     "A7F027728D0915BA8DD8E1E493CD5F91" : {
       "type" : "texture",
       "index" : 6,
@@ -111,6 +97,20 @@
       },
       "width" : 49,
       "height" : 49
+    },
+    "BA4715AA364DE2CCE9F560213E57E849" : {
+      "type" : "texture",
+      "index" : 11,
+      "assetRequest" : {
+        "type" : "slide",
+        "state" : "contents",
+        "slide" : "none"
+      },
+      "url" : {
+        "native" : "assets\/728AD3BA-706E-48D2-A556-1C3BFD86EDB6.pdf"
+      },
+      "width" : 1024,
+      "height" : 768
     },
     "562C12C23922DC7A82842DACA4F2C56C" : {
       "type" : "texture",
@@ -140,20 +140,6 @@
       "width" : 73,
       "height" : 118
     },
-    "131BA421048A74124B31733C61B460CF" : {
-      "type" : "texture",
-      "index" : 11,
-      "assetRequest" : {
-        "type" : "slide",
-        "state" : "contents",
-        "slide" : "none"
-      },
-      "url" : {
-        "native" : "assets\/728AD3BA-706E-48D2-A556-1C3BFD86EDB6.pdf"
-      },
-      "width" : 1024,
-      "height" : 768
-    },
     "F648880DCCA26515020CAF2E5D8A1198" : {
       "type" : "texture",
       "index" : 3,
@@ -166,6 +152,20 @@
         "native" : "assets\/728AD3BA-706E-48D2-A556-1C3BFD86EDB6.pdf"
       },
       "width" : 519,
+      "height" : 20
+    },
+    "A3E33767547A1BE07E8AABE548F39045" : {
+      "type" : "texture",
+      "index" : 5,
+      "assetRequest" : {
+        "type" : "slide",
+        "state" : "contents",
+        "slide" : "none"
+      },
+      "url" : {
+        "native" : "assets\/728AD3BA-706E-48D2-A556-1C3BFD86EDB6.pdf"
+      },
+      "width" : 26,
       "height" : 20
     }
   },
@@ -350,7 +350,7 @@
                         "pointY" : 0.5
                       }
                     },
-                    "texture" : "12E3220A7F9283F4940644755EDA2F68"
+                    "texture" : "1D5A6C96C2679833BBBBB668E76BD237"
                   },
                   {
                     "animations" : [
@@ -431,7 +431,7 @@
                         "pointY" : 0.5
                       }
                     },
-                    "texture" : "131BA421048A74124B31733C61B460CF"
+                    "texture" : "BA4715AA364DE2CCE9F560213E57E849"
                   }
                 ]
               }
@@ -452,6 +452,15 @@
       ],
       "accessibility" : [
         {
+          "text" : "Meltdown",
+          "targetRectangle" : {
+            "y" : 125,
+            "x" : 36,
+            "width" : 164.68800000000005,
+            "height" : 48.400146484375
+          }
+        },
+        {
           "text" : "meltdown.png",
           "targetRectangle" : {
             "y" : 91.537521362304688,
@@ -461,21 +470,12 @@
           }
         },
         {
-          "text" : "￼",
+          "text" : "Meltdown & Spectre for normal people",
           "targetRectangle" : {
-            "y" : 38,
-            "x" : 964.57660043239594,
-            "width" : 23.0390625,
-            "height" : 28
-          }
-        },
-        {
-          "text" : "Meltdown",
-          "targetRectangle" : {
-            "y" : 125,
+            "y" : 40,
             "x" : 36,
-            "width" : 164.68800000000005,
-            "height" : 48.400146484375
+            "width" : 519.28593814373016,
+            "height" : 28
           }
         },
         {
@@ -515,11 +515,11 @@
           }
         },
         {
-          "text" : "Meltdown & Spectre for normal people",
+          "text" : "￼",
           "targetRectangle" : {
-            "y" : 40,
-            "x" : 36,
-            "width" : 519.28593814373016,
+            "y" : 38,
+            "x" : 964.57660043239594,
+            "width" : 23.0390625,
             "height" : 28
           }
         }
@@ -1712,7 +1712,7 @@
                         "pointY" : 0.5
                       }
                     },
-                    "texture" : "8809B95B82461E58CDDCD12C4844D664"
+                    "texture" : "A3E33767547A1BE07E8AABE548F39045"
                   }
                 ]
               }

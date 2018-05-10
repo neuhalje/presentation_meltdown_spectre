@@ -432,11 +432,29 @@
       ],
       "accessibility" : [
         {
+          "text" : "IMG_2328.JPG",
+          "targetRectangle" : {
+            "y" : 121,
+            "x" : 560,
+            "width" : 432,
+            "height" : 614
+          }
+        },
+        {
           "text" : "￼",
           "targetRectangle" : {
             "y" : 38,
             "x" : 976.09613084793091,
             "width" : 11.51953125,
+            "height" : 28
+          }
+        },
+        {
+          "text" : "Meltdown & Spectre for normal people",
+          "targetRectangle" : {
+            "y" : 40,
+            "x" : 36,
+            "width" : 519.28593814373016,
             "height" : 28
           }
         },
@@ -486,20 +504,11 @@
           }
         },
         {
-          "text" : "IMG_2328.JPG",
-          "targetRectangle" : {
-            "y" : 121,
-            "x" : 560,
-            "width" : 432,
-            "height" : 614
-          }
-        },
-        {
-          "text" : "Meltdown & Spectre for normal people",
+          "text" : "Jens Neuhalfen",
           "targetRectangle" : {
             "y" : 40,
-            "x" : 36,
-            "width" : 519.28593814373016,
+            "x" : 700.49374979734421,
+            "width" : 208.70625025033951,
             "height" : 28
           }
         },
@@ -510,15 +519,6 @@
             "x" : 36,
             "width" : 160.99200000000002,
             "height" : 48.400146484375
-          }
-        },
-        {
-          "text" : "Jens Neuhalfen",
-          "targetRectangle" : {
-            "y" : 40,
-            "x" : 700.49374979734421,
-            "width" : 208.70625025033951,
-            "height" : 28
           }
         }
       ],

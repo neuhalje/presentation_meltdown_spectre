@@ -396,21 +396,12 @@
       ],
       "accessibility" : [
         {
-          "text" : "Meltdown & Spectre for normal people",
+          "text" : "Spectre",
           "targetRectangle" : {
-            "y" : 40,
+            "y" : 125,
             "x" : 36,
-            "width" : 519.28593814373016,
-            "height" : 28
-          }
-        },
-        {
-          "text" : "spectre.png",
-          "targetRectangle" : {
-            "y" : 326.07012939453125,
-            "x" : 32.847625732421875,
-            "width" : 282.48977661132812,
-            "height" : 223.59176635742188
+            "width" : 130.464,
+            "height" : 48.400146484375
           }
         },
         {
@@ -459,12 +450,21 @@
           }
         },
         {
-          "text" : "Spectre",
+          "text" : "Meltdown & Spectre for normal people",
           "targetRectangle" : {
-            "y" : 125,
+            "y" : 40,
             "x" : 36,
-            "width" : 130.464,
-            "height" : 48.400146484375
+            "width" : 519.28593814373016,
+            "height" : 28
+          }
+        },
+        {
+          "text" : "spectre.png",
+          "targetRectangle" : {
+            "y" : 326.07012939453125,
+            "x" : 32.847625732421875,
+            "width" : 282.48977661132812,
+            "height" : 223.59176635742188
           }
         }
       ],

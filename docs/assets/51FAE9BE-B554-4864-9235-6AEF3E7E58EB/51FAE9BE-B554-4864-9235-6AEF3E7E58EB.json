@@ -396,21 +396,21 @@
       ],
       "accessibility" : [
         {
+          "text" : "Why did it happen?",
+          "targetRectangle" : {
+            "y" : 510,
+            "x" : 468,
+            "width" : 362.81399999999985,
+            "height" : 203.28025023460759
+          }
+        },
+        {
           "text" : "meltdown.png",
           "targetRectangle" : {
             "y" : 210.99684143066406,
             "x" : 95.959770202636719,
             "width" : 240.08045959472656,
             "height" : 392.00631713867188
-          }
-        },
-        {
-          "text" : "spectre.png",
-          "targetRectangle" : {
-            "y" : 44.0059814453125,
-            "x" : 558.755126953125,
-            "width" : 363.80078125,
-            "height" : 287.94973754882812
           }
         },
         {
@@ -423,12 +423,12 @@
           }
         },
         {
-          "text" : "Why did it happen?",
+          "text" : "spectre.png",
           "targetRectangle" : {
-            "y" : 510,
-            "x" : 468,
-            "width" : 362.81399999999985,
-            "height" : 203.28025023460759
+            "y" : 44.0059814453125,
+            "x" : 558.755126953125,
+            "width" : 363.80078125,
+            "height" : 287.94973754882812
           }
         }
       ],

@@ -815,12 +815,57 @@ local_slide( {
         ],
         "accessibility" : [
           {
+            "text" : "Confidential Burgers Inc. : Parallel, in order execution",
+            "targetRectangle" : {
+              "y" : 125,
+              "x" : 36,
+              "width" : 931.44000000000005,
+              "height" : 48.400146484375
+            }
+          },
+          {
+            "text" : "Burger grill",
+            "targetRectangle" : {
+              "y" : 351.58868438005447,
+              "x" : 834.40576171875,
+              "width" : 103.15999999999997,
+              "height" : 27
+            }
+          },
+          {
+            "text" : "Waiter",
+            "targetRectangle" : {
+              "y" : 430.50000029802322,
+              "x" : 566.09674072265625,
+              "width" : 60.340000000000032,
+              "height" : 27
+            }
+          },
+          {
+            "text" : "Coffee machine",
+            "targetRectangle" : {
+              "y" : 445.86694365739822,
+              "x" : 830.970703125,
+              "width" : 144.44000000000005,
+              "height" : 27
+            }
+          },
+          {
             "text" : "Meltdown & Spectre for normal people",
             "targetRectangle" : {
               "y" : 40,
               "x" : 36,
               "width" : 519.28593814373016,
               "height" : 28
+            }
+          },
+          {
+            "text" : "Pizza oven",
+            "targetRectangle" : {
+              "y" : 257.31045562028885,
+              "x" : 837.83575439453125,
+              "width" : 96.299999999999955,
+              "height" : 27
             }
           },
           {
@@ -838,51 +883,6 @@ local_slide( {
               "y" : 431.14285308122635,
               "x" : 260.2706298828125,
               "width" : 89.899999999999977,
-              "height" : 27
-            }
-          },
-          {
-            "text" : "Burger grill",
-            "targetRectangle" : {
-              "y" : 351.58868438005447,
-              "x" : 834.40576171875,
-              "width" : 103.15999999999997,
-              "height" : 27
-            }
-          },
-          {
-            "text" : "Confidential Burgers Inc. : Parallel, in order execution",
-            "targetRectangle" : {
-              "y" : 125,
-              "x" : 36,
-              "width" : 931.44000000000005,
-              "height" : 48.400146484375
-            }
-          },
-          {
-            "text" : "Coffee machine",
-            "targetRectangle" : {
-              "y" : 445.86694365739822,
-              "x" : 830.970703125,
-              "width" : 144.44000000000005,
-              "height" : 27
-            }
-          },
-          {
-            "text" : "Waiter",
-            "targetRectangle" : {
-              "y" : 430.50000029802322,
-              "x" : 566.09674072265625,
-              "width" : 60.340000000000032,
-              "height" : 27
-            }
-          },
-          {
-            "text" : "Pizza oven",
-            "targetRectangle" : {
-              "y" : 257.31045562028885,
-              "x" : 837.83575439453125,
-              "width" : 96.299999999999955,
               "height" : 27
             }
           }
@@ -15403,12 +15403,57 @@ local_slide( {
         ],
         "accessibility" : [
           {
+            "text" : "Confidential Burgers Inc. : Parallel, in order execution",
+            "targetRectangle" : {
+              "y" : 125,
+              "x" : 36,
+              "width" : 931.44000000000005,
+              "height" : 48.400146484375
+            }
+          },
+          {
+            "text" : "Burger grill",
+            "targetRectangle" : {
+              "y" : 351.58868438005447,
+              "x" : 834.40576171875,
+              "width" : 103.15999999999997,
+              "height" : 27
+            }
+          },
+          {
+            "text" : "Waiter",
+            "targetRectangle" : {
+              "y" : 430.50000029802322,
+              "x" : 566.09674072265625,
+              "width" : 60.340000000000032,
+              "height" : 27
+            }
+          },
+          {
+            "text" : "Coffee machine",
+            "targetRectangle" : {
+              "y" : 445.86694365739822,
+              "x" : 830.970703125,
+              "width" : 144.44000000000005,
+              "height" : 27
+            }
+          },
+          {
             "text" : "Meltdown & Spectre for normal people",
             "targetRectangle" : {
               "y" : 40,
               "x" : 36,
               "width" : 519.28593814373016,
               "height" : 28
+            }
+          },
+          {
+            "text" : "Pizza oven",
+            "targetRectangle" : {
+              "y" : 257.31045562028885,
+              "x" : 837.83575439453125,
+              "width" : 96.299999999999955,
+              "height" : 27
             }
           },
           {
@@ -15430,57 +15475,12 @@ local_slide( {
             }
           },
           {
-            "text" : "Burger grill",
-            "targetRectangle" : {
-              "y" : 351.58868438005447,
-              "x" : 834.40576171875,
-              "width" : 103.15999999999997,
-              "height" : 27
-            }
-          },
-          {
             "text" : "Order?",
             "targetRectangle" : {
               "y" : 218.6820068359375,
               "x" : 458.71075790672296,
               "width" : 68.432000000000016,
               "height" : 28.40008544921875
-            }
-          },
-          {
-            "text" : "Confidential Burgers Inc. : Parallel, in order execution",
-            "targetRectangle" : {
-              "y" : 125,
-              "x" : 36,
-              "width" : 931.44000000000005,
-              "height" : 48.400146484375
-            }
-          },
-          {
-            "text" : "Coffee machine",
-            "targetRectangle" : {
-              "y" : 445.86694365739822,
-              "x" : 830.970703125,
-              "width" : 144.44000000000005,
-              "height" : 27
-            }
-          },
-          {
-            "text" : "Waiter",
-            "targetRectangle" : {
-              "y" : 430.50000029802322,
-              "x" : 566.09674072265625,
-              "width" : 60.340000000000032,
-              "height" : 27
-            }
-          },
-          {
-            "text" : "Pizza oven",
-            "targetRectangle" : {
-              "y" : 257.31045562028885,
-              "x" : 837.83575439453125,
-              "width" : 96.299999999999955,
-              "height" : 27
             }
           }
         ],
@@ -29677,12 +29677,66 @@ local_slide( {
         ],
         "accessibility" : [
           {
+            "text" : "Confidential Burgers Inc. : Parallel, in order execution",
+            "targetRectangle" : {
+              "y" : 125,
+              "x" : 36,
+              "width" : 931.44000000000005,
+              "height" : 48.400146484375
+            }
+          },
+          {
+            "text" : "Burger grill",
+            "targetRectangle" : {
+              "y" : 351.58868438005447,
+              "x" : 834.40576171875,
+              "width" : 103.15999999999997,
+              "height" : 27
+            }
+          },
+          {
+            "text" : "Decode instruction into µOPs ",
+            "targetRectangle" : {
+              "y" : 513.21337413787842,
+              "x" : 65.964972496032715,
+              "width" : 492.33600000000001,
+              "height" : 49
+            }
+          },
+          {
+            "text" : "Waiter",
+            "targetRectangle" : {
+              "y" : 430.50000029802322,
+              "x" : 566.09674072265625,
+              "width" : 60.340000000000032,
+              "height" : 27
+            }
+          },
+          {
+            "text" : "Coffee machine",
+            "targetRectangle" : {
+              "y" : 445.86694365739822,
+              "x" : 830.970703125,
+              "width" : 144.44000000000005,
+              "height" : 27
+            }
+          },
+          {
             "text" : "Meltdown & Spectre for normal people",
             "targetRectangle" : {
               "y" : 40,
               "x" : 36,
               "width" : 519.28593814373016,
               "height" : 28
+            }
+          },
+          {
+            "text" : "Pizza oven",
+            "targetRectangle" : {
+              "y" : 257.31045562028885,
+              "x" : 837.83575439453125,
+              "width" : 96.299999999999955,
+              "height" : 27
             }
           },
           {
@@ -29700,60 +29754,6 @@ local_slide( {
               "y" : 431.14285308122635,
               "x" : 260.2706298828125,
               "width" : 89.899999999999977,
-              "height" : 27
-            }
-          },
-          {
-            "text" : "Burger grill",
-            "targetRectangle" : {
-              "y" : 351.58868438005447,
-              "x" : 834.40576171875,
-              "width" : 103.15999999999997,
-              "height" : 27
-            }
-          },
-          {
-            "text" : "Confidential Burgers Inc. : Parallel, in order execution",
-            "targetRectangle" : {
-              "y" : 125,
-              "x" : 36,
-              "width" : 931.44000000000005,
-              "height" : 48.400146484375
-            }
-          },
-          {
-            "text" : "Coffee machine",
-            "targetRectangle" : {
-              "y" : 445.86694365739822,
-              "x" : 830.970703125,
-              "width" : 144.44000000000005,
-              "height" : 27
-            }
-          },
-          {
-            "text" : "Waiter",
-            "targetRectangle" : {
-              "y" : 430.50000029802322,
-              "x" : 566.09674072265625,
-              "width" : 60.340000000000032,
-              "height" : 27
-            }
-          },
-          {
-            "text" : "Decode instruction into µOPs ",
-            "targetRectangle" : {
-              "y" : 513.21337413787842,
-              "x" : 65.964972496032715,
-              "width" : 492.33600000000001,
-              "height" : 49
-            }
-          },
-          {
-            "text" : "Pizza oven",
-            "targetRectangle" : {
-              "y" : 257.31045562028885,
-              "x" : 837.83575439453125,
-              "width" : 96.299999999999955,
               "height" : 27
             }
           }
@@ -45945,42 +45945,6 @@ local_slide( {
         ],
         "accessibility" : [
           {
-            "text" : "Meltdown & Spectre for normal people",
-            "targetRectangle" : {
-              "y" : 40,
-              "x" : 36,
-              "width" : 519.28593814373016,
-              "height" : 28
-            }
-          },
-          {
-            "text" : "￼",
-            "targetRectangle" : {
-              "y" : 38,
-              "x" : 964.57660043239594,
-              "width" : 23.0390625,
-              "height" : 28
-            }
-          },
-          {
-            "text" : "Customer",
-            "targetRectangle" : {
-              "y" : 431.14285308122635,
-              "x" : 260.2706298828125,
-              "width" : 89.899999999999977,
-              "height" : 27
-            }
-          },
-          {
-            "text" : "Burger grill",
-            "targetRectangle" : {
-              "y" : 351.58868438005447,
-              "x" : 834.40576171875,
-              "width" : 103.15999999999997,
-              "height" : 27
-            }
-          },
-          {
             "text" : "Confidential Burgers Inc. : Parallel, in order execution",
             "targetRectangle" : {
               "y" : 125,
@@ -45990,20 +45954,11 @@ local_slide( {
             }
           },
           {
-            "text" : "Coffee machine",
+            "text" : "Burger grill",
             "targetRectangle" : {
-              "y" : 445.86694365739822,
-              "x" : 830.970703125,
-              "width" : 144.44000000000005,
-              "height" : 27
-            }
-          },
-          {
-            "text" : "Waiter",
-            "targetRectangle" : {
-              "y" : 430.50000029802322,
-              "x" : 566.09674072265625,
-              "width" : 60.340000000000032,
+              "y" : 351.58868438005447,
+              "x" : 834.40576171875,
+              "width" : 103.15999999999997,
               "height" : 27
             }
           },
@@ -46026,11 +45981,56 @@ local_slide( {
             }
           },
           {
+            "text" : "Waiter",
+            "targetRectangle" : {
+              "y" : 430.50000029802322,
+              "x" : 566.09674072265625,
+              "width" : 60.340000000000032,
+              "height" : 27
+            }
+          },
+          {
+            "text" : "Coffee machine",
+            "targetRectangle" : {
+              "y" : 445.86694365739822,
+              "x" : 830.970703125,
+              "width" : 144.44000000000005,
+              "height" : 27
+            }
+          },
+          {
+            "text" : "Meltdown & Spectre for normal people",
+            "targetRectangle" : {
+              "y" : 40,
+              "x" : 36,
+              "width" : 519.28593814373016,
+              "height" : 28
+            }
+          },
+          {
             "text" : "Pizza oven",
             "targetRectangle" : {
               "y" : 257.31045562028885,
               "x" : 837.83575439453125,
               "width" : 96.299999999999955,
+              "height" : 27
+            }
+          },
+          {
+            "text" : "￼",
+            "targetRectangle" : {
+              "y" : 38,
+              "x" : 964.57660043239594,
+              "width" : 23.0390625,
+              "height" : 28
+            }
+          },
+          {
+            "text" : "Customer",
+            "targetRectangle" : {
+              "y" : 431.14285308122635,
+              "x" : 260.2706298828125,
+              "width" : 89.899999999999977,
               "height" : 27
             }
           }
@@ -63395,42 +63395,6 @@ local_slide( {
         ],
         "accessibility" : [
           {
-            "text" : "Meltdown & Spectre for normal people",
-            "targetRectangle" : {
-              "y" : 40,
-              "x" : 36,
-              "width" : 519.28593814373016,
-              "height" : 28
-            }
-          },
-          {
-            "text" : "￼",
-            "targetRectangle" : {
-              "y" : 38,
-              "x" : 964.57660043239594,
-              "width" : 23.0390625,
-              "height" : 28
-            }
-          },
-          {
-            "text" : "Customer",
-            "targetRectangle" : {
-              "y" : 431.14285308122635,
-              "x" : 260.2706298828125,
-              "width" : 89.899999999999977,
-              "height" : 27
-            }
-          },
-          {
-            "text" : "Burger grill",
-            "targetRectangle" : {
-              "y" : 351.58868438005447,
-              "x" : 834.40576171875,
-              "width" : 103.15999999999997,
-              "height" : 27
-            }
-          },
-          {
             "text" : "Confidential Burgers Inc. : Parallel, in order execution",
             "targetRectangle" : {
               "y" : 125,
@@ -63440,20 +63404,11 @@ local_slide( {
             }
           },
           {
-            "text" : "Coffee machine",
+            "text" : "Burger grill",
             "targetRectangle" : {
-              "y" : 445.86694365739822,
-              "x" : 830.970703125,
-              "width" : 144.44000000000005,
-              "height" : 27
-            }
-          },
-          {
-            "text" : "Waiter",
-            "targetRectangle" : {
-              "y" : 430.50000029802322,
-              "x" : 566.09674072265625,
-              "width" : 60.340000000000032,
+              "y" : 351.58868438005447,
+              "x" : 834.40576171875,
+              "width" : 103.15999999999997,
               "height" : 27
             }
           },
@@ -63485,11 +63440,56 @@ local_slide( {
             }
           },
           {
+            "text" : "Waiter",
+            "targetRectangle" : {
+              "y" : 430.50000029802322,
+              "x" : 566.09674072265625,
+              "width" : 60.340000000000032,
+              "height" : 27
+            }
+          },
+          {
+            "text" : "Coffee machine",
+            "targetRectangle" : {
+              "y" : 445.86694365739822,
+              "x" : 830.970703125,
+              "width" : 144.44000000000005,
+              "height" : 27
+            }
+          },
+          {
+            "text" : "Meltdown & Spectre for normal people",
+            "targetRectangle" : {
+              "y" : 40,
+              "x" : 36,
+              "width" : 519.28593814373016,
+              "height" : 28
+            }
+          },
+          {
             "text" : "Pizza oven",
             "targetRectangle" : {
               "y" : 257.31045562028885,
               "x" : 837.83575439453125,
               "width" : 96.299999999999955,
+              "height" : 27
+            }
+          },
+          {
+            "text" : "￼",
+            "targetRectangle" : {
+              "y" : 38,
+              "x" : 964.57660043239594,
+              "width" : 23.0390625,
+              "height" : 28
+            }
+          },
+          {
+            "text" : "Customer",
+            "targetRectangle" : {
+              "y" : 431.14285308122635,
+              "x" : 260.2706298828125,
+              "width" : 89.899999999999977,
               "height" : 27
             }
           }
@@ -77460,51 +77460,6 @@ local_slide( {
         ],
         "accessibility" : [
           {
-            "text" : "Meltdown & Spectre for normal people",
-            "targetRectangle" : {
-              "y" : 40,
-              "x" : 36,
-              "width" : 519.28593814373016,
-              "height" : 28
-            }
-          },
-          {
-            "text" : "￼",
-            "targetRectangle" : {
-              "y" : 38,
-              "x" : 964.57660043239594,
-              "width" : 23.0390625,
-              "height" : 28
-            }
-          },
-          {
-            "text" : "Customer",
-            "targetRectangle" : {
-              "y" : 431.14285308122635,
-              "x" : 260.2706298828125,
-              "width" : 89.899999999999977,
-              "height" : 27
-            }
-          },
-          {
-            "text" : "Done",
-            "targetRectangle" : {
-              "y" : 219.1429443359375,
-              "x" : 469.6027578742133,
-              "width" : 46.647999999999968,
-              "height" : 28.40008544921875
-            }
-          },
-          {
-            "text" : "Burger grill",
-            "targetRectangle" : {
-              "y" : 351.58868438005447,
-              "x" : 834.40576171875,
-              "width" : 103.15999999999997,
-              "height" : 27
-            }
-          },
-          {
             "text" : "Confidential Burgers Inc. : Parallel, in order execution",
             "targetRectangle" : {
               "y" : 125,
@@ -77514,20 +77469,11 @@ local_slide( {
             }
           },
           {
-            "text" : "Coffee machine",
+            "text" : "Burger grill",
             "targetRectangle" : {
-              "y" : 445.86694365739822,
-              "x" : 830.970703125,
-              "width" : 144.44000000000005,
-              "height" : 27
-            }
-          },
-          {
-            "text" : "Waiter",
-            "targetRectangle" : {
-              "y" : 430.50000029802322,
-              "x" : 566.09674072265625,
-              "width" : 60.340000000000032,
+              "y" : 351.58868438005447,
+              "x" : 834.40576171875,
+              "width" : 103.15999999999997,
               "height" : 27
             }
           },
@@ -77568,11 +77514,65 @@ local_slide( {
             }
           },
           {
+            "text" : "Waiter",
+            "targetRectangle" : {
+              "y" : 430.50000029802322,
+              "x" : 566.09674072265625,
+              "width" : 60.340000000000032,
+              "height" : 27
+            }
+          },
+          {
+            "text" : "Coffee machine",
+            "targetRectangle" : {
+              "y" : 445.86694365739822,
+              "x" : 830.970703125,
+              "width" : 144.44000000000005,
+              "height" : 27
+            }
+          },
+          {
+            "text" : "Meltdown & Spectre for normal people",
+            "targetRectangle" : {
+              "y" : 40,
+              "x" : 36,
+              "width" : 519.28593814373016,
+              "height" : 28
+            }
+          },
+          {
             "text" : "Pizza oven",
             "targetRectangle" : {
               "y" : 257.31045562028885,
               "x" : 837.83575439453125,
               "width" : 96.299999999999955,
+              "height" : 27
+            }
+          },
+          {
+            "text" : "￼",
+            "targetRectangle" : {
+              "y" : 38,
+              "x" : 964.57660043239594,
+              "width" : 23.0390625,
+              "height" : 28
+            }
+          },
+          {
+            "text" : "Done",
+            "targetRectangle" : {
+              "y" : 219.1429443359375,
+              "x" : 469.6027578742133,
+              "width" : 46.647999999999968,
+              "height" : 28.40008544921875
+            }
+          },
+          {
+            "text" : "Customer",
+            "targetRectangle" : {
+              "y" : 431.14285308122635,
+              "x" : 260.2706298828125,
+              "width" : 89.899999999999977,
               "height" : 27
             }
           }
@@ -91172,42 +91172,6 @@ local_slide( {
         ],
         "accessibility" : [
           {
-            "text" : "Meltdown & Spectre for normal people",
-            "targetRectangle" : {
-              "y" : 40,
-              "x" : 36,
-              "width" : 519.28593814373016,
-              "height" : 28
-            }
-          },
-          {
-            "text" : "￼",
-            "targetRectangle" : {
-              "y" : 38,
-              "x" : 964.57660043239594,
-              "width" : 23.0390625,
-              "height" : 28
-            }
-          },
-          {
-            "text" : "Customer",
-            "targetRectangle" : {
-              "y" : 431.14285308122635,
-              "x" : 260.2706298828125,
-              "width" : 89.899999999999977,
-              "height" : 27
-            }
-          },
-          {
-            "text" : "Done",
-            "targetRectangle" : {
-              "y" : 219.1429443359375,
-              "x" : 469.6027578742133,
-              "width" : 46.647999999999968,
-              "height" : 28.40008544921875
-            }
-          },
-          {
             "text" : "One customer1 after another (in order)",
             "targetRectangle" : {
               "y" : 495.3814845085144,
@@ -91253,15 +91217,6 @@ local_slide( {
             }
           },
           {
-            "text" : "Burger grill",
-            "targetRectangle" : {
-              "y" : 351.58868438005447,
-              "x" : 834.40576171875,
-              "width" : 103.15999999999997,
-              "height" : 27
-            }
-          },
-          {
             "text" : "Confidential Burgers Inc. : Parallel, in order execution",
             "targetRectangle" : {
               "y" : 125,
@@ -91271,11 +91226,11 @@ local_slide( {
             }
           },
           {
-            "text" : "Coffee machine",
+            "text" : "Burger grill",
             "targetRectangle" : {
-              "y" : 445.86694365739822,
-              "x" : 830.970703125,
-              "width" : 144.44000000000005,
+              "y" : 351.58868438005447,
+              "x" : 834.40576171875,
+              "width" : 103.15999999999997,
               "height" : 27
             }
           },
@@ -91289,11 +91244,56 @@ local_slide( {
             }
           },
           {
+            "text" : "Coffee machine",
+            "targetRectangle" : {
+              "y" : 445.86694365739822,
+              "x" : 830.970703125,
+              "width" : 144.44000000000005,
+              "height" : 27
+            }
+          },
+          {
+            "text" : "Meltdown & Spectre for normal people",
+            "targetRectangle" : {
+              "y" : 40,
+              "x" : 36,
+              "width" : 519.28593814373016,
+              "height" : 28
+            }
+          },
+          {
             "text" : "Pizza oven",
             "targetRectangle" : {
               "y" : 257.31045562028885,
               "x" : 837.83575439453125,
               "width" : 96.299999999999955,
+              "height" : 27
+            }
+          },
+          {
+            "text" : "￼",
+            "targetRectangle" : {
+              "y" : 38,
+              "x" : 964.57660043239594,
+              "width" : 23.0390625,
+              "height" : 28
+            }
+          },
+          {
+            "text" : "Done",
+            "targetRectangle" : {
+              "y" : 219.1429443359375,
+              "x" : 469.6027578742133,
+              "width" : 46.647999999999968,
+              "height" : 28.40008544921875
+            }
+          },
+          {
+            "text" : "Customer",
+            "targetRectangle" : {
+              "y" : 431.14285308122635,
+              "x" : 260.2706298828125,
+              "width" : 89.899999999999977,
               "height" : 27
             }
           }

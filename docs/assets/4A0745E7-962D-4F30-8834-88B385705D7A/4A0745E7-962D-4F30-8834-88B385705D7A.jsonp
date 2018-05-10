@@ -44,6 +44,20 @@ local_slide( {
         "width" : 657,
         "height" : 37
       },
+      "F2F5120C28D92CFB287E72D237BC0149" : {
+        "type" : "texture",
+        "index" : 21,
+        "assetRequest" : {
+          "type" : "slide",
+          "state" : "contents",
+          "slide" : "none"
+        },
+        "url" : {
+          "native" : "assets\/4A0745E7-962D-4F30-8834-88B385705D7A.pdf"
+        },
+        "width" : 1024,
+        "height" : 768
+      },
       "F648880DCCA26515020CAF2E5D8A1198" : {
         "type" : "texture",
         "index" : 2,
@@ -128,20 +142,6 @@ local_slide( {
         "width" : 964,
         "height" : 5
       },
-      "4703BB1A48BA8F6555947DEB7EC4542C" : {
-        "type" : "texture",
-        "index" : 4,
-        "assetRequest" : {
-          "type" : "slide",
-          "state" : "contents",
-          "slide" : "none"
-        },
-        "url" : {
-          "native" : "assets\/4A0745E7-962D-4F30-8834-88B385705D7A.pdf"
-        },
-        "width" : 26,
-        "height" : 20
-      },
       "6BA41D99B3EEBD031FBF173C0A005B85" : {
         "type" : "texture",
         "index" : 9,
@@ -170,20 +170,6 @@ local_slide( {
         "width" : 288,
         "height" : 49
       },
-      "B2B671B1CFE6C4D1BD8E11EA7C3A8CFD" : {
-        "type" : "texture",
-        "index" : 7,
-        "assetRequest" : {
-          "type" : "slide",
-          "state" : "contents",
-          "slide" : "none"
-        },
-        "url" : {
-          "native" : "assets\/4A0745E7-962D-4F30-8834-88B385705D7A.pdf"
-        },
-        "width" : 288,
-        "height" : 49
-      },
       "531B324D0BCEBF409B547093415F92B2" : {
         "type" : "texture",
         "index" : 13,
@@ -198,9 +184,23 @@ local_slide( {
         "width" : 92,
         "height" : 19
       },
-      "26BFC32E73F81A398E1264EE58A9B01E" : {
+      "B2B671B1CFE6C4D1BD8E11EA7C3A8CFD" : {
         "type" : "texture",
-        "index" : 21,
+        "index" : 7,
+        "assetRequest" : {
+          "type" : "slide",
+          "state" : "contents",
+          "slide" : "none"
+        },
+        "url" : {
+          "native" : "assets\/4A0745E7-962D-4F30-8834-88B385705D7A.pdf"
+        },
+        "width" : 288,
+        "height" : 49
+      },
+      "902E4C9B939380EDBB19ECB019E8ABC5" : {
+        "type" : "texture",
+        "index" : 20,
         "assetRequest" : {
           "type" : "slide",
           "state" : "contents",
@@ -225,6 +225,20 @@ local_slide( {
         },
         "width" : 147,
         "height" : 101
+      },
+      "65712FFBE287B6691EDE83D3F32F1298" : {
+        "type" : "texture",
+        "index" : 4,
+        "assetRequest" : {
+          "type" : "slide",
+          "state" : "contents",
+          "slide" : "none"
+        },
+        "url" : {
+          "native" : "assets\/4A0745E7-962D-4F30-8834-88B385705D7A.pdf"
+        },
+        "width" : 22,
+        "height" : 20
       },
       "8FC694D5DA5A573A4DA9E923CDF58732" : {
         "type" : "texture",
@@ -295,20 +309,6 @@ local_slide( {
         },
         "width" : 140,
         "height" : 107
-      },
-      "C8EF05F5AB84A33D547A0E8FB5CE6FA1" : {
-        "type" : "texture",
-        "index" : 20,
-        "assetRequest" : {
-          "type" : "slide",
-          "state" : "contents",
-          "slide" : "none"
-        },
-        "url" : {
-          "native" : "assets\/4A0745E7-962D-4F30-8834-88B385705D7A.pdf"
-        },
-        "width" : 1024,
-        "height" : 768
       }
     },
     "events" : [
@@ -527,6 +527,123 @@ local_slide( {
         ],
         "accessibility" : [
           {
+            "text" : "value at address",
+            "targetRectangle" : {
+              "y" : 354.37667864561081,
+              "x" : 758.2940673828125,
+              "width" : 188.85599999999999,
+              "height" : 33
+            }
+          },
+          {
+            "text" : "RAM",
+            "targetRectangle" : {
+              "y" : 403.69699108600616,
+              "x" : 314.50912475585938,
+              "width" : 61.021999999999991,
+              "height" : 36
+            }
+          },
+          {
+            "text" : "CPU core",
+            "targetRectangle" : {
+              "y" : 499.48211699724197,
+              "x" : 202.63047790527344,
+              "width" : 88.660000000000025,
+              "height" : 27
+            }
+          },
+          {
+            "text" : "meltdown.png",
+            "targetRectangle" : {
+              "y" : 91.537521362304688,
+              "x" : 928.58154296875,
+              "width" : 70.384666442871094,
+              "height" : 114.92495727539062
+            }
+          },
+          {
+            "text" : "RAM",
+            "targetRectangle" : {
+              "y" : 540.01788347959518,
+              "x" : 566.0115966796875,
+              "width" : 56.327999999999975,
+              "height" : 33
+            }
+          },
+          {
+            "text" : " 100ns",
+            "targetRectangle" : {
+              "y" : 491.66259777545929,
+              "x" : 350.6357421875,
+              "width" : 85.175999999999988,
+              "height" : 36
+            }
+          },
+          {
+            "text" : "…",
+            "targetRectangle" : {
+              "y" : 445.0173037648201,
+              "x" : 592.5316162109375,
+              "width" : 20,
+              "height" : 27
+            }
+          },
+          {
+            "text" : "Meltdown & Spectre for normal people",
+            "targetRectangle" : {
+              "y" : 40,
+              "x" : 36,
+              "width" : 519.28593814373016,
+              "height" : 28
+            }
+          },
+          {
+            "text" : "value",
+            "targetRectangle" : {
+              "y" : 437.00000011920929,
+              "x" : 358.6357421875,
+              "width" : 68.665999999999997,
+              "height" : 36
+            }
+          },
+          {
+            "text" : "address",
+            "targetRectangle" : {
+              "y" : 308.01730364561081,
+              "x" : 760.8665771484375,
+              "width" : 91.200000000000045,
+              "height" : 33
+            }
+          },
+          {
+            "text" : "￼",
+            "targetRectangle" : {
+              "y" : 38,
+              "x" : 964.57660043239594,
+              "width" : 23.0390625,
+              "height" : 28
+            }
+          },
+          {
+            "text" : "Read",
+            "targetRectangle" : {
+              "y" : 343.69699108600616,
+              "x" : 315.50918579101562,
+              "width" : 64.089999999999975,
+              "height" : 36
+            }
+          },
+          {
+            "text" : "Value",
+            "targetRectangle" : {
+              "y" : 312.34152221679688,
+              "x" : 575.8296162109375,
+              "width" : 54.403999999999996,
+              "height" : 28.40008544921875
+            }
+          },
+          {
             "text" : "Data is stored in RAM",
             "targetRectangle" : {
               "y" : 581.57031488418579,
@@ -554,129 +671,12 @@ local_slide( {
             }
           },
           {
-            "text" : "value at address",
-            "targetRectangle" : {
-              "y" : 354.37667864561081,
-              "x" : 758.2940673828125,
-              "width" : 188.85599999999999,
-              "height" : 33
-            }
-          },
-          {
-            "text" : "value",
-            "targetRectangle" : {
-              "y" : 437.00000011920929,
-              "x" : 358.6357421875,
-              "width" : 68.665999999999997,
-              "height" : 36
-            }
-          },
-          {
-            "text" : "￼",
-            "targetRectangle" : {
-              "y" : 38,
-              "x" : 964.57660043239594,
-              "width" : 23.0390625,
-              "height" : 28
-            }
-          },
-          {
-            "text" : "Read",
-            "targetRectangle" : {
-              "y" : 343.69699108600616,
-              "x" : 315.50918579101562,
-              "width" : 64.089999999999975,
-              "height" : 36
-            }
-          },
-          {
-            "text" : "…",
-            "targetRectangle" : {
-              "y" : 445.0173037648201,
-              "x" : 592.5316162109375,
-              "width" : 20,
-              "height" : 27
-            }
-          },
-          {
-            "text" : "meltdown.png",
-            "targetRectangle" : {
-              "y" : 91.537521362304688,
-              "x" : 928.58154296875,
-              "width" : 70.384666442871094,
-              "height" : 114.92495727539062
-            }
-          },
-          {
-            "text" : "RAM",
-            "targetRectangle" : {
-              "y" : 540.01788347959518,
-              "x" : 566.0115966796875,
-              "width" : 56.327999999999975,
-              "height" : 33
-            }
-          },
-          {
             "text" : "Meltdown: Stashing away - Sidechannel",
             "targetRectangle" : {
               "y" : 125,
               "x" : 36,
               "width" : 657.2639999999999,
               "height" : 48.400146484375
-            }
-          },
-          {
-            "text" : "address",
-            "targetRectangle" : {
-              "y" : 308.01730364561081,
-              "x" : 760.8665771484375,
-              "width" : 91.200000000000045,
-              "height" : 33
-            }
-          },
-          {
-            "text" : " 100ns",
-            "targetRectangle" : {
-              "y" : 491.66259777545929,
-              "x" : 350.6357421875,
-              "width" : 85.175999999999988,
-              "height" : 36
-            }
-          },
-          {
-            "text" : "CPU core",
-            "targetRectangle" : {
-              "y" : 499.48211699724197,
-              "x" : 202.63047790527344,
-              "width" : 88.660000000000025,
-              "height" : 27
-            }
-          },
-          {
-            "text" : "RAM",
-            "targetRectangle" : {
-              "y" : 403.69699108600616,
-              "x" : 314.50912475585938,
-              "width" : 61.021999999999991,
-              "height" : 36
-            }
-          },
-          {
-            "text" : "Value",
-            "targetRectangle" : {
-              "y" : 312.34152221679688,
-              "x" : 575.8296162109375,
-              "width" : 54.403999999999996,
-              "height" : 28.40008544921875
-            }
-          },
-          {
-            "text" : "Meltdown & Spectre for normal people",
-            "targetRectangle" : {
-              "y" : 40,
-              "x" : 36,
-              "width" : 519.28593814373016,
-              "height" : 28
             }
           }
         ],
@@ -1571,10 +1571,10 @@ local_slide( {
                     "rotation" : 0,
                     "scale" : 1,
                     "position" : {
-                      "pointX" : 972.57660043239594,
+                      "pointX" : 970.57660043239594,
                       "pointY" : 44
                     },
-                    "width" : 26,
+                    "width" : 22,
                     "sublayerTransform" : [
                       1,
                       0,
@@ -1643,10 +1643,10 @@ local_slide( {
                         "rotation" : 0,
                         "scale" : 1,
                         "position" : {
-                          "pointX" : 16.423399567604065,
+                          "pointX" : 14.423399567604065,
                           "pointY" : 18
                         },
-                        "width" : 26,
+                        "width" : 22,
                         "sublayerTransform" : [
                           1,
                           0,
@@ -1680,7 +1680,7 @@ local_slide( {
                           "pointY" : 0.5
                         }
                       },
-                      "texture" : "4703BB1A48BA8F6555947DEB7EC4542C"
+                      "texture" : "65712FFBE287B6691EDE83D3F32F1298"
                     }
                   ]
                 }
@@ -7060,6 +7060,123 @@ local_slide( {
         ],
         "accessibility" : [
           {
+            "text" : "value at address",
+            "targetRectangle" : {
+              "y" : 354.37667864561081,
+              "x" : 758.2940673828125,
+              "width" : 188.85599999999999,
+              "height" : 33
+            }
+          },
+          {
+            "text" : "RAM",
+            "targetRectangle" : {
+              "y" : 403.69699108600616,
+              "x" : 314.50912475585938,
+              "width" : 61.021999999999991,
+              "height" : 36
+            }
+          },
+          {
+            "text" : "CPU core",
+            "targetRectangle" : {
+              "y" : 499.48211699724197,
+              "x" : 202.63047790527344,
+              "width" : 88.660000000000025,
+              "height" : 27
+            }
+          },
+          {
+            "text" : "meltdown.png",
+            "targetRectangle" : {
+              "y" : 91.537521362304688,
+              "x" : 928.58154296875,
+              "width" : 70.384666442871094,
+              "height" : 114.92495727539062
+            }
+          },
+          {
+            "text" : "RAM",
+            "targetRectangle" : {
+              "y" : 540.01788347959518,
+              "x" : 566.0115966796875,
+              "width" : 56.327999999999975,
+              "height" : 33
+            }
+          },
+          {
+            "text" : " 100ns",
+            "targetRectangle" : {
+              "y" : 491.66259777545929,
+              "x" : 350.6357421875,
+              "width" : 85.175999999999988,
+              "height" : 36
+            }
+          },
+          {
+            "text" : "…",
+            "targetRectangle" : {
+              "y" : 445.0173037648201,
+              "x" : 592.5316162109375,
+              "width" : 20,
+              "height" : 27
+            }
+          },
+          {
+            "text" : "Meltdown & Spectre for normal people",
+            "targetRectangle" : {
+              "y" : 40,
+              "x" : 36,
+              "width" : 519.28593814373016,
+              "height" : 28
+            }
+          },
+          {
+            "text" : "value",
+            "targetRectangle" : {
+              "y" : 437.00000011920929,
+              "x" : 358.6357421875,
+              "width" : 68.665999999999997,
+              "height" : 36
+            }
+          },
+          {
+            "text" : "address",
+            "targetRectangle" : {
+              "y" : 308.01730364561081,
+              "x" : 760.8665771484375,
+              "width" : 91.200000000000045,
+              "height" : 33
+            }
+          },
+          {
+            "text" : "￼",
+            "targetRectangle" : {
+              "y" : 38,
+              "x" : 964.57660043239594,
+              "width" : 23.0390625,
+              "height" : 28
+            }
+          },
+          {
+            "text" : "Read",
+            "targetRectangle" : {
+              "y" : 343.69699108600616,
+              "x" : 315.50918579101562,
+              "width" : 64.089999999999975,
+              "height" : 36
+            }
+          },
+          {
+            "text" : "Value",
+            "targetRectangle" : {
+              "y" : 312.34152221679688,
+              "x" : 575.8296162109375,
+              "width" : 54.403999999999996,
+              "height" : 28.40008544921875
+            }
+          },
+          {
             "text" : "Data is stored in RAM",
             "targetRectangle" : {
               "y" : 581.57031488418579,
@@ -7087,129 +7204,12 @@ local_slide( {
             }
           },
           {
-            "text" : "value at address",
-            "targetRectangle" : {
-              "y" : 354.37667864561081,
-              "x" : 758.2940673828125,
-              "width" : 188.85599999999999,
-              "height" : 33
-            }
-          },
-          {
-            "text" : "value",
-            "targetRectangle" : {
-              "y" : 437.00000011920929,
-              "x" : 358.6357421875,
-              "width" : 68.665999999999997,
-              "height" : 36
-            }
-          },
-          {
-            "text" : "￼",
-            "targetRectangle" : {
-              "y" : 38,
-              "x" : 964.57660043239594,
-              "width" : 23.0390625,
-              "height" : 28
-            }
-          },
-          {
-            "text" : "Read",
-            "targetRectangle" : {
-              "y" : 343.69699108600616,
-              "x" : 315.50918579101562,
-              "width" : 64.089999999999975,
-              "height" : 36
-            }
-          },
-          {
-            "text" : "…",
-            "targetRectangle" : {
-              "y" : 445.0173037648201,
-              "x" : 592.5316162109375,
-              "width" : 20,
-              "height" : 27
-            }
-          },
-          {
-            "text" : "meltdown.png",
-            "targetRectangle" : {
-              "y" : 91.537521362304688,
-              "x" : 928.58154296875,
-              "width" : 70.384666442871094,
-              "height" : 114.92495727539062
-            }
-          },
-          {
-            "text" : "RAM",
-            "targetRectangle" : {
-              "y" : 540.01788347959518,
-              "x" : 566.0115966796875,
-              "width" : 56.327999999999975,
-              "height" : 33
-            }
-          },
-          {
             "text" : "Meltdown: Stashing away - Sidechannel",
             "targetRectangle" : {
               "y" : 125,
               "x" : 36,
               "width" : 657.2639999999999,
               "height" : 48.400146484375
-            }
-          },
-          {
-            "text" : "address",
-            "targetRectangle" : {
-              "y" : 308.01730364561081,
-              "x" : 760.8665771484375,
-              "width" : 91.200000000000045,
-              "height" : 33
-            }
-          },
-          {
-            "text" : " 100ns",
-            "targetRectangle" : {
-              "y" : 491.66259777545929,
-              "x" : 350.6357421875,
-              "width" : 85.175999999999988,
-              "height" : 36
-            }
-          },
-          {
-            "text" : "CPU core",
-            "targetRectangle" : {
-              "y" : 499.48211699724197,
-              "x" : 202.63047790527344,
-              "width" : 88.660000000000025,
-              "height" : 27
-            }
-          },
-          {
-            "text" : "RAM",
-            "targetRectangle" : {
-              "y" : 403.69699108600616,
-              "x" : 314.50912475585938,
-              "width" : 61.021999999999991,
-              "height" : 36
-            }
-          },
-          {
-            "text" : "Value",
-            "targetRectangle" : {
-              "y" : 312.34152221679688,
-              "x" : 575.8296162109375,
-              "width" : 54.403999999999996,
-              "height" : 28.40008544921875
-            }
-          },
-          {
-            "text" : "Meltdown & Spectre for normal people",
-            "targetRectangle" : {
-              "y" : 40,
-              "x" : 36,
-              "width" : 519.28593814373016,
-              "height" : 28
             }
           }
         ],
@@ -8104,10 +8104,10 @@ local_slide( {
                     "rotation" : 0,
                     "scale" : 1,
                     "position" : {
-                      "pointX" : 972.57660043239594,
+                      "pointX" : 970.57660043239594,
                       "pointY" : 44
                     },
-                    "width" : 26,
+                    "width" : 22,
                     "sublayerTransform" : [
                       1,
                       0,
@@ -8176,10 +8176,10 @@ local_slide( {
                         "rotation" : 0,
                         "scale" : 1,
                         "position" : {
-                          "pointX" : 16.423399567604065,
+                          "pointX" : 14.423399567604065,
                           "pointY" : 18
                         },
-                        "width" : 26,
+                        "width" : 22,
                         "sublayerTransform" : [
                           1,
                           0,
@@ -8213,7 +8213,7 @@ local_slide( {
                           "pointY" : 0.5
                         }
                       },
-                      "texture" : "4703BB1A48BA8F6555947DEB7EC4542C"
+                      "texture" : "65712FFBE287B6691EDE83D3F32F1298"
                     }
                   ]
                 }
@@ -13558,7 +13558,7 @@ local_slide( {
                           "pointY" : 0.5
                         }
                       },
-                      "texture" : "C8EF05F5AB84A33D547A0E8FB5CE6FA1"
+                      "texture" : "902E4C9B939380EDBB19ECB019E8ABC5"
                     },
                     {
                       "animations" : [
@@ -13639,7 +13639,7 @@ local_slide( {
                           "pointY" : 0.5
                         }
                       },
-                      "texture" : "26BFC32E73F81A398E1264EE58A9B01E"
+                      "texture" : "F2F5120C28D92CFB287E72D237BC0149"
                     }
                   ]
                 }
@@ -13659,6 +13659,123 @@ local_slide( {
 
         ],
         "accessibility" : [
+          {
+            "text" : "value at address",
+            "targetRectangle" : {
+              "y" : 354.37667864561081,
+              "x" : 758.2940673828125,
+              "width" : 188.85599999999999,
+              "height" : 33
+            }
+          },
+          {
+            "text" : "RAM",
+            "targetRectangle" : {
+              "y" : 403.69699108600616,
+              "x" : 314.50912475585938,
+              "width" : 61.021999999999991,
+              "height" : 36
+            }
+          },
+          {
+            "text" : "CPU core",
+            "targetRectangle" : {
+              "y" : 499.48211699724197,
+              "x" : 202.63047790527344,
+              "width" : 88.660000000000025,
+              "height" : 27
+            }
+          },
+          {
+            "text" : "meltdown.png",
+            "targetRectangle" : {
+              "y" : 91.537521362304688,
+              "x" : 928.58154296875,
+              "width" : 70.384666442871094,
+              "height" : 114.92495727539062
+            }
+          },
+          {
+            "text" : "RAM",
+            "targetRectangle" : {
+              "y" : 540.01788347959518,
+              "x" : 566.0115966796875,
+              "width" : 56.327999999999975,
+              "height" : 33
+            }
+          },
+          {
+            "text" : " 100ns",
+            "targetRectangle" : {
+              "y" : 491.66259777545929,
+              "x" : 350.6357421875,
+              "width" : 85.175999999999988,
+              "height" : 36
+            }
+          },
+          {
+            "text" : "…",
+            "targetRectangle" : {
+              "y" : 445.0173037648201,
+              "x" : 592.5316162109375,
+              "width" : 20,
+              "height" : 27
+            }
+          },
+          {
+            "text" : "Meltdown & Spectre for normal people",
+            "targetRectangle" : {
+              "y" : 40,
+              "x" : 36,
+              "width" : 519.28593814373016,
+              "height" : 28
+            }
+          },
+          {
+            "text" : "value",
+            "targetRectangle" : {
+              "y" : 437.00000011920929,
+              "x" : 358.6357421875,
+              "width" : 68.665999999999997,
+              "height" : 36
+            }
+          },
+          {
+            "text" : "address",
+            "targetRectangle" : {
+              "y" : 308.01730364561081,
+              "x" : 760.8665771484375,
+              "width" : 91.200000000000045,
+              "height" : 33
+            }
+          },
+          {
+            "text" : "￼",
+            "targetRectangle" : {
+              "y" : 38,
+              "x" : 964.57660043239594,
+              "width" : 23.0390625,
+              "height" : 28
+            }
+          },
+          {
+            "text" : "Read",
+            "targetRectangle" : {
+              "y" : 343.69699108600616,
+              "x" : 315.50918579101562,
+              "width" : 64.089999999999975,
+              "height" : 36
+            }
+          },
+          {
+            "text" : "Value",
+            "targetRectangle" : {
+              "y" : 312.34152221679688,
+              "x" : 575.8296162109375,
+              "width" : 54.403999999999996,
+              "height" : 28.40008544921875
+            }
+          },
           {
             "text" : "Data is stored in RAM",
             "targetRectangle" : {
@@ -13687,129 +13804,12 @@ local_slide( {
             }
           },
           {
-            "text" : "value at address",
-            "targetRectangle" : {
-              "y" : 354.37667864561081,
-              "x" : 758.2940673828125,
-              "width" : 188.85599999999999,
-              "height" : 33
-            }
-          },
-          {
-            "text" : "value",
-            "targetRectangle" : {
-              "y" : 437.00000011920929,
-              "x" : 358.6357421875,
-              "width" : 68.665999999999997,
-              "height" : 36
-            }
-          },
-          {
-            "text" : "￼",
-            "targetRectangle" : {
-              "y" : 38,
-              "x" : 964.57660043239594,
-              "width" : 23.0390625,
-              "height" : 28
-            }
-          },
-          {
-            "text" : "Read",
-            "targetRectangle" : {
-              "y" : 343.69699108600616,
-              "x" : 315.50918579101562,
-              "width" : 64.089999999999975,
-              "height" : 36
-            }
-          },
-          {
-            "text" : "…",
-            "targetRectangle" : {
-              "y" : 445.0173037648201,
-              "x" : 592.5316162109375,
-              "width" : 20,
-              "height" : 27
-            }
-          },
-          {
-            "text" : "meltdown.png",
-            "targetRectangle" : {
-              "y" : 91.537521362304688,
-              "x" : 928.58154296875,
-              "width" : 70.384666442871094,
-              "height" : 114.92495727539062
-            }
-          },
-          {
-            "text" : "RAM",
-            "targetRectangle" : {
-              "y" : 540.01788347959518,
-              "x" : 566.0115966796875,
-              "width" : 56.327999999999975,
-              "height" : 33
-            }
-          },
-          {
             "text" : "Meltdown: Stashing away - Sidechannel",
             "targetRectangle" : {
               "y" : 125,
               "x" : 36,
               "width" : 657.2639999999999,
               "height" : 48.400146484375
-            }
-          },
-          {
-            "text" : "address",
-            "targetRectangle" : {
-              "y" : 308.01730364561081,
-              "x" : 760.8665771484375,
-              "width" : 91.200000000000045,
-              "height" : 33
-            }
-          },
-          {
-            "text" : " 100ns",
-            "targetRectangle" : {
-              "y" : 491.66259777545929,
-              "x" : 350.6357421875,
-              "width" : 85.175999999999988,
-              "height" : 36
-            }
-          },
-          {
-            "text" : "CPU core",
-            "targetRectangle" : {
-              "y" : 499.48211699724197,
-              "x" : 202.63047790527344,
-              "width" : 88.660000000000025,
-              "height" : 27
-            }
-          },
-          {
-            "text" : "RAM",
-            "targetRectangle" : {
-              "y" : 403.69699108600616,
-              "x" : 314.50912475585938,
-              "width" : 61.021999999999991,
-              "height" : 36
-            }
-          },
-          {
-            "text" : "Value",
-            "targetRectangle" : {
-              "y" : 312.34152221679688,
-              "x" : 575.8296162109375,
-              "width" : 54.403999999999996,
-              "height" : 28.40008544921875
-            }
-          },
-          {
-            "text" : "Meltdown & Spectre for normal people",
-            "targetRectangle" : {
-              "y" : 40,
-              "x" : 36,
-              "width" : 519.28593814373016,
-              "height" : 28
             }
           }
         ],
@@ -14705,10 +14705,10 @@ local_slide( {
                     "rotation" : 0,
                     "scale" : 1,
                     "position" : {
-                      "pointX" : 972.57660043239594,
+                      "pointX" : 970.57660043239594,
                       "pointY" : 44
                     },
-                    "width" : 26,
+                    "width" : 22,
                     "sublayerTransform" : [
                       1,
                       0,
@@ -14777,10 +14777,10 @@ local_slide( {
                         "rotation" : 0,
                         "scale" : 1,
                         "position" : {
-                          "pointX" : 16.423399567604065,
+                          "pointX" : 14.423399567604065,
                           "pointY" : 18
                         },
-                        "width" : 26,
+                        "width" : 22,
                         "sublayerTransform" : [
                           1,
                           0,
@@ -14814,7 +14814,7 @@ local_slide( {
                           "pointY" : 0.5
                         }
                       },
-                      "texture" : "4703BB1A48BA8F6555947DEB7EC4542C"
+                      "texture" : "65712FFBE287B6691EDE83D3F32F1298"
                     }
                   ]
                 }

@@ -2,6 +2,20 @@ local_slide( {
   "name" : "89A027A6-C239-4A6E-ACB6-FE5D254BF214",
   "json" : {
     "assets" : {
+      "F664F17499716C164D688B1B971FB835" : {
+        "type" : "texture",
+        "index" : 29,
+        "assetRequest" : {
+          "type" : "slide",
+          "state" : "contents",
+          "slide" : "none"
+        },
+        "url" : {
+          "native" : "assets\/89A027A6-C239-4A6E-ACB6-FE5D254BF214.pdf"
+        },
+        "width" : 1024,
+        "height" : 768
+      },
       "DA1FD20E9D1F02A808FE856154D81DA6" : {
         "type" : "texture",
         "index" : 7,
@@ -44,9 +58,9 @@ local_slide( {
         "width" : 131,
         "height" : 104
       },
-      "B47A9D6E9A922CD5E766C84E04E66FC7" : {
+      "798672F2D9E6F57D99AA634F94F24862" : {
         "type" : "texture",
-        "index" : 6,
+        "index" : 25,
         "assetRequest" : {
           "type" : "slide",
           "state" : "contents",
@@ -55,8 +69,8 @@ local_slide( {
         "url" : {
           "native" : "assets\/89A027A6-C239-4A6E-ACB6-FE5D254BF214.pdf"
         },
-        "width" : 25,
-        "height" : 20
+        "width" : 158,
+        "height" : 77
       },
       "23BAFC4D4C57E32F788F3DE9993D5A1A" : {
         "type" : "texture",
@@ -74,7 +88,7 @@ local_slide( {
       },
       "A235D676775FE0B1115BDC69F5ADEC05" : {
         "type" : "texture",
-        "index" : 28,
+        "index" : 2,
         "assetRequest" : {
           "type" : "slide",
           "state" : "contents",
@@ -128,9 +142,9 @@ local_slide( {
         "width" : 49,
         "height" : 49
       },
-      "FBBF5F874648BF9D29DFCED32254B5C5" : {
+      "28D301F0598ECA341481CA572B9DE22D" : {
         "type" : "texture",
-        "index" : 26,
+        "index" : 28,
         "assetRequest" : {
           "type" : "slide",
           "state" : "contents",
@@ -139,8 +153,8 @@ local_slide( {
         "url" : {
           "native" : "assets\/89A027A6-C239-4A6E-ACB6-FE5D254BF214.pdf"
         },
-        "width" : 328,
-        "height" : 27
+        "width" : 1024,
+        "height" : 768
       },
       "49E67213AB06B0D2CE283B3FCE2D5567" : {
         "type" : "texture",
@@ -156,6 +170,20 @@ local_slide( {
         "width" : 180,
         "height" : 56
       },
+      "FBBF5F874648BF9D29DFCED32254B5C5" : {
+        "type" : "texture",
+        "index" : 26,
+        "assetRequest" : {
+          "type" : "slide",
+          "state" : "contents",
+          "slide" : "none"
+        },
+        "url" : {
+          "native" : "assets\/89A027A6-C239-4A6E-ACB6-FE5D254BF214.pdf"
+        },
+        "width" : 328,
+        "height" : 27
+      },
       "FCE45FFA6F4F167553B5296654EEC2BC" : {
         "type" : "texture",
         "index" : 23,
@@ -169,20 +197,6 @@ local_slide( {
         },
         "width" : 191,
         "height" : 26
-      },
-      "798672F2D9E6F57D99AA634F94F24862" : {
-        "type" : "texture",
-        "index" : 25,
-        "assetRequest" : {
-          "type" : "slide",
-          "state" : "contents",
-          "slide" : "none"
-        },
-        "url" : {
-          "native" : "assets\/89A027A6-C239-4A6E-ACB6-FE5D254BF214.pdf"
-        },
-        "width" : 158,
-        "height" : 77
       },
       "FBB5DEA59905EE30EF2803B0A74DF992" : {
         "type" : "texture",
@@ -211,20 +225,6 @@ local_slide( {
         },
         "width" : 519,
         "height" : 20
-      },
-      "76D7520E7BC7383ED53F7292DF218313" : {
-        "type" : "texture",
-        "index" : 2,
-        "assetRequest" : {
-          "type" : "slide",
-          "state" : "contents",
-          "slide" : "none"
-        },
-        "url" : {
-          "native" : "assets\/89A027A6-C239-4A6E-ACB6-FE5D254BF214.pdf"
-        },
-        "width" : 206,
-        "height" : 182
       },
       "640D5297D59088D46FE63A28D36F2264" : {
         "type" : "texture",
@@ -338,9 +338,9 @@ local_slide( {
         "width" : 137,
         "height" : 31
       },
-      "38D4FD30DF9BE6130660A80A8081E271" : {
+      "80BAA8A288772D5CD020DDEEECD68A96" : {
         "type" : "texture",
-        "index" : 29,
+        "index" : 6,
         "assetRequest" : {
           "type" : "slide",
           "state" : "contents",
@@ -349,22 +349,8 @@ local_slide( {
         "url" : {
           "native" : "assets\/89A027A6-C239-4A6E-ACB6-FE5D254BF214.pdf"
         },
-        "width" : 1024,
-        "height" : 768
-      },
-      "71EA6DD95E328C0D9EBD39D60837D281" : {
-        "type" : "texture",
-        "index" : 30,
-        "assetRequest" : {
-          "type" : "slide",
-          "state" : "contents",
-          "slide" : "none"
-        },
-        "url" : {
-          "native" : "assets\/89A027A6-C239-4A6E-ACB6-FE5D254BF214.pdf"
-        },
-        "width" : 1024,
-        "height" : 768
+        "width" : 26,
+        "height" : 20
       },
       "E8B163D9DF04252A48B9072DAFBEA578" : {
         "type" : "texture",
@@ -1428,20 +1414,20 @@ local_slide( {
         ],
         "accessibility" : [
           {
-            "text" : "spectre.png",
+            "text" : "spectre: Variant 2 (CVE-2017-5715)",
             "targetRectangle" : {
-              "y" : 91.537521362304688,
-              "x" : 864.53656005859375,
-              "width" : 128.11909484863281,
-              "height" : 101.40676879882812
+              "y" : 125,
+              "x" : 36,
+              "width" : 566.68799999999999,
+              "height" : 48.400146484375
             }
           },
           {
-            "text" : "A",
+            "text" : "D",
             "targetRectangle" : {
-              "y" : 171.64398193359375,
-              "x" : 427.23442776189739,
-              "width" : 11.396000000000015,
+              "y" : 383.96734619140625,
+              "x" : 426.96842776189743,
+              "width" : 11.927999999999997,
               "height" : 28.40008544921875
             }
           },
@@ -1455,6 +1441,24 @@ local_slide( {
             }
           },
           {
+            "text" : "￼",
+            "targetRectangle" : {
+              "y" : 38,
+              "x" : 964.57660043239594,
+              "width" : 23.0390625,
+              "height" : 28
+            }
+          },
+          {
+            "text" : "D",
+            "targetRectangle" : {
+              "y" : 383.96734619140625,
+              "x" : 426.96842776189743,
+              "width" : 11.927999999999997,
+              "height" : 28.40008544921875
+            }
+          },
+          {
             "text" : "3",
             "targetRectangle" : {
               "y" : 298.60113525390625,
@@ -1464,11 +1468,11 @@ local_slide( {
             }
           },
           {
-            "text" : "1",
+            "text" : "E",
             "targetRectangle" : {
-              "y" : 298.60113525390625,
-              "x" : 134.02246875,
-              "width" : 10.415999999999997,
+              "y" : 456.9381103515625,
+              "x" : 427.75242776189742,
+              "width" : 10.359999999999957,
               "height" : 28.40008544921875
             }
           },
@@ -1482,57 +1486,12 @@ local_slide( {
             }
           },
           {
-            "text" : "C",
-            "targetRectangle" : {
-              "y" : 310.99658203125,
-              "x" : 427.23442776189739,
-              "width" : 11.396000000000015,
-              "height" : 28.40008544921875
-            }
-          },
-          {
             "text" : "(1) Counter > 0?",
             "targetRectangle" : {
               "y" : 410.10598772764206,
               "x" : 523.51849365234375,
               "width" : 188.35199999999998,
               "height" : 33
-            }
-          },
-          {
-            "text" : "1",
-            "targetRectangle" : {
-              "y" : 415.0675048828125,
-              "x" : 134.02246875,
-              "width" : 10.415999999999997,
-              "height" : 28.40008544921875
-            }
-          },
-          {
-            "text" : "D",
-            "targetRectangle" : {
-              "y" : 383.96734619140625,
-              "x" : 426.96842776189743,
-              "width" : 11.927999999999997,
-              "height" : 28.40008544921875
-            }
-          },
-          {
-            "text" : "Counter",
-            "targetRectangle" : {
-              "y" : 331.10598790645599,
-              "x" : 71.518470764160156,
-              "width" : 134.42400000000001,
-              "height" : 49
-            }
-          },
-          {
-            "text" : "E",
-            "targetRectangle" : {
-              "y" : 456.9381103515625,
-              "x" : 427.75242776189742,
-              "width" : 10.359999999999957,
-              "height" : 28.40008544921875
             }
           },
           {
@@ -1545,12 +1504,39 @@ local_slide( {
             }
           },
           {
-            "text" : "D",
+            "text" : "C",
             "targetRectangle" : {
-              "y" : 383.96734619140625,
-              "x" : 426.96842776189743,
-              "width" : 11.927999999999997,
+              "y" : 310.99658203125,
+              "x" : 427.23442776189739,
+              "width" : 11.396000000000015,
               "height" : 28.40008544921875
+            }
+          },
+          {
+            "text" : "1",
+            "targetRectangle" : {
+              "y" : 415.0675048828125,
+              "x" : 134.02246875,
+              "width" : 10.415999999999997,
+              "height" : 28.40008544921875
+            }
+          },
+          {
+            "text" : "1",
+            "targetRectangle" : {
+              "y" : 298.60113525390625,
+              "x" : 134.02246875,
+              "width" : 10.415999999999997,
+              "height" : 28.40008544921875
+            }
+          },
+          {
+            "text" : "Counter",
+            "targetRectangle" : {
+              "y" : 331.10598790645599,
+              "x" : 71.518470764160156,
+              "width" : 134.42400000000001,
+              "height" : 49
             }
           },
           {
@@ -1581,12 +1567,12 @@ local_slide( {
             }
           },
           {
-            "text" : "Meltdown & Spectre for normal people",
+            "text" : "spectre.png",
             "targetRectangle" : {
-              "y" : 40,
-              "x" : 36,
-              "width" : 519.28593814373016,
-              "height" : 28
+              "y" : 91.537521362304688,
+              "x" : 864.53656005859375,
+              "width" : 128.11909484863281,
+              "height" : 101.40676879882812
             }
           },
           {
@@ -1599,12 +1585,21 @@ local_slide( {
             }
           },
           {
-            "text" : "spectre: Variant 2 (CVE-2017-5715)",
+            "text" : "Meltdown & Spectre for normal people",
             "targetRectangle" : {
-              "y" : 125,
+              "y" : 40,
               "x" : 36,
-              "width" : 566.68799999999999,
-              "height" : 48.400146484375
+              "width" : 519.28593814373016,
+              "height" : 28
+            }
+          },
+          {
+            "text" : "A",
+            "targetRectangle" : {
+              "y" : 171.64398193359375,
+              "x" : 427.23442776189739,
+              "width" : 11.396000000000015,
+              "height" : 28.40008544921875
             }
           },
           {
@@ -1614,15 +1609,6 @@ local_slide( {
               "x" : 134.02246875,
               "width" : 10.415999999999997,
               "height" : 28.40008544921875
-            }
-          },
-          {
-            "text" : "￼",
-            "targetRectangle" : {
-              "y" : 38,
-              "x" : 964.57660043239594,
-              "width" : 23.0390625,
-              "height" : 28
             }
           }
         ],
@@ -2301,7 +2287,7 @@ local_slide( {
                           "pointY" : 0.5
                         }
                       },
-                      "texture" : "76D7520E7BC7383ED53F7292DF218313"
+                      "texture" : "A235D676775FE0B1115BDC69F5ADEC05"
                     }
                   ]
                 }
@@ -2934,10 +2920,10 @@ local_slide( {
                     "rotation" : 0,
                     "scale" : 1,
                     "position" : {
-                      "pointX" : 972.07660043239594,
+                      "pointX" : 972.57660043239594,
                       "pointY" : 44
                     },
-                    "width" : 25,
+                    "width" : 26,
                     "sublayerTransform" : [
                       1,
                       0,
@@ -3006,10 +2992,10 @@ local_slide( {
                         "rotation" : 0,
                         "scale" : 1,
                         "position" : {
-                          "pointX" : 15.923399567604065,
+                          "pointX" : 16.423399567604065,
                           "pointY" : 18
                         },
-                        "width" : 25,
+                        "width" : 26,
                         "sublayerTransform" : [
                           1,
                           0,
@@ -3043,7 +3029,7 @@ local_slide( {
                           "pointY" : 0.5
                         }
                       },
-                      "texture" : "B47A9D6E9A922CD5E766C84E04E66FC7"
+                      "texture" : "80BAA8A288772D5CD020DDEEECD68A96"
                     }
                   ]
                 }
@@ -9643,20 +9629,29 @@ local_slide( {
         ],
         "accessibility" : [
           {
-            "text" : "spectre.png",
+            "text" : "D",
             "targetRectangle" : {
-              "y" : 91.537521362304688,
-              "x" : 864.53656005859375,
-              "width" : 128.11909484863281,
-              "height" : 101.40676879882812
+              "y" : 560.96734619140625,
+              "x" : 567.06297121892862,
+              "width" : 11.927999999999997,
+              "height" : 28.40008544921875
             }
           },
           {
-            "text" : "A",
+            "text" : "spectre: Variant 2 (CVE-2017-5715)",
             "targetRectangle" : {
-              "y" : 171.64398193359375,
-              "x" : 427.23442776189739,
-              "width" : 11.396000000000015,
+              "y" : 125,
+              "x" : 36,
+              "width" : 566.68799999999999,
+              "height" : 48.400146484375
+            }
+          },
+          {
+            "text" : "D",
+            "targetRectangle" : {
+              "y" : 383.96734619140625,
+              "x" : 426.96842776189743,
+              "width" : 11.927999999999997,
               "height" : 28.40008544921875
             }
           },
@@ -9670,138 +9665,21 @@ local_slide( {
             }
           },
           {
-            "text" : "3",
+            "text" : "￼",
             "targetRectangle" : {
-              "y" : 298.60113525390625,
-              "x" : 134.02246875,
-              "width" : 10.415999999999997,
-              "height" : 28.40008544921875
-            }
-          },
-          {
-            "text" : "1",
-            "targetRectangle" : {
-              "y" : 298.60113525390625,
-              "x" : 134.02246875,
-              "width" : 10.415999999999997,
-              "height" : 28.40008544921875
-            }
-          },
-          {
-            "text" : "B",
-            "targetRectangle" : {
-              "y" : 238.02583312988281,
-              "x" : 426.96842776189743,
-              "width" : 11.927999999999997,
-              "height" : 28.40008544921875
-            }
-          },
-          {
-            "text" : "C",
-            "targetRectangle" : {
-              "y" : 310.99658203125,
-              "x" : 427.23442776189739,
-              "width" : 11.396000000000015,
-              "height" : 28.40008544921875
-            }
-          },
-          {
-            "text" : "(1) Counter > 0?",
-            "targetRectangle" : {
-              "y" : 410.10598772764206,
-              "x" : 523.51849365234375,
-              "width" : 188.35199999999998,
-              "height" : 33
-            }
-          },
-          {
-            "text" : "1",
-            "targetRectangle" : {
-              "y" : 415.0675048828125,
-              "x" : 134.02246875,
-              "width" : 10.415999999999997,
-              "height" : 28.40008544921875
-            }
-          },
-          {
-            "text" : "D",
-            "targetRectangle" : {
-              "y" : 383.96734619140625,
-              "x" : 426.96842776189743,
-              "width" : 11.927999999999997,
-              "height" : 28.40008544921875
-            }
-          },
-          {
-            "text" : "Counter",
-            "targetRectangle" : {
-              "y" : 331.10598790645599,
-              "x" : 71.518470764160156,
-              "width" : 134.42400000000001,
-              "height" : 49
-            }
-          },
-          {
-            "text" : "E",
-            "targetRectangle" : {
-              "y" : 456.9381103515625,
-              "x" : 427.75242776189742,
-              "width" : 10.359999999999957,
-              "height" : 28.40008544921875
-            }
-          },
-          {
-            "text" : "2",
-            "targetRectangle" : {
-              "y" : 298.60113525390625,
-              "x" : 134.02246875,
-              "width" : 10.415999999999997,
-              "height" : 28.40008544921875
-            }
-          },
-          {
-            "text" : "D",
-            "targetRectangle" : {
-              "y" : 383.96734619140625,
-              "x" : 426.96842776189743,
-              "width" : 11.927999999999997,
-              "height" : 28.40008544921875
-            }
-          },
-          {
-            "text" : "(2) Read next",
-            "targetRectangle" : {
-              "y" : 447.23689424991608,
-              "x" : 234.51849365234375,
-              "width" : 154.82400000000001,
-              "height" : 33
-            }
-          },
-          {
-            "text" : "instruction",
-            "targetRectangle" : {
-              "y" : 474.53689429908991,
-              "x" : 234.51849365234375,
-              "width" : 124.44,
-              "height" : 33
-            }
-          },
-          {
-            "text" : "address ",
-            "targetRectangle" : {
-              "y" : 501.83689434826374,
-              "x" : 234.51849365234375,
-              "width" : 97.199999999999989,
-              "height" : 33
-            }
-          },
-          {
-            "text" : "Meltdown & Spectre for normal people",
-            "targetRectangle" : {
-              "y" : 40,
-              "x" : 36,
-              "width" : 519.28593814373016,
+              "y" : 38,
+              "x" : 964.57660043239594,
+              "width" : 23.0390625,
               "height" : 28
+            }
+          },
+          {
+            "text" : "D",
+            "targetRectangle" : {
+              "y" : 383.96734619140625,
+              "x" : 426.96842776189743,
+              "width" : 11.927999999999997,
+              "height" : 28.40008544921875
             }
           },
           {
@@ -9832,29 +9710,65 @@ local_slide( {
             }
           },
           {
-            "text" : "(3) Jump to indirect address",
+            "text" : "3",
             "targetRectangle" : {
-              "y" : 321.10598772764206,
-              "x" : 677.51849365234375,
-              "width" : 325.46399999999994,
+              "y" : 298.60113525390625,
+              "x" : 134.02246875,
+              "width" : 10.415999999999997,
+              "height" : 28.40008544921875
+            }
+          },
+          {
+            "text" : "E",
+            "targetRectangle" : {
+              "y" : 456.9381103515625,
+              "x" : 427.75242776189742,
+              "width" : 10.359999999999957,
+              "height" : 28.40008544921875
+            }
+          },
+          {
+            "text" : "B",
+            "targetRectangle" : {
+              "y" : 238.02583312988281,
+              "x" : 426.96842776189743,
+              "width" : 11.927999999999997,
+              "height" : 28.40008544921875
+            }
+          },
+          {
+            "text" : "(1) Counter > 0?",
+            "targetRectangle" : {
+              "y" : 410.10598772764206,
+              "x" : 523.51849365234375,
+              "width" : 188.35199999999998,
               "height" : 33
             }
           },
           {
-            "text" : "spectre: Variant 2 (CVE-2017-5715)",
+            "text" : "2",
             "targetRectangle" : {
-              "y" : 125,
-              "x" : 36,
-              "width" : 566.68799999999999,
-              "height" : 48.400146484375
+              "y" : 298.60113525390625,
+              "x" : 134.02246875,
+              "width" : 10.415999999999997,
+              "height" : 28.40008544921875
             }
           },
           {
-            "text" : "D",
+            "text" : "C",
             "targetRectangle" : {
-              "y" : 560.96734619140625,
-              "x" : 567.06297121892862,
-              "width" : 11.927999999999997,
+              "y" : 310.99658203125,
+              "x" : 427.23442776189739,
+              "width" : 11.396000000000015,
+              "height" : 28.40008544921875
+            }
+          },
+          {
+            "text" : "1",
+            "targetRectangle" : {
+              "y" : 415.0675048828125,
+              "x" : 134.02246875,
+              "width" : 10.415999999999997,
               "height" : 28.40008544921875
             }
           },
@@ -9868,12 +9782,84 @@ local_slide( {
             }
           },
           {
-            "text" : "￼",
+            "text" : "Counter",
             "targetRectangle" : {
-              "y" : 38,
-              "x" : 964.57660043239594,
-              "width" : 23.0390625,
+              "y" : 331.10598790645599,
+              "x" : 71.518470764160156,
+              "width" : 134.42400000000001,
+              "height" : 49
+            }
+          },
+          {
+            "text" : "(2) Read next",
+            "targetRectangle" : {
+              "y" : 447.23689424991608,
+              "x" : 234.51849365234375,
+              "width" : 154.82400000000001,
+              "height" : 33
+            }
+          },
+          {
+            "text" : "instruction",
+            "targetRectangle" : {
+              "y" : 474.53689429908991,
+              "x" : 234.51849365234375,
+              "width" : 124.44,
+              "height" : 33
+            }
+          },
+          {
+            "text" : "address ",
+            "targetRectangle" : {
+              "y" : 501.83689434826374,
+              "x" : 234.51849365234375,
+              "width" : 97.199999999999989,
+              "height" : 33
+            }
+          },
+          {
+            "text" : "spectre.png",
+            "targetRectangle" : {
+              "y" : 91.537521362304688,
+              "x" : 864.53656005859375,
+              "width" : 128.11909484863281,
+              "height" : 101.40676879882812
+            }
+          },
+          {
+            "text" : "(3) Jump to indirect address",
+            "targetRectangle" : {
+              "y" : 321.10598772764206,
+              "x" : 677.51849365234375,
+              "width" : 325.46399999999994,
+              "height" : 33
+            }
+          },
+          {
+            "text" : "Meltdown & Spectre for normal people",
+            "targetRectangle" : {
+              "y" : 40,
+              "x" : 36,
+              "width" : 519.28593814373016,
               "height" : 28
+            }
+          },
+          {
+            "text" : "A",
+            "targetRectangle" : {
+              "y" : 171.64398193359375,
+              "x" : 427.23442776189739,
+              "width" : 11.396000000000015,
+              "height" : 28.40008544921875
+            }
+          },
+          {
+            "text" : "1",
+            "targetRectangle" : {
+              "y" : 298.60113525390625,
+              "x" : 134.02246875,
+              "width" : 10.415999999999997,
+              "height" : 28.40008544921875
             }
           }
         ],
@@ -11185,10 +11171,10 @@ local_slide( {
                     "rotation" : 0,
                     "scale" : 1,
                     "position" : {
-                      "pointX" : 972.07660043239594,
+                      "pointX" : 972.57660043239594,
                       "pointY" : 44
                     },
-                    "width" : 25,
+                    "width" : 26,
                     "sublayerTransform" : [
                       1,
                       0,
@@ -11257,10 +11243,10 @@ local_slide( {
                         "rotation" : 0,
                         "scale" : 1,
                         "position" : {
-                          "pointX" : 15.923399567604065,
+                          "pointX" : 16.423399567604065,
                           "pointY" : 18
                         },
-                        "width" : 25,
+                        "width" : 26,
                         "sublayerTransform" : [
                           1,
                           0,
@@ -11294,7 +11280,7 @@ local_slide( {
                           "pointY" : 0.5
                         }
                       },
-                      "texture" : "B47A9D6E9A922CD5E766C84E04E66FC7"
+                      "texture" : "80BAA8A288772D5CD020DDEEECD68A96"
                     }
                   ]
                 }
@@ -17823,20 +17809,29 @@ local_slide( {
         ],
         "accessibility" : [
           {
-            "text" : "spectre.png",
+            "text" : "D",
             "targetRectangle" : {
-              "y" : 91.537521362304688,
-              "x" : 864.53656005859375,
-              "width" : 128.11909484863281,
-              "height" : 101.40676879882812
+              "y" : 560.96734619140625,
+              "x" : 567.06297121892862,
+              "width" : 11.927999999999997,
+              "height" : 28.40008544921875
             }
           },
           {
-            "text" : "A",
+            "text" : "spectre: Variant 2 (CVE-2017-5715)",
             "targetRectangle" : {
-              "y" : 171.64398193359375,
-              "x" : 427.23442776189739,
-              "width" : 11.396000000000015,
+              "y" : 125,
+              "x" : 36,
+              "width" : 566.68799999999999,
+              "height" : 48.400146484375
+            }
+          },
+          {
+            "text" : "D",
+            "targetRectangle" : {
+              "y" : 383.96734619140625,
+              "x" : 426.96842776189743,
+              "width" : 11.927999999999997,
               "height" : 28.40008544921875
             }
           },
@@ -17850,6 +17845,33 @@ local_slide( {
             }
           },
           {
+            "text" : "￼",
+            "targetRectangle" : {
+              "y" : 38,
+              "x" : 964.57660043239594,
+              "width" : 23.0390625,
+              "height" : 28
+            }
+          },
+          {
+            "text" : "D",
+            "targetRectangle" : {
+              "y" : 383.96734619140625,
+              "x" : 426.96842776189743,
+              "width" : 11.927999999999997,
+              "height" : 28.40008544921875
+            }
+          },
+          {
+            "text" : "The conditional jump (branch)       now is an indirect jump.",
+            "targetRectangle" : {
+              "y" : 550.12060546875,
+              "x" : 46.384248733520508,
+              "width" : 949.89599999999973,
+              "height" : 63.200000584125519
+            }
+          },
+          {
             "text" : "3",
             "targetRectangle" : {
               "y" : 298.60113525390625,
@@ -17859,11 +17881,11 @@ local_slide( {
             }
           },
           {
-            "text" : "1",
+            "text" : "E",
             "targetRectangle" : {
-              "y" : 298.60113525390625,
-              "x" : 134.02246875,
-              "width" : 10.415999999999997,
+              "y" : 456.9381103515625,
+              "x" : 427.75242776189742,
+              "width" : 10.359999999999957,
               "height" : 28.40008544921875
             }
           },
@@ -17877,57 +17899,12 @@ local_slide( {
             }
           },
           {
-            "text" : "C",
-            "targetRectangle" : {
-              "y" : 310.99658203125,
-              "x" : 427.23442776189739,
-              "width" : 11.396000000000015,
-              "height" : 28.40008544921875
-            }
-          },
-          {
             "text" : "(1) Counter > 0?",
             "targetRectangle" : {
               "y" : 410.10598772764206,
               "x" : 523.51849365234375,
               "width" : 188.35199999999998,
               "height" : 33
-            }
-          },
-          {
-            "text" : "1",
-            "targetRectangle" : {
-              "y" : 415.0675048828125,
-              "x" : 134.02246875,
-              "width" : 10.415999999999997,
-              "height" : 28.40008544921875
-            }
-          },
-          {
-            "text" : "D",
-            "targetRectangle" : {
-              "y" : 383.96734619140625,
-              "x" : 426.96842776189743,
-              "width" : 11.927999999999997,
-              "height" : 28.40008544921875
-            }
-          },
-          {
-            "text" : "Counter",
-            "targetRectangle" : {
-              "y" : 331.10598790645599,
-              "x" : 71.518470764160156,
-              "width" : 134.42400000000001,
-              "height" : 49
-            }
-          },
-          {
-            "text" : "E",
-            "targetRectangle" : {
-              "y" : 456.9381103515625,
-              "x" : 427.75242776189742,
-              "width" : 10.359999999999957,
-              "height" : 28.40008544921875
             }
           },
           {
@@ -17940,12 +17917,39 @@ local_slide( {
             }
           },
           {
-            "text" : "D",
+            "text" : "C",
             "targetRectangle" : {
-              "y" : 383.96734619140625,
-              "x" : 426.96842776189743,
-              "width" : 11.927999999999997,
+              "y" : 310.99658203125,
+              "x" : 427.23442776189739,
+              "width" : 11.396000000000015,
               "height" : 28.40008544921875
+            }
+          },
+          {
+            "text" : "1",
+            "targetRectangle" : {
+              "y" : 415.0675048828125,
+              "x" : 134.02246875,
+              "width" : 10.415999999999997,
+              "height" : 28.40008544921875
+            }
+          },
+          {
+            "text" : "1",
+            "targetRectangle" : {
+              "y" : 298.60113525390625,
+              "x" : 134.02246875,
+              "width" : 10.415999999999997,
+              "height" : 28.40008544921875
+            }
+          },
+          {
+            "text" : "Counter",
+            "targetRectangle" : {
+              "y" : 331.10598790645599,
+              "x" : 71.518470764160156,
+              "width" : 134.42400000000001,
+              "height" : 49
             }
           },
           {
@@ -17976,21 +17980,12 @@ local_slide( {
             }
           },
           {
-            "text" : "Meltdown & Spectre for normal people",
+            "text" : "spectre.png",
             "targetRectangle" : {
-              "y" : 40,
-              "x" : 36,
-              "width" : 519.28593814373016,
-              "height" : 28
-            }
-          },
-          {
-            "text" : "The conditional jump (branch)       now is an indirect jump.",
-            "targetRectangle" : {
-              "y" : 550.12060546875,
-              "x" : 46.384248733520508,
-              "width" : 949.89599999999973,
-              "height" : 63.200000584125519
+              "y" : 91.537521362304688,
+              "x" : 864.53656005859375,
+              "width" : 128.11909484863281,
+              "height" : 101.40676879882812
             }
           },
           {
@@ -18003,20 +17998,20 @@ local_slide( {
             }
           },
           {
-            "text" : "spectre: Variant 2 (CVE-2017-5715)",
+            "text" : "Meltdown & Spectre for normal people",
             "targetRectangle" : {
-              "y" : 125,
+              "y" : 40,
               "x" : 36,
-              "width" : 566.68799999999999,
-              "height" : 48.400146484375
+              "width" : 519.28593814373016,
+              "height" : 28
             }
           },
           {
-            "text" : "D",
+            "text" : "A",
             "targetRectangle" : {
-              "y" : 560.96734619140625,
-              "x" : 567.06297121892862,
-              "width" : 11.927999999999997,
+              "y" : 171.64398193359375,
+              "x" : 427.23442776189739,
+              "width" : 11.396000000000015,
               "height" : 28.40008544921875
             }
           },
@@ -18027,15 +18022,6 @@ local_slide( {
               "x" : 134.02246875,
               "width" : 10.415999999999997,
               "height" : 28.40008544921875
-            }
-          },
-          {
-            "text" : "￼",
-            "targetRectangle" : {
-              "y" : 38,
-              "x" : 964.57660043239594,
-              "width" : 23.0390625,
-              "height" : 28
             }
           }
         ],
@@ -19347,10 +19333,10 @@ local_slide( {
                     "rotation" : 0,
                     "scale" : 1,
                     "position" : {
-                      "pointX" : 972.07660043239594,
+                      "pointX" : 972.57660043239594,
                       "pointY" : 44
                     },
-                    "width" : 25,
+                    "width" : 26,
                     "sublayerTransform" : [
                       1,
                       0,
@@ -19419,10 +19405,10 @@ local_slide( {
                         "rotation" : 0,
                         "scale" : 1,
                         "position" : {
-                          "pointX" : 15.923399567604065,
+                          "pointX" : 16.423399567604065,
                           "pointY" : 18
                         },
-                        "width" : 25,
+                        "width" : 26,
                         "sublayerTransform" : [
                           1,
                           0,
@@ -19456,7 +19442,7 @@ local_slide( {
                           "pointY" : 0.5
                         }
                       },
-                      "texture" : "B47A9D6E9A922CD5E766C84E04E66FC7"
+                      "texture" : "80BAA8A288772D5CD020DDEEECD68A96"
                     }
                   ]
                 }
@@ -25785,20 +25771,29 @@ local_slide( {
         ],
         "accessibility" : [
           {
-            "text" : "spectre.png",
+            "text" : "D",
             "targetRectangle" : {
-              "y" : 91.537521362304688,
-              "x" : 864.53656005859375,
-              "width" : 128.11909484863281,
-              "height" : 101.40676879882812
+              "y" : 560.96734619140625,
+              "x" : 567.06297121892862,
+              "width" : 11.927999999999997,
+              "height" : 28.40008544921875
             }
           },
           {
-            "text" : "A",
+            "text" : "spectre: Variant 2 (CVE-2017-5715)",
             "targetRectangle" : {
-              "y" : 171.64398193359375,
-              "x" : 427.23442776189739,
-              "width" : 11.396000000000015,
+              "y" : 125,
+              "x" : 36,
+              "width" : 566.68799999999999,
+              "height" : 48.400146484375
+            }
+          },
+          {
+            "text" : "D",
+            "targetRectangle" : {
+              "y" : 383.96734619140625,
+              "x" : 426.96842776189743,
+              "width" : 11.927999999999997,
               "height" : 28.40008544921875
             }
           },
@@ -25812,138 +25807,21 @@ local_slide( {
             }
           },
           {
-            "text" : "3",
+            "text" : "￼",
             "targetRectangle" : {
-              "y" : 298.60113525390625,
-              "x" : 134.02246875,
-              "width" : 10.415999999999997,
-              "height" : 28.40008544921875
-            }
-          },
-          {
-            "text" : "1",
-            "targetRectangle" : {
-              "y" : 298.60113525390625,
-              "x" : 134.02246875,
-              "width" : 10.415999999999997,
-              "height" : 28.40008544921875
-            }
-          },
-          {
-            "text" : "B",
-            "targetRectangle" : {
-              "y" : 238.02583312988281,
-              "x" : 426.96842776189743,
-              "width" : 11.927999999999997,
-              "height" : 28.40008544921875
-            }
-          },
-          {
-            "text" : "C",
-            "targetRectangle" : {
-              "y" : 310.99658203125,
-              "x" : 427.23442776189739,
-              "width" : 11.396000000000015,
-              "height" : 28.40008544921875
-            }
-          },
-          {
-            "text" : "(1) Counter > 0?",
-            "targetRectangle" : {
-              "y" : 410.10598772764206,
-              "x" : 523.51849365234375,
-              "width" : 188.35199999999998,
-              "height" : 33
-            }
-          },
-          {
-            "text" : "1",
-            "targetRectangle" : {
-              "y" : 415.0675048828125,
-              "x" : 134.02246875,
-              "width" : 10.415999999999997,
-              "height" : 28.40008544921875
-            }
-          },
-          {
-            "text" : "D",
-            "targetRectangle" : {
-              "y" : 383.96734619140625,
-              "x" : 426.96842776189743,
-              "width" : 11.927999999999997,
-              "height" : 28.40008544921875
-            }
-          },
-          {
-            "text" : "Counter",
-            "targetRectangle" : {
-              "y" : 331.10598790645599,
-              "x" : 71.518470764160156,
-              "width" : 134.42400000000001,
-              "height" : 49
-            }
-          },
-          {
-            "text" : "E",
-            "targetRectangle" : {
-              "y" : 456.9381103515625,
-              "x" : 427.75242776189742,
-              "width" : 10.359999999999957,
-              "height" : 28.40008544921875
-            }
-          },
-          {
-            "text" : "2",
-            "targetRectangle" : {
-              "y" : 298.60113525390625,
-              "x" : 134.02246875,
-              "width" : 10.415999999999997,
-              "height" : 28.40008544921875
-            }
-          },
-          {
-            "text" : "D",
-            "targetRectangle" : {
-              "y" : 383.96734619140625,
-              "x" : 426.96842776189743,
-              "width" : 11.927999999999997,
-              "height" : 28.40008544921875
-            }
-          },
-          {
-            "text" : "(2) Read next",
-            "targetRectangle" : {
-              "y" : 447.23689424991608,
-              "x" : 234.51849365234375,
-              "width" : 154.82400000000001,
-              "height" : 33
-            }
-          },
-          {
-            "text" : "instruction",
-            "targetRectangle" : {
-              "y" : 474.53689429908991,
-              "x" : 234.51849365234375,
-              "width" : 124.44,
-              "height" : 33
-            }
-          },
-          {
-            "text" : "address ",
-            "targetRectangle" : {
-              "y" : 501.83689434826374,
-              "x" : 234.51849365234375,
-              "width" : 97.199999999999989,
-              "height" : 33
-            }
-          },
-          {
-            "text" : "Meltdown & Spectre for normal people",
-            "targetRectangle" : {
-              "y" : 40,
-              "x" : 36,
-              "width" : 519.28593814373016,
+              "y" : 38,
+              "x" : 964.57660043239594,
+              "width" : 23.0390625,
               "height" : 28
+            }
+          },
+          {
+            "text" : "D",
+            "targetRectangle" : {
+              "y" : 383.96734619140625,
+              "x" : 426.96842776189743,
+              "width" : 11.927999999999997,
+              "height" : 28.40008544921875
             }
           },
           {
@@ -25974,29 +25852,65 @@ local_slide( {
             }
           },
           {
-            "text" : "(3) Jump to indirect address",
+            "text" : "3",
             "targetRectangle" : {
-              "y" : 321.10598772764206,
-              "x" : 677.51849365234375,
-              "width" : 325.46399999999994,
+              "y" : 298.60113525390625,
+              "x" : 134.02246875,
+              "width" : 10.415999999999997,
+              "height" : 28.40008544921875
+            }
+          },
+          {
+            "text" : "E",
+            "targetRectangle" : {
+              "y" : 456.9381103515625,
+              "x" : 427.75242776189742,
+              "width" : 10.359999999999957,
+              "height" : 28.40008544921875
+            }
+          },
+          {
+            "text" : "B",
+            "targetRectangle" : {
+              "y" : 238.02583312988281,
+              "x" : 426.96842776189743,
+              "width" : 11.927999999999997,
+              "height" : 28.40008544921875
+            }
+          },
+          {
+            "text" : "(1) Counter > 0?",
+            "targetRectangle" : {
+              "y" : 410.10598772764206,
+              "x" : 523.51849365234375,
+              "width" : 188.35199999999998,
               "height" : 33
             }
           },
           {
-            "text" : "spectre: Variant 2 (CVE-2017-5715)",
+            "text" : "2",
             "targetRectangle" : {
-              "y" : 125,
-              "x" : 36,
-              "width" : 566.68799999999999,
-              "height" : 48.400146484375
+              "y" : 298.60113525390625,
+              "x" : 134.02246875,
+              "width" : 10.415999999999997,
+              "height" : 28.40008544921875
             }
           },
           {
-            "text" : "D",
+            "text" : "C",
             "targetRectangle" : {
-              "y" : 560.96734619140625,
-              "x" : 567.06297121892862,
-              "width" : 11.927999999999997,
+              "y" : 310.99658203125,
+              "x" : 427.23442776189739,
+              "width" : 11.396000000000015,
+              "height" : 28.40008544921875
+            }
+          },
+          {
+            "text" : "1",
+            "targetRectangle" : {
+              "y" : 415.0675048828125,
+              "x" : 134.02246875,
+              "width" : 10.415999999999997,
               "height" : 28.40008544921875
             }
           },
@@ -26010,12 +25924,84 @@ local_slide( {
             }
           },
           {
-            "text" : "￼",
+            "text" : "Counter",
             "targetRectangle" : {
-              "y" : 38,
-              "x" : 964.57660043239594,
-              "width" : 23.0390625,
+              "y" : 331.10598790645599,
+              "x" : 71.518470764160156,
+              "width" : 134.42400000000001,
+              "height" : 49
+            }
+          },
+          {
+            "text" : "(2) Read next",
+            "targetRectangle" : {
+              "y" : 447.23689424991608,
+              "x" : 234.51849365234375,
+              "width" : 154.82400000000001,
+              "height" : 33
+            }
+          },
+          {
+            "text" : "instruction",
+            "targetRectangle" : {
+              "y" : 474.53689429908991,
+              "x" : 234.51849365234375,
+              "width" : 124.44,
+              "height" : 33
+            }
+          },
+          {
+            "text" : "address ",
+            "targetRectangle" : {
+              "y" : 501.83689434826374,
+              "x" : 234.51849365234375,
+              "width" : 97.199999999999989,
+              "height" : 33
+            }
+          },
+          {
+            "text" : "spectre.png",
+            "targetRectangle" : {
+              "y" : 91.537521362304688,
+              "x" : 864.53656005859375,
+              "width" : 128.11909484863281,
+              "height" : 101.40676879882812
+            }
+          },
+          {
+            "text" : "(3) Jump to indirect address",
+            "targetRectangle" : {
+              "y" : 321.10598772764206,
+              "x" : 677.51849365234375,
+              "width" : 325.46399999999994,
+              "height" : 33
+            }
+          },
+          {
+            "text" : "Meltdown & Spectre for normal people",
+            "targetRectangle" : {
+              "y" : 40,
+              "x" : 36,
+              "width" : 519.28593814373016,
               "height" : 28
+            }
+          },
+          {
+            "text" : "A",
+            "targetRectangle" : {
+              "y" : 171.64398193359375,
+              "x" : 427.23442776189739,
+              "width" : 11.396000000000015,
+              "height" : 28.40008544921875
+            }
+          },
+          {
+            "text" : "1",
+            "targetRectangle" : {
+              "y" : 298.60113525390625,
+              "x" : 134.02246875,
+              "width" : 10.415999999999997,
+              "height" : 28.40008544921875
             }
           }
         ],
@@ -27327,10 +27313,10 @@ local_slide( {
                     "rotation" : 0,
                     "scale" : 1,
                     "position" : {
-                      "pointX" : 972.07660043239594,
+                      "pointX" : 972.57660043239594,
                       "pointY" : 44
                     },
-                    "width" : 25,
+                    "width" : 26,
                     "sublayerTransform" : [
                       1,
                       0,
@@ -27399,10 +27385,10 @@ local_slide( {
                         "rotation" : 0,
                         "scale" : 1,
                         "position" : {
-                          "pointX" : 15.923399567604065,
+                          "pointX" : 16.423399567604065,
                           "pointY" : 18
                         },
-                        "width" : 25,
+                        "width" : 26,
                         "sublayerTransform" : [
                           1,
                           0,
@@ -27436,7 +27422,7 @@ local_slide( {
                           "pointY" : 0.5
                         }
                       },
-                      "texture" : "B47A9D6E9A922CD5E766C84E04E66FC7"
+                      "texture" : "80BAA8A288772D5CD020DDEEECD68A96"
                     }
                   ]
                 }
@@ -33771,20 +33757,29 @@ local_slide( {
         ],
         "accessibility" : [
           {
-            "text" : "spectre.png",
+            "text" : "D",
             "targetRectangle" : {
-              "y" : 91.537521362304688,
-              "x" : 864.53656005859375,
-              "width" : 128.11909484863281,
-              "height" : 101.40676879882812
+              "y" : 560.96734619140625,
+              "x" : 567.06297121892862,
+              "width" : 11.927999999999997,
+              "height" : 28.40008544921875
             }
           },
           {
-            "text" : "A",
+            "text" : "spectre: Variant 2 (CVE-2017-5715)",
             "targetRectangle" : {
-              "y" : 171.64398193359375,
-              "x" : 427.23442776189739,
-              "width" : 11.396000000000015,
+              "y" : 125,
+              "x" : 36,
+              "width" : 566.68799999999999,
+              "height" : 48.400146484375
+            }
+          },
+          {
+            "text" : "D",
+            "targetRectangle" : {
+              "y" : 383.96734619140625,
+              "x" : 426.96842776189743,
+              "width" : 11.927999999999997,
               "height" : 28.40008544921875
             }
           },
@@ -33798,138 +33793,21 @@ local_slide( {
             }
           },
           {
-            "text" : "3",
+            "text" : "￼",
             "targetRectangle" : {
-              "y" : 298.60113525390625,
-              "x" : 134.02246875,
-              "width" : 10.415999999999997,
-              "height" : 28.40008544921875
-            }
-          },
-          {
-            "text" : "1",
-            "targetRectangle" : {
-              "y" : 298.60113525390625,
-              "x" : 134.02246875,
-              "width" : 10.415999999999997,
-              "height" : 28.40008544921875
-            }
-          },
-          {
-            "text" : "B",
-            "targetRectangle" : {
-              "y" : 238.02583312988281,
-              "x" : 426.96842776189743,
-              "width" : 11.927999999999997,
-              "height" : 28.40008544921875
-            }
-          },
-          {
-            "text" : "C",
-            "targetRectangle" : {
-              "y" : 310.99658203125,
-              "x" : 427.23442776189739,
-              "width" : 11.396000000000015,
-              "height" : 28.40008544921875
-            }
-          },
-          {
-            "text" : "(1) Counter > 0?",
-            "targetRectangle" : {
-              "y" : 410.10598772764206,
-              "x" : 523.51849365234375,
-              "width" : 188.35199999999998,
-              "height" : 33
-            }
-          },
-          {
-            "text" : "1",
-            "targetRectangle" : {
-              "y" : 415.0675048828125,
-              "x" : 134.02246875,
-              "width" : 10.415999999999997,
-              "height" : 28.40008544921875
-            }
-          },
-          {
-            "text" : "D",
-            "targetRectangle" : {
-              "y" : 383.96734619140625,
-              "x" : 426.96842776189743,
-              "width" : 11.927999999999997,
-              "height" : 28.40008544921875
-            }
-          },
-          {
-            "text" : "Counter",
-            "targetRectangle" : {
-              "y" : 331.10598790645599,
-              "x" : 71.518470764160156,
-              "width" : 134.42400000000001,
-              "height" : 49
-            }
-          },
-          {
-            "text" : "E",
-            "targetRectangle" : {
-              "y" : 456.9381103515625,
-              "x" : 427.75242776189742,
-              "width" : 10.359999999999957,
-              "height" : 28.40008544921875
-            }
-          },
-          {
-            "text" : "2",
-            "targetRectangle" : {
-              "y" : 298.60113525390625,
-              "x" : 134.02246875,
-              "width" : 10.415999999999997,
-              "height" : 28.40008544921875
-            }
-          },
-          {
-            "text" : "D",
-            "targetRectangle" : {
-              "y" : 383.96734619140625,
-              "x" : 426.96842776189743,
-              "width" : 11.927999999999997,
-              "height" : 28.40008544921875
-            }
-          },
-          {
-            "text" : "(2) Read next",
-            "targetRectangle" : {
-              "y" : 447.23689424991608,
-              "x" : 234.51849365234375,
-              "width" : 154.82400000000001,
-              "height" : 33
-            }
-          },
-          {
-            "text" : "instruction",
-            "targetRectangle" : {
-              "y" : 474.53689429908991,
-              "x" : 234.51849365234375,
-              "width" : 124.44,
-              "height" : 33
-            }
-          },
-          {
-            "text" : "address ",
-            "targetRectangle" : {
-              "y" : 501.83689434826374,
-              "x" : 234.51849365234375,
-              "width" : 97.199999999999989,
-              "height" : 33
-            }
-          },
-          {
-            "text" : "Meltdown & Spectre for normal people",
-            "targetRectangle" : {
-              "y" : 40,
-              "x" : 36,
-              "width" : 519.28593814373016,
+              "y" : 38,
+              "x" : 964.57660043239594,
+              "width" : 23.0390625,
               "height" : 28
+            }
+          },
+          {
+            "text" : "D",
+            "targetRectangle" : {
+              "y" : 383.96734619140625,
+              "x" : 426.96842776189743,
+              "width" : 11.927999999999997,
+              "height" : 28.40008544921875
             }
           },
           {
@@ -33960,29 +33838,65 @@ local_slide( {
             }
           },
           {
-            "text" : "(3) Jump to indirect address",
+            "text" : "3",
             "targetRectangle" : {
-              "y" : 321.10598772764206,
-              "x" : 677.51849365234375,
-              "width" : 325.46399999999994,
+              "y" : 298.60113525390625,
+              "x" : 134.02246875,
+              "width" : 10.415999999999997,
+              "height" : 28.40008544921875
+            }
+          },
+          {
+            "text" : "E",
+            "targetRectangle" : {
+              "y" : 456.9381103515625,
+              "x" : 427.75242776189742,
+              "width" : 10.359999999999957,
+              "height" : 28.40008544921875
+            }
+          },
+          {
+            "text" : "B",
+            "targetRectangle" : {
+              "y" : 238.02583312988281,
+              "x" : 426.96842776189743,
+              "width" : 11.927999999999997,
+              "height" : 28.40008544921875
+            }
+          },
+          {
+            "text" : "(1) Counter > 0?",
+            "targetRectangle" : {
+              "y" : 410.10598772764206,
+              "x" : 523.51849365234375,
+              "width" : 188.35199999999998,
               "height" : 33
             }
           },
           {
-            "text" : "spectre: Variant 2 (CVE-2017-5715)",
+            "text" : "2",
             "targetRectangle" : {
-              "y" : 125,
-              "x" : 36,
-              "width" : 566.68799999999999,
-              "height" : 48.400146484375
+              "y" : 298.60113525390625,
+              "x" : 134.02246875,
+              "width" : 10.415999999999997,
+              "height" : 28.40008544921875
             }
           },
           {
-            "text" : "D",
+            "text" : "C",
             "targetRectangle" : {
-              "y" : 560.96734619140625,
-              "x" : 567.06297121892862,
-              "width" : 11.927999999999997,
+              "y" : 310.99658203125,
+              "x" : 427.23442776189739,
+              "width" : 11.396000000000015,
+              "height" : 28.40008544921875
+            }
+          },
+          {
+            "text" : "1",
+            "targetRectangle" : {
+              "y" : 415.0675048828125,
+              "x" : 134.02246875,
+              "width" : 10.415999999999997,
               "height" : 28.40008544921875
             }
           },
@@ -33996,12 +33910,84 @@ local_slide( {
             }
           },
           {
-            "text" : "￼",
+            "text" : "Counter",
             "targetRectangle" : {
-              "y" : 38,
-              "x" : 964.57660043239594,
-              "width" : 23.0390625,
+              "y" : 331.10598790645599,
+              "x" : 71.518470764160156,
+              "width" : 134.42400000000001,
+              "height" : 49
+            }
+          },
+          {
+            "text" : "(2) Read next",
+            "targetRectangle" : {
+              "y" : 447.23689424991608,
+              "x" : 234.51849365234375,
+              "width" : 154.82400000000001,
+              "height" : 33
+            }
+          },
+          {
+            "text" : "instruction",
+            "targetRectangle" : {
+              "y" : 474.53689429908991,
+              "x" : 234.51849365234375,
+              "width" : 124.44,
+              "height" : 33
+            }
+          },
+          {
+            "text" : "address ",
+            "targetRectangle" : {
+              "y" : 501.83689434826374,
+              "x" : 234.51849365234375,
+              "width" : 97.199999999999989,
+              "height" : 33
+            }
+          },
+          {
+            "text" : "spectre.png",
+            "targetRectangle" : {
+              "y" : 91.537521362304688,
+              "x" : 864.53656005859375,
+              "width" : 128.11909484863281,
+              "height" : 101.40676879882812
+            }
+          },
+          {
+            "text" : "(3) Jump to indirect address",
+            "targetRectangle" : {
+              "y" : 321.10598772764206,
+              "x" : 677.51849365234375,
+              "width" : 325.46399999999994,
+              "height" : 33
+            }
+          },
+          {
+            "text" : "Meltdown & Spectre for normal people",
+            "targetRectangle" : {
+              "y" : 40,
+              "x" : 36,
+              "width" : 519.28593814373016,
               "height" : 28
+            }
+          },
+          {
+            "text" : "A",
+            "targetRectangle" : {
+              "y" : 171.64398193359375,
+              "x" : 427.23442776189739,
+              "width" : 11.396000000000015,
+              "height" : 28.40008544921875
+            }
+          },
+          {
+            "text" : "1",
+            "targetRectangle" : {
+              "y" : 298.60113525390625,
+              "x" : 134.02246875,
+              "width" : 10.415999999999997,
+              "height" : 28.40008544921875
             }
           }
         ],
@@ -35313,10 +35299,10 @@ local_slide( {
                     "rotation" : 0,
                     "scale" : 1,
                     "position" : {
-                      "pointX" : 972.07660043239594,
+                      "pointX" : 972.57660043239594,
                       "pointY" : 44
                     },
-                    "width" : 25,
+                    "width" : 26,
                     "sublayerTransform" : [
                       1,
                       0,
@@ -35385,10 +35371,10 @@ local_slide( {
                         "rotation" : 0,
                         "scale" : 1,
                         "position" : {
-                          "pointX" : 15.923399567604065,
+                          "pointX" : 16.423399567604065,
                           "pointY" : 18
                         },
-                        "width" : 25,
+                        "width" : 26,
                         "sublayerTransform" : [
                           1,
                           0,
@@ -35422,7 +35408,7 @@ local_slide( {
                           "pointY" : 0.5
                         }
                       },
-                      "texture" : "B47A9D6E9A922CD5E766C84E04E66FC7"
+                      "texture" : "80BAA8A288772D5CD020DDEEECD68A96"
                     }
                   ]
                 }
@@ -41757,20 +41743,29 @@ local_slide( {
         ],
         "accessibility" : [
           {
-            "text" : "spectre.png",
+            "text" : "D",
             "targetRectangle" : {
-              "y" : 91.537521362304688,
-              "x" : 864.53656005859375,
-              "width" : 128.11909484863281,
-              "height" : 101.40676879882812
+              "y" : 560.96734619140625,
+              "x" : 567.06297121892862,
+              "width" : 11.927999999999997,
+              "height" : 28.40008544921875
             }
           },
           {
-            "text" : "A",
+            "text" : "spectre: Variant 2 (CVE-2017-5715)",
             "targetRectangle" : {
-              "y" : 171.64398193359375,
-              "x" : 427.23442776189739,
-              "width" : 11.396000000000015,
+              "y" : 125,
+              "x" : 36,
+              "width" : 566.68799999999999,
+              "height" : 48.400146484375
+            }
+          },
+          {
+            "text" : "D",
+            "targetRectangle" : {
+              "y" : 383.96734619140625,
+              "x" : 426.96842776189743,
+              "width" : 11.927999999999997,
               "height" : 28.40008544921875
             }
           },
@@ -41784,138 +41779,21 @@ local_slide( {
             }
           },
           {
-            "text" : "3",
+            "text" : "￼",
             "targetRectangle" : {
-              "y" : 298.60113525390625,
-              "x" : 134.02246875,
-              "width" : 10.415999999999997,
-              "height" : 28.40008544921875
-            }
-          },
-          {
-            "text" : "1",
-            "targetRectangle" : {
-              "y" : 298.60113525390625,
-              "x" : 134.02246875,
-              "width" : 10.415999999999997,
-              "height" : 28.40008544921875
-            }
-          },
-          {
-            "text" : "B",
-            "targetRectangle" : {
-              "y" : 238.02583312988281,
-              "x" : 426.96842776189743,
-              "width" : 11.927999999999997,
-              "height" : 28.40008544921875
-            }
-          },
-          {
-            "text" : "C",
-            "targetRectangle" : {
-              "y" : 310.99658203125,
-              "x" : 427.23442776189739,
-              "width" : 11.396000000000015,
-              "height" : 28.40008544921875
-            }
-          },
-          {
-            "text" : "(1) Counter > 0?",
-            "targetRectangle" : {
-              "y" : 410.10598772764206,
-              "x" : 523.51849365234375,
-              "width" : 188.35199999999998,
-              "height" : 33
-            }
-          },
-          {
-            "text" : "1",
-            "targetRectangle" : {
-              "y" : 415.0675048828125,
-              "x" : 134.02246875,
-              "width" : 10.415999999999997,
-              "height" : 28.40008544921875
-            }
-          },
-          {
-            "text" : "D",
-            "targetRectangle" : {
-              "y" : 383.96734619140625,
-              "x" : 426.96842776189743,
-              "width" : 11.927999999999997,
-              "height" : 28.40008544921875
-            }
-          },
-          {
-            "text" : "Counter",
-            "targetRectangle" : {
-              "y" : 331.10598790645599,
-              "x" : 71.518470764160156,
-              "width" : 134.42400000000001,
-              "height" : 49
-            }
-          },
-          {
-            "text" : "E",
-            "targetRectangle" : {
-              "y" : 456.9381103515625,
-              "x" : 427.75242776189742,
-              "width" : 10.359999999999957,
-              "height" : 28.40008544921875
-            }
-          },
-          {
-            "text" : "2",
-            "targetRectangle" : {
-              "y" : 298.60113525390625,
-              "x" : 134.02246875,
-              "width" : 10.415999999999997,
-              "height" : 28.40008544921875
-            }
-          },
-          {
-            "text" : "D",
-            "targetRectangle" : {
-              "y" : 383.96734619140625,
-              "x" : 426.96842776189743,
-              "width" : 11.927999999999997,
-              "height" : 28.40008544921875
-            }
-          },
-          {
-            "text" : "(2) Read next",
-            "targetRectangle" : {
-              "y" : 447.23689424991608,
-              "x" : 234.51849365234375,
-              "width" : 154.82400000000001,
-              "height" : 33
-            }
-          },
-          {
-            "text" : "instruction",
-            "targetRectangle" : {
-              "y" : 474.53689429908991,
-              "x" : 234.51849365234375,
-              "width" : 124.44,
-              "height" : 33
-            }
-          },
-          {
-            "text" : "address ",
-            "targetRectangle" : {
-              "y" : 501.83689434826374,
-              "x" : 234.51849365234375,
-              "width" : 97.199999999999989,
-              "height" : 33
-            }
-          },
-          {
-            "text" : "Meltdown & Spectre for normal people",
-            "targetRectangle" : {
-              "y" : 40,
-              "x" : 36,
-              "width" : 519.28593814373016,
+              "y" : 38,
+              "x" : 964.57660043239594,
+              "width" : 23.0390625,
               "height" : 28
+            }
+          },
+          {
+            "text" : "D",
+            "targetRectangle" : {
+              "y" : 383.96734619140625,
+              "x" : 426.96842776189743,
+              "width" : 11.927999999999997,
+              "height" : 28.40008544921875
             }
           },
           {
@@ -41946,29 +41824,65 @@ local_slide( {
             }
           },
           {
-            "text" : "(3) Jump to indirect address",
+            "text" : "3",
             "targetRectangle" : {
-              "y" : 321.10598772764206,
-              "x" : 677.51849365234375,
-              "width" : 325.46399999999994,
+              "y" : 298.60113525390625,
+              "x" : 134.02246875,
+              "width" : 10.415999999999997,
+              "height" : 28.40008544921875
+            }
+          },
+          {
+            "text" : "E",
+            "targetRectangle" : {
+              "y" : 456.9381103515625,
+              "x" : 427.75242776189742,
+              "width" : 10.359999999999957,
+              "height" : 28.40008544921875
+            }
+          },
+          {
+            "text" : "B",
+            "targetRectangle" : {
+              "y" : 238.02583312988281,
+              "x" : 426.96842776189743,
+              "width" : 11.927999999999997,
+              "height" : 28.40008544921875
+            }
+          },
+          {
+            "text" : "(1) Counter > 0?",
+            "targetRectangle" : {
+              "y" : 410.10598772764206,
+              "x" : 523.51849365234375,
+              "width" : 188.35199999999998,
               "height" : 33
             }
           },
           {
-            "text" : "spectre: Variant 2 (CVE-2017-5715)",
+            "text" : "2",
             "targetRectangle" : {
-              "y" : 125,
-              "x" : 36,
-              "width" : 566.68799999999999,
-              "height" : 48.400146484375
+              "y" : 298.60113525390625,
+              "x" : 134.02246875,
+              "width" : 10.415999999999997,
+              "height" : 28.40008544921875
             }
           },
           {
-            "text" : "D",
+            "text" : "C",
             "targetRectangle" : {
-              "y" : 560.96734619140625,
-              "x" : 567.06297121892862,
-              "width" : 11.927999999999997,
+              "y" : 310.99658203125,
+              "x" : 427.23442776189739,
+              "width" : 11.396000000000015,
+              "height" : 28.40008544921875
+            }
+          },
+          {
+            "text" : "1",
+            "targetRectangle" : {
+              "y" : 415.0675048828125,
+              "x" : 134.02246875,
+              "width" : 10.415999999999997,
               "height" : 28.40008544921875
             }
           },
@@ -41982,12 +41896,84 @@ local_slide( {
             }
           },
           {
-            "text" : "￼",
+            "text" : "Counter",
             "targetRectangle" : {
-              "y" : 38,
-              "x" : 964.57660043239594,
-              "width" : 23.0390625,
+              "y" : 331.10598790645599,
+              "x" : 71.518470764160156,
+              "width" : 134.42400000000001,
+              "height" : 49
+            }
+          },
+          {
+            "text" : "(2) Read next",
+            "targetRectangle" : {
+              "y" : 447.23689424991608,
+              "x" : 234.51849365234375,
+              "width" : 154.82400000000001,
+              "height" : 33
+            }
+          },
+          {
+            "text" : "instruction",
+            "targetRectangle" : {
+              "y" : 474.53689429908991,
+              "x" : 234.51849365234375,
+              "width" : 124.44,
+              "height" : 33
+            }
+          },
+          {
+            "text" : "address ",
+            "targetRectangle" : {
+              "y" : 501.83689434826374,
+              "x" : 234.51849365234375,
+              "width" : 97.199999999999989,
+              "height" : 33
+            }
+          },
+          {
+            "text" : "spectre.png",
+            "targetRectangle" : {
+              "y" : 91.537521362304688,
+              "x" : 864.53656005859375,
+              "width" : 128.11909484863281,
+              "height" : 101.40676879882812
+            }
+          },
+          {
+            "text" : "(3) Jump to indirect address",
+            "targetRectangle" : {
+              "y" : 321.10598772764206,
+              "x" : 677.51849365234375,
+              "width" : 325.46399999999994,
+              "height" : 33
+            }
+          },
+          {
+            "text" : "Meltdown & Spectre for normal people",
+            "targetRectangle" : {
+              "y" : 40,
+              "x" : 36,
+              "width" : 519.28593814373016,
               "height" : 28
+            }
+          },
+          {
+            "text" : "A",
+            "targetRectangle" : {
+              "y" : 171.64398193359375,
+              "x" : 427.23442776189739,
+              "width" : 11.396000000000015,
+              "height" : 28.40008544921875
+            }
+          },
+          {
+            "text" : "1",
+            "targetRectangle" : {
+              "y" : 298.60113525390625,
+              "x" : 134.02246875,
+              "width" : 10.415999999999997,
+              "height" : 28.40008544921875
             }
           }
         ],
@@ -43299,10 +43285,10 @@ local_slide( {
                     "rotation" : 0,
                     "scale" : 1,
                     "position" : {
-                      "pointX" : 972.07660043239594,
+                      "pointX" : 972.57660043239594,
                       "pointY" : 44
                     },
-                    "width" : 25,
+                    "width" : 26,
                     "sublayerTransform" : [
                       1,
                       0,
@@ -43371,10 +43357,10 @@ local_slide( {
                         "rotation" : 0,
                         "scale" : 1,
                         "position" : {
-                          "pointX" : 15.923399567604065,
+                          "pointX" : 16.423399567604065,
                           "pointY" : 18
                         },
-                        "width" : 25,
+                        "width" : 26,
                         "sublayerTransform" : [
                           1,
                           0,
@@ -43408,7 +43394,7 @@ local_slide( {
                           "pointY" : 0.5
                         }
                       },
-                      "texture" : "B47A9D6E9A922CD5E766C84E04E66FC7"
+                      "texture" : "80BAA8A288772D5CD020DDEEECD68A96"
                     }
                   ]
                 }
@@ -49743,20 +49729,29 @@ local_slide( {
         ],
         "accessibility" : [
           {
-            "text" : "spectre.png",
+            "text" : "D",
             "targetRectangle" : {
-              "y" : 91.537521362304688,
-              "x" : 864.53656005859375,
-              "width" : 128.11909484863281,
-              "height" : 101.40676879882812
+              "y" : 560.96734619140625,
+              "x" : 567.06297121892862,
+              "width" : 11.927999999999997,
+              "height" : 28.40008544921875
             }
           },
           {
-            "text" : "A",
+            "text" : "spectre: Variant 2 (CVE-2017-5715)",
             "targetRectangle" : {
-              "y" : 171.64398193359375,
-              "x" : 427.23442776189739,
-              "width" : 11.396000000000015,
+              "y" : 125,
+              "x" : 36,
+              "width" : 566.68799999999999,
+              "height" : 48.400146484375
+            }
+          },
+          {
+            "text" : "D",
+            "targetRectangle" : {
+              "y" : 383.96734619140625,
+              "x" : 426.96842776189743,
+              "width" : 11.927999999999997,
               "height" : 28.40008544921875
             }
           },
@@ -49770,138 +49765,21 @@ local_slide( {
             }
           },
           {
-            "text" : "3",
+            "text" : "￼",
             "targetRectangle" : {
-              "y" : 298.60113525390625,
-              "x" : 134.02246875,
-              "width" : 10.415999999999997,
-              "height" : 28.40008544921875
-            }
-          },
-          {
-            "text" : "1",
-            "targetRectangle" : {
-              "y" : 298.60113525390625,
-              "x" : 134.02246875,
-              "width" : 10.415999999999997,
-              "height" : 28.40008544921875
-            }
-          },
-          {
-            "text" : "B",
-            "targetRectangle" : {
-              "y" : 238.02583312988281,
-              "x" : 426.96842776189743,
-              "width" : 11.927999999999997,
-              "height" : 28.40008544921875
-            }
-          },
-          {
-            "text" : "C",
-            "targetRectangle" : {
-              "y" : 310.99658203125,
-              "x" : 427.23442776189739,
-              "width" : 11.396000000000015,
-              "height" : 28.40008544921875
-            }
-          },
-          {
-            "text" : "(1) Counter > 0?",
-            "targetRectangle" : {
-              "y" : 410.10598772764206,
-              "x" : 523.51849365234375,
-              "width" : 188.35199999999998,
-              "height" : 33
-            }
-          },
-          {
-            "text" : "1",
-            "targetRectangle" : {
-              "y" : 415.0675048828125,
-              "x" : 134.02246875,
-              "width" : 10.415999999999997,
-              "height" : 28.40008544921875
-            }
-          },
-          {
-            "text" : "D",
-            "targetRectangle" : {
-              "y" : 383.96734619140625,
-              "x" : 426.96842776189743,
-              "width" : 11.927999999999997,
-              "height" : 28.40008544921875
-            }
-          },
-          {
-            "text" : "Counter",
-            "targetRectangle" : {
-              "y" : 331.10598790645599,
-              "x" : 71.518470764160156,
-              "width" : 134.42400000000001,
-              "height" : 49
-            }
-          },
-          {
-            "text" : "E",
-            "targetRectangle" : {
-              "y" : 456.9381103515625,
-              "x" : 427.75242776189742,
-              "width" : 10.359999999999957,
-              "height" : 28.40008544921875
-            }
-          },
-          {
-            "text" : "2",
-            "targetRectangle" : {
-              "y" : 298.60113525390625,
-              "x" : 134.02246875,
-              "width" : 10.415999999999997,
-              "height" : 28.40008544921875
-            }
-          },
-          {
-            "text" : "D",
-            "targetRectangle" : {
-              "y" : 383.96734619140625,
-              "x" : 426.96842776189743,
-              "width" : 11.927999999999997,
-              "height" : 28.40008544921875
-            }
-          },
-          {
-            "text" : "(2) Read next",
-            "targetRectangle" : {
-              "y" : 447.23689424991608,
-              "x" : 234.51849365234375,
-              "width" : 154.82400000000001,
-              "height" : 33
-            }
-          },
-          {
-            "text" : "instruction",
-            "targetRectangle" : {
-              "y" : 474.53689429908991,
-              "x" : 234.51849365234375,
-              "width" : 124.44,
-              "height" : 33
-            }
-          },
-          {
-            "text" : "address ",
-            "targetRectangle" : {
-              "y" : 501.83689434826374,
-              "x" : 234.51849365234375,
-              "width" : 97.199999999999989,
-              "height" : 33
-            }
-          },
-          {
-            "text" : "Meltdown & Spectre for normal people",
-            "targetRectangle" : {
-              "y" : 40,
-              "x" : 36,
-              "width" : 519.28593814373016,
+              "y" : 38,
+              "x" : 964.57660043239594,
+              "width" : 23.0390625,
               "height" : 28
+            }
+          },
+          {
+            "text" : "D",
+            "targetRectangle" : {
+              "y" : 383.96734619140625,
+              "x" : 426.96842776189743,
+              "width" : 11.927999999999997,
+              "height" : 28.40008544921875
             }
           },
           {
@@ -49932,29 +49810,65 @@ local_slide( {
             }
           },
           {
-            "text" : "(3) Jump to indirect address",
+            "text" : "3",
             "targetRectangle" : {
-              "y" : 321.10598772764206,
-              "x" : 677.51849365234375,
-              "width" : 325.46399999999994,
+              "y" : 298.60113525390625,
+              "x" : 134.02246875,
+              "width" : 10.415999999999997,
+              "height" : 28.40008544921875
+            }
+          },
+          {
+            "text" : "E",
+            "targetRectangle" : {
+              "y" : 456.9381103515625,
+              "x" : 427.75242776189742,
+              "width" : 10.359999999999957,
+              "height" : 28.40008544921875
+            }
+          },
+          {
+            "text" : "B",
+            "targetRectangle" : {
+              "y" : 238.02583312988281,
+              "x" : 426.96842776189743,
+              "width" : 11.927999999999997,
+              "height" : 28.40008544921875
+            }
+          },
+          {
+            "text" : "(1) Counter > 0?",
+            "targetRectangle" : {
+              "y" : 410.10598772764206,
+              "x" : 523.51849365234375,
+              "width" : 188.35199999999998,
               "height" : 33
             }
           },
           {
-            "text" : "spectre: Variant 2 (CVE-2017-5715)",
+            "text" : "2",
             "targetRectangle" : {
-              "y" : 125,
-              "x" : 36,
-              "width" : 566.68799999999999,
-              "height" : 48.400146484375
+              "y" : 298.60113525390625,
+              "x" : 134.02246875,
+              "width" : 10.415999999999997,
+              "height" : 28.40008544921875
             }
           },
           {
-            "text" : "D",
+            "text" : "C",
             "targetRectangle" : {
-              "y" : 560.96734619140625,
-              "x" : 567.06297121892862,
-              "width" : 11.927999999999997,
+              "y" : 310.99658203125,
+              "x" : 427.23442776189739,
+              "width" : 11.396000000000015,
+              "height" : 28.40008544921875
+            }
+          },
+          {
+            "text" : "1",
+            "targetRectangle" : {
+              "y" : 415.0675048828125,
+              "x" : 134.02246875,
+              "width" : 10.415999999999997,
               "height" : 28.40008544921875
             }
           },
@@ -49968,12 +49882,84 @@ local_slide( {
             }
           },
           {
-            "text" : "￼",
+            "text" : "Counter",
             "targetRectangle" : {
-              "y" : 38,
-              "x" : 964.57660043239594,
-              "width" : 23.0390625,
+              "y" : 331.10598790645599,
+              "x" : 71.518470764160156,
+              "width" : 134.42400000000001,
+              "height" : 49
+            }
+          },
+          {
+            "text" : "(2) Read next",
+            "targetRectangle" : {
+              "y" : 447.23689424991608,
+              "x" : 234.51849365234375,
+              "width" : 154.82400000000001,
+              "height" : 33
+            }
+          },
+          {
+            "text" : "instruction",
+            "targetRectangle" : {
+              "y" : 474.53689429908991,
+              "x" : 234.51849365234375,
+              "width" : 124.44,
+              "height" : 33
+            }
+          },
+          {
+            "text" : "address ",
+            "targetRectangle" : {
+              "y" : 501.83689434826374,
+              "x" : 234.51849365234375,
+              "width" : 97.199999999999989,
+              "height" : 33
+            }
+          },
+          {
+            "text" : "spectre.png",
+            "targetRectangle" : {
+              "y" : 91.537521362304688,
+              "x" : 864.53656005859375,
+              "width" : 128.11909484863281,
+              "height" : 101.40676879882812
+            }
+          },
+          {
+            "text" : "(3) Jump to indirect address",
+            "targetRectangle" : {
+              "y" : 321.10598772764206,
+              "x" : 677.51849365234375,
+              "width" : 325.46399999999994,
+              "height" : 33
+            }
+          },
+          {
+            "text" : "Meltdown & Spectre for normal people",
+            "targetRectangle" : {
+              "y" : 40,
+              "x" : 36,
+              "width" : 519.28593814373016,
               "height" : 28
+            }
+          },
+          {
+            "text" : "A",
+            "targetRectangle" : {
+              "y" : 171.64398193359375,
+              "x" : 427.23442776189739,
+              "width" : 11.396000000000015,
+              "height" : 28.40008544921875
+            }
+          },
+          {
+            "text" : "1",
+            "targetRectangle" : {
+              "y" : 298.60113525390625,
+              "x" : 134.02246875,
+              "width" : 10.415999999999997,
+              "height" : 28.40008544921875
             }
           }
         ],
@@ -51285,10 +51271,10 @@ local_slide( {
                     "rotation" : 0,
                     "scale" : 1,
                     "position" : {
-                      "pointX" : 972.07660043239594,
+                      "pointX" : 972.57660043239594,
                       "pointY" : 44
                     },
-                    "width" : 25,
+                    "width" : 26,
                     "sublayerTransform" : [
                       1,
                       0,
@@ -51357,10 +51343,10 @@ local_slide( {
                         "rotation" : 0,
                         "scale" : 1,
                         "position" : {
-                          "pointX" : 15.923399567604065,
+                          "pointX" : 16.423399567604065,
                           "pointY" : 18
                         },
-                        "width" : 25,
+                        "width" : 26,
                         "sublayerTransform" : [
                           1,
                           0,
@@ -51394,7 +51380,7 @@ local_slide( {
                           "pointY" : 0.5
                         }
                       },
-                      "texture" : "B47A9D6E9A922CD5E766C84E04E66FC7"
+                      "texture" : "80BAA8A288772D5CD020DDEEECD68A96"
                     }
                   ]
                 }
@@ -57923,20 +57909,29 @@ local_slide( {
         ],
         "accessibility" : [
           {
-            "text" : "spectre.png",
+            "text" : "D",
             "targetRectangle" : {
-              "y" : 91.537521362304688,
-              "x" : 864.53656005859375,
-              "width" : 128.11909484863281,
-              "height" : 101.40676879882812
+              "y" : 560.96734619140625,
+              "x" : 567.06297121892862,
+              "width" : 11.927999999999997,
+              "height" : 28.40008544921875
             }
           },
           {
-            "text" : "A",
+            "text" : "spectre: Variant 2 (CVE-2017-5715)",
             "targetRectangle" : {
-              "y" : 171.64398193359375,
-              "x" : 427.23442776189739,
-              "width" : 11.396000000000015,
+              "y" : 125,
+              "x" : 36,
+              "width" : 566.68799999999999,
+              "height" : 48.400146484375
+            }
+          },
+          {
+            "text" : "D",
+            "targetRectangle" : {
+              "y" : 383.96734619140625,
+              "x" : 426.96842776189743,
+              "width" : 11.927999999999997,
               "height" : 28.40008544921875
             }
           },
@@ -57950,6 +57945,42 @@ local_slide( {
             }
           },
           {
+            "text" : "￼",
+            "targetRectangle" : {
+              "y" : 38,
+              "x" : 964.57660043239594,
+              "width" : 23.0390625,
+              "height" : 28
+            }
+          },
+          {
+            "text" : "D",
+            "targetRectangle" : {
+              "y" : 383.96734619140625,
+              "x" : 426.96842776189743,
+              "width" : 11.927999999999997,
+              "height" : 28.40008544921875
+            }
+          },
+          {
+            "text" : "The conditional jump (branch)       now is an indirect jump.",
+            "targetRectangle" : {
+              "y" : 550.12060546875,
+              "x" : 46.384248733520508,
+              "width" : 949.89599999999973,
+              "height" : 63.200000584125519
+            }
+          },
+          {
+            "text" : "Indirect jumps use addresses stored \\\"somewhere else”.",
+            "targetRectangle" : {
+              "y" : 613.32060605287552,
+              "x" : 46.384248733520508,
+              "width" : 905.29200000000014,
+              "height" : 63.200000584125519
+            }
+          },
+          {
             "text" : "3",
             "targetRectangle" : {
               "y" : 298.60113525390625,
@@ -57959,11 +57990,11 @@ local_slide( {
             }
           },
           {
-            "text" : "1",
+            "text" : "E",
             "targetRectangle" : {
-              "y" : 298.60113525390625,
-              "x" : 134.02246875,
-              "width" : 10.415999999999997,
+              "y" : 456.9381103515625,
+              "x" : 427.75242776189742,
+              "width" : 10.359999999999957,
               "height" : 28.40008544921875
             }
           },
@@ -57977,57 +58008,12 @@ local_slide( {
             }
           },
           {
-            "text" : "C",
-            "targetRectangle" : {
-              "y" : 310.99658203125,
-              "x" : 427.23442776189739,
-              "width" : 11.396000000000015,
-              "height" : 28.40008544921875
-            }
-          },
-          {
             "text" : "(1) Counter > 0?",
             "targetRectangle" : {
               "y" : 410.10598772764206,
               "x" : 523.51849365234375,
               "width" : 188.35199999999998,
               "height" : 33
-            }
-          },
-          {
-            "text" : "1",
-            "targetRectangle" : {
-              "y" : 415.0675048828125,
-              "x" : 134.02246875,
-              "width" : 10.415999999999997,
-              "height" : 28.40008544921875
-            }
-          },
-          {
-            "text" : "D",
-            "targetRectangle" : {
-              "y" : 383.96734619140625,
-              "x" : 426.96842776189743,
-              "width" : 11.927999999999997,
-              "height" : 28.40008544921875
-            }
-          },
-          {
-            "text" : "Counter",
-            "targetRectangle" : {
-              "y" : 331.10598790645599,
-              "x" : 71.518470764160156,
-              "width" : 134.42400000000001,
-              "height" : 49
-            }
-          },
-          {
-            "text" : "E",
-            "targetRectangle" : {
-              "y" : 456.9381103515625,
-              "x" : 427.75242776189742,
-              "width" : 10.359999999999957,
-              "height" : 28.40008544921875
             }
           },
           {
@@ -58040,12 +58026,39 @@ local_slide( {
             }
           },
           {
-            "text" : "D",
+            "text" : "C",
             "targetRectangle" : {
-              "y" : 383.96734619140625,
-              "x" : 426.96842776189743,
-              "width" : 11.927999999999997,
+              "y" : 310.99658203125,
+              "x" : 427.23442776189739,
+              "width" : 11.396000000000015,
               "height" : 28.40008544921875
+            }
+          },
+          {
+            "text" : "1",
+            "targetRectangle" : {
+              "y" : 415.0675048828125,
+              "x" : 134.02246875,
+              "width" : 10.415999999999997,
+              "height" : 28.40008544921875
+            }
+          },
+          {
+            "text" : "1",
+            "targetRectangle" : {
+              "y" : 298.60113525390625,
+              "x" : 134.02246875,
+              "width" : 10.415999999999997,
+              "height" : 28.40008544921875
+            }
+          },
+          {
+            "text" : "Counter",
+            "targetRectangle" : {
+              "y" : 331.10598790645599,
+              "x" : 71.518470764160156,
+              "width" : 134.42400000000001,
+              "height" : 49
             }
           },
           {
@@ -58076,30 +58089,12 @@ local_slide( {
             }
           },
           {
-            "text" : "Meltdown & Spectre for normal people",
+            "text" : "spectre.png",
             "targetRectangle" : {
-              "y" : 40,
-              "x" : 36,
-              "width" : 519.28593814373016,
-              "height" : 28
-            }
-          },
-          {
-            "text" : "The conditional jump (branch)       now is an indirect jump.",
-            "targetRectangle" : {
-              "y" : 550.12060546875,
-              "x" : 46.384248733520508,
-              "width" : 949.89599999999973,
-              "height" : 63.200000584125519
-            }
-          },
-          {
-            "text" : "Indirect jumps use addresses stored \\\"somewhere else”.",
-            "targetRectangle" : {
-              "y" : 613.32060605287552,
-              "x" : 46.384248733520508,
-              "width" : 905.29200000000014,
-              "height" : 63.200000584125519
+              "y" : 91.537521362304688,
+              "x" : 864.53656005859375,
+              "width" : 128.11909484863281,
+              "height" : 101.40676879882812
             }
           },
           {
@@ -58112,20 +58107,20 @@ local_slide( {
             }
           },
           {
-            "text" : "spectre: Variant 2 (CVE-2017-5715)",
+            "text" : "Meltdown & Spectre for normal people",
             "targetRectangle" : {
-              "y" : 125,
+              "y" : 40,
               "x" : 36,
-              "width" : 566.68799999999999,
-              "height" : 48.400146484375
+              "width" : 519.28593814373016,
+              "height" : 28
             }
           },
           {
-            "text" : "D",
+            "text" : "A",
             "targetRectangle" : {
-              "y" : 560.96734619140625,
-              "x" : 567.06297121892862,
-              "width" : 11.927999999999997,
+              "y" : 171.64398193359375,
+              "x" : 427.23442776189739,
+              "width" : 11.396000000000015,
               "height" : 28.40008544921875
             }
           },
@@ -58136,15 +58131,6 @@ local_slide( {
               "x" : 134.02246875,
               "width" : 10.415999999999997,
               "height" : 28.40008544921875
-            }
-          },
-          {
-            "text" : "￼",
-            "targetRectangle" : {
-              "y" : 38,
-              "x" : 964.57660043239594,
-              "width" : 23.0390625,
-              "height" : 28
             }
           }
         ],
@@ -59456,10 +59442,10 @@ local_slide( {
                     "rotation" : 0,
                     "scale" : 1,
                     "position" : {
-                      "pointX" : 972.07660043239594,
+                      "pointX" : 972.57660043239594,
                       "pointY" : 44
                     },
-                    "width" : 25,
+                    "width" : 26,
                     "sublayerTransform" : [
                       1,
                       0,
@@ -59528,10 +59514,10 @@ local_slide( {
                         "rotation" : 0,
                         "scale" : 1,
                         "position" : {
-                          "pointX" : 15.923399567604065,
+                          "pointX" : 16.423399567604065,
                           "pointY" : 18
                         },
-                        "width" : 25,
+                        "width" : 26,
                         "sublayerTransform" : [
                           1,
                           0,
@@ -59565,7 +59551,7 @@ local_slide( {
                           "pointY" : 0.5
                         }
                       },
-                      "texture" : "B47A9D6E9A922CD5E766C84E04E66FC7"
+                      "texture" : "80BAA8A288772D5CD020DDEEECD68A96"
                     }
                   ]
                 }
@@ -66165,20 +66151,29 @@ local_slide( {
         ],
         "accessibility" : [
           {
-            "text" : "spectre.png",
+            "text" : "D",
             "targetRectangle" : {
-              "y" : 91.537521362304688,
-              "x" : 864.53656005859375,
-              "width" : 128.11909484863281,
-              "height" : 101.40676879882812
+              "y" : 560.96734619140625,
+              "x" : 567.06297121892862,
+              "width" : 11.927999999999997,
+              "height" : 28.40008544921875
             }
           },
           {
-            "text" : "A",
+            "text" : "spectre: Variant 2 (CVE-2017-5715)",
             "targetRectangle" : {
-              "y" : 171.64398193359375,
-              "x" : 427.23442776189739,
-              "width" : 11.396000000000015,
+              "y" : 125,
+              "x" : 36,
+              "width" : 566.68799999999999,
+              "height" : 48.400146484375
+            }
+          },
+          {
+            "text" : "D",
+            "targetRectangle" : {
+              "y" : 383.96734619140625,
+              "x" : 426.96842776189743,
+              "width" : 11.927999999999997,
               "height" : 28.40008544921875
             }
           },
@@ -66192,138 +66187,21 @@ local_slide( {
             }
           },
           {
-            "text" : "3",
+            "text" : "￼",
             "targetRectangle" : {
-              "y" : 298.60113525390625,
-              "x" : 134.02246875,
-              "width" : 10.415999999999997,
-              "height" : 28.40008544921875
-            }
-          },
-          {
-            "text" : "1",
-            "targetRectangle" : {
-              "y" : 298.60113525390625,
-              "x" : 134.02246875,
-              "width" : 10.415999999999997,
-              "height" : 28.40008544921875
-            }
-          },
-          {
-            "text" : "B",
-            "targetRectangle" : {
-              "y" : 238.02583312988281,
-              "x" : 426.96842776189743,
-              "width" : 11.927999999999997,
-              "height" : 28.40008544921875
-            }
-          },
-          {
-            "text" : "C",
-            "targetRectangle" : {
-              "y" : 310.99658203125,
-              "x" : 427.23442776189739,
-              "width" : 11.396000000000015,
-              "height" : 28.40008544921875
-            }
-          },
-          {
-            "text" : "(1) Counter > 0?",
-            "targetRectangle" : {
-              "y" : 410.10598772764206,
-              "x" : 523.51849365234375,
-              "width" : 188.35199999999998,
-              "height" : 33
-            }
-          },
-          {
-            "text" : "1",
-            "targetRectangle" : {
-              "y" : 415.0675048828125,
-              "x" : 134.02246875,
-              "width" : 10.415999999999997,
-              "height" : 28.40008544921875
-            }
-          },
-          {
-            "text" : "D",
-            "targetRectangle" : {
-              "y" : 383.96734619140625,
-              "x" : 426.96842776189743,
-              "width" : 11.927999999999997,
-              "height" : 28.40008544921875
-            }
-          },
-          {
-            "text" : "Counter",
-            "targetRectangle" : {
-              "y" : 331.10598790645599,
-              "x" : 71.518470764160156,
-              "width" : 134.42400000000001,
-              "height" : 49
-            }
-          },
-          {
-            "text" : "E",
-            "targetRectangle" : {
-              "y" : 456.9381103515625,
-              "x" : 427.75242776189742,
-              "width" : 10.359999999999957,
-              "height" : 28.40008544921875
-            }
-          },
-          {
-            "text" : "2",
-            "targetRectangle" : {
-              "y" : 298.60113525390625,
-              "x" : 134.02246875,
-              "width" : 10.415999999999997,
-              "height" : 28.40008544921875
-            }
-          },
-          {
-            "text" : "D",
-            "targetRectangle" : {
-              "y" : 383.96734619140625,
-              "x" : 426.96842776189743,
-              "width" : 11.927999999999997,
-              "height" : 28.40008544921875
-            }
-          },
-          {
-            "text" : "(2) Read next",
-            "targetRectangle" : {
-              "y" : 447.23689424991608,
-              "x" : 234.51849365234375,
-              "width" : 154.82400000000001,
-              "height" : 33
-            }
-          },
-          {
-            "text" : "instruction",
-            "targetRectangle" : {
-              "y" : 474.53689429908991,
-              "x" : 234.51849365234375,
-              "width" : 124.44,
-              "height" : 33
-            }
-          },
-          {
-            "text" : "address ",
-            "targetRectangle" : {
-              "y" : 501.83689434826374,
-              "x" : 234.51849365234375,
-              "width" : 97.199999999999989,
-              "height" : 33
-            }
-          },
-          {
-            "text" : "Meltdown & Spectre for normal people",
-            "targetRectangle" : {
-              "y" : 40,
-              "x" : 36,
-              "width" : 519.28593814373016,
+              "y" : 38,
+              "x" : 964.57660043239594,
+              "width" : 23.0390625,
               "height" : 28
+            }
+          },
+          {
+            "text" : "D",
+            "targetRectangle" : {
+              "y" : 383.96734619140625,
+              "x" : 426.96842776189743,
+              "width" : 11.927999999999997,
+              "height" : 28.40008544921875
             }
           },
           {
@@ -66354,29 +66232,65 @@ local_slide( {
             }
           },
           {
-            "text" : "(3) Jump to indirect address",
+            "text" : "3",
             "targetRectangle" : {
-              "y" : 321.10598772764206,
-              "x" : 677.51849365234375,
-              "width" : 325.46399999999994,
+              "y" : 298.60113525390625,
+              "x" : 134.02246875,
+              "width" : 10.415999999999997,
+              "height" : 28.40008544921875
+            }
+          },
+          {
+            "text" : "E",
+            "targetRectangle" : {
+              "y" : 456.9381103515625,
+              "x" : 427.75242776189742,
+              "width" : 10.359999999999957,
+              "height" : 28.40008544921875
+            }
+          },
+          {
+            "text" : "B",
+            "targetRectangle" : {
+              "y" : 238.02583312988281,
+              "x" : 426.96842776189743,
+              "width" : 11.927999999999997,
+              "height" : 28.40008544921875
+            }
+          },
+          {
+            "text" : "(1) Counter > 0?",
+            "targetRectangle" : {
+              "y" : 410.10598772764206,
+              "x" : 523.51849365234375,
+              "width" : 188.35199999999998,
               "height" : 33
             }
           },
           {
-            "text" : "spectre: Variant 2 (CVE-2017-5715)",
+            "text" : "2",
             "targetRectangle" : {
-              "y" : 125,
-              "x" : 36,
-              "width" : 566.68799999999999,
-              "height" : 48.400146484375
+              "y" : 298.60113525390625,
+              "x" : 134.02246875,
+              "width" : 10.415999999999997,
+              "height" : 28.40008544921875
             }
           },
           {
-            "text" : "D",
+            "text" : "C",
             "targetRectangle" : {
-              "y" : 560.96734619140625,
-              "x" : 567.06297121892862,
-              "width" : 11.927999999999997,
+              "y" : 310.99658203125,
+              "x" : 427.23442776189739,
+              "width" : 11.396000000000015,
+              "height" : 28.40008544921875
+            }
+          },
+          {
+            "text" : "1",
+            "targetRectangle" : {
+              "y" : 415.0675048828125,
+              "x" : 134.02246875,
+              "width" : 10.415999999999997,
               "height" : 28.40008544921875
             }
           },
@@ -66390,12 +66304,84 @@ local_slide( {
             }
           },
           {
-            "text" : "￼",
+            "text" : "Counter",
             "targetRectangle" : {
-              "y" : 38,
-              "x" : 964.57660043239594,
-              "width" : 23.0390625,
+              "y" : 331.10598790645599,
+              "x" : 71.518470764160156,
+              "width" : 134.42400000000001,
+              "height" : 49
+            }
+          },
+          {
+            "text" : "(2) Read next",
+            "targetRectangle" : {
+              "y" : 447.23689424991608,
+              "x" : 234.51849365234375,
+              "width" : 154.82400000000001,
+              "height" : 33
+            }
+          },
+          {
+            "text" : "instruction",
+            "targetRectangle" : {
+              "y" : 474.53689429908991,
+              "x" : 234.51849365234375,
+              "width" : 124.44,
+              "height" : 33
+            }
+          },
+          {
+            "text" : "address ",
+            "targetRectangle" : {
+              "y" : 501.83689434826374,
+              "x" : 234.51849365234375,
+              "width" : 97.199999999999989,
+              "height" : 33
+            }
+          },
+          {
+            "text" : "spectre.png",
+            "targetRectangle" : {
+              "y" : 91.537521362304688,
+              "x" : 864.53656005859375,
+              "width" : 128.11909484863281,
+              "height" : 101.40676879882812
+            }
+          },
+          {
+            "text" : "(3) Jump to indirect address",
+            "targetRectangle" : {
+              "y" : 321.10598772764206,
+              "x" : 677.51849365234375,
+              "width" : 325.46399999999994,
+              "height" : 33
+            }
+          },
+          {
+            "text" : "Meltdown & Spectre for normal people",
+            "targetRectangle" : {
+              "y" : 40,
+              "x" : 36,
+              "width" : 519.28593814373016,
               "height" : 28
+            }
+          },
+          {
+            "text" : "A",
+            "targetRectangle" : {
+              "y" : 171.64398193359375,
+              "x" : 427.23442776189739,
+              "width" : 11.396000000000015,
+              "height" : 28.40008544921875
+            }
+          },
+          {
+            "text" : "1",
+            "targetRectangle" : {
+              "y" : 298.60113525390625,
+              "x" : 134.02246875,
+              "width" : 10.415999999999997,
+              "height" : 28.40008544921875
             }
           }
         ],
@@ -67707,10 +67693,10 @@ local_slide( {
                     "rotation" : 0,
                     "scale" : 1,
                     "position" : {
-                      "pointX" : 972.07660043239594,
+                      "pointX" : 972.57660043239594,
                       "pointY" : 44
                     },
-                    "width" : 25,
+                    "width" : 26,
                     "sublayerTransform" : [
                       1,
                       0,
@@ -67779,10 +67765,10 @@ local_slide( {
                         "rotation" : 0,
                         "scale" : 1,
                         "position" : {
-                          "pointX" : 15.923399567604065,
+                          "pointX" : 16.423399567604065,
                           "pointY" : 18
                         },
-                        "width" : 25,
+                        "width" : 26,
                         "sublayerTransform" : [
                           1,
                           0,
@@ -67816,7 +67802,7 @@ local_slide( {
                           "pointY" : 0.5
                         }
                       },
-                      "texture" : "B47A9D6E9A922CD5E766C84E04E66FC7"
+                      "texture" : "80BAA8A288772D5CD020DDEEECD68A96"
                     }
                   ]
                 }
@@ -74012,7 +73998,7 @@ local_slide( {
                           "pointY" : 0.5
                         }
                       },
-                      "texture" : "38D4FD30DF9BE6130660A80A8081E271"
+                      "texture" : "28D301F0598ECA341481CA572B9DE22D"
                     },
                     {
                       "animations" : [
@@ -74093,7 +74079,7 @@ local_slide( {
                           "pointY" : 0.5
                         }
                       },
-                      "texture" : "71EA6DD95E328C0D9EBD39D60837D281"
+                      "texture" : "F664F17499716C164D688B1B971FB835"
                     }
                   ]
                 }
@@ -74114,20 +74100,29 @@ local_slide( {
         ],
         "accessibility" : [
           {
-            "text" : "spectre.png",
+            "text" : "D",
             "targetRectangle" : {
-              "y" : 91.537521362304688,
-              "x" : 864.53656005859375,
-              "width" : 128.11909484863281,
-              "height" : 101.40676879882812
+              "y" : 560.96734619140625,
+              "x" : 567.06297121892862,
+              "width" : 11.927999999999997,
+              "height" : 28.40008544921875
             }
           },
           {
-            "text" : "A",
+            "text" : "spectre: Variant 2 (CVE-2017-5715)",
             "targetRectangle" : {
-              "y" : 171.64398193359375,
-              "x" : 427.23442776189739,
-              "width" : 11.396000000000015,
+              "y" : 125,
+              "x" : 36,
+              "width" : 566.68799999999999,
+              "height" : 48.400146484375
+            }
+          },
+          {
+            "text" : "D",
+            "targetRectangle" : {
+              "y" : 383.96734619140625,
+              "x" : 426.96842776189743,
+              "width" : 11.927999999999997,
               "height" : 28.40008544921875
             }
           },
@@ -74141,138 +74136,21 @@ local_slide( {
             }
           },
           {
-            "text" : "3",
+            "text" : "￼",
             "targetRectangle" : {
-              "y" : 298.60113525390625,
-              "x" : 134.02246875,
-              "width" : 10.415999999999997,
-              "height" : 28.40008544921875
-            }
-          },
-          {
-            "text" : "1",
-            "targetRectangle" : {
-              "y" : 298.60113525390625,
-              "x" : 134.02246875,
-              "width" : 10.415999999999997,
-              "height" : 28.40008544921875
-            }
-          },
-          {
-            "text" : "B",
-            "targetRectangle" : {
-              "y" : 238.02583312988281,
-              "x" : 426.96842776189743,
-              "width" : 11.927999999999997,
-              "height" : 28.40008544921875
-            }
-          },
-          {
-            "text" : "C",
-            "targetRectangle" : {
-              "y" : 310.99658203125,
-              "x" : 427.23442776189739,
-              "width" : 11.396000000000015,
-              "height" : 28.40008544921875
-            }
-          },
-          {
-            "text" : "(1) Counter > 0?",
-            "targetRectangle" : {
-              "y" : 410.10598772764206,
-              "x" : 523.51849365234375,
-              "width" : 188.35199999999998,
-              "height" : 33
-            }
-          },
-          {
-            "text" : "1",
-            "targetRectangle" : {
-              "y" : 415.0675048828125,
-              "x" : 134.02246875,
-              "width" : 10.415999999999997,
-              "height" : 28.40008544921875
-            }
-          },
-          {
-            "text" : "D",
-            "targetRectangle" : {
-              "y" : 383.96734619140625,
-              "x" : 426.96842776189743,
-              "width" : 11.927999999999997,
-              "height" : 28.40008544921875
-            }
-          },
-          {
-            "text" : "Counter",
-            "targetRectangle" : {
-              "y" : 331.10598790645599,
-              "x" : 71.518470764160156,
-              "width" : 134.42400000000001,
-              "height" : 49
-            }
-          },
-          {
-            "text" : "E",
-            "targetRectangle" : {
-              "y" : 456.9381103515625,
-              "x" : 427.75242776189742,
-              "width" : 10.359999999999957,
-              "height" : 28.40008544921875
-            }
-          },
-          {
-            "text" : "2",
-            "targetRectangle" : {
-              "y" : 298.60113525390625,
-              "x" : 134.02246875,
-              "width" : 10.415999999999997,
-              "height" : 28.40008544921875
-            }
-          },
-          {
-            "text" : "D",
-            "targetRectangle" : {
-              "y" : 383.96734619140625,
-              "x" : 426.96842776189743,
-              "width" : 11.927999999999997,
-              "height" : 28.40008544921875
-            }
-          },
-          {
-            "text" : "(2) Read next",
-            "targetRectangle" : {
-              "y" : 447.23689424991608,
-              "x" : 234.51849365234375,
-              "width" : 154.82400000000001,
-              "height" : 33
-            }
-          },
-          {
-            "text" : "instruction",
-            "targetRectangle" : {
-              "y" : 474.53689429908991,
-              "x" : 234.51849365234375,
-              "width" : 124.44,
-              "height" : 33
-            }
-          },
-          {
-            "text" : "address ",
-            "targetRectangle" : {
-              "y" : 501.83689434826374,
-              "x" : 234.51849365234375,
-              "width" : 97.199999999999989,
-              "height" : 33
-            }
-          },
-          {
-            "text" : "Meltdown & Spectre for normal people",
-            "targetRectangle" : {
-              "y" : 40,
-              "x" : 36,
-              "width" : 519.28593814373016,
+              "y" : 38,
+              "x" : 964.57660043239594,
+              "width" : 23.0390625,
               "height" : 28
+            }
+          },
+          {
+            "text" : "D",
+            "targetRectangle" : {
+              "y" : 383.96734619140625,
+              "x" : 426.96842776189743,
+              "width" : 11.927999999999997,
+              "height" : 28.40008544921875
             }
           },
           {
@@ -74303,29 +74181,65 @@ local_slide( {
             }
           },
           {
-            "text" : "(3) Jump to indirect address",
+            "text" : "3",
             "targetRectangle" : {
-              "y" : 321.10598772764206,
-              "x" : 677.51849365234375,
-              "width" : 325.46399999999994,
+              "y" : 298.60113525390625,
+              "x" : 134.02246875,
+              "width" : 10.415999999999997,
+              "height" : 28.40008544921875
+            }
+          },
+          {
+            "text" : "E",
+            "targetRectangle" : {
+              "y" : 456.9381103515625,
+              "x" : 427.75242776189742,
+              "width" : 10.359999999999957,
+              "height" : 28.40008544921875
+            }
+          },
+          {
+            "text" : "B",
+            "targetRectangle" : {
+              "y" : 238.02583312988281,
+              "x" : 426.96842776189743,
+              "width" : 11.927999999999997,
+              "height" : 28.40008544921875
+            }
+          },
+          {
+            "text" : "(1) Counter > 0?",
+            "targetRectangle" : {
+              "y" : 410.10598772764206,
+              "x" : 523.51849365234375,
+              "width" : 188.35199999999998,
               "height" : 33
             }
           },
           {
-            "text" : "spectre: Variant 2 (CVE-2017-5715)",
+            "text" : "2",
             "targetRectangle" : {
-              "y" : 125,
-              "x" : 36,
-              "width" : 566.68799999999999,
-              "height" : 48.400146484375
+              "y" : 298.60113525390625,
+              "x" : 134.02246875,
+              "width" : 10.415999999999997,
+              "height" : 28.40008544921875
             }
           },
           {
-            "text" : "D",
+            "text" : "C",
             "targetRectangle" : {
-              "y" : 560.96734619140625,
-              "x" : 567.06297121892862,
-              "width" : 11.927999999999997,
+              "y" : 310.99658203125,
+              "x" : 427.23442776189739,
+              "width" : 11.396000000000015,
+              "height" : 28.40008544921875
+            }
+          },
+          {
+            "text" : "1",
+            "targetRectangle" : {
+              "y" : 415.0675048828125,
+              "x" : 134.02246875,
+              "width" : 10.415999999999997,
               "height" : 28.40008544921875
             }
           },
@@ -74339,12 +74253,84 @@ local_slide( {
             }
           },
           {
-            "text" : "￼",
+            "text" : "Counter",
             "targetRectangle" : {
-              "y" : 38,
-              "x" : 964.57660043239594,
-              "width" : 23.0390625,
+              "y" : 331.10598790645599,
+              "x" : 71.518470764160156,
+              "width" : 134.42400000000001,
+              "height" : 49
+            }
+          },
+          {
+            "text" : "(2) Read next",
+            "targetRectangle" : {
+              "y" : 447.23689424991608,
+              "x" : 234.51849365234375,
+              "width" : 154.82400000000001,
+              "height" : 33
+            }
+          },
+          {
+            "text" : "instruction",
+            "targetRectangle" : {
+              "y" : 474.53689429908991,
+              "x" : 234.51849365234375,
+              "width" : 124.44,
+              "height" : 33
+            }
+          },
+          {
+            "text" : "address ",
+            "targetRectangle" : {
+              "y" : 501.83689434826374,
+              "x" : 234.51849365234375,
+              "width" : 97.199999999999989,
+              "height" : 33
+            }
+          },
+          {
+            "text" : "spectre.png",
+            "targetRectangle" : {
+              "y" : 91.537521362304688,
+              "x" : 864.53656005859375,
+              "width" : 128.11909484863281,
+              "height" : 101.40676879882812
+            }
+          },
+          {
+            "text" : "(3) Jump to indirect address",
+            "targetRectangle" : {
+              "y" : 321.10598772764206,
+              "x" : 677.51849365234375,
+              "width" : 325.46399999999994,
+              "height" : 33
+            }
+          },
+          {
+            "text" : "Meltdown & Spectre for normal people",
+            "targetRectangle" : {
+              "y" : 40,
+              "x" : 36,
+              "width" : 519.28593814373016,
               "height" : 28
+            }
+          },
+          {
+            "text" : "A",
+            "targetRectangle" : {
+              "y" : 171.64398193359375,
+              "x" : 427.23442776189739,
+              "width" : 11.396000000000015,
+              "height" : 28.40008544921875
+            }
+          },
+          {
+            "text" : "1",
+            "targetRectangle" : {
+              "y" : 298.60113525390625,
+              "x" : 134.02246875,
+              "width" : 10.415999999999997,
+              "height" : 28.40008544921875
             }
           }
         ],
@@ -75657,10 +75643,10 @@ local_slide( {
                     "rotation" : 0,
                     "scale" : 1,
                     "position" : {
-                      "pointX" : 972.07660043239594,
+                      "pointX" : 972.57660043239594,
                       "pointY" : 44
                     },
-                    "width" : 25,
+                    "width" : 26,
                     "sublayerTransform" : [
                       1,
                       0,
@@ -75729,10 +75715,10 @@ local_slide( {
                         "rotation" : 0,
                         "scale" : 1,
                         "position" : {
-                          "pointX" : 15.923399567604065,
+                          "pointX" : 16.423399567604065,
                           "pointY" : 18
                         },
-                        "width" : 25,
+                        "width" : 26,
                         "sublayerTransform" : [
                           1,
                           0,
@@ -75766,7 +75752,7 @@ local_slide( {
                           "pointY" : 0.5
                         }
                       },
-                      "texture" : "B47A9D6E9A922CD5E766C84E04E66FC7"
+                      "texture" : "80BAA8A288772D5CD020DDEEECD68A96"
                     }
                   ]
                 }

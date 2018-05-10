@@ -2,20 +2,6 @@ local_slide( {
   "name" : "F3C26D40-E1A3-480A-993B-DE7BEC8F8559",
   "json" : {
     "assets" : {
-      "C3FCD674A7364B310F66DE46F9327525" : {
-        "type" : "texture",
-        "index" : 6,
-        "assetRequest" : {
-          "type" : "slide",
-          "state" : "contents",
-          "slide" : "none"
-        },
-        "url" : {
-          "native" : "assets\/F3C26D40-E1A3-480A-993B-DE7BEC8F8559.pdf"
-        },
-        "width" : 1024,
-        "height" : 768
-      },
       "FBB5DEA59905EE30EF2803B0A74DF992" : {
         "type" : "texture",
         "index" : 0,
@@ -44,21 +30,7 @@ local_slide( {
         "width" : 123,
         "height" : 122
       },
-      "3E1CC4DCF1048F227114F80167D7D174" : {
-        "type" : "texture",
-        "index" : 7,
-        "assetRequest" : {
-          "type" : "slide",
-          "state" : "contents",
-          "slide" : "none"
-        },
-        "url" : {
-          "native" : "assets\/F3C26D40-E1A3-480A-993B-DE7BEC8F8559.pdf"
-        },
-        "width" : 1024,
-        "height" : 768
-      },
-      "8EAED6A2F9F0569DC8CB1101394798E3" : {
+      "802A439374B9BF0818026D4B95878CD2" : {
         "type" : "texture",
         "index" : 2,
         "assetRequest" : {
@@ -69,8 +41,22 @@ local_slide( {
         "url" : {
           "native" : "assets\/F3C26D40-E1A3-480A-993B-DE7BEC8F8559.pdf"
         },
-        "width" : 26,
+        "width" : 25,
         "height" : 20
+      },
+      "E63A3E399E88D4CEA682C0827B680F69" : {
+        "type" : "texture",
+        "index" : 6,
+        "assetRequest" : {
+          "type" : "slide",
+          "state" : "contents",
+          "slide" : "none"
+        },
+        "url" : {
+          "native" : "assets\/F3C26D40-E1A3-480A-993B-DE7BEC8F8559.pdf"
+        },
+        "width" : 1024,
+        "height" : 768
       },
       "EECE57B6ADCD713CAAD44453999B6023" : {
         "type" : "texture",
@@ -113,6 +99,20 @@ local_slide( {
         },
         "width" : 999,
         "height" : 519
+      },
+      "F3E982AFCF3674A395FB802BE2CC7F61" : {
+        "type" : "texture",
+        "index" : 7,
+        "assetRequest" : {
+          "type" : "slide",
+          "state" : "contents",
+          "slide" : "none"
+        },
+        "url" : {
+          "native" : "assets\/F3C26D40-E1A3-480A-993B-DE7BEC8F8559.pdf"
+        },
+        "width" : 1024,
+        "height" : 768
       }
     },
     "events" : [
@@ -296,7 +296,7 @@ local_slide( {
                           "pointY" : 0.5
                         }
                       },
-                      "texture" : "C3FCD674A7364B310F66DE46F9327525"
+                      "texture" : "E63A3E399E88D4CEA682C0827B680F69"
                     },
                     {
                       "animations" : [
@@ -377,7 +377,7 @@ local_slide( {
                           "pointY" : 0.5
                         }
                       },
-                      "texture" : "3E1CC4DCF1048F227114F80167D7D174"
+                      "texture" : "F3E982AFCF3674A395FB802BE2CC7F61"
                     }
                   ]
                 }
@@ -395,15 +395,6 @@ local_slide( {
         "automaticPlay" : false,
         "hyperlinks" : [
           {
-            "url" : "https:\/\/github.com\/neuhalje\/presentation_content-encryption",
-            "targetRectangle" : {
-              "y" : 725.44439673423767,
-              "x" : 128.19000244140625,
-              "width" : 982.45115280151367,
-              "height" : 37.000000476837158
-            }
-          },
-          {
             "url" : "https:\/\/github.com\/neuhalje\/presentation_meltdown_spectre",
             "targetRectangle" : {
               "y" : 642,
@@ -411,16 +402,34 @@ local_slide( {
               "width" : 120,
               "height" : 120
             }
+          },
+          {
+            "url" : "https:\/\/github.com\/neuhalje\/presentation_content-encryption",
+            "targetRectangle" : {
+              "y" : 725.44439673423767,
+              "x" : 128.19000244140625,
+              "width" : 982.45115280151367,
+              "height" : 37.000000476837158
+            }
           }
         ],
         "accessibility" : [
           {
-            "text" : "https:\/\/github.com\/neuhalje\/presentation_meltdown_spectre",
+            "text" : "Q & A",
             "targetRectangle" : {
-              "y" : 729.44439673423767,
-              "x" : 132.19000244140625,
-              "width" : 820.93359375,
-              "height" : 29
+              "y" : 579,
+              "x" : 690,
+              "width" : 286.62,
+              "height" : 170.00051879882812
+            }
+          },
+          {
+            "text" : "GitHub-Mark-Light-120px-plus.png",
+            "targetRectangle" : {
+              "y" : 642,
+              "x" : 7.5,
+              "width" : 120,
+              "height" : 120
             }
           },
           {
@@ -460,21 +469,12 @@ local_slide( {
             }
           },
           {
-            "text" : "Q & A",
+            "text" : "https:\/\/github.com\/neuhalje\/presentation_meltdown_spectre",
             "targetRectangle" : {
-              "y" : 579,
-              "x" : 690,
-              "width" : 286.62,
-              "height" : 170.00051879882812
-            }
-          },
-          {
-            "text" : "GitHub-Mark-Light-120px-plus.png",
-            "targetRectangle" : {
-              "y" : 642,
-              "x" : 7.5,
-              "width" : 120,
-              "height" : 120
+              "y" : 729.44439673423767,
+              "x" : 132.19000244140625,
+              "width" : 820.93359375,
+              "height" : 29
             }
           }
         ],
@@ -974,10 +974,10 @@ local_slide( {
                     "rotation" : 0,
                     "scale" : 1,
                     "position" : {
-                      "pointX" : 972.57660043239594,
+                      "pointX" : 972.07660043239594,
                       "pointY" : 44
                     },
-                    "width" : 26,
+                    "width" : 25,
                     "sublayerTransform" : [
                       1,
                       0,
@@ -1046,10 +1046,10 @@ local_slide( {
                         "rotation" : 0,
                         "scale" : 1,
                         "position" : {
-                          "pointX" : 16.423399567604065,
+                          "pointX" : 15.923399567604065,
                           "pointY" : 18
                         },
-                        "width" : 26,
+                        "width" : 25,
                         "sublayerTransform" : [
                           1,
                           0,
@@ -1083,7 +1083,7 @@ local_slide( {
                           "pointY" : 0.5
                         }
                       },
-                      "texture" : "8EAED6A2F9F0569DC8CB1101394798E3"
+                      "texture" : "802A439374B9BF0818026D4B95878CD2"
                     }
                   ]
                 }

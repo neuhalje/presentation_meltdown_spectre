@@ -1,19 +1,5 @@
 {
   "assets" : {
-    "EA8264FD1D4A465A2FA85EBFE6A4C7D8" : {
-      "type" : "texture",
-      "index" : 20,
-      "assetRequest" : {
-        "type" : "slide",
-        "state" : "contents",
-        "slide" : "none"
-      },
-      "url" : {
-        "native" : "assets\/E1DE9F73-9677-4133-BDA0-E1B18B529E31.pdf"
-      },
-      "width" : 818,
-      "height" : 40
-    },
     "74EC6A68EA93F9BC29148ED20BCE1FF5" : {
       "type" : "texture",
       "index" : 10,
@@ -84,7 +70,7 @@
       "width" : 131,
       "height" : 104
     },
-    "9836CEACF7BC7D93DB700027771F5FD7" : {
+    "BCA73170D1BA25FA355FD843C97B8F89" : {
       "type" : "texture",
       "index" : 24,
       "assetRequest" : {
@@ -196,20 +182,6 @@
       "width" : 959,
       "height" : 87
     },
-    "028DD3A304DA00EDD99B5F69859527E1" : {
-      "type" : "texture",
-      "index" : 4,
-      "assetRequest" : {
-        "type" : "slide",
-        "state" : "contents",
-        "slide" : "none"
-      },
-      "url" : {
-        "native" : "assets\/E1DE9F73-9677-4133-BDA0-E1B18B529E31.pdf"
-      },
-      "width" : 26,
-      "height" : 20
-    },
     "FBB5DEA59905EE30EF2803B0A74DF992" : {
       "type" : "texture",
       "index" : 0,
@@ -237,6 +209,34 @@
       },
       "width" : 964,
       "height" : 5
+    },
+    "140308387D8904507F1CB576516BC528" : {
+      "type" : "texture",
+      "index" : 23,
+      "assetRequest" : {
+        "type" : "slide",
+        "state" : "contents",
+        "slide" : "none"
+      },
+      "url" : {
+        "native" : "assets\/E1DE9F73-9677-4133-BDA0-E1B18B529E31.pdf"
+      },
+      "width" : 1024,
+      "height" : 768
+    },
+    "9100760BFBE49E8706E01D8E41CCE159" : {
+      "type" : "texture",
+      "index" : 4,
+      "assetRequest" : {
+        "type" : "slide",
+        "state" : "contents",
+        "slide" : "none"
+      },
+      "url" : {
+        "native" : "assets\/E1DE9F73-9677-4133-BDA0-E1B18B529E31.pdf"
+      },
+      "width" : 26,
+      "height" : 20
     },
     "714804C9F83BC0581DC794D7C775D517" : {
       "type" : "texture",
@@ -279,20 +279,6 @@
       },
       "width" : 103,
       "height" : 68
-    },
-    "6B20625A79A1B8797190B5578D3C37C1" : {
-      "type" : "texture",
-      "index" : 23,
-      "assetRequest" : {
-        "type" : "slide",
-        "state" : "contents",
-        "slide" : "none"
-      },
-      "url" : {
-        "native" : "assets\/E1DE9F73-9677-4133-BDA0-E1B18B529E31.pdf"
-      },
-      "width" : 1024,
-      "height" : 768
     },
     "654B72F6E47791B03ACD88735C9C3CA4" : {
       "type" : "texture",
@@ -349,6 +335,20 @@
       },
       "width" : 56,
       "height" : 36
+    },
+    "EA8264FD1D4A465A2FA85EBFE6A4C7D8" : {
+      "type" : "texture",
+      "index" : 20,
+      "assetRequest" : {
+        "type" : "slide",
+        "state" : "contents",
+        "slide" : "none"
+      },
+      "url" : {
+        "native" : "assets\/E1DE9F73-9677-4133-BDA0-E1B18B529E31.pdf"
+      },
+      "width" : 818,
+      "height" : 40
     }
   },
   "events" : [
@@ -2526,12 +2526,39 @@
       ],
       "accessibility" : [
         {
+          "text" : "spectre.png",
+          "targetRectangle" : {
+            "y" : 91.537521362304688,
+            "x" : 864.53656005859375,
+            "width" : 128.11909484863281,
+            "height" : 101.40676879882812
+          }
+        },
+        {
           "text" : "The CPU can improve the coffee machine utilisation by speculatively brewing the coffee for ",
           "targetRectangle" : {
             "y" : 358.94461059570312,
             "x" : 55.999969482421875,
             "width" : 908.74799999999982,
             "height" : 98
+          }
+        },
+        {
+          "text" : "This is very similar to the effect seen in Meltdown.",
+          "targetRectangle" : {
+            "y" : 468.2481689453125,
+            "x" : 55.999980926513672,
+            "width" : 816.40800000000013,
+            "height" : 49
+          }
+        },
+        {
+          "text" : "spectre: Speculative execution",
+          "targetRectangle" : {
+            "y" : 125,
+            "x" : 36,
+            "width" : 513.3599999999999,
+            "height" : 48.400146484375
           }
         },
         {
@@ -2550,33 +2577,6 @@
             "x" : 964.57660043239594,
             "width" : 23.0390625,
             "height" : 28
-          }
-        },
-        {
-          "text" : "spectre: Speculative execution",
-          "targetRectangle" : {
-            "y" : 125,
-            "x" : 36,
-            "width" : 513.3599999999999,
-            "height" : 48.400146484375
-          }
-        },
-        {
-          "text" : "spectre.png",
-          "targetRectangle" : {
-            "y" : 91.537521362304688,
-            "x" : 864.53656005859375,
-            "width" : 128.11909484863281,
-            "height" : 101.40676879882812
-          }
-        },
-        {
-          "text" : "This is very similar to the effect seen in Meltdown.",
-          "targetRectangle" : {
-            "y" : 468.2481689453125,
-            "x" : 55.999980926513672,
-            "width" : 816.40800000000013,
-            "height" : 49
           }
         }
       ],
@@ -3580,7 +3580,7 @@
                         "pointY" : 0.5
                       }
                     },
-                    "texture" : "028DD3A304DA00EDD99B5F69859527E1"
+                    "texture" : "9100760BFBE49E8706E01D8E41CCE159"
                   }
                 ]
               }
@@ -16493,12 +16493,39 @@
       ],
       "accessibility" : [
         {
+          "text" : "spectre.png",
+          "targetRectangle" : {
+            "y" : 91.537521362304688,
+            "x" : 864.53656005859375,
+            "width" : 128.11909484863281,
+            "height" : 101.40676879882812
+          }
+        },
+        {
           "text" : "The CPU can improve the coffee machine utilisation by speculatively brewing the coffee for ",
           "targetRectangle" : {
             "y" : 358.94461059570312,
             "x" : 55.999969482421875,
             "width" : 908.74799999999982,
             "height" : 98
+          }
+        },
+        {
+          "text" : "This is very similar to the effect seen in Meltdown.",
+          "targetRectangle" : {
+            "y" : 468.2481689453125,
+            "x" : 55.999980926513672,
+            "width" : 816.40800000000013,
+            "height" : 49
+          }
+        },
+        {
+          "text" : "spectre: Speculative execution",
+          "targetRectangle" : {
+            "y" : 125,
+            "x" : 36,
+            "width" : 513.3599999999999,
+            "height" : 48.400146484375
           }
         },
         {
@@ -16517,33 +16544,6 @@
             "x" : 964.57660043239594,
             "width" : 23.0390625,
             "height" : 28
-          }
-        },
-        {
-          "text" : "spectre: Speculative execution",
-          "targetRectangle" : {
-            "y" : 125,
-            "x" : 36,
-            "width" : 513.3599999999999,
-            "height" : 48.400146484375
-          }
-        },
-        {
-          "text" : "spectre.png",
-          "targetRectangle" : {
-            "y" : 91.537521362304688,
-            "x" : 864.53656005859375,
-            "width" : 128.11909484863281,
-            "height" : 101.40676879882812
-          }
-        },
-        {
-          "text" : "This is very similar to the effect seen in Meltdown.",
-          "targetRectangle" : {
-            "y" : 468.2481689453125,
-            "x" : 55.999980926513672,
-            "width" : 816.40800000000013,
-            "height" : 49
           }
         }
       ],
@@ -17547,7 +17547,7 @@
                         "pointY" : 0.5
                       }
                     },
-                    "texture" : "028DD3A304DA00EDD99B5F69859527E1"
+                    "texture" : "9100760BFBE49E8706E01D8E41CCE159"
                   }
                 ]
               }
@@ -30460,12 +30460,48 @@
       ],
       "accessibility" : [
         {
+          "text" : "spectre.png",
+          "targetRectangle" : {
+            "y" : 91.537521362304688,
+            "x" : 864.53656005859375,
+            "width" : 128.11909484863281,
+            "height" : 101.40676879882812
+          }
+        },
+        {
           "text" : "The CPU can improve the coffee machine utilisation by speculatively brewing the coffee for ",
           "targetRectangle" : {
             "y" : 358.94461059570312,
             "x" : 55.999969482421875,
             "width" : 908.74799999999982,
             "height" : 98
+          }
+        },
+        {
+          "text" : "This is very similar to the effect seen in Meltdown.",
+          "targetRectangle" : {
+            "y" : 468.2481689453125,
+            "x" : 55.999980926513672,
+            "width" : 816.40800000000013,
+            "height" : 49
+          }
+        },
+        {
+          "text" : "In the Meltdown attack the CPU knows the next instruction (order) and asynchronously checks the permissions",
+          "targetRectangle" : {
+            "y" : 533.2271728515625,
+            "x" : 93.058805465698242,
+            "width" : 825.37199999999996,
+            "height" : 126.89999824762344
+          }
+        },
+        {
+          "text" : "spectre: Speculative execution",
+          "targetRectangle" : {
+            "y" : 125,
+            "x" : 36,
+            "width" : 513.3599999999999,
+            "height" : 48.400146484375
           }
         },
         {
@@ -30484,42 +30520,6 @@
             "x" : 964.57660043239594,
             "width" : 23.0390625,
             "height" : 28
-          }
-        },
-        {
-          "text" : "spectre: Speculative execution",
-          "targetRectangle" : {
-            "y" : 125,
-            "x" : 36,
-            "width" : 513.3599999999999,
-            "height" : 48.400146484375
-          }
-        },
-        {
-          "text" : "spectre.png",
-          "targetRectangle" : {
-            "y" : 91.537521362304688,
-            "x" : 864.53656005859375,
-            "width" : 128.11909484863281,
-            "height" : 101.40676879882812
-          }
-        },
-        {
-          "text" : "In the Meltdown attack the CPU knows the next instruction (order) and asynchronously checks the permissions",
-          "targetRectangle" : {
-            "y" : 533.2271728515625,
-            "x" : 93.058805465698242,
-            "width" : 825.37199999999996,
-            "height" : 126.89999824762344
-          }
-        },
-        {
-          "text" : "This is very similar to the effect seen in Meltdown.",
-          "targetRectangle" : {
-            "y" : 468.2481689453125,
-            "x" : 55.999980926513672,
-            "width" : 816.40800000000013,
-            "height" : 49
           }
         }
       ],
@@ -31523,7 +31523,7 @@
                         "pointY" : 0.5
                       }
                     },
-                    "texture" : "028DD3A304DA00EDD99B5F69859527E1"
+                    "texture" : "9100760BFBE49E8706E01D8E41CCE159"
                   }
                 ]
               }
@@ -44322,7 +44322,7 @@
                         "pointY" : 0.5
                       }
                     },
-                    "texture" : "6B20625A79A1B8797190B5578D3C37C1"
+                    "texture" : "140308387D8904507F1CB576516BC528"
                   },
                   {
                     "animations" : [
@@ -44403,7 +44403,7 @@
                         "pointY" : 0.5
                       }
                     },
-                    "texture" : "9836CEACF7BC7D93DB700027771F5FD7"
+                    "texture" : "BCA73170D1BA25FA355FD843C97B8F89"
                   }
                 ]
               }
@@ -44424,6 +44424,15 @@
       ],
       "accessibility" : [
         {
+          "text" : "spectre.png",
+          "targetRectangle" : {
+            "y" : 91.537521362304688,
+            "x" : 864.53656005859375,
+            "width" : 128.11909484863281,
+            "height" : 101.40676879882812
+          }
+        },
+        {
           "text" : "The CPU can improve the coffee machine utilisation by speculatively brewing the coffee for ",
           "targetRectangle" : {
             "y" : 358.94461059570312,
@@ -44433,39 +44442,12 @@
           }
         },
         {
-          "text" : "Meltdown & Spectre for normal people",
+          "text" : "This is very similar to the effect seen in Meltdown.",
           "targetRectangle" : {
-            "y" : 40,
-            "x" : 36,
-            "width" : 519.28593814373016,
-            "height" : 28
-          }
-        },
-        {
-          "text" : "￼",
-          "targetRectangle" : {
-            "y" : 38,
-            "x" : 964.57660043239594,
-            "width" : 23.0390625,
-            "height" : 28
-          }
-        },
-        {
-          "text" : "spectre: Speculative execution",
-          "targetRectangle" : {
-            "y" : 125,
-            "x" : 36,
-            "width" : 513.3599999999999,
-            "height" : 48.400146484375
-          }
-        },
-        {
-          "text" : "spectre.png",
-          "targetRectangle" : {
-            "y" : 91.537521362304688,
-            "x" : 864.53656005859375,
-            "width" : 128.11909484863281,
-            "height" : 101.40676879882812
+            "y" : 468.2481689453125,
+            "x" : 55.999980926513672,
+            "width" : 816.40800000000013,
+            "height" : 49
           }
         },
         {
@@ -44487,12 +44469,30 @@
           }
         },
         {
-          "text" : "This is very similar to the effect seen in Meltdown.",
+          "text" : "spectre: Speculative execution",
           "targetRectangle" : {
-            "y" : 468.2481689453125,
-            "x" : 55.999980926513672,
-            "width" : 816.40800000000013,
-            "height" : 49
+            "y" : 125,
+            "x" : 36,
+            "width" : 513.3599999999999,
+            "height" : 48.400146484375
+          }
+        },
+        {
+          "text" : "Meltdown & Spectre for normal people",
+          "targetRectangle" : {
+            "y" : 40,
+            "x" : 36,
+            "width" : 519.28593814373016,
+            "height" : 28
+          }
+        },
+        {
+          "text" : "￼",
+          "targetRectangle" : {
+            "y" : 38,
+            "x" : 964.57660043239594,
+            "width" : 23.0390625,
+            "height" : 28
           }
         }
       ],
@@ -45497,7 +45497,7 @@
                         "pointY" : 0.5
                       }
                     },
-                    "texture" : "028DD3A304DA00EDD99B5F69859527E1"
+                    "texture" : "9100760BFBE49E8706E01D8E41CCE159"
                   }
                 ]
               }

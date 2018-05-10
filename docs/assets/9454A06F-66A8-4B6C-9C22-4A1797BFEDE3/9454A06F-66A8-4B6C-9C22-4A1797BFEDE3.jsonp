@@ -359,12 +359,12 @@ local_slide( {
         ],
         "accessibility" : [
           {
-            "text" : "Security Goals: App isolation",
+            "text" : "appleMail.png",
             "targetRectangle" : {
-              "y" : 125,
-              "x" : 36,
-              "width" : 485.32799999999997,
-              "height" : 48.400146484375
+              "y" : 191,
+              "x" : 633,
+              "width" : 258.9375,
+              "height" : 368.03125
             }
           },
           {
@@ -386,6 +386,24 @@ local_slide( {
             }
           },
           {
+            "text" : "￼",
+            "targetRectangle" : {
+              "y" : 38,
+              "x" : 976.09613084793091,
+              "width" : 11.51953125,
+              "height" : 28
+            }
+          },
+          {
+            "text" : "Security Goals: App isolation",
+            "targetRectangle" : {
+              "y" : 125,
+              "x" : 36,
+              "width" : 485.32799999999997,
+              "height" : 48.400146484375
+            }
+          },
+          {
             "text" : "pasted-image.tiff",
             "targetRectangle" : {
               "y" : 193,
@@ -401,24 +419,6 @@ local_slide( {
               "x" : 36,
               "width" : 519.28593814373016,
               "height" : 28
-            }
-          },
-          {
-            "text" : "￼",
-            "targetRectangle" : {
-              "y" : 38,
-              "x" : 976.09613084793091,
-              "width" : 11.51953125,
-              "height" : 28
-            }
-          },
-          {
-            "text" : "appleMail.png",
-            "targetRectangle" : {
-              "y" : 191,
-              "x" : 633,
-              "width" : 258.9375,
-              "height" : 368.03125
             }
           },
           {
@@ -2028,12 +2028,12 @@ local_slide( {
         ],
         "accessibility" : [
           {
-            "text" : "Security Goals: App isolation",
+            "text" : "appleMail.png",
             "targetRectangle" : {
-              "y" : 125,
-              "x" : 36,
-              "width" : 485.32799999999997,
-              "height" : 48.400146484375
+              "y" : 191,
+              "x" : 633,
+              "width" : 258.9375,
+              "height" : 368.03125
             }
           },
           {
@@ -2055,6 +2055,24 @@ local_slide( {
             }
           },
           {
+            "text" : "￼",
+            "targetRectangle" : {
+              "y" : 38,
+              "x" : 976.09613084793091,
+              "width" : 11.51953125,
+              "height" : 28
+            }
+          },
+          {
+            "text" : "Security Goals: App isolation",
+            "targetRectangle" : {
+              "y" : 125,
+              "x" : 36,
+              "width" : 485.32799999999997,
+              "height" : 48.400146484375
+            }
+          },
+          {
             "text" : "pasted-image.tiff",
             "targetRectangle" : {
               "y" : 193,
@@ -2070,24 +2088,6 @@ local_slide( {
               "x" : 36,
               "width" : 519.28593814373016,
               "height" : 28
-            }
-          },
-          {
-            "text" : "￼",
-            "targetRectangle" : {
-              "y" : 38,
-              "x" : 976.09613084793091,
-              "width" : 11.51953125,
-              "height" : 28
-            }
-          },
-          {
-            "text" : "appleMail.png",
-            "targetRectangle" : {
-              "y" : 191,
-              "x" : 633,
-              "width" : 258.9375,
-              "height" : 368.03125
             }
           },
           {
@@ -3764,12 +3764,12 @@ local_slide( {
         ],
         "accessibility" : [
           {
-            "text" : "Security Goals: App isolation",
+            "text" : "appleMail.png",
             "targetRectangle" : {
-              "y" : 125,
-              "x" : 36,
-              "width" : 485.32799999999997,
-              "height" : 48.400146484375
+              "y" : 191,
+              "x" : 633,
+              "width" : 258.9375,
+              "height" : 368.03125
             }
           },
           {
@@ -3791,6 +3791,24 @@ local_slide( {
             }
           },
           {
+            "text" : "￼",
+            "targetRectangle" : {
+              "y" : 38,
+              "x" : 976.09613084793091,
+              "width" : 11.51953125,
+              "height" : 28
+            }
+          },
+          {
+            "text" : "Security Goals: App isolation",
+            "targetRectangle" : {
+              "y" : 125,
+              "x" : 36,
+              "width" : 485.32799999999997,
+              "height" : 48.400146484375
+            }
+          },
+          {
             "text" : "pasted-image.tiff",
             "targetRectangle" : {
               "y" : 193,
@@ -3806,24 +3824,6 @@ local_slide( {
               "x" : 36,
               "width" : 519.28593814373016,
               "height" : 28
-            }
-          },
-          {
-            "text" : "￼",
-            "targetRectangle" : {
-              "y" : 38,
-              "x" : 976.09613084793091,
-              "width" : 11.51953125,
-              "height" : 28
-            }
-          },
-          {
-            "text" : "appleMail.png",
-            "targetRectangle" : {
-              "y" : 191,
-              "x" : 633,
-              "width" : 258.9375,
-              "height" : 368.03125
             }
           },
           {

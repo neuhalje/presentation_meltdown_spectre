@@ -2,9 +2,9 @@ local_slide( {
   "name" : "93DAAFE1-EE84-4778-BFC3-AC36C076A0C9",
   "json" : {
     "assets" : {
-      "4F91F03A5EE357A89A6C442CECBDFAA6" : {
+      "984F77142915190546505C6C7605C5EE" : {
         "type" : "texture",
-        "index" : 31,
+        "index" : 27,
         "assetRequest" : {
           "type" : "slide",
           "state" : "contents",
@@ -13,8 +13,8 @@ local_slide( {
         "url" : {
           "native" : "assets\/93DAAFE1-EE84-4778-BFC3-AC36C076A0C9.pdf"
         },
-        "width" : 1024,
-        "height" : 768
+        "width" : 123,
+        "height" : 144
       },
       "B63A0B9E2346C4452107269F667C6D66" : {
         "type" : "texture",
@@ -44,9 +44,9 @@ local_slide( {
         "width" : 80,
         "height" : 118
       },
-      "1947897DFAE4384C1B80F291040F76C0" : {
+      "BE1EEA0CC341BC8E8239509BD36FFC75" : {
         "type" : "texture",
-        "index" : 9,
+        "index" : 31,
         "assetRequest" : {
           "type" : "slide",
           "state" : "contents",
@@ -55,8 +55,8 @@ local_slide( {
         "url" : {
           "native" : "assets\/93DAAFE1-EE84-4778-BFC3-AC36C076A0C9.pdf"
         },
-        "width" : 287,
-        "height" : 49
+        "width" : 1024,
+        "height" : 768
       },
       "273BCCFF570AACBB9F9B00C907C771C5" : {
         "type" : "texture",
@@ -72,9 +72,9 @@ local_slide( {
         "width" : 287,
         "height" : 49
       },
-      "984F77142915190546505C6C7605C5EE" : {
+      "2A34A6D1A283A64E75C850EE0219BE7C" : {
         "type" : "texture",
-        "index" : 27,
+        "index" : 30,
         "assetRequest" : {
           "type" : "slide",
           "state" : "contents",
@@ -83,8 +83,22 @@ local_slide( {
         "url" : {
           "native" : "assets\/93DAAFE1-EE84-4778-BFC3-AC36C076A0C9.pdf"
         },
-        "width" : 123,
-        "height" : 144
+        "width" : 1024,
+        "height" : 768
+      },
+      "1947897DFAE4384C1B80F291040F76C0" : {
+        "type" : "texture",
+        "index" : 9,
+        "assetRequest" : {
+          "type" : "slide",
+          "state" : "contents",
+          "slide" : "none"
+        },
+        "url" : {
+          "native" : "assets\/93DAAFE1-EE84-4778-BFC3-AC36C076A0C9.pdf"
+        },
+        "width" : 287,
+        "height" : 49
       },
       "31AE1A60355CC2C11A80A001D7418EE0" : {
         "type" : "texture",
@@ -141,6 +155,20 @@ local_slide( {
         },
         "width" : 287,
         "height" : 49
+      },
+      "E26519227629C712C157571F906AD853" : {
+        "type" : "texture",
+        "index" : 5,
+        "assetRequest" : {
+          "type" : "slide",
+          "state" : "contents",
+          "slide" : "none"
+        },
+        "url" : {
+          "native" : "assets\/93DAAFE1-EE84-4778-BFC3-AC36C076A0C9.pdf"
+        },
+        "width" : 26,
+        "height" : 20
       },
       "B55D4CE9AE3CE02D79B2C138D841E5A9" : {
         "type" : "texture",
@@ -212,9 +240,9 @@ local_slide( {
         "width" : 519,
         "height" : 20
       },
-      "2A9A170F1915CFC922060426236AC966" : {
+      "FC54D020F7DF73359E2349CDEC59A312" : {
         "type" : "texture",
-        "index" : 30,
+        "index" : 22,
         "assetRequest" : {
           "type" : "slide",
           "state" : "contents",
@@ -223,8 +251,8 @@ local_slide( {
         "url" : {
           "native" : "assets\/93DAAFE1-EE84-4778-BFC3-AC36C076A0C9.pdf"
         },
-        "width" : 1024,
-        "height" : 768
+        "width" : 286,
+        "height" : 47
       },
       "FBB5DEA59905EE30EF2803B0A74DF992" : {
         "type" : "texture",
@@ -239,20 +267,6 @@ local_slide( {
         },
         "width" : 1024,
         "height" : 768
-      },
-      "FC54D020F7DF73359E2349CDEC59A312" : {
-        "type" : "texture",
-        "index" : 22,
-        "assetRequest" : {
-          "type" : "slide",
-          "state" : "contents",
-          "slide" : "none"
-        },
-        "url" : {
-          "native" : "assets\/93DAAFE1-EE84-4778-BFC3-AC36C076A0C9.pdf"
-        },
-        "width" : 286,
-        "height" : 47
       },
       "B40AB1A40C401A5E545C58312EED7E74" : {
         "type" : "texture",
@@ -323,20 +337,6 @@ local_slide( {
         },
         "width" : 288,
         "height" : 49
-      },
-      "67DE9CF4E429B498C1FA5DB7E7D83CC4" : {
-        "type" : "texture",
-        "index" : 5,
-        "assetRequest" : {
-          "type" : "slide",
-          "state" : "contents",
-          "slide" : "none"
-        },
-        "url" : {
-          "native" : "assets\/93DAAFE1-EE84-4778-BFC3-AC36C076A0C9.pdf"
-        },
-        "width" : 26,
-        "height" : 20
       },
       "21521795FBBC94BEC01EE7052EED9D9B" : {
         "type" : "texture",
@@ -667,12 +667,21 @@ local_slide( {
         ],
         "accessibility" : [
           {
-            "text" : "Meltdown & Spectre for normal people",
+            "text" : "￼",
             "targetRectangle" : {
-              "y" : 40,
-              "x" : 36,
-              "width" : 519.28593814373016,
+              "y" : 38,
+              "x" : 964.57660043239594,
+              "width" : 23.0390625,
               "height" : 28
+            }
+          },
+          {
+            "text" : "CPU core",
+            "targetRectangle" : {
+              "y" : 465.58697539567947,
+              "x" : 28.130483627319336,
+              "width" : 88.660000000000011,
+              "height" : 27
             }
           },
           {
@@ -682,6 +691,105 @@ local_slide( {
               "x" : 849.0316162109375,
               "width" : 20,
               "height" : 27
+            }
+          },
+          {
+            "text" : "Cache",
+            "targetRectangle" : {
+              "y" : 382.84262096881866,
+              "x" : 129.93373107910156,
+              "width" : 76.95999999999998,
+              "height" : 36
+            }
+          },
+          {
+            "text" : "RAM",
+            "targetRectangle" : {
+              "y" : 553.84027117490768,
+              "x" : 822.5115966796875,
+              "width" : 56.327999999999975,
+              "height" : 33
+            }
+          },
+          {
+            "text" : "The cache speeds up “what is the value at address X?”. This is called “(address) X is cached” ",
+            "targetRectangle" : {
+              "y" : 734.34082102775574,
+              "x" : 9.8337583541870117,
+              "width" : 958.06499999999983,
+              "height" : 31
+            }
+          },
+          {
+            "text" : "Read",
+            "targetRectangle" : {
+              "y" : 322.84262096881866,
+              "x" : 134.93373870849609,
+              "width" : 64.089999999999975,
+              "height" : 36
+            }
+          },
+          {
+            "text" : "Meltdown & Spectre for normal people",
+            "targetRectangle" : {
+              "y" : 40,
+              "x" : 36,
+              "width" : 519.28593814373016,
+              "height" : 28
+            }
+          },
+          {
+            "text" : "meltdown.png",
+            "targetRectangle" : {
+              "y" : 91.537521362304688,
+              "x" : 928.58154296875,
+              "width" : 70.384666442871094,
+              "height" : 114.92495727539062
+            }
+          },
+          {
+            "text" : " 3ns",
+            "targetRectangle" : {
+              "y" : 461.66259777545929,
+              "x" : 162.63572692871094,
+              "width" : 51.584000000000003,
+              "height" : 36
+            }
+          },
+          {
+            "text" : "Value",
+            "targetRectangle" : {
+              "y" : 373.1990966796875,
+              "x" : 832.3296162109375,
+              "width" : 54.403999999999996,
+              "height" : 28.40008544921875
+            }
+          },
+          {
+            "text" : "Cache",
+            "targetRectangle" : {
+              "y" : 382.84262096881866,
+              "x" : 129.93373107910156,
+              "width" : 76.95999999999998,
+              "height" : 36
+            }
+          },
+          {
+            "text" : "Cache",
+            "targetRectangle" : {
+              "y" : 481.67901629209518,
+              "x" : 361.27676391601562,
+              "width" : 71.039999999999964,
+              "height" : 33
+            }
+          },
+          {
+            "text" : "In cache",
+            "targetRectangle" : {
+              "y" : 388.232925593853,
+              "x" : 268.49734497070312,
+              "width" : 95.255999999999972,
+              "height" : 33
             }
           },
           {
@@ -712,51 +820,6 @@ local_slide( {
             }
           },
           {
-            "text" : "meltdown.png",
-            "targetRectangle" : {
-              "y" : 91.537521362304688,
-              "x" : 928.58154296875,
-              "width" : 70.384666442871094,
-              "height" : 114.92495727539062
-            }
-          },
-          {
-            "text" : " 103ns",
-            "targetRectangle" : {
-              "y" : 461.66259777545929,
-              "x" : 161.67772674560547,
-              "width" : 85.175999999999988,
-              "height" : 36
-            }
-          },
-          {
-            "text" : "CPU core",
-            "targetRectangle" : {
-              "y" : 465.58697539567947,
-              "x" : 28.130483627319336,
-              "width" : 88.660000000000011,
-              "height" : 27
-            }
-          },
-          {
-            "text" : "In cache",
-            "targetRectangle" : {
-              "y" : 388.232925593853,
-              "x" : 268.49734497070312,
-              "width" : 95.255999999999972,
-              "height" : 33
-            }
-          },
-          {
-            "text" : "Cache",
-            "targetRectangle" : {
-              "y" : 481.67901629209518,
-              "x" : 361.27676391601562,
-              "width" : 71.039999999999964,
-              "height" : 33
-            }
-          },
-          {
             "text" : "Meltdown: Stashing away - Sidechannel",
             "targetRectangle" : {
               "y" : 125,
@@ -766,11 +829,29 @@ local_slide( {
             }
           },
           {
+            "text" : "Read",
+            "targetRectangle" : {
+              "y" : 322.84262096881866,
+              "x" : 134.93373870849609,
+              "width" : 64.089999999999975,
+              "height" : 36
+            }
+          },
+          {
             "text" : "100ns",
             "targetRectangle" : {
               "y" : 449.08697521686554,
               "x" : 613.95135498046875,
               "width" : 78.676000000000045,
+              "height" : 36
+            }
+          },
+          {
+            "text" : " 103ns",
+            "targetRectangle" : {
+              "y" : 461.66259777545929,
+              "x" : 161.67772674560547,
+              "width" : 85.175999999999988,
               "height" : 36
             }
           },
@@ -784,21 +865,12 @@ local_slide( {
             }
           },
           {
-            "text" : "Value",
+            "text" : "Not in cache",
             "targetRectangle" : {
-              "y" : 373.1990966796875,
-              "x" : 832.3296162109375,
-              "width" : 54.403999999999996,
-              "height" : 28.40008544921875
-            }
-          },
-          {
-            "text" : "Cache",
-            "targetRectangle" : {
-              "y" : 382.84262096881866,
-              "x" : 129.93373107910156,
-              "width" : 76.95999999999998,
-              "height" : 36
+              "y" : 389.67105120420456,
+              "x" : 266.07736206054688,
+              "width" : 143.78399999999999,
+              "height" : 33
             }
           },
           {
@@ -808,78 +880,6 @@ local_slide( {
               "x" : 574.17596435546875,
               "width" : 64.090000000000032,
               "height" : 36
-            }
-          },
-          {
-            "text" : "The cache speeds up “what is the value at address X?”. This is called “(address) X is cached” ",
-            "targetRectangle" : {
-              "y" : 734.34082102775574,
-              "x" : 9.8337583541870117,
-              "width" : 958.06499999999983,
-              "height" : 31
-            }
-          },
-          {
-            "text" : "Cache",
-            "targetRectangle" : {
-              "y" : 382.84262096881866,
-              "x" : 129.93373107910156,
-              "width" : 76.95999999999998,
-              "height" : 36
-            }
-          },
-          {
-            "text" : " 3ns",
-            "targetRectangle" : {
-              "y" : 461.66259777545929,
-              "x" : 162.63572692871094,
-              "width" : 51.584000000000003,
-              "height" : 36
-            }
-          },
-          {
-            "text" : "Read",
-            "targetRectangle" : {
-              "y" : 322.84262096881866,
-              "x" : 134.93373870849609,
-              "width" : 64.089999999999975,
-              "height" : 36
-            }
-          },
-          {
-            "text" : "RAM",
-            "targetRectangle" : {
-              "y" : 553.84027117490768,
-              "x" : 822.5115966796875,
-              "width" : 56.327999999999975,
-              "height" : 33
-            }
-          },
-          {
-            "text" : "￼",
-            "targetRectangle" : {
-              "y" : 38,
-              "x" : 964.57660043239594,
-              "width" : 23.0390625,
-              "height" : 28
-            }
-          },
-          {
-            "text" : "Read",
-            "targetRectangle" : {
-              "y" : 322.84262096881866,
-              "x" : 134.93373870849609,
-              "width" : 64.089999999999975,
-              "height" : 36
-            }
-          },
-          {
-            "text" : "Not in cache",
-            "targetRectangle" : {
-              "y" : 389.67105120420456,
-              "x" : 266.07736206054688,
-              "width" : 143.78399999999999,
-              "height" : 33
             }
           }
         ],
@@ -2065,7 +2065,7 @@ local_slide( {
                           "pointY" : 0.5
                         }
                       },
-                      "texture" : "67DE9CF4E429B498C1FA5DB7E7D83CC4"
+                      "texture" : "E26519227629C712C157571F906AD853"
                     }
                   ]
                 }
@@ -9563,12 +9563,21 @@ local_slide( {
         ],
         "accessibility" : [
           {
-            "text" : "Meltdown & Spectre for normal people",
+            "text" : "￼",
             "targetRectangle" : {
-              "y" : 40,
-              "x" : 36,
-              "width" : 519.28593814373016,
+              "y" : 38,
+              "x" : 964.57660043239594,
+              "width" : 23.0390625,
               "height" : 28
+            }
+          },
+          {
+            "text" : "CPU core",
+            "targetRectangle" : {
+              "y" : 465.58697539567947,
+              "x" : 28.130483627319336,
+              "width" : 88.660000000000011,
+              "height" : 27
             }
           },
           {
@@ -9578,6 +9587,105 @@ local_slide( {
               "x" : 849.0316162109375,
               "width" : 20,
               "height" : 27
+            }
+          },
+          {
+            "text" : "Cache",
+            "targetRectangle" : {
+              "y" : 382.84262096881866,
+              "x" : 129.93373107910156,
+              "width" : 76.95999999999998,
+              "height" : 36
+            }
+          },
+          {
+            "text" : "RAM",
+            "targetRectangle" : {
+              "y" : 553.84027117490768,
+              "x" : 822.5115966796875,
+              "width" : 56.327999999999975,
+              "height" : 33
+            }
+          },
+          {
+            "text" : "The cache speeds up “what is the value at address X?”. This is called “(address) X is cached” ",
+            "targetRectangle" : {
+              "y" : 734.34082102775574,
+              "x" : 9.8337583541870117,
+              "width" : 958.06499999999983,
+              "height" : 31
+            }
+          },
+          {
+            "text" : "Read",
+            "targetRectangle" : {
+              "y" : 322.84262096881866,
+              "x" : 134.93373870849609,
+              "width" : 64.089999999999975,
+              "height" : 36
+            }
+          },
+          {
+            "text" : "Meltdown & Spectre for normal people",
+            "targetRectangle" : {
+              "y" : 40,
+              "x" : 36,
+              "width" : 519.28593814373016,
+              "height" : 28
+            }
+          },
+          {
+            "text" : "meltdown.png",
+            "targetRectangle" : {
+              "y" : 91.537521362304688,
+              "x" : 928.58154296875,
+              "width" : 70.384666442871094,
+              "height" : 114.92495727539062
+            }
+          },
+          {
+            "text" : " 3ns",
+            "targetRectangle" : {
+              "y" : 461.66259777545929,
+              "x" : 162.63572692871094,
+              "width" : 51.584000000000003,
+              "height" : 36
+            }
+          },
+          {
+            "text" : "Value",
+            "targetRectangle" : {
+              "y" : 373.1990966796875,
+              "x" : 832.3296162109375,
+              "width" : 54.403999999999996,
+              "height" : 28.40008544921875
+            }
+          },
+          {
+            "text" : "Cache",
+            "targetRectangle" : {
+              "y" : 382.84262096881866,
+              "x" : 129.93373107910156,
+              "width" : 76.95999999999998,
+              "height" : 36
+            }
+          },
+          {
+            "text" : "Cache",
+            "targetRectangle" : {
+              "y" : 481.67901629209518,
+              "x" : 361.27676391601562,
+              "width" : 71.039999999999964,
+              "height" : 33
+            }
+          },
+          {
+            "text" : "In cache",
+            "targetRectangle" : {
+              "y" : 388.232925593853,
+              "x" : 268.49734497070312,
+              "width" : 95.255999999999972,
+              "height" : 33
             }
           },
           {
@@ -9608,51 +9716,6 @@ local_slide( {
             }
           },
           {
-            "text" : "meltdown.png",
-            "targetRectangle" : {
-              "y" : 91.537521362304688,
-              "x" : 928.58154296875,
-              "width" : 70.384666442871094,
-              "height" : 114.92495727539062
-            }
-          },
-          {
-            "text" : " 103ns",
-            "targetRectangle" : {
-              "y" : 461.66259777545929,
-              "x" : 161.67772674560547,
-              "width" : 85.175999999999988,
-              "height" : 36
-            }
-          },
-          {
-            "text" : "CPU core",
-            "targetRectangle" : {
-              "y" : 465.58697539567947,
-              "x" : 28.130483627319336,
-              "width" : 88.660000000000011,
-              "height" : 27
-            }
-          },
-          {
-            "text" : "In cache",
-            "targetRectangle" : {
-              "y" : 388.232925593853,
-              "x" : 268.49734497070312,
-              "width" : 95.255999999999972,
-              "height" : 33
-            }
-          },
-          {
-            "text" : "Cache",
-            "targetRectangle" : {
-              "y" : 481.67901629209518,
-              "x" : 361.27676391601562,
-              "width" : 71.039999999999964,
-              "height" : 33
-            }
-          },
-          {
             "text" : "Meltdown: Stashing away - Sidechannel",
             "targetRectangle" : {
               "y" : 125,
@@ -9662,11 +9725,29 @@ local_slide( {
             }
           },
           {
+            "text" : "Read",
+            "targetRectangle" : {
+              "y" : 322.84262096881866,
+              "x" : 134.93373870849609,
+              "width" : 64.089999999999975,
+              "height" : 36
+            }
+          },
+          {
             "text" : "100ns",
             "targetRectangle" : {
               "y" : 449.08697521686554,
               "x" : 613.95135498046875,
               "width" : 78.676000000000045,
+              "height" : 36
+            }
+          },
+          {
+            "text" : " 103ns",
+            "targetRectangle" : {
+              "y" : 461.66259777545929,
+              "x" : 161.67772674560547,
+              "width" : 85.175999999999988,
               "height" : 36
             }
           },
@@ -9680,21 +9761,12 @@ local_slide( {
             }
           },
           {
-            "text" : "Value",
+            "text" : "Not in cache",
             "targetRectangle" : {
-              "y" : 373.1990966796875,
-              "x" : 832.3296162109375,
-              "width" : 54.403999999999996,
-              "height" : 28.40008544921875
-            }
-          },
-          {
-            "text" : "Cache",
-            "targetRectangle" : {
-              "y" : 382.84262096881866,
-              "x" : 129.93373107910156,
-              "width" : 76.95999999999998,
-              "height" : 36
+              "y" : 389.67105120420456,
+              "x" : 266.07736206054688,
+              "width" : 143.78399999999999,
+              "height" : 33
             }
           },
           {
@@ -9704,78 +9776,6 @@ local_slide( {
               "x" : 574.17596435546875,
               "width" : 64.090000000000032,
               "height" : 36
-            }
-          },
-          {
-            "text" : "The cache speeds up “what is the value at address X?”. This is called “(address) X is cached” ",
-            "targetRectangle" : {
-              "y" : 734.34082102775574,
-              "x" : 9.8337583541870117,
-              "width" : 958.06499999999983,
-              "height" : 31
-            }
-          },
-          {
-            "text" : "Cache",
-            "targetRectangle" : {
-              "y" : 382.84262096881866,
-              "x" : 129.93373107910156,
-              "width" : 76.95999999999998,
-              "height" : 36
-            }
-          },
-          {
-            "text" : " 3ns",
-            "targetRectangle" : {
-              "y" : 461.66259777545929,
-              "x" : 162.63572692871094,
-              "width" : 51.584000000000003,
-              "height" : 36
-            }
-          },
-          {
-            "text" : "Read",
-            "targetRectangle" : {
-              "y" : 322.84262096881866,
-              "x" : 134.93373870849609,
-              "width" : 64.089999999999975,
-              "height" : 36
-            }
-          },
-          {
-            "text" : "RAM",
-            "targetRectangle" : {
-              "y" : 553.84027117490768,
-              "x" : 822.5115966796875,
-              "width" : 56.327999999999975,
-              "height" : 33
-            }
-          },
-          {
-            "text" : "￼",
-            "targetRectangle" : {
-              "y" : 38,
-              "x" : 964.57660043239594,
-              "width" : 23.0390625,
-              "height" : 28
-            }
-          },
-          {
-            "text" : "Read",
-            "targetRectangle" : {
-              "y" : 322.84262096881866,
-              "x" : 134.93373870849609,
-              "width" : 64.089999999999975,
-              "height" : 36
-            }
-          },
-          {
-            "text" : "Not in cache",
-            "targetRectangle" : {
-              "y" : 389.67105120420456,
-              "x" : 266.07736206054688,
-              "width" : 143.78399999999999,
-              "height" : 33
             }
           }
         ],
@@ -10961,7 +10961,7 @@ local_slide( {
                           "pointY" : 0.5
                         }
                       },
-                      "texture" : "67DE9CF4E429B498C1FA5DB7E7D83CC4"
+                      "texture" : "E26519227629C712C157571F906AD853"
                     }
                   ]
                 }
@@ -18459,12 +18459,21 @@ local_slide( {
         ],
         "accessibility" : [
           {
-            "text" : "Meltdown & Spectre for normal people",
+            "text" : "￼",
             "targetRectangle" : {
-              "y" : 40,
-              "x" : 36,
-              "width" : 519.28593814373016,
+              "y" : 38,
+              "x" : 964.57660043239594,
+              "width" : 23.0390625,
               "height" : 28
+            }
+          },
+          {
+            "text" : "CPU core",
+            "targetRectangle" : {
+              "y" : 465.58697539567947,
+              "x" : 28.130483627319336,
+              "width" : 88.660000000000011,
+              "height" : 27
             }
           },
           {
@@ -18474,6 +18483,105 @@ local_slide( {
               "x" : 849.0316162109375,
               "width" : 20,
               "height" : 27
+            }
+          },
+          {
+            "text" : "Cache",
+            "targetRectangle" : {
+              "y" : 382.84262096881866,
+              "x" : 129.93373107910156,
+              "width" : 76.95999999999998,
+              "height" : 36
+            }
+          },
+          {
+            "text" : "RAM",
+            "targetRectangle" : {
+              "y" : 553.84027117490768,
+              "x" : 822.5115966796875,
+              "width" : 56.327999999999975,
+              "height" : 33
+            }
+          },
+          {
+            "text" : "The cache speeds up “what is the value at address X?”. This is called “(address) X is cached” ",
+            "targetRectangle" : {
+              "y" : 734.34082102775574,
+              "x" : 9.8337583541870117,
+              "width" : 958.06499999999983,
+              "height" : 31
+            }
+          },
+          {
+            "text" : "Read",
+            "targetRectangle" : {
+              "y" : 322.84262096881866,
+              "x" : 134.93373870849609,
+              "width" : 64.089999999999975,
+              "height" : 36
+            }
+          },
+          {
+            "text" : "Meltdown & Spectre for normal people",
+            "targetRectangle" : {
+              "y" : 40,
+              "x" : 36,
+              "width" : 519.28593814373016,
+              "height" : 28
+            }
+          },
+          {
+            "text" : "meltdown.png",
+            "targetRectangle" : {
+              "y" : 91.537521362304688,
+              "x" : 928.58154296875,
+              "width" : 70.384666442871094,
+              "height" : 114.92495727539062
+            }
+          },
+          {
+            "text" : " 3ns",
+            "targetRectangle" : {
+              "y" : 461.66259777545929,
+              "x" : 162.63572692871094,
+              "width" : 51.584000000000003,
+              "height" : 36
+            }
+          },
+          {
+            "text" : "Value",
+            "targetRectangle" : {
+              "y" : 373.1990966796875,
+              "x" : 832.3296162109375,
+              "width" : 54.403999999999996,
+              "height" : 28.40008544921875
+            }
+          },
+          {
+            "text" : "Cache",
+            "targetRectangle" : {
+              "y" : 382.84262096881866,
+              "x" : 129.93373107910156,
+              "width" : 76.95999999999998,
+              "height" : 36
+            }
+          },
+          {
+            "text" : "Cache",
+            "targetRectangle" : {
+              "y" : 481.67901629209518,
+              "x" : 361.27676391601562,
+              "width" : 71.039999999999964,
+              "height" : 33
+            }
+          },
+          {
+            "text" : "In cache",
+            "targetRectangle" : {
+              "y" : 388.232925593853,
+              "x" : 268.49734497070312,
+              "width" : 95.255999999999972,
+              "height" : 33
             }
           },
           {
@@ -18504,51 +18612,6 @@ local_slide( {
             }
           },
           {
-            "text" : "meltdown.png",
-            "targetRectangle" : {
-              "y" : 91.537521362304688,
-              "x" : 928.58154296875,
-              "width" : 70.384666442871094,
-              "height" : 114.92495727539062
-            }
-          },
-          {
-            "text" : " 103ns",
-            "targetRectangle" : {
-              "y" : 461.66259777545929,
-              "x" : 161.67772674560547,
-              "width" : 85.175999999999988,
-              "height" : 36
-            }
-          },
-          {
-            "text" : "CPU core",
-            "targetRectangle" : {
-              "y" : 465.58697539567947,
-              "x" : 28.130483627319336,
-              "width" : 88.660000000000011,
-              "height" : 27
-            }
-          },
-          {
-            "text" : "In cache",
-            "targetRectangle" : {
-              "y" : 388.232925593853,
-              "x" : 268.49734497070312,
-              "width" : 95.255999999999972,
-              "height" : 33
-            }
-          },
-          {
-            "text" : "Cache",
-            "targetRectangle" : {
-              "y" : 481.67901629209518,
-              "x" : 361.27676391601562,
-              "width" : 71.039999999999964,
-              "height" : 33
-            }
-          },
-          {
             "text" : "Meltdown: Stashing away - Sidechannel",
             "targetRectangle" : {
               "y" : 125,
@@ -18558,11 +18621,29 @@ local_slide( {
             }
           },
           {
+            "text" : "Read",
+            "targetRectangle" : {
+              "y" : 322.84262096881866,
+              "x" : 134.93373870849609,
+              "width" : 64.089999999999975,
+              "height" : 36
+            }
+          },
+          {
             "text" : "100ns",
             "targetRectangle" : {
               "y" : 449.08697521686554,
               "x" : 613.95135498046875,
               "width" : 78.676000000000045,
+              "height" : 36
+            }
+          },
+          {
+            "text" : " 103ns",
+            "targetRectangle" : {
+              "y" : 461.66259777545929,
+              "x" : 161.67772674560547,
+              "width" : 85.175999999999988,
               "height" : 36
             }
           },
@@ -18576,21 +18657,12 @@ local_slide( {
             }
           },
           {
-            "text" : "Value",
+            "text" : "Not in cache",
             "targetRectangle" : {
-              "y" : 373.1990966796875,
-              "x" : 832.3296162109375,
-              "width" : 54.403999999999996,
-              "height" : 28.40008544921875
-            }
-          },
-          {
-            "text" : "Cache",
-            "targetRectangle" : {
-              "y" : 382.84262096881866,
-              "x" : 129.93373107910156,
-              "width" : 76.95999999999998,
-              "height" : 36
+              "y" : 389.67105120420456,
+              "x" : 266.07736206054688,
+              "width" : 143.78399999999999,
+              "height" : 33
             }
           },
           {
@@ -18600,78 +18672,6 @@ local_slide( {
               "x" : 574.17596435546875,
               "width" : 64.090000000000032,
               "height" : 36
-            }
-          },
-          {
-            "text" : "The cache speeds up “what is the value at address X?”. This is called “(address) X is cached” ",
-            "targetRectangle" : {
-              "y" : 734.34082102775574,
-              "x" : 9.8337583541870117,
-              "width" : 958.06499999999983,
-              "height" : 31
-            }
-          },
-          {
-            "text" : "Cache",
-            "targetRectangle" : {
-              "y" : 382.84262096881866,
-              "x" : 129.93373107910156,
-              "width" : 76.95999999999998,
-              "height" : 36
-            }
-          },
-          {
-            "text" : " 3ns",
-            "targetRectangle" : {
-              "y" : 461.66259777545929,
-              "x" : 162.63572692871094,
-              "width" : 51.584000000000003,
-              "height" : 36
-            }
-          },
-          {
-            "text" : "Read",
-            "targetRectangle" : {
-              "y" : 322.84262096881866,
-              "x" : 134.93373870849609,
-              "width" : 64.089999999999975,
-              "height" : 36
-            }
-          },
-          {
-            "text" : "RAM",
-            "targetRectangle" : {
-              "y" : 553.84027117490768,
-              "x" : 822.5115966796875,
-              "width" : 56.327999999999975,
-              "height" : 33
-            }
-          },
-          {
-            "text" : "￼",
-            "targetRectangle" : {
-              "y" : 38,
-              "x" : 964.57660043239594,
-              "width" : 23.0390625,
-              "height" : 28
-            }
-          },
-          {
-            "text" : "Read",
-            "targetRectangle" : {
-              "y" : 322.84262096881866,
-              "x" : 134.93373870849609,
-              "width" : 64.089999999999975,
-              "height" : 36
-            }
-          },
-          {
-            "text" : "Not in cache",
-            "targetRectangle" : {
-              "y" : 389.67105120420456,
-              "x" : 266.07736206054688,
-              "width" : 143.78399999999999,
-              "height" : 33
             }
           }
         ],
@@ -19857,7 +19857,7 @@ local_slide( {
                           "pointY" : 0.5
                         }
                       },
-                      "texture" : "67DE9CF4E429B498C1FA5DB7E7D83CC4"
+                      "texture" : "E26519227629C712C157571F906AD853"
                     }
                   ]
                 }
@@ -27355,12 +27355,21 @@ local_slide( {
         ],
         "accessibility" : [
           {
-            "text" : "Meltdown & Spectre for normal people",
+            "text" : "￼",
             "targetRectangle" : {
-              "y" : 40,
-              "x" : 36,
-              "width" : 519.28593814373016,
+              "y" : 38,
+              "x" : 964.57660043239594,
+              "width" : 23.0390625,
               "height" : 28
+            }
+          },
+          {
+            "text" : "CPU core",
+            "targetRectangle" : {
+              "y" : 465.58697539567947,
+              "x" : 28.130483627319336,
+              "width" : 88.660000000000011,
+              "height" : 27
             }
           },
           {
@@ -27370,6 +27379,105 @@ local_slide( {
               "x" : 849.0316162109375,
               "width" : 20,
               "height" : 27
+            }
+          },
+          {
+            "text" : "Cache",
+            "targetRectangle" : {
+              "y" : 382.84262096881866,
+              "x" : 129.93373107910156,
+              "width" : 76.95999999999998,
+              "height" : 36
+            }
+          },
+          {
+            "text" : "RAM",
+            "targetRectangle" : {
+              "y" : 553.84027117490768,
+              "x" : 822.5115966796875,
+              "width" : 56.327999999999975,
+              "height" : 33
+            }
+          },
+          {
+            "text" : "The cache speeds up “what is the value at address X?”. This is called “(address) X is cached” ",
+            "targetRectangle" : {
+              "y" : 734.34082102775574,
+              "x" : 9.8337583541870117,
+              "width" : 958.06499999999983,
+              "height" : 31
+            }
+          },
+          {
+            "text" : "Read",
+            "targetRectangle" : {
+              "y" : 322.84262096881866,
+              "x" : 134.93373870849609,
+              "width" : 64.089999999999975,
+              "height" : 36
+            }
+          },
+          {
+            "text" : "Meltdown & Spectre for normal people",
+            "targetRectangle" : {
+              "y" : 40,
+              "x" : 36,
+              "width" : 519.28593814373016,
+              "height" : 28
+            }
+          },
+          {
+            "text" : "meltdown.png",
+            "targetRectangle" : {
+              "y" : 91.537521362304688,
+              "x" : 928.58154296875,
+              "width" : 70.384666442871094,
+              "height" : 114.92495727539062
+            }
+          },
+          {
+            "text" : " 3ns",
+            "targetRectangle" : {
+              "y" : 461.66259777545929,
+              "x" : 162.63572692871094,
+              "width" : 51.584000000000003,
+              "height" : 36
+            }
+          },
+          {
+            "text" : "Value",
+            "targetRectangle" : {
+              "y" : 373.1990966796875,
+              "x" : 832.3296162109375,
+              "width" : 54.403999999999996,
+              "height" : 28.40008544921875
+            }
+          },
+          {
+            "text" : "Cache",
+            "targetRectangle" : {
+              "y" : 382.84262096881866,
+              "x" : 129.93373107910156,
+              "width" : 76.95999999999998,
+              "height" : 36
+            }
+          },
+          {
+            "text" : "Cache",
+            "targetRectangle" : {
+              "y" : 481.67901629209518,
+              "x" : 361.27676391601562,
+              "width" : 71.039999999999964,
+              "height" : 33
+            }
+          },
+          {
+            "text" : "In cache",
+            "targetRectangle" : {
+              "y" : 388.232925593853,
+              "x" : 268.49734497070312,
+              "width" : 95.255999999999972,
+              "height" : 33
             }
           },
           {
@@ -27400,51 +27508,6 @@ local_slide( {
             }
           },
           {
-            "text" : "meltdown.png",
-            "targetRectangle" : {
-              "y" : 91.537521362304688,
-              "x" : 928.58154296875,
-              "width" : 70.384666442871094,
-              "height" : 114.92495727539062
-            }
-          },
-          {
-            "text" : " 103ns",
-            "targetRectangle" : {
-              "y" : 461.66259777545929,
-              "x" : 161.67772674560547,
-              "width" : 85.175999999999988,
-              "height" : 36
-            }
-          },
-          {
-            "text" : "CPU core",
-            "targetRectangle" : {
-              "y" : 465.58697539567947,
-              "x" : 28.130483627319336,
-              "width" : 88.660000000000011,
-              "height" : 27
-            }
-          },
-          {
-            "text" : "In cache",
-            "targetRectangle" : {
-              "y" : 388.232925593853,
-              "x" : 268.49734497070312,
-              "width" : 95.255999999999972,
-              "height" : 33
-            }
-          },
-          {
-            "text" : "Cache",
-            "targetRectangle" : {
-              "y" : 481.67901629209518,
-              "x" : 361.27676391601562,
-              "width" : 71.039999999999964,
-              "height" : 33
-            }
-          },
-          {
             "text" : "Meltdown: Stashing away - Sidechannel",
             "targetRectangle" : {
               "y" : 125,
@@ -27454,11 +27517,29 @@ local_slide( {
             }
           },
           {
+            "text" : "Read",
+            "targetRectangle" : {
+              "y" : 322.84262096881866,
+              "x" : 134.93373870849609,
+              "width" : 64.089999999999975,
+              "height" : 36
+            }
+          },
+          {
             "text" : "100ns",
             "targetRectangle" : {
               "y" : 449.08697521686554,
               "x" : 613.95135498046875,
               "width" : 78.676000000000045,
+              "height" : 36
+            }
+          },
+          {
+            "text" : " 103ns",
+            "targetRectangle" : {
+              "y" : 461.66259777545929,
+              "x" : 161.67772674560547,
+              "width" : 85.175999999999988,
               "height" : 36
             }
           },
@@ -27472,21 +27553,12 @@ local_slide( {
             }
           },
           {
-            "text" : "Value",
+            "text" : "Not in cache",
             "targetRectangle" : {
-              "y" : 373.1990966796875,
-              "x" : 832.3296162109375,
-              "width" : 54.403999999999996,
-              "height" : 28.40008544921875
-            }
-          },
-          {
-            "text" : "Cache",
-            "targetRectangle" : {
-              "y" : 382.84262096881866,
-              "x" : 129.93373107910156,
-              "width" : 76.95999999999998,
-              "height" : 36
+              "y" : 389.67105120420456,
+              "x" : 266.07736206054688,
+              "width" : 143.78399999999999,
+              "height" : 33
             }
           },
           {
@@ -27496,78 +27568,6 @@ local_slide( {
               "x" : 574.17596435546875,
               "width" : 64.090000000000032,
               "height" : 36
-            }
-          },
-          {
-            "text" : "The cache speeds up “what is the value at address X?”. This is called “(address) X is cached” ",
-            "targetRectangle" : {
-              "y" : 734.34082102775574,
-              "x" : 9.8337583541870117,
-              "width" : 958.06499999999983,
-              "height" : 31
-            }
-          },
-          {
-            "text" : "Cache",
-            "targetRectangle" : {
-              "y" : 382.84262096881866,
-              "x" : 129.93373107910156,
-              "width" : 76.95999999999998,
-              "height" : 36
-            }
-          },
-          {
-            "text" : " 3ns",
-            "targetRectangle" : {
-              "y" : 461.66259777545929,
-              "x" : 162.63572692871094,
-              "width" : 51.584000000000003,
-              "height" : 36
-            }
-          },
-          {
-            "text" : "Read",
-            "targetRectangle" : {
-              "y" : 322.84262096881866,
-              "x" : 134.93373870849609,
-              "width" : 64.089999999999975,
-              "height" : 36
-            }
-          },
-          {
-            "text" : "RAM",
-            "targetRectangle" : {
-              "y" : 553.84027117490768,
-              "x" : 822.5115966796875,
-              "width" : 56.327999999999975,
-              "height" : 33
-            }
-          },
-          {
-            "text" : "￼",
-            "targetRectangle" : {
-              "y" : 38,
-              "x" : 964.57660043239594,
-              "width" : 23.0390625,
-              "height" : 28
-            }
-          },
-          {
-            "text" : "Read",
-            "targetRectangle" : {
-              "y" : 322.84262096881866,
-              "x" : 134.93373870849609,
-              "width" : 64.089999999999975,
-              "height" : 36
-            }
-          },
-          {
-            "text" : "Not in cache",
-            "targetRectangle" : {
-              "y" : 389.67105120420456,
-              "x" : 266.07736206054688,
-              "width" : 143.78399999999999,
-              "height" : 33
             }
           }
         ],
@@ -28753,7 +28753,7 @@ local_slide( {
                           "pointY" : 0.5
                         }
                       },
-                      "texture" : "67DE9CF4E429B498C1FA5DB7E7D83CC4"
+                      "texture" : "E26519227629C712C157571F906AD853"
                     }
                   ]
                 }
@@ -36515,12 +36515,21 @@ local_slide( {
         ],
         "accessibility" : [
           {
-            "text" : "Meltdown & Spectre for normal people",
+            "text" : "￼",
             "targetRectangle" : {
-              "y" : 40,
-              "x" : 36,
-              "width" : 519.28593814373016,
+              "y" : 38,
+              "x" : 964.57660043239594,
+              "width" : 23.0390625,
               "height" : 28
+            }
+          },
+          {
+            "text" : "CPU core",
+            "targetRectangle" : {
+              "y" : 465.58697539567947,
+              "x" : 28.130483627319336,
+              "width" : 88.660000000000011,
+              "height" : 27
             }
           },
           {
@@ -36530,6 +36539,105 @@ local_slide( {
               "x" : 849.0316162109375,
               "width" : 20,
               "height" : 27
+            }
+          },
+          {
+            "text" : "Cache",
+            "targetRectangle" : {
+              "y" : 382.84262096881866,
+              "x" : 129.93373107910156,
+              "width" : 76.95999999999998,
+              "height" : 36
+            }
+          },
+          {
+            "text" : "RAM",
+            "targetRectangle" : {
+              "y" : 553.84027117490768,
+              "x" : 822.5115966796875,
+              "width" : 56.327999999999975,
+              "height" : 33
+            }
+          },
+          {
+            "text" : "The cache speeds up “what is the value at address X?”. This is called “(address) X is cached” ",
+            "targetRectangle" : {
+              "y" : 734.34082102775574,
+              "x" : 9.8337583541870117,
+              "width" : 958.06499999999983,
+              "height" : 31
+            }
+          },
+          {
+            "text" : "Read",
+            "targetRectangle" : {
+              "y" : 322.84262096881866,
+              "x" : 134.93373870849609,
+              "width" : 64.089999999999975,
+              "height" : 36
+            }
+          },
+          {
+            "text" : "Meltdown & Spectre for normal people",
+            "targetRectangle" : {
+              "y" : 40,
+              "x" : 36,
+              "width" : 519.28593814373016,
+              "height" : 28
+            }
+          },
+          {
+            "text" : "meltdown.png",
+            "targetRectangle" : {
+              "y" : 91.537521362304688,
+              "x" : 928.58154296875,
+              "width" : 70.384666442871094,
+              "height" : 114.92495727539062
+            }
+          },
+          {
+            "text" : " 3ns",
+            "targetRectangle" : {
+              "y" : 461.66259777545929,
+              "x" : 162.63572692871094,
+              "width" : 51.584000000000003,
+              "height" : 36
+            }
+          },
+          {
+            "text" : "Value",
+            "targetRectangle" : {
+              "y" : 373.1990966796875,
+              "x" : 832.3296162109375,
+              "width" : 54.403999999999996,
+              "height" : 28.40008544921875
+            }
+          },
+          {
+            "text" : "Cache",
+            "targetRectangle" : {
+              "y" : 382.84262096881866,
+              "x" : 129.93373107910156,
+              "width" : 76.95999999999998,
+              "height" : 36
+            }
+          },
+          {
+            "text" : "Cache",
+            "targetRectangle" : {
+              "y" : 481.67901629209518,
+              "x" : 361.27676391601562,
+              "width" : 71.039999999999964,
+              "height" : 33
+            }
+          },
+          {
+            "text" : "In cache",
+            "targetRectangle" : {
+              "y" : 388.232925593853,
+              "x" : 268.49734497070312,
+              "width" : 95.255999999999972,
+              "height" : 33
             }
           },
           {
@@ -36560,51 +36668,6 @@ local_slide( {
             }
           },
           {
-            "text" : "meltdown.png",
-            "targetRectangle" : {
-              "y" : 91.537521362304688,
-              "x" : 928.58154296875,
-              "width" : 70.384666442871094,
-              "height" : 114.92495727539062
-            }
-          },
-          {
-            "text" : " 103ns",
-            "targetRectangle" : {
-              "y" : 461.66259777545929,
-              "x" : 161.67772674560547,
-              "width" : 85.175999999999988,
-              "height" : 36
-            }
-          },
-          {
-            "text" : "CPU core",
-            "targetRectangle" : {
-              "y" : 465.58697539567947,
-              "x" : 28.130483627319336,
-              "width" : 88.660000000000011,
-              "height" : 27
-            }
-          },
-          {
-            "text" : "In cache",
-            "targetRectangle" : {
-              "y" : 388.232925593853,
-              "x" : 268.49734497070312,
-              "width" : 95.255999999999972,
-              "height" : 33
-            }
-          },
-          {
-            "text" : "Cache",
-            "targetRectangle" : {
-              "y" : 481.67901629209518,
-              "x" : 361.27676391601562,
-              "width" : 71.039999999999964,
-              "height" : 33
-            }
-          },
-          {
             "text" : "Meltdown: Stashing away - Sidechannel",
             "targetRectangle" : {
               "y" : 125,
@@ -36614,11 +36677,29 @@ local_slide( {
             }
           },
           {
+            "text" : "Read",
+            "targetRectangle" : {
+              "y" : 322.84262096881866,
+              "x" : 134.93373870849609,
+              "width" : 64.089999999999975,
+              "height" : 36
+            }
+          },
+          {
             "text" : "100ns",
             "targetRectangle" : {
               "y" : 449.08697521686554,
               "x" : 613.95135498046875,
               "width" : 78.676000000000045,
+              "height" : 36
+            }
+          },
+          {
+            "text" : " 103ns",
+            "targetRectangle" : {
+              "y" : 461.66259777545929,
+              "x" : 161.67772674560547,
+              "width" : 85.175999999999988,
               "height" : 36
             }
           },
@@ -36632,21 +36713,12 @@ local_slide( {
             }
           },
           {
-            "text" : "Value",
+            "text" : "Not in cache",
             "targetRectangle" : {
-              "y" : 373.1990966796875,
-              "x" : 832.3296162109375,
-              "width" : 54.403999999999996,
-              "height" : 28.40008544921875
-            }
-          },
-          {
-            "text" : "Cache",
-            "targetRectangle" : {
-              "y" : 382.84262096881866,
-              "x" : 129.93373107910156,
-              "width" : 76.95999999999998,
-              "height" : 36
+              "y" : 389.67105120420456,
+              "x" : 266.07736206054688,
+              "width" : 143.78399999999999,
+              "height" : 33
             }
           },
           {
@@ -36656,78 +36728,6 @@ local_slide( {
               "x" : 574.17596435546875,
               "width" : 64.090000000000032,
               "height" : 36
-            }
-          },
-          {
-            "text" : "The cache speeds up “what is the value at address X?”. This is called “(address) X is cached” ",
-            "targetRectangle" : {
-              "y" : 734.34082102775574,
-              "x" : 9.8337583541870117,
-              "width" : 958.06499999999983,
-              "height" : 31
-            }
-          },
-          {
-            "text" : "Cache",
-            "targetRectangle" : {
-              "y" : 382.84262096881866,
-              "x" : 129.93373107910156,
-              "width" : 76.95999999999998,
-              "height" : 36
-            }
-          },
-          {
-            "text" : " 3ns",
-            "targetRectangle" : {
-              "y" : 461.66259777545929,
-              "x" : 162.63572692871094,
-              "width" : 51.584000000000003,
-              "height" : 36
-            }
-          },
-          {
-            "text" : "Read",
-            "targetRectangle" : {
-              "y" : 322.84262096881866,
-              "x" : 134.93373870849609,
-              "width" : 64.089999999999975,
-              "height" : 36
-            }
-          },
-          {
-            "text" : "RAM",
-            "targetRectangle" : {
-              "y" : 553.84027117490768,
-              "x" : 822.5115966796875,
-              "width" : 56.327999999999975,
-              "height" : 33
-            }
-          },
-          {
-            "text" : "￼",
-            "targetRectangle" : {
-              "y" : 38,
-              "x" : 964.57660043239594,
-              "width" : 23.0390625,
-              "height" : 28
-            }
-          },
-          {
-            "text" : "Read",
-            "targetRectangle" : {
-              "y" : 322.84262096881866,
-              "x" : 134.93373870849609,
-              "width" : 64.089999999999975,
-              "height" : 36
-            }
-          },
-          {
-            "text" : "Not in cache",
-            "targetRectangle" : {
-              "y" : 389.67105120420456,
-              "x" : 266.07736206054688,
-              "width" : 143.78399999999999,
-              "height" : 33
             }
           }
         ],
@@ -37913,7 +37913,7 @@ local_slide( {
                           "pointY" : 0.5
                         }
                       },
-                      "texture" : "67DE9CF4E429B498C1FA5DB7E7D83CC4"
+                      "texture" : "E26519227629C712C157571F906AD853"
                     }
                   ]
                 }
@@ -45411,12 +45411,30 @@ local_slide( {
         ],
         "accessibility" : [
           {
-            "text" : "Meltdown & Spectre for normal people",
+            "text" : "￼",
             "targetRectangle" : {
-              "y" : 40,
-              "x" : 36,
-              "width" : 519.28593814373016,
+              "y" : 38,
+              "x" : 964.57660043239594,
+              "width" : 23.0390625,
               "height" : 28
+            }
+          },
+          {
+            "text" : "Value (in Cache)",
+            "targetRectangle" : {
+              "y" : 425.6602783203125,
+              "x" : 334.36224829101559,
+              "width" : 151.87200000000007,
+              "height" : 28.40008544921875
+            }
+          },
+          {
+            "text" : "CPU core",
+            "targetRectangle" : {
+              "y" : 465.58697539567947,
+              "x" : 28.130483627319336,
+              "width" : 88.660000000000011,
+              "height" : 27
             }
           },
           {
@@ -45426,6 +45444,105 @@ local_slide( {
               "x" : 849.0316162109375,
               "width" : 20,
               "height" : 27
+            }
+          },
+          {
+            "text" : "Cache",
+            "targetRectangle" : {
+              "y" : 382.84262096881866,
+              "x" : 129.93373107910156,
+              "width" : 76.95999999999998,
+              "height" : 36
+            }
+          },
+          {
+            "text" : "RAM",
+            "targetRectangle" : {
+              "y" : 553.84027117490768,
+              "x" : 822.5115966796875,
+              "width" : 56.327999999999975,
+              "height" : 33
+            }
+          },
+          {
+            "text" : "The cache speeds up “what is the value at address X?”. This is called “(address) X is cached” ",
+            "targetRectangle" : {
+              "y" : 734.34082102775574,
+              "x" : 9.8337583541870117,
+              "width" : 958.06499999999983,
+              "height" : 31
+            }
+          },
+          {
+            "text" : "Read",
+            "targetRectangle" : {
+              "y" : 322.84262096881866,
+              "x" : 134.93373870849609,
+              "width" : 64.089999999999975,
+              "height" : 36
+            }
+          },
+          {
+            "text" : "Meltdown & Spectre for normal people",
+            "targetRectangle" : {
+              "y" : 40,
+              "x" : 36,
+              "width" : 519.28593814373016,
+              "height" : 28
+            }
+          },
+          {
+            "text" : "meltdown.png",
+            "targetRectangle" : {
+              "y" : 91.537521362304688,
+              "x" : 928.58154296875,
+              "width" : 70.384666442871094,
+              "height" : 114.92495727539062
+            }
+          },
+          {
+            "text" : " 3ns",
+            "targetRectangle" : {
+              "y" : 461.66259777545929,
+              "x" : 162.63572692871094,
+              "width" : 51.584000000000003,
+              "height" : 36
+            }
+          },
+          {
+            "text" : "Value",
+            "targetRectangle" : {
+              "y" : 373.1990966796875,
+              "x" : 832.3296162109375,
+              "width" : 54.403999999999996,
+              "height" : 28.40008544921875
+            }
+          },
+          {
+            "text" : "Cache",
+            "targetRectangle" : {
+              "y" : 382.84262096881866,
+              "x" : 129.93373107910156,
+              "width" : 76.95999999999998,
+              "height" : 36
+            }
+          },
+          {
+            "text" : "Cache",
+            "targetRectangle" : {
+              "y" : 481.67901629209518,
+              "x" : 361.27676391601562,
+              "width" : 71.039999999999964,
+              "height" : 33
+            }
+          },
+          {
+            "text" : "In cache",
+            "targetRectangle" : {
+              "y" : 388.232925593853,
+              "x" : 268.49734497070312,
+              "width" : 95.255999999999972,
+              "height" : 33
             }
           },
           {
@@ -45456,60 +45573,6 @@ local_slide( {
             }
           },
           {
-            "text" : "meltdown.png",
-            "targetRectangle" : {
-              "y" : 91.537521362304688,
-              "x" : 928.58154296875,
-              "width" : 70.384666442871094,
-              "height" : 114.92495727539062
-            }
-          },
-          {
-            "text" : "Value (in Cache)",
-            "targetRectangle" : {
-              "y" : 425.6602783203125,
-              "x" : 334.36224829101559,
-              "width" : 151.87200000000007,
-              "height" : 28.40008544921875
-            }
-          },
-          {
-            "text" : " 103ns",
-            "targetRectangle" : {
-              "y" : 461.66259777545929,
-              "x" : 161.67772674560547,
-              "width" : 85.175999999999988,
-              "height" : 36
-            }
-          },
-          {
-            "text" : "CPU core",
-            "targetRectangle" : {
-              "y" : 465.58697539567947,
-              "x" : 28.130483627319336,
-              "width" : 88.660000000000011,
-              "height" : 27
-            }
-          },
-          {
-            "text" : "In cache",
-            "targetRectangle" : {
-              "y" : 388.232925593853,
-              "x" : 268.49734497070312,
-              "width" : 95.255999999999972,
-              "height" : 33
-            }
-          },
-          {
-            "text" : "Cache",
-            "targetRectangle" : {
-              "y" : 481.67901629209518,
-              "x" : 361.27676391601562,
-              "width" : 71.039999999999964,
-              "height" : 33
-            }
-          },
-          {
             "text" : "Meltdown: Stashing away - Sidechannel",
             "targetRectangle" : {
               "y" : 125,
@@ -45519,11 +45582,29 @@ local_slide( {
             }
           },
           {
+            "text" : "Read",
+            "targetRectangle" : {
+              "y" : 322.84262096881866,
+              "x" : 134.93373870849609,
+              "width" : 64.089999999999975,
+              "height" : 36
+            }
+          },
+          {
             "text" : "100ns",
             "targetRectangle" : {
               "y" : 449.08697521686554,
               "x" : 613.95135498046875,
               "width" : 78.676000000000045,
+              "height" : 36
+            }
+          },
+          {
+            "text" : " 103ns",
+            "targetRectangle" : {
+              "y" : 461.66259777545929,
+              "x" : 161.67772674560547,
+              "width" : 85.175999999999988,
               "height" : 36
             }
           },
@@ -45537,21 +45618,12 @@ local_slide( {
             }
           },
           {
-            "text" : "Value",
+            "text" : "Not in cache",
             "targetRectangle" : {
-              "y" : 373.1990966796875,
-              "x" : 832.3296162109375,
-              "width" : 54.403999999999996,
-              "height" : 28.40008544921875
-            }
-          },
-          {
-            "text" : "Cache",
-            "targetRectangle" : {
-              "y" : 382.84262096881866,
-              "x" : 129.93373107910156,
-              "width" : 76.95999999999998,
-              "height" : 36
+              "y" : 389.67105120420456,
+              "x" : 266.07736206054688,
+              "width" : 143.78399999999999,
+              "height" : 33
             }
           },
           {
@@ -45561,78 +45633,6 @@ local_slide( {
               "x" : 574.17596435546875,
               "width" : 64.090000000000032,
               "height" : 36
-            }
-          },
-          {
-            "text" : "The cache speeds up “what is the value at address X?”. This is called “(address) X is cached” ",
-            "targetRectangle" : {
-              "y" : 734.34082102775574,
-              "x" : 9.8337583541870117,
-              "width" : 958.06499999999983,
-              "height" : 31
-            }
-          },
-          {
-            "text" : "Cache",
-            "targetRectangle" : {
-              "y" : 382.84262096881866,
-              "x" : 129.93373107910156,
-              "width" : 76.95999999999998,
-              "height" : 36
-            }
-          },
-          {
-            "text" : " 3ns",
-            "targetRectangle" : {
-              "y" : 461.66259777545929,
-              "x" : 162.63572692871094,
-              "width" : 51.584000000000003,
-              "height" : 36
-            }
-          },
-          {
-            "text" : "Read",
-            "targetRectangle" : {
-              "y" : 322.84262096881866,
-              "x" : 134.93373870849609,
-              "width" : 64.089999999999975,
-              "height" : 36
-            }
-          },
-          {
-            "text" : "RAM",
-            "targetRectangle" : {
-              "y" : 553.84027117490768,
-              "x" : 822.5115966796875,
-              "width" : 56.327999999999975,
-              "height" : 33
-            }
-          },
-          {
-            "text" : "￼",
-            "targetRectangle" : {
-              "y" : 38,
-              "x" : 964.57660043239594,
-              "width" : 23.0390625,
-              "height" : 28
-            }
-          },
-          {
-            "text" : "Read",
-            "targetRectangle" : {
-              "y" : 322.84262096881866,
-              "x" : 134.93373870849609,
-              "width" : 64.089999999999975,
-              "height" : 36
-            }
-          },
-          {
-            "text" : "Not in cache",
-            "targetRectangle" : {
-              "y" : 389.67105120420456,
-              "x" : 266.07736206054688,
-              "width" : 143.78399999999999,
-              "height" : 33
             }
           }
         ],
@@ -46818,7 +46818,7 @@ local_slide( {
                           "pointY" : 0.5
                         }
                       },
-                      "texture" : "67DE9CF4E429B498C1FA5DB7E7D83CC4"
+                      "texture" : "E26519227629C712C157571F906AD853"
                     }
                   ]
                 }
@@ -54934,12 +54934,30 @@ local_slide( {
         ],
         "accessibility" : [
           {
-            "text" : "Meltdown & Spectre for normal people",
+            "text" : "￼",
             "targetRectangle" : {
-              "y" : 40,
-              "x" : 36,
-              "width" : 519.28593814373016,
+              "y" : 38,
+              "x" : 964.57660043239594,
+              "width" : 23.0390625,
               "height" : 28
+            }
+          },
+          {
+            "text" : "Value (in Cache)",
+            "targetRectangle" : {
+              "y" : 425.6602783203125,
+              "x" : 334.36224829101559,
+              "width" : 151.87200000000007,
+              "height" : 28.40008544921875
+            }
+          },
+          {
+            "text" : "CPU core",
+            "targetRectangle" : {
+              "y" : 465.58697539567947,
+              "x" : 28.130483627319336,
+              "width" : 88.660000000000011,
+              "height" : 27
             }
           },
           {
@@ -54949,6 +54967,105 @@ local_slide( {
               "x" : 849.0316162109375,
               "width" : 20,
               "height" : 27
+            }
+          },
+          {
+            "text" : "Cache",
+            "targetRectangle" : {
+              "y" : 382.84262096881866,
+              "x" : 129.93373107910156,
+              "width" : 76.95999999999998,
+              "height" : 36
+            }
+          },
+          {
+            "text" : "RAM",
+            "targetRectangle" : {
+              "y" : 553.84027117490768,
+              "x" : 822.5115966796875,
+              "width" : 56.327999999999975,
+              "height" : 33
+            }
+          },
+          {
+            "text" : "The cache speeds up “what is the value at address X?”. This is called “(address) X is cached” ",
+            "targetRectangle" : {
+              "y" : 734.34082102775574,
+              "x" : 9.8337583541870117,
+              "width" : 958.06499999999983,
+              "height" : 31
+            }
+          },
+          {
+            "text" : "Read",
+            "targetRectangle" : {
+              "y" : 322.84262096881866,
+              "x" : 134.93373870849609,
+              "width" : 64.089999999999975,
+              "height" : 36
+            }
+          },
+          {
+            "text" : "Meltdown & Spectre for normal people",
+            "targetRectangle" : {
+              "y" : 40,
+              "x" : 36,
+              "width" : 519.28593814373016,
+              "height" : 28
+            }
+          },
+          {
+            "text" : "meltdown.png",
+            "targetRectangle" : {
+              "y" : 91.537521362304688,
+              "x" : 928.58154296875,
+              "width" : 70.384666442871094,
+              "height" : 114.92495727539062
+            }
+          },
+          {
+            "text" : " 3ns",
+            "targetRectangle" : {
+              "y" : 461.66259777545929,
+              "x" : 162.63572692871094,
+              "width" : 51.584000000000003,
+              "height" : 36
+            }
+          },
+          {
+            "text" : "Value",
+            "targetRectangle" : {
+              "y" : 373.1990966796875,
+              "x" : 832.3296162109375,
+              "width" : 54.403999999999996,
+              "height" : 28.40008544921875
+            }
+          },
+          {
+            "text" : "Cache",
+            "targetRectangle" : {
+              "y" : 382.84262096881866,
+              "x" : 129.93373107910156,
+              "width" : 76.95999999999998,
+              "height" : 36
+            }
+          },
+          {
+            "text" : "Cache",
+            "targetRectangle" : {
+              "y" : 481.67901629209518,
+              "x" : 361.27676391601562,
+              "width" : 71.039999999999964,
+              "height" : 33
+            }
+          },
+          {
+            "text" : "In cache",
+            "targetRectangle" : {
+              "y" : 388.232925593853,
+              "x" : 268.49734497070312,
+              "width" : 95.255999999999972,
+              "height" : 33
             }
           },
           {
@@ -54979,60 +55096,6 @@ local_slide( {
             }
           },
           {
-            "text" : "meltdown.png",
-            "targetRectangle" : {
-              "y" : 91.537521362304688,
-              "x" : 928.58154296875,
-              "width" : 70.384666442871094,
-              "height" : 114.92495727539062
-            }
-          },
-          {
-            "text" : "Value (in Cache)",
-            "targetRectangle" : {
-              "y" : 425.6602783203125,
-              "x" : 334.36224829101559,
-              "width" : 151.87200000000007,
-              "height" : 28.40008544921875
-            }
-          },
-          {
-            "text" : " 103ns",
-            "targetRectangle" : {
-              "y" : 461.66259777545929,
-              "x" : 161.67772674560547,
-              "width" : 85.175999999999988,
-              "height" : 36
-            }
-          },
-          {
-            "text" : "CPU core",
-            "targetRectangle" : {
-              "y" : 465.58697539567947,
-              "x" : 28.130483627319336,
-              "width" : 88.660000000000011,
-              "height" : 27
-            }
-          },
-          {
-            "text" : "In cache",
-            "targetRectangle" : {
-              "y" : 388.232925593853,
-              "x" : 268.49734497070312,
-              "width" : 95.255999999999972,
-              "height" : 33
-            }
-          },
-          {
-            "text" : "Cache",
-            "targetRectangle" : {
-              "y" : 481.67901629209518,
-              "x" : 361.27676391601562,
-              "width" : 71.039999999999964,
-              "height" : 33
-            }
-          },
-          {
             "text" : "Meltdown: Stashing away - Sidechannel",
             "targetRectangle" : {
               "y" : 125,
@@ -55042,11 +55105,29 @@ local_slide( {
             }
           },
           {
+            "text" : "Read",
+            "targetRectangle" : {
+              "y" : 322.84262096881866,
+              "x" : 134.93373870849609,
+              "width" : 64.089999999999975,
+              "height" : 36
+            }
+          },
+          {
             "text" : "100ns",
             "targetRectangle" : {
               "y" : 449.08697521686554,
               "x" : 613.95135498046875,
               "width" : 78.676000000000045,
+              "height" : 36
+            }
+          },
+          {
+            "text" : " 103ns",
+            "targetRectangle" : {
+              "y" : 461.66259777545929,
+              "x" : 161.67772674560547,
+              "width" : 85.175999999999988,
               "height" : 36
             }
           },
@@ -55060,21 +55141,12 @@ local_slide( {
             }
           },
           {
-            "text" : "Value",
+            "text" : "Not in cache",
             "targetRectangle" : {
-              "y" : 373.1990966796875,
-              "x" : 832.3296162109375,
-              "width" : 54.403999999999996,
-              "height" : 28.40008544921875
-            }
-          },
-          {
-            "text" : "Cache",
-            "targetRectangle" : {
-              "y" : 382.84262096881866,
-              "x" : 129.93373107910156,
-              "width" : 76.95999999999998,
-              "height" : 36
+              "y" : 389.67105120420456,
+              "x" : 266.07736206054688,
+              "width" : 143.78399999999999,
+              "height" : 33
             }
           },
           {
@@ -55084,78 +55156,6 @@ local_slide( {
               "x" : 574.17596435546875,
               "width" : 64.090000000000032,
               "height" : 36
-            }
-          },
-          {
-            "text" : "The cache speeds up “what is the value at address X?”. This is called “(address) X is cached” ",
-            "targetRectangle" : {
-              "y" : 734.34082102775574,
-              "x" : 9.8337583541870117,
-              "width" : 958.06499999999983,
-              "height" : 31
-            }
-          },
-          {
-            "text" : "Cache",
-            "targetRectangle" : {
-              "y" : 382.84262096881866,
-              "x" : 129.93373107910156,
-              "width" : 76.95999999999998,
-              "height" : 36
-            }
-          },
-          {
-            "text" : " 3ns",
-            "targetRectangle" : {
-              "y" : 461.66259777545929,
-              "x" : 162.63572692871094,
-              "width" : 51.584000000000003,
-              "height" : 36
-            }
-          },
-          {
-            "text" : "Read",
-            "targetRectangle" : {
-              "y" : 322.84262096881866,
-              "x" : 134.93373870849609,
-              "width" : 64.089999999999975,
-              "height" : 36
-            }
-          },
-          {
-            "text" : "RAM",
-            "targetRectangle" : {
-              "y" : 553.84027117490768,
-              "x" : 822.5115966796875,
-              "width" : 56.327999999999975,
-              "height" : 33
-            }
-          },
-          {
-            "text" : "￼",
-            "targetRectangle" : {
-              "y" : 38,
-              "x" : 964.57660043239594,
-              "width" : 23.0390625,
-              "height" : 28
-            }
-          },
-          {
-            "text" : "Read",
-            "targetRectangle" : {
-              "y" : 322.84262096881866,
-              "x" : 134.93373870849609,
-              "width" : 64.089999999999975,
-              "height" : 36
-            }
-          },
-          {
-            "text" : "Not in cache",
-            "targetRectangle" : {
-              "y" : 389.67105120420456,
-              "x" : 266.07736206054688,
-              "width" : 143.78399999999999,
-              "height" : 33
             }
           }
         ],
@@ -56341,7 +56341,7 @@ local_slide( {
                           "pointY" : 0.5
                         }
                       },
-                      "texture" : "67DE9CF4E429B498C1FA5DB7E7D83CC4"
+                      "texture" : "E26519227629C712C157571F906AD853"
                     }
                   ]
                 }
@@ -63839,12 +63839,30 @@ local_slide( {
         ],
         "accessibility" : [
           {
-            "text" : "Meltdown & Spectre for normal people",
+            "text" : "￼",
             "targetRectangle" : {
-              "y" : 40,
-              "x" : 36,
-              "width" : 519.28593814373016,
+              "y" : 38,
+              "x" : 964.57660043239594,
+              "width" : 23.0390625,
               "height" : 28
+            }
+          },
+          {
+            "text" : "Value (in Cache)",
+            "targetRectangle" : {
+              "y" : 425.6602783203125,
+              "x" : 334.36224829101559,
+              "width" : 151.87200000000007,
+              "height" : 28.40008544921875
+            }
+          },
+          {
+            "text" : "CPU core",
+            "targetRectangle" : {
+              "y" : 465.58697539567947,
+              "x" : 28.130483627319336,
+              "width" : 88.660000000000011,
+              "height" : 27
             }
           },
           {
@@ -63854,6 +63872,105 @@ local_slide( {
               "x" : 849.0316162109375,
               "width" : 20,
               "height" : 27
+            }
+          },
+          {
+            "text" : "Cache",
+            "targetRectangle" : {
+              "y" : 382.84262096881866,
+              "x" : 129.93373107910156,
+              "width" : 76.95999999999998,
+              "height" : 36
+            }
+          },
+          {
+            "text" : "RAM",
+            "targetRectangle" : {
+              "y" : 553.84027117490768,
+              "x" : 822.5115966796875,
+              "width" : 56.327999999999975,
+              "height" : 33
+            }
+          },
+          {
+            "text" : "The cache speeds up “what is the value at address X?”. This is called “(address) X is cached” ",
+            "targetRectangle" : {
+              "y" : 734.34082102775574,
+              "x" : 9.8337583541870117,
+              "width" : 958.06499999999983,
+              "height" : 31
+            }
+          },
+          {
+            "text" : "Read",
+            "targetRectangle" : {
+              "y" : 322.84262096881866,
+              "x" : 134.93373870849609,
+              "width" : 64.089999999999975,
+              "height" : 36
+            }
+          },
+          {
+            "text" : "Meltdown & Spectre for normal people",
+            "targetRectangle" : {
+              "y" : 40,
+              "x" : 36,
+              "width" : 519.28593814373016,
+              "height" : 28
+            }
+          },
+          {
+            "text" : "meltdown.png",
+            "targetRectangle" : {
+              "y" : 91.537521362304688,
+              "x" : 928.58154296875,
+              "width" : 70.384666442871094,
+              "height" : 114.92495727539062
+            }
+          },
+          {
+            "text" : " 3ns",
+            "targetRectangle" : {
+              "y" : 461.66259777545929,
+              "x" : 162.63572692871094,
+              "width" : 51.584000000000003,
+              "height" : 36
+            }
+          },
+          {
+            "text" : "Value",
+            "targetRectangle" : {
+              "y" : 373.1990966796875,
+              "x" : 832.3296162109375,
+              "width" : 54.403999999999996,
+              "height" : 28.40008544921875
+            }
+          },
+          {
+            "text" : "Cache",
+            "targetRectangle" : {
+              "y" : 382.84262096881866,
+              "x" : 129.93373107910156,
+              "width" : 76.95999999999998,
+              "height" : 36
+            }
+          },
+          {
+            "text" : "Cache",
+            "targetRectangle" : {
+              "y" : 481.67901629209518,
+              "x" : 361.27676391601562,
+              "width" : 71.039999999999964,
+              "height" : 33
+            }
+          },
+          {
+            "text" : "In cache",
+            "targetRectangle" : {
+              "y" : 388.232925593853,
+              "x" : 268.49734497070312,
+              "width" : 95.255999999999972,
+              "height" : 33
             }
           },
           {
@@ -63884,60 +64001,6 @@ local_slide( {
             }
           },
           {
-            "text" : "meltdown.png",
-            "targetRectangle" : {
-              "y" : 91.537521362304688,
-              "x" : 928.58154296875,
-              "width" : 70.384666442871094,
-              "height" : 114.92495727539062
-            }
-          },
-          {
-            "text" : "Value (in Cache)",
-            "targetRectangle" : {
-              "y" : 425.6602783203125,
-              "x" : 334.36224829101559,
-              "width" : 151.87200000000007,
-              "height" : 28.40008544921875
-            }
-          },
-          {
-            "text" : " 103ns",
-            "targetRectangle" : {
-              "y" : 461.66259777545929,
-              "x" : 161.67772674560547,
-              "width" : 85.175999999999988,
-              "height" : 36
-            }
-          },
-          {
-            "text" : "CPU core",
-            "targetRectangle" : {
-              "y" : 465.58697539567947,
-              "x" : 28.130483627319336,
-              "width" : 88.660000000000011,
-              "height" : 27
-            }
-          },
-          {
-            "text" : "In cache",
-            "targetRectangle" : {
-              "y" : 388.232925593853,
-              "x" : 268.49734497070312,
-              "width" : 95.255999999999972,
-              "height" : 33
-            }
-          },
-          {
-            "text" : "Cache",
-            "targetRectangle" : {
-              "y" : 481.67901629209518,
-              "x" : 361.27676391601562,
-              "width" : 71.039999999999964,
-              "height" : 33
-            }
-          },
-          {
             "text" : "Meltdown: Stashing away - Sidechannel",
             "targetRectangle" : {
               "y" : 125,
@@ -63947,11 +64010,29 @@ local_slide( {
             }
           },
           {
+            "text" : "Read",
+            "targetRectangle" : {
+              "y" : 322.84262096881866,
+              "x" : 134.93373870849609,
+              "width" : 64.089999999999975,
+              "height" : 36
+            }
+          },
+          {
             "text" : "100ns",
             "targetRectangle" : {
               "y" : 449.08697521686554,
               "x" : 613.95135498046875,
               "width" : 78.676000000000045,
+              "height" : 36
+            }
+          },
+          {
+            "text" : " 103ns",
+            "targetRectangle" : {
+              "y" : 461.66259777545929,
+              "x" : 161.67772674560547,
+              "width" : 85.175999999999988,
               "height" : 36
             }
           },
@@ -63965,21 +64046,12 @@ local_slide( {
             }
           },
           {
-            "text" : "Value",
+            "text" : "Not in cache",
             "targetRectangle" : {
-              "y" : 373.1990966796875,
-              "x" : 832.3296162109375,
-              "width" : 54.403999999999996,
-              "height" : 28.40008544921875
-            }
-          },
-          {
-            "text" : "Cache",
-            "targetRectangle" : {
-              "y" : 382.84262096881866,
-              "x" : 129.93373107910156,
-              "width" : 76.95999999999998,
-              "height" : 36
+              "y" : 389.67105120420456,
+              "x" : 266.07736206054688,
+              "width" : 143.78399999999999,
+              "height" : 33
             }
           },
           {
@@ -63989,78 +64061,6 @@ local_slide( {
               "x" : 574.17596435546875,
               "width" : 64.090000000000032,
               "height" : 36
-            }
-          },
-          {
-            "text" : "The cache speeds up “what is the value at address X?”. This is called “(address) X is cached” ",
-            "targetRectangle" : {
-              "y" : 734.34082102775574,
-              "x" : 9.8337583541870117,
-              "width" : 958.06499999999983,
-              "height" : 31
-            }
-          },
-          {
-            "text" : "Cache",
-            "targetRectangle" : {
-              "y" : 382.84262096881866,
-              "x" : 129.93373107910156,
-              "width" : 76.95999999999998,
-              "height" : 36
-            }
-          },
-          {
-            "text" : " 3ns",
-            "targetRectangle" : {
-              "y" : 461.66259777545929,
-              "x" : 162.63572692871094,
-              "width" : 51.584000000000003,
-              "height" : 36
-            }
-          },
-          {
-            "text" : "Read",
-            "targetRectangle" : {
-              "y" : 322.84262096881866,
-              "x" : 134.93373870849609,
-              "width" : 64.089999999999975,
-              "height" : 36
-            }
-          },
-          {
-            "text" : "RAM",
-            "targetRectangle" : {
-              "y" : 553.84027117490768,
-              "x" : 822.5115966796875,
-              "width" : 56.327999999999975,
-              "height" : 33
-            }
-          },
-          {
-            "text" : "￼",
-            "targetRectangle" : {
-              "y" : 38,
-              "x" : 964.57660043239594,
-              "width" : 23.0390625,
-              "height" : 28
-            }
-          },
-          {
-            "text" : "Read",
-            "targetRectangle" : {
-              "y" : 322.84262096881866,
-              "x" : 134.93373870849609,
-              "width" : 64.089999999999975,
-              "height" : 36
-            }
-          },
-          {
-            "text" : "Not in cache",
-            "targetRectangle" : {
-              "y" : 389.67105120420456,
-              "x" : 266.07736206054688,
-              "width" : 143.78399999999999,
-              "height" : 33
             }
           }
         ],
@@ -65246,7 +65246,7 @@ local_slide( {
                           "pointY" : 0.5
                         }
                       },
-                      "texture" : "67DE9CF4E429B498C1FA5DB7E7D83CC4"
+                      "texture" : "E26519227629C712C157571F906AD853"
                     }
                   ]
                 }
@@ -72744,12 +72744,30 @@ local_slide( {
         ],
         "accessibility" : [
           {
-            "text" : "Meltdown & Spectre for normal people",
+            "text" : "￼",
             "targetRectangle" : {
-              "y" : 40,
-              "x" : 36,
-              "width" : 519.28593814373016,
+              "y" : 38,
+              "x" : 964.57660043239594,
+              "width" : 23.0390625,
               "height" : 28
+            }
+          },
+          {
+            "text" : "Value (in Cache)",
+            "targetRectangle" : {
+              "y" : 425.6602783203125,
+              "x" : 334.36224829101559,
+              "width" : 151.87200000000007,
+              "height" : 28.40008544921875
+            }
+          },
+          {
+            "text" : "CPU core",
+            "targetRectangle" : {
+              "y" : 465.58697539567947,
+              "x" : 28.130483627319336,
+              "width" : 88.660000000000011,
+              "height" : 27
             }
           },
           {
@@ -72759,6 +72777,105 @@ local_slide( {
               "x" : 849.0316162109375,
               "width" : 20,
               "height" : 27
+            }
+          },
+          {
+            "text" : "Cache",
+            "targetRectangle" : {
+              "y" : 382.84262096881866,
+              "x" : 129.93373107910156,
+              "width" : 76.95999999999998,
+              "height" : 36
+            }
+          },
+          {
+            "text" : "RAM",
+            "targetRectangle" : {
+              "y" : 553.84027117490768,
+              "x" : 822.5115966796875,
+              "width" : 56.327999999999975,
+              "height" : 33
+            }
+          },
+          {
+            "text" : "The cache speeds up “what is the value at address X?”. This is called “(address) X is cached” ",
+            "targetRectangle" : {
+              "y" : 734.34082102775574,
+              "x" : 9.8337583541870117,
+              "width" : 958.06499999999983,
+              "height" : 31
+            }
+          },
+          {
+            "text" : "Read",
+            "targetRectangle" : {
+              "y" : 322.84262096881866,
+              "x" : 134.93373870849609,
+              "width" : 64.089999999999975,
+              "height" : 36
+            }
+          },
+          {
+            "text" : "Meltdown & Spectre for normal people",
+            "targetRectangle" : {
+              "y" : 40,
+              "x" : 36,
+              "width" : 519.28593814373016,
+              "height" : 28
+            }
+          },
+          {
+            "text" : "meltdown.png",
+            "targetRectangle" : {
+              "y" : 91.537521362304688,
+              "x" : 928.58154296875,
+              "width" : 70.384666442871094,
+              "height" : 114.92495727539062
+            }
+          },
+          {
+            "text" : " 3ns",
+            "targetRectangle" : {
+              "y" : 461.66259777545929,
+              "x" : 162.63572692871094,
+              "width" : 51.584000000000003,
+              "height" : 36
+            }
+          },
+          {
+            "text" : "Value",
+            "targetRectangle" : {
+              "y" : 373.1990966796875,
+              "x" : 832.3296162109375,
+              "width" : 54.403999999999996,
+              "height" : 28.40008544921875
+            }
+          },
+          {
+            "text" : "Cache",
+            "targetRectangle" : {
+              "y" : 382.84262096881866,
+              "x" : 129.93373107910156,
+              "width" : 76.95999999999998,
+              "height" : 36
+            }
+          },
+          {
+            "text" : "Cache",
+            "targetRectangle" : {
+              "y" : 481.67901629209518,
+              "x" : 361.27676391601562,
+              "width" : 71.039999999999964,
+              "height" : 33
+            }
+          },
+          {
+            "text" : "In cache",
+            "targetRectangle" : {
+              "y" : 388.232925593853,
+              "x" : 268.49734497070312,
+              "width" : 95.255999999999972,
+              "height" : 33
             }
           },
           {
@@ -72789,60 +72906,6 @@ local_slide( {
             }
           },
           {
-            "text" : "meltdown.png",
-            "targetRectangle" : {
-              "y" : 91.537521362304688,
-              "x" : 928.58154296875,
-              "width" : 70.384666442871094,
-              "height" : 114.92495727539062
-            }
-          },
-          {
-            "text" : "Value (in Cache)",
-            "targetRectangle" : {
-              "y" : 425.6602783203125,
-              "x" : 334.36224829101559,
-              "width" : 151.87200000000007,
-              "height" : 28.40008544921875
-            }
-          },
-          {
-            "text" : " 103ns",
-            "targetRectangle" : {
-              "y" : 461.66259777545929,
-              "x" : 161.67772674560547,
-              "width" : 85.175999999999988,
-              "height" : 36
-            }
-          },
-          {
-            "text" : "CPU core",
-            "targetRectangle" : {
-              "y" : 465.58697539567947,
-              "x" : 28.130483627319336,
-              "width" : 88.660000000000011,
-              "height" : 27
-            }
-          },
-          {
-            "text" : "In cache",
-            "targetRectangle" : {
-              "y" : 388.232925593853,
-              "x" : 268.49734497070312,
-              "width" : 95.255999999999972,
-              "height" : 33
-            }
-          },
-          {
-            "text" : "Cache",
-            "targetRectangle" : {
-              "y" : 481.67901629209518,
-              "x" : 361.27676391601562,
-              "width" : 71.039999999999964,
-              "height" : 33
-            }
-          },
-          {
             "text" : "Meltdown: Stashing away - Sidechannel",
             "targetRectangle" : {
               "y" : 125,
@@ -72852,11 +72915,29 @@ local_slide( {
             }
           },
           {
+            "text" : "Read",
+            "targetRectangle" : {
+              "y" : 322.84262096881866,
+              "x" : 134.93373870849609,
+              "width" : 64.089999999999975,
+              "height" : 36
+            }
+          },
+          {
             "text" : "100ns",
             "targetRectangle" : {
               "y" : 449.08697521686554,
               "x" : 613.95135498046875,
               "width" : 78.676000000000045,
+              "height" : 36
+            }
+          },
+          {
+            "text" : " 103ns",
+            "targetRectangle" : {
+              "y" : 461.66259777545929,
+              "x" : 161.67772674560547,
+              "width" : 85.175999999999988,
               "height" : 36
             }
           },
@@ -72870,21 +72951,12 @@ local_slide( {
             }
           },
           {
-            "text" : "Value",
+            "text" : "Not in cache",
             "targetRectangle" : {
-              "y" : 373.1990966796875,
-              "x" : 832.3296162109375,
-              "width" : 54.403999999999996,
-              "height" : 28.40008544921875
-            }
-          },
-          {
-            "text" : "Cache",
-            "targetRectangle" : {
-              "y" : 382.84262096881866,
-              "x" : 129.93373107910156,
-              "width" : 76.95999999999998,
-              "height" : 36
+              "y" : 389.67105120420456,
+              "x" : 266.07736206054688,
+              "width" : 143.78399999999999,
+              "height" : 33
             }
           },
           {
@@ -72894,78 +72966,6 @@ local_slide( {
               "x" : 574.17596435546875,
               "width" : 64.090000000000032,
               "height" : 36
-            }
-          },
-          {
-            "text" : "The cache speeds up “what is the value at address X?”. This is called “(address) X is cached” ",
-            "targetRectangle" : {
-              "y" : 734.34082102775574,
-              "x" : 9.8337583541870117,
-              "width" : 958.06499999999983,
-              "height" : 31
-            }
-          },
-          {
-            "text" : "Cache",
-            "targetRectangle" : {
-              "y" : 382.84262096881866,
-              "x" : 129.93373107910156,
-              "width" : 76.95999999999998,
-              "height" : 36
-            }
-          },
-          {
-            "text" : " 3ns",
-            "targetRectangle" : {
-              "y" : 461.66259777545929,
-              "x" : 162.63572692871094,
-              "width" : 51.584000000000003,
-              "height" : 36
-            }
-          },
-          {
-            "text" : "Read",
-            "targetRectangle" : {
-              "y" : 322.84262096881866,
-              "x" : 134.93373870849609,
-              "width" : 64.089999999999975,
-              "height" : 36
-            }
-          },
-          {
-            "text" : "RAM",
-            "targetRectangle" : {
-              "y" : 553.84027117490768,
-              "x" : 822.5115966796875,
-              "width" : 56.327999999999975,
-              "height" : 33
-            }
-          },
-          {
-            "text" : "￼",
-            "targetRectangle" : {
-              "y" : 38,
-              "x" : 964.57660043239594,
-              "width" : 23.0390625,
-              "height" : 28
-            }
-          },
-          {
-            "text" : "Read",
-            "targetRectangle" : {
-              "y" : 322.84262096881866,
-              "x" : 134.93373870849609,
-              "width" : 64.089999999999975,
-              "height" : 36
-            }
-          },
-          {
-            "text" : "Not in cache",
-            "targetRectangle" : {
-              "y" : 389.67105120420456,
-              "x" : 266.07736206054688,
-              "width" : 143.78399999999999,
-              "height" : 33
             }
           }
         ],
@@ -74151,7 +74151,7 @@ local_slide( {
                           "pointY" : 0.5
                         }
                       },
-                      "texture" : "67DE9CF4E429B498C1FA5DB7E7D83CC4"
+                      "texture" : "E26519227629C712C157571F906AD853"
                     }
                   ]
                 }
@@ -81855,12 +81855,30 @@ local_slide( {
         ],
         "accessibility" : [
           {
-            "text" : "Meltdown & Spectre for normal people",
+            "text" : "￼",
             "targetRectangle" : {
-              "y" : 40,
-              "x" : 36,
-              "width" : 519.28593814373016,
+              "y" : 38,
+              "x" : 964.57660043239594,
+              "width" : 23.0390625,
               "height" : 28
+            }
+          },
+          {
+            "text" : "Value (in Cache)",
+            "targetRectangle" : {
+              "y" : 425.6602783203125,
+              "x" : 334.36224829101559,
+              "width" : 151.87200000000007,
+              "height" : 28.40008544921875
+            }
+          },
+          {
+            "text" : "CPU core",
+            "targetRectangle" : {
+              "y" : 465.58697539567947,
+              "x" : 28.130483627319336,
+              "width" : 88.660000000000011,
+              "height" : 27
             }
           },
           {
@@ -81870,6 +81888,105 @@ local_slide( {
               "x" : 849.0316162109375,
               "width" : 20,
               "height" : 27
+            }
+          },
+          {
+            "text" : "Cache",
+            "targetRectangle" : {
+              "y" : 382.84262096881866,
+              "x" : 129.93373107910156,
+              "width" : 76.95999999999998,
+              "height" : 36
+            }
+          },
+          {
+            "text" : "RAM",
+            "targetRectangle" : {
+              "y" : 553.84027117490768,
+              "x" : 822.5115966796875,
+              "width" : 56.327999999999975,
+              "height" : 33
+            }
+          },
+          {
+            "text" : "The cache speeds up “what is the value at address X?”. This is called “(address) X is cached” ",
+            "targetRectangle" : {
+              "y" : 734.34082102775574,
+              "x" : 9.8337583541870117,
+              "width" : 958.06499999999983,
+              "height" : 31
+            }
+          },
+          {
+            "text" : "Read",
+            "targetRectangle" : {
+              "y" : 322.84262096881866,
+              "x" : 134.93373870849609,
+              "width" : 64.089999999999975,
+              "height" : 36
+            }
+          },
+          {
+            "text" : "Meltdown & Spectre for normal people",
+            "targetRectangle" : {
+              "y" : 40,
+              "x" : 36,
+              "width" : 519.28593814373016,
+              "height" : 28
+            }
+          },
+          {
+            "text" : "meltdown.png",
+            "targetRectangle" : {
+              "y" : 91.537521362304688,
+              "x" : 928.58154296875,
+              "width" : 70.384666442871094,
+              "height" : 114.92495727539062
+            }
+          },
+          {
+            "text" : " 3ns",
+            "targetRectangle" : {
+              "y" : 461.66259777545929,
+              "x" : 162.63572692871094,
+              "width" : 51.584000000000003,
+              "height" : 36
+            }
+          },
+          {
+            "text" : "Value",
+            "targetRectangle" : {
+              "y" : 373.1990966796875,
+              "x" : 832.3296162109375,
+              "width" : 54.403999999999996,
+              "height" : 28.40008544921875
+            }
+          },
+          {
+            "text" : "Cache",
+            "targetRectangle" : {
+              "y" : 382.84262096881866,
+              "x" : 129.93373107910156,
+              "width" : 76.95999999999998,
+              "height" : 36
+            }
+          },
+          {
+            "text" : "Cache",
+            "targetRectangle" : {
+              "y" : 481.67901629209518,
+              "x" : 361.27676391601562,
+              "width" : 71.039999999999964,
+              "height" : 33
+            }
+          },
+          {
+            "text" : "In cache",
+            "targetRectangle" : {
+              "y" : 388.232925593853,
+              "x" : 268.49734497070312,
+              "width" : 95.255999999999972,
+              "height" : 33
             }
           },
           {
@@ -81900,60 +82017,6 @@ local_slide( {
             }
           },
           {
-            "text" : "meltdown.png",
-            "targetRectangle" : {
-              "y" : 91.537521362304688,
-              "x" : 928.58154296875,
-              "width" : 70.384666442871094,
-              "height" : 114.92495727539062
-            }
-          },
-          {
-            "text" : "Value (in Cache)",
-            "targetRectangle" : {
-              "y" : 425.6602783203125,
-              "x" : 334.36224829101559,
-              "width" : 151.87200000000007,
-              "height" : 28.40008544921875
-            }
-          },
-          {
-            "text" : " 103ns",
-            "targetRectangle" : {
-              "y" : 461.66259777545929,
-              "x" : 161.67772674560547,
-              "width" : 85.175999999999988,
-              "height" : 36
-            }
-          },
-          {
-            "text" : "CPU core",
-            "targetRectangle" : {
-              "y" : 465.58697539567947,
-              "x" : 28.130483627319336,
-              "width" : 88.660000000000011,
-              "height" : 27
-            }
-          },
-          {
-            "text" : "In cache",
-            "targetRectangle" : {
-              "y" : 388.232925593853,
-              "x" : 268.49734497070312,
-              "width" : 95.255999999999972,
-              "height" : 33
-            }
-          },
-          {
-            "text" : "Cache",
-            "targetRectangle" : {
-              "y" : 481.67901629209518,
-              "x" : 361.27676391601562,
-              "width" : 71.039999999999964,
-              "height" : 33
-            }
-          },
-          {
             "text" : "Meltdown: Stashing away - Sidechannel",
             "targetRectangle" : {
               "y" : 125,
@@ -81963,11 +82026,29 @@ local_slide( {
             }
           },
           {
+            "text" : "Read",
+            "targetRectangle" : {
+              "y" : 322.84262096881866,
+              "x" : 134.93373870849609,
+              "width" : 64.089999999999975,
+              "height" : 36
+            }
+          },
+          {
             "text" : "100ns",
             "targetRectangle" : {
               "y" : 449.08697521686554,
               "x" : 613.95135498046875,
               "width" : 78.676000000000045,
+              "height" : 36
+            }
+          },
+          {
+            "text" : " 103ns",
+            "targetRectangle" : {
+              "y" : 461.66259777545929,
+              "x" : 161.67772674560547,
+              "width" : 85.175999999999988,
               "height" : 36
             }
           },
@@ -81981,21 +82062,12 @@ local_slide( {
             }
           },
           {
-            "text" : "Value",
+            "text" : "Not in cache",
             "targetRectangle" : {
-              "y" : 373.1990966796875,
-              "x" : 832.3296162109375,
-              "width" : 54.403999999999996,
-              "height" : 28.40008544921875
-            }
-          },
-          {
-            "text" : "Cache",
-            "targetRectangle" : {
-              "y" : 382.84262096881866,
-              "x" : 129.93373107910156,
-              "width" : 76.95999999999998,
-              "height" : 36
+              "y" : 389.67105120420456,
+              "x" : 266.07736206054688,
+              "width" : 143.78399999999999,
+              "height" : 33
             }
           },
           {
@@ -82005,78 +82077,6 @@ local_slide( {
               "x" : 574.17596435546875,
               "width" : 64.090000000000032,
               "height" : 36
-            }
-          },
-          {
-            "text" : "The cache speeds up “what is the value at address X?”. This is called “(address) X is cached” ",
-            "targetRectangle" : {
-              "y" : 734.34082102775574,
-              "x" : 9.8337583541870117,
-              "width" : 958.06499999999983,
-              "height" : 31
-            }
-          },
-          {
-            "text" : "Cache",
-            "targetRectangle" : {
-              "y" : 382.84262096881866,
-              "x" : 129.93373107910156,
-              "width" : 76.95999999999998,
-              "height" : 36
-            }
-          },
-          {
-            "text" : " 3ns",
-            "targetRectangle" : {
-              "y" : 461.66259777545929,
-              "x" : 162.63572692871094,
-              "width" : 51.584000000000003,
-              "height" : 36
-            }
-          },
-          {
-            "text" : "Read",
-            "targetRectangle" : {
-              "y" : 322.84262096881866,
-              "x" : 134.93373870849609,
-              "width" : 64.089999999999975,
-              "height" : 36
-            }
-          },
-          {
-            "text" : "RAM",
-            "targetRectangle" : {
-              "y" : 553.84027117490768,
-              "x" : 822.5115966796875,
-              "width" : 56.327999999999975,
-              "height" : 33
-            }
-          },
-          {
-            "text" : "￼",
-            "targetRectangle" : {
-              "y" : 38,
-              "x" : 964.57660043239594,
-              "width" : 23.0390625,
-              "height" : 28
-            }
-          },
-          {
-            "text" : "Read",
-            "targetRectangle" : {
-              "y" : 322.84262096881866,
-              "x" : 134.93373870849609,
-              "width" : 64.089999999999975,
-              "height" : 36
-            }
-          },
-          {
-            "text" : "Not in cache",
-            "targetRectangle" : {
-              "y" : 389.67105120420456,
-              "x" : 266.07736206054688,
-              "width" : 143.78399999999999,
-              "height" : 33
             }
           }
         ],
@@ -83262,7 +83262,7 @@ local_slide( {
                           "pointY" : 0.5
                         }
                       },
-                      "texture" : "67DE9CF4E429B498C1FA5DB7E7D83CC4"
+                      "texture" : "E26519227629C712C157571F906AD853"
                     }
                   ]
                 }
@@ -90725,7 +90725,7 @@ local_slide( {
                           "pointY" : 0.5
                         }
                       },
-                      "texture" : "2A9A170F1915CFC922060426236AC966"
+                      "texture" : "2A34A6D1A283A64E75C850EE0219BE7C"
                     },
                     {
                       "animations" : [
@@ -90806,7 +90806,7 @@ local_slide( {
                           "pointY" : 0.5
                         }
                       },
-                      "texture" : "4F91F03A5EE357A89A6C442CECBDFAA6"
+                      "texture" : "BE1EEA0CC341BC8E8239509BD36FFC75"
                     }
                   ]
                 }
@@ -90827,12 +90827,30 @@ local_slide( {
         ],
         "accessibility" : [
           {
-            "text" : "Meltdown & Spectre for normal people",
+            "text" : "￼",
             "targetRectangle" : {
-              "y" : 40,
-              "x" : 36,
-              "width" : 519.28593814373016,
+              "y" : 38,
+              "x" : 964.57660043239594,
+              "width" : 23.0390625,
               "height" : 28
+            }
+          },
+          {
+            "text" : "Value (in Cache)",
+            "targetRectangle" : {
+              "y" : 425.6602783203125,
+              "x" : 334.36224829101559,
+              "width" : 151.87200000000007,
+              "height" : 28.40008544921875
+            }
+          },
+          {
+            "text" : "CPU core",
+            "targetRectangle" : {
+              "y" : 465.58697539567947,
+              "x" : 28.130483627319336,
+              "width" : 88.660000000000011,
+              "height" : 27
             }
           },
           {
@@ -90842,6 +90860,105 @@ local_slide( {
               "x" : 849.0316162109375,
               "width" : 20,
               "height" : 27
+            }
+          },
+          {
+            "text" : "Cache",
+            "targetRectangle" : {
+              "y" : 382.84262096881866,
+              "x" : 129.93373107910156,
+              "width" : 76.95999999999998,
+              "height" : 36
+            }
+          },
+          {
+            "text" : "RAM",
+            "targetRectangle" : {
+              "y" : 553.84027117490768,
+              "x" : 822.5115966796875,
+              "width" : 56.327999999999975,
+              "height" : 33
+            }
+          },
+          {
+            "text" : "The cache speeds up “what is the value at address X?”. This is called “(address) X is cached” ",
+            "targetRectangle" : {
+              "y" : 734.34082102775574,
+              "x" : 9.8337583541870117,
+              "width" : 958.06499999999983,
+              "height" : 31
+            }
+          },
+          {
+            "text" : "Read",
+            "targetRectangle" : {
+              "y" : 322.84262096881866,
+              "x" : 134.93373870849609,
+              "width" : 64.089999999999975,
+              "height" : 36
+            }
+          },
+          {
+            "text" : "Meltdown & Spectre for normal people",
+            "targetRectangle" : {
+              "y" : 40,
+              "x" : 36,
+              "width" : 519.28593814373016,
+              "height" : 28
+            }
+          },
+          {
+            "text" : "meltdown.png",
+            "targetRectangle" : {
+              "y" : 91.537521362304688,
+              "x" : 928.58154296875,
+              "width" : 70.384666442871094,
+              "height" : 114.92495727539062
+            }
+          },
+          {
+            "text" : " 3ns",
+            "targetRectangle" : {
+              "y" : 461.66259777545929,
+              "x" : 162.63572692871094,
+              "width" : 51.584000000000003,
+              "height" : 36
+            }
+          },
+          {
+            "text" : "Value",
+            "targetRectangle" : {
+              "y" : 373.1990966796875,
+              "x" : 832.3296162109375,
+              "width" : 54.403999999999996,
+              "height" : 28.40008544921875
+            }
+          },
+          {
+            "text" : "Cache",
+            "targetRectangle" : {
+              "y" : 382.84262096881866,
+              "x" : 129.93373107910156,
+              "width" : 76.95999999999998,
+              "height" : 36
+            }
+          },
+          {
+            "text" : "Cache",
+            "targetRectangle" : {
+              "y" : 481.67901629209518,
+              "x" : 361.27676391601562,
+              "width" : 71.039999999999964,
+              "height" : 33
+            }
+          },
+          {
+            "text" : "In cache",
+            "targetRectangle" : {
+              "y" : 388.232925593853,
+              "x" : 268.49734497070312,
+              "width" : 95.255999999999972,
+              "height" : 33
             }
           },
           {
@@ -90872,60 +90989,6 @@ local_slide( {
             }
           },
           {
-            "text" : "meltdown.png",
-            "targetRectangle" : {
-              "y" : 91.537521362304688,
-              "x" : 928.58154296875,
-              "width" : 70.384666442871094,
-              "height" : 114.92495727539062
-            }
-          },
-          {
-            "text" : "Value (in Cache)",
-            "targetRectangle" : {
-              "y" : 425.6602783203125,
-              "x" : 334.36224829101559,
-              "width" : 151.87200000000007,
-              "height" : 28.40008544921875
-            }
-          },
-          {
-            "text" : " 103ns",
-            "targetRectangle" : {
-              "y" : 461.66259777545929,
-              "x" : 161.67772674560547,
-              "width" : 85.175999999999988,
-              "height" : 36
-            }
-          },
-          {
-            "text" : "CPU core",
-            "targetRectangle" : {
-              "y" : 465.58697539567947,
-              "x" : 28.130483627319336,
-              "width" : 88.660000000000011,
-              "height" : 27
-            }
-          },
-          {
-            "text" : "In cache",
-            "targetRectangle" : {
-              "y" : 388.232925593853,
-              "x" : 268.49734497070312,
-              "width" : 95.255999999999972,
-              "height" : 33
-            }
-          },
-          {
-            "text" : "Cache",
-            "targetRectangle" : {
-              "y" : 481.67901629209518,
-              "x" : 361.27676391601562,
-              "width" : 71.039999999999964,
-              "height" : 33
-            }
-          },
-          {
             "text" : "Meltdown: Stashing away - Sidechannel",
             "targetRectangle" : {
               "y" : 125,
@@ -90935,11 +90998,29 @@ local_slide( {
             }
           },
           {
+            "text" : "Read",
+            "targetRectangle" : {
+              "y" : 322.84262096881866,
+              "x" : 134.93373870849609,
+              "width" : 64.089999999999975,
+              "height" : 36
+            }
+          },
+          {
             "text" : "100ns",
             "targetRectangle" : {
               "y" : 449.08697521686554,
               "x" : 613.95135498046875,
               "width" : 78.676000000000045,
+              "height" : 36
+            }
+          },
+          {
+            "text" : " 103ns",
+            "targetRectangle" : {
+              "y" : 461.66259777545929,
+              "x" : 161.67772674560547,
+              "width" : 85.175999999999988,
               "height" : 36
             }
           },
@@ -90953,21 +91034,12 @@ local_slide( {
             }
           },
           {
-            "text" : "Value",
+            "text" : "Not in cache",
             "targetRectangle" : {
-              "y" : 373.1990966796875,
-              "x" : 832.3296162109375,
-              "width" : 54.403999999999996,
-              "height" : 28.40008544921875
-            }
-          },
-          {
-            "text" : "Cache",
-            "targetRectangle" : {
-              "y" : 382.84262096881866,
-              "x" : 129.93373107910156,
-              "width" : 76.95999999999998,
-              "height" : 36
+              "y" : 389.67105120420456,
+              "x" : 266.07736206054688,
+              "width" : 143.78399999999999,
+              "height" : 33
             }
           },
           {
@@ -90977,78 +91049,6 @@ local_slide( {
               "x" : 574.17596435546875,
               "width" : 64.090000000000032,
               "height" : 36
-            }
-          },
-          {
-            "text" : "The cache speeds up “what is the value at address X?”. This is called “(address) X is cached” ",
-            "targetRectangle" : {
-              "y" : 734.34082102775574,
-              "x" : 9.8337583541870117,
-              "width" : 958.06499999999983,
-              "height" : 31
-            }
-          },
-          {
-            "text" : "Cache",
-            "targetRectangle" : {
-              "y" : 382.84262096881866,
-              "x" : 129.93373107910156,
-              "width" : 76.95999999999998,
-              "height" : 36
-            }
-          },
-          {
-            "text" : " 3ns",
-            "targetRectangle" : {
-              "y" : 461.66259777545929,
-              "x" : 162.63572692871094,
-              "width" : 51.584000000000003,
-              "height" : 36
-            }
-          },
-          {
-            "text" : "Read",
-            "targetRectangle" : {
-              "y" : 322.84262096881866,
-              "x" : 134.93373870849609,
-              "width" : 64.089999999999975,
-              "height" : 36
-            }
-          },
-          {
-            "text" : "RAM",
-            "targetRectangle" : {
-              "y" : 553.84027117490768,
-              "x" : 822.5115966796875,
-              "width" : 56.327999999999975,
-              "height" : 33
-            }
-          },
-          {
-            "text" : "￼",
-            "targetRectangle" : {
-              "y" : 38,
-              "x" : 964.57660043239594,
-              "width" : 23.0390625,
-              "height" : 28
-            }
-          },
-          {
-            "text" : "Read",
-            "targetRectangle" : {
-              "y" : 322.84262096881866,
-              "x" : 134.93373870849609,
-              "width" : 64.089999999999975,
-              "height" : 36
-            }
-          },
-          {
-            "text" : "Not in cache",
-            "targetRectangle" : {
-              "y" : 389.67105120420456,
-              "x" : 266.07736206054688,
-              "width" : 143.78399999999999,
-              "height" : 33
             }
           }
         ],
@@ -92234,7 +92234,7 @@ local_slide( {
                           "pointY" : 0.5
                         }
                       },
-                      "texture" : "67DE9CF4E429B498C1FA5DB7E7D83CC4"
+                      "texture" : "E26519227629C712C157571F906AD853"
                     }
                   ]
                 }

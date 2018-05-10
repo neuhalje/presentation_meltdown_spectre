@@ -18,7 +18,7 @@ local_slide( {
       },
       "5713FB9E88717C29F822CE351B2D1066" : {
         "type" : "texture",
-        "index" : 10,
+        "index" : 11,
         "assetRequest" : {
           "type" : "slide",
           "state" : "contents",
@@ -86,9 +86,23 @@ local_slide( {
         "width" : 1024,
         "height" : 768
       },
+      "6FDC3F1EF0ACF45236304A2E229AEBBF" : {
+        "type" : "texture",
+        "index" : 2,
+        "assetRequest" : {
+          "type" : "slide",
+          "state" : "contents",
+          "slide" : "none"
+        },
+        "url" : {
+          "native" : "assets\/AA0977BA-EBD0-47CD-968B-19D5B86B6E16.pdf"
+        },
+        "width" : 519,
+        "height" : 20
+      },
       "E2E6D5EF5660E1421B61F3FA6CCC08F5" : {
         "type" : "texture",
-        "index" : 11,
+        "index" : 12,
         "assetRequest" : {
           "type" : "slide",
           "state" : "contents",
@@ -144,7 +158,7 @@ local_slide( {
       },
       "F648880DCCA26515020CAF2E5D8A1198" : {
         "type" : "texture",
-        "index" : 2,
+        "index" : 10,
         "assetRequest" : {
           "type" : "slide",
           "state" : "contents",
@@ -396,15 +410,6 @@ local_slide( {
             }
           },
           {
-            "text" : "Meltdown & Spectre for normal people",
-            "targetRectangle" : {
-              "y" : 40,
-              "x" : 36,
-              "width" : 519.28593814373016,
-              "height" : 28
-            }
-          },
-          {
             "text" : "You don’t want",
             "targetRectangle" : {
               "y" : 553.40000128746033,
@@ -420,6 +425,15 @@ local_slide( {
               "x" : 220.54398915863032,
               "width" : 102.91200000000003,
               "height" : 87
+            }
+          },
+          {
+            "text" : "Security Goals: Memory Isolation",
+            "targetRectangle" : {
+              "y" : 125,
+              "x" : 36,
+              "width" : 556.51199999999983,
+              "height" : 48.400146484375
             }
           },
           {
@@ -441,21 +455,21 @@ local_slide( {
             }
           },
           {
-            "text" : "Security Goals: Memory Isolation",
-            "targetRectangle" : {
-              "y" : 125,
-              "x" : 36,
-              "width" : 556.51199999999983,
-              "height" : 48.400146484375
-            }
-          },
-          {
             "text" : "Process B",
             "targetRectangle" : {
               "y" : 369.41796875,
               "x" : 725.56001525878901,
               "width" : 96.880000000000109,
               "height" : 28.40008544921875
+            }
+          },
+          {
+            "text" : "Meltdown & Spectre for normal people",
+            "targetRectangle" : {
+              "y" : 40,
+              "x" : 36,
+              "width" : 519.28593814373016,
+              "height" : 28
             }
           },
           {
@@ -1094,7 +1108,7 @@ local_slide( {
                           "pointY" : 0.5
                         }
                       },
-                      "texture" : "F648880DCCA26515020CAF2E5D8A1198"
+                      "texture" : "6FDC3F1EF0ACF45236304A2E229AEBBF"
                     }
                   ]
                 }
@@ -3486,15 +3500,6 @@ local_slide( {
             }
           },
           {
-            "text" : "Meltdown & Spectre for normal people",
-            "targetRectangle" : {
-              "y" : 40,
-              "x" : 36,
-              "width" : 519.28593814373016,
-              "height" : 28
-            }
-          },
-          {
             "text" : "You don’t want",
             "targetRectangle" : {
               "y" : 553.40000128746033,
@@ -3510,6 +3515,15 @@ local_slide( {
               "x" : 220.54398915863032,
               "width" : 102.91200000000003,
               "height" : 87
+            }
+          },
+          {
+            "text" : "Security Goals: Memory Isolation",
+            "targetRectangle" : {
+              "y" : 125,
+              "x" : 36,
+              "width" : 556.51199999999983,
+              "height" : 48.400146484375
             }
           },
           {
@@ -3531,21 +3545,21 @@ local_slide( {
             }
           },
           {
-            "text" : "Security Goals: Memory Isolation",
-            "targetRectangle" : {
-              "y" : 125,
-              "x" : 36,
-              "width" : 556.51199999999983,
-              "height" : 48.400146484375
-            }
-          },
-          {
             "text" : "Process B",
             "targetRectangle" : {
               "y" : 369.41796875,
               "x" : 725.56001525878901,
               "width" : 96.880000000000109,
               "height" : 28.40008544921875
+            }
+          },
+          {
+            "text" : "Meltdown & Spectre for normal people",
+            "targetRectangle" : {
+              "y" : 40,
+              "x" : 36,
+              "width" : 519.28593814373016,
+              "height" : 28
             }
           },
           {
@@ -6576,12 +6590,12 @@ local_slide( {
             }
           },
           {
-            "text" : "Meltdown & Spectre for normal people",
+            "text" : "The more a system relies on process isolation to achieve its security goal, the more critical Meltdown and Spectre are.",
             "targetRectangle" : {
-              "y" : 40,
-              "x" : 36,
-              "width" : 519.28593814373016,
-              "height" : 28
+              "y" : 224.15234375,
+              "x" : 371.54804687500001,
+              "width" : 349.59599999999995,
+              "height" : 143.3200452256242
             }
           },
           {
@@ -6603,12 +6617,12 @@ local_slide( {
             }
           },
           {
-            "text" : "The more a system relies on process isolation to achieve its security goal, the more critical Meltdown and Spectre are.",
+            "text" : "Security Goals: Memory Isolation",
             "targetRectangle" : {
-              "y" : 224.15234375,
-              "x" : 371.54804687500001,
-              "width" : 349.59599999999995,
-              "height" : 143.3200452256242
+              "y" : 125,
+              "x" : 36,
+              "width" : 556.51199999999983,
+              "height" : 48.400146484375
             }
           },
           {
@@ -6630,21 +6644,21 @@ local_slide( {
             }
           },
           {
-            "text" : "Security Goals: Memory Isolation",
-            "targetRectangle" : {
-              "y" : 125,
-              "x" : 36,
-              "width" : 556.51199999999983,
-              "height" : 48.400146484375
-            }
-          },
-          {
             "text" : "Process B",
             "targetRectangle" : {
               "y" : 369.41796875,
               "x" : 725.56001525878901,
               "width" : 96.880000000000109,
               "height" : 28.40008544921875
+            }
+          },
+          {
+            "text" : "Meltdown & Spectre for normal people",
+            "targetRectangle" : {
+              "y" : 40,
+              "x" : 36,
+              "width" : 519.28593814373016,
+              "height" : 28
             }
           },
           {
@@ -9471,20 +9485,11 @@ local_slide( {
             }
           },
           {
-            "text" : "Meltdown & Spectre for normal people",
+            "text" : "The more a system relies on process isolation to achieve its security goal, the more critical Meltdown and Spectre are.",
             "targetRectangle" : {
-              "y" : 40,
-              "x" : 36,
-              "width" : 519.28593814373016,
-              "height" : 28
-            }
-          },
-          {
-            "text" : "Fortunately an attacker must be able to execute his code on a system to exploit the Meltdown and Spectre attacks.",
-            "targetRectangle" : {
-              "y" : 516.85235595703125,
-              "x" : 347.37404687500003,
-              "width" : 397.9439999999999,
+              "y" : 224.15234375,
+              "x" : 371.54804687500001,
+              "width" : 349.59599999999995,
               "height" : 143.3200452256242
             }
           },
@@ -9507,12 +9512,21 @@ local_slide( {
             }
           },
           {
-            "text" : "The more a system relies on process isolation to achieve its security goal, the more critical Meltdown and Spectre are.",
+            "text" : "Fortunately an attacker must be able to execute his code on a system to exploit the Meltdown and Spectre attacks.",
             "targetRectangle" : {
-              "y" : 224.15234375,
-              "x" : 371.54804687500001,
-              "width" : 349.59599999999995,
+              "y" : 516.85235595703125,
+              "x" : 347.37404687500003,
+              "width" : 397.9439999999999,
               "height" : 143.3200452256242
+            }
+          },
+          {
+            "text" : "Security Goals: Memory Isolation",
+            "targetRectangle" : {
+              "y" : 125,
+              "x" : 36,
+              "width" : 556.51199999999983,
+              "height" : 48.400146484375
             }
           },
           {
@@ -9534,21 +9548,21 @@ local_slide( {
             }
           },
           {
-            "text" : "Security Goals: Memory Isolation",
-            "targetRectangle" : {
-              "y" : 125,
-              "x" : 36,
-              "width" : 556.51199999999983,
-              "height" : 48.400146484375
-            }
-          },
-          {
             "text" : "Process B",
             "targetRectangle" : {
               "y" : 369.41796875,
               "x" : 725.56001525878901,
               "width" : 96.880000000000109,
               "height" : 28.40008544921875
+            }
+          },
+          {
+            "text" : "Meltdown & Spectre for normal people",
+            "targetRectangle" : {
+              "y" : 40,
+              "x" : 36,
+              "width" : 519.28593814373016,
+              "height" : 28
             }
           },
           {

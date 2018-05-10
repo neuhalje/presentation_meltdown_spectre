@@ -1,8 +1,8 @@
 {
   "assets" : {
-    "2B2F336A2065E9F09B12916F218E19FA" : {
+    "8A68EAE2FEB5794107C3D9D9145AB72F" : {
       "type" : "texture",
-      "index" : 12,
+      "index" : 6,
       "assetRequest" : {
         "type" : "slide",
         "state" : "contents",
@@ -11,12 +11,12 @@
       "url" : {
         "native" : "assets\/6018279A-3814-4CC9-BDDA-0E4DEEE82F1B.pdf"
       },
-      "width" : 821,
-      "height" : 105
+      "width" : 922,
+      "height" : 225
     },
-    "DDBE6EAB3D4648D79841D834D86617D2" : {
+    "9D508B017A6C136D76F92794F61D9535" : {
       "type" : "texture",
-      "index" : 7,
+      "index" : 5,
       "assetRequest" : {
         "type" : "slide",
         "state" : "contents",
@@ -25,8 +25,8 @@
       "url" : {
         "native" : "assets\/6018279A-3814-4CC9-BDDA-0E4DEEE82F1B.pdf"
       },
-      "width" : 928,
-      "height" : 115
+      "width" : 26,
+      "height" : 20
     },
     "640D5297D59088D46FE63A28D36F2264" : {
       "type" : "texture",
@@ -56,21 +56,7 @@
       "width" : 797,
       "height" : 50
     },
-    "8A68EAE2FEB5794107C3D9D9145AB72F" : {
-      "type" : "texture",
-      "index" : 6,
-      "assetRequest" : {
-        "type" : "slide",
-        "state" : "contents",
-        "slide" : "none"
-      },
-      "url" : {
-        "native" : "assets\/6018279A-3814-4CC9-BDDA-0E4DEEE82F1B.pdf"
-      },
-      "width" : 922,
-      "height" : 225
-    },
-    "45E76B30D540D68D80180E7F2F9133B3" : {
+    "3A3C4B3A4BF31DDF4F9322C0A37AD435" : {
       "type" : "texture",
       "index" : 14,
       "assetRequest" : {
@@ -84,9 +70,9 @@
       "width" : 1024,
       "height" : 768
     },
-    "763F2C241DC1912BA77A29A23BE50E3F" : {
+    "DDBE6EAB3D4648D79841D834D86617D2" : {
       "type" : "texture",
-      "index" : 5,
+      "index" : 7,
       "assetRequest" : {
         "type" : "slide",
         "state" : "contents",
@@ -95,8 +81,22 @@
       "url" : {
         "native" : "assets\/6018279A-3814-4CC9-BDDA-0E4DEEE82F1B.pdf"
       },
-      "width" : 26,
-      "height" : 20
+      "width" : 928,
+      "height" : 115
+    },
+    "849A16FDAA166F29A38D3914EBF97061" : {
+      "type" : "texture",
+      "index" : 10,
+      "assetRequest" : {
+        "type" : "slide",
+        "state" : "contents",
+        "slide" : "none"
+      },
+      "url" : {
+        "native" : "assets\/6018279A-3814-4CC9-BDDA-0E4DEEE82F1B.pdf"
+      },
+      "width" : 943,
+      "height" : 50
     },
     "DEAC4ABE09724D3685A8B8F95159073C" : {
       "type" : "texture",
@@ -140,7 +140,7 @@
       "width" : 707,
       "height" : 50
     },
-    "76D7520E7BC7383ED53F7292DF218313" : {
+    "97104484D6A4673D81741321998960D8" : {
       "type" : "texture",
       "index" : 15,
       "assetRequest" : {
@@ -196,20 +196,6 @@
       "width" : 519,
       "height" : 20
     },
-    "849A16FDAA166F29A38D3914EBF97061" : {
-      "type" : "texture",
-      "index" : 10,
-      "assetRequest" : {
-        "type" : "slide",
-        "state" : "contents",
-        "slide" : "none"
-      },
-      "url" : {
-        "native" : "assets\/6018279A-3814-4CC9-BDDA-0E4DEEE82F1B.pdf"
-      },
-      "width" : 943,
-      "height" : 50
-    },
     "1518F876FAF0308C0C99AB1A76F28C52" : {
       "type" : "texture",
       "index" : 13,
@@ -223,6 +209,20 @@
       },
       "width" : 661,
       "height" : 100
+    },
+    "2B2F336A2065E9F09B12916F218E19FA" : {
+      "type" : "texture",
+      "index" : 12,
+      "assetRequest" : {
+        "type" : "slide",
+        "state" : "contents",
+        "slide" : "none"
+      },
+      "url" : {
+        "native" : "assets\/6018279A-3814-4CC9-BDDA-0E4DEEE82F1B.pdf"
+      },
+      "width" : 821,
+      "height" : 105
     }
   },
   "events" : [
@@ -1069,6 +1069,33 @@
       ],
       "accessibility" : [
         {
+          "text" : "spectre.png",
+          "targetRectangle" : {
+            "y" : 91.537521362304688,
+            "x" : 864.53656005859375,
+            "width" : 128.11909484863281,
+            "height" : 101.40676879882812
+          }
+        },
+        {
+          "text" : "￼",
+          "targetRectangle" : {
+            "y" : 38,
+            "x" : 964.57660043239594,
+            "width" : 23.0390625,
+            "height" : 28
+          }
+        },
+        {
+          "text" : "Meltdown & Spectre for normal people",
+          "targetRectangle" : {
+            "y" : 40,
+            "x" : 36,
+            "width" : 519.28593814373016,
+            "height" : 28
+          }
+        },
+        {
           "text" : "if (x < array1_size)",
           "targetRectangle" : {
             "y" : 209.25955486297607,
@@ -1087,12 +1114,12 @@
           }
         },
         {
-          "text" : "spectre.png",
+          "text" : "spectre: Variant 1  (CVE-2017-5753)",
           "targetRectangle" : {
-            "y" : 91.537521362304688,
-            "x" : 864.53656005859375,
-            "width" : 128.11909484863281,
-            "height" : 101.40676879882812
+            "y" : 125,
+            "x" : 36,
+            "width" : 575.61599999999999,
+            "height" : 48.400146484375
           }
         },
         {
@@ -1129,33 +1156,6 @@
             "x" : 60.189687728881836,
             "width" : 883.72800000000018,
             "height" : 49
-          }
-        },
-        {
-          "text" : "Meltdown & Spectre for normal people",
-          "targetRectangle" : {
-            "y" : 40,
-            "x" : 36,
-            "width" : 519.28593814373016,
-            "height" : 28
-          }
-        },
-        {
-          "text" : "spectre: Variant 1  (CVE-2017-5753)",
-          "targetRectangle" : {
-            "y" : 125,
-            "x" : 36,
-            "width" : 575.61599999999999,
-            "height" : 48.400146484375
-          }
-        },
-        {
-          "text" : "￼",
-          "targetRectangle" : {
-            "y" : 38,
-            "x" : 964.57660043239594,
-            "width" : 23.0390625,
-            "height" : 28
           }
         }
       ],
@@ -2340,7 +2340,7 @@
                         "pointY" : 0.5
                       }
                     },
-                    "texture" : "763F2C241DC1912BA77A29A23BE50E3F"
+                    "texture" : "9D508B017A6C136D76F92794F61D9535"
                   }
                 ]
               }
@@ -5735,6 +5735,33 @@
       ],
       "accessibility" : [
         {
+          "text" : "spectre.png",
+          "targetRectangle" : {
+            "y" : 91.537521362304688,
+            "x" : 864.53656005859375,
+            "width" : 128.11909484863281,
+            "height" : 101.40676879882812
+          }
+        },
+        {
+          "text" : "￼",
+          "targetRectangle" : {
+            "y" : 38,
+            "x" : 964.57660043239594,
+            "width" : 23.0390625,
+            "height" : 28
+          }
+        },
+        {
+          "text" : "Meltdown & Spectre for normal people",
+          "targetRectangle" : {
+            "y" : 40,
+            "x" : 36,
+            "width" : 519.28593814373016,
+            "height" : 28
+          }
+        },
+        {
           "text" : "if (x < array1_size)",
           "targetRectangle" : {
             "y" : 209.25955486297607,
@@ -5753,12 +5780,12 @@
           }
         },
         {
-          "text" : "spectre.png",
+          "text" : "spectre: Variant 1  (CVE-2017-5753)",
           "targetRectangle" : {
-            "y" : 91.537521362304688,
-            "x" : 864.53656005859375,
-            "width" : 128.11909484863281,
-            "height" : 101.40676879882812
+            "y" : 125,
+            "x" : 36,
+            "width" : 575.61599999999999,
+            "height" : 48.400146484375
           }
         },
         {
@@ -5798,39 +5825,12 @@
           }
         },
         {
-          "text" : "Meltdown & Spectre for normal people",
-          "targetRectangle" : {
-            "y" : 40,
-            "x" : 36,
-            "width" : 519.28593814373016,
-            "height" : 28
-          }
-        },
-        {
           "text" : "Attacker manipulates branch prediction",
           "targetRectangle" : {
             "y" : 574.32063031196594,
             "x" : 78.189687728881836,
             "width" : 652.10400000000004,
             "height" : 63.200000584125519
-          }
-        },
-        {
-          "text" : "spectre: Variant 1  (CVE-2017-5753)",
-          "targetRectangle" : {
-            "y" : 125,
-            "x" : 36,
-            "width" : 575.61599999999999,
-            "height" : 48.400146484375
-          }
-        },
-        {
-          "text" : "￼",
-          "targetRectangle" : {
-            "y" : 38,
-            "x" : 964.57660043239594,
-            "width" : 23.0390625,
-            "height" : 28
           }
         }
       ],
@@ -7015,7 +7015,7 @@
                         "pointY" : 0.5
                       }
                     },
-                    "texture" : "763F2C241DC1912BA77A29A23BE50E3F"
+                    "texture" : "9D508B017A6C136D76F92794F61D9535"
                   }
                 ]
               }
@@ -10410,6 +10410,33 @@
       ],
       "accessibility" : [
         {
+          "text" : "spectre.png",
+          "targetRectangle" : {
+            "y" : 91.537521362304688,
+            "x" : 864.53656005859375,
+            "width" : 128.11909484863281,
+            "height" : 101.40676879882812
+          }
+        },
+        {
+          "text" : "￼",
+          "targetRectangle" : {
+            "y" : 38,
+            "x" : 964.57660043239594,
+            "width" : 23.0390625,
+            "height" : 28
+          }
+        },
+        {
+          "text" : "Meltdown & Spectre for normal people",
+          "targetRectangle" : {
+            "y" : 40,
+            "x" : 36,
+            "width" : 519.28593814373016,
+            "height" : 28
+          }
+        },
+        {
           "text" : "if (x < array1_size)",
           "targetRectangle" : {
             "y" : 209.25955486297607,
@@ -10428,12 +10455,12 @@
           }
         },
         {
-          "text" : "spectre.png",
+          "text" : "spectre: Variant 1  (CVE-2017-5753)",
           "targetRectangle" : {
-            "y" : 91.537521362304688,
-            "x" : 864.53656005859375,
-            "width" : 128.11909484863281,
-            "height" : 101.40676879882812
+            "y" : 125,
+            "x" : 36,
+            "width" : 575.61599999999999,
+            "height" : 48.400146484375
           }
         },
         {
@@ -10473,15 +10500,6 @@
           }
         },
         {
-          "text" : "Meltdown & Spectre for normal people",
-          "targetRectangle" : {
-            "y" : 40,
-            "x" : 36,
-            "width" : 519.28593814373016,
-            "height" : 28
-          }
-        },
-        {
           "text" : "Attacker manipulates branch prediction",
           "targetRectangle" : {
             "y" : 574.32063031196594,
@@ -10497,24 +10515,6 @@
             "x" : 78.189687728881836,
             "width" : 741.45599999999979,
             "height" : 63.200000584125519
-          }
-        },
-        {
-          "text" : "spectre: Variant 1  (CVE-2017-5753)",
-          "targetRectangle" : {
-            "y" : 125,
-            "x" : 36,
-            "width" : 575.61599999999999,
-            "height" : 48.400146484375
-          }
-        },
-        {
-          "text" : "￼",
-          "targetRectangle" : {
-            "y" : 38,
-            "x" : 964.57660043239594,
-            "width" : 23.0390625,
-            "height" : 28
           }
         }
       ],
@@ -11699,7 +11699,7 @@
                         "pointY" : 0.5
                       }
                     },
-                    "texture" : "763F2C241DC1912BA77A29A23BE50E3F"
+                    "texture" : "9D508B017A6C136D76F92794F61D9535"
                   }
                 ]
               }
@@ -13955,7 +13955,7 @@
                         "pointY" : 0.5
                       }
                     },
-                    "texture" : "45E76B30D540D68D80180E7F2F9133B3"
+                    "texture" : "3A3C4B3A4BF31DDF4F9322C0A37AD435"
                   },
                   {
                     "animations" : [
@@ -14036,7 +14036,7 @@
                         "pointY" : 0.5
                       }
                     },
-                    "texture" : "76D7520E7BC7383ED53F7292DF218313"
+                    "texture" : "97104484D6A4673D81741321998960D8"
                   }
                 ]
               }
@@ -14057,6 +14057,33 @@
       ],
       "accessibility" : [
         {
+          "text" : "spectre.png",
+          "targetRectangle" : {
+            "y" : 91.537521362304688,
+            "x" : 864.53656005859375,
+            "width" : 128.11909484863281,
+            "height" : 101.40676879882812
+          }
+        },
+        {
+          "text" : "￼",
+          "targetRectangle" : {
+            "y" : 38,
+            "x" : 964.57660043239594,
+            "width" : 23.0390625,
+            "height" : 28
+          }
+        },
+        {
+          "text" : "Meltdown & Spectre for normal people",
+          "targetRectangle" : {
+            "y" : 40,
+            "x" : 36,
+            "width" : 519.28593814373016,
+            "height" : 28
+          }
+        },
+        {
           "text" : "if (x < array1_size)",
           "targetRectangle" : {
             "y" : 209.25955486297607,
@@ -14075,12 +14102,12 @@
           }
         },
         {
-          "text" : "spectre.png",
+          "text" : "spectre: Variant 1  (CVE-2017-5753)",
           "targetRectangle" : {
-            "y" : 91.537521362304688,
-            "x" : 864.53656005859375,
-            "width" : 128.11909484863281,
-            "height" : 101.40676879882812
+            "y" : 125,
+            "x" : 36,
+            "width" : 575.61599999999999,
+            "height" : 48.400146484375
           }
         },
         {
@@ -14120,15 +14147,6 @@
           }
         },
         {
-          "text" : "Meltdown & Spectre for normal people",
-          "targetRectangle" : {
-            "y" : 40,
-            "x" : 36,
-            "width" : 519.28593814373016,
-            "height" : 28
-          }
-        },
-        {
           "text" : "Attacker manipulates branch prediction",
           "targetRectangle" : {
             "y" : 574.32063031196594,
@@ -14153,24 +14171,6 @@
             "x" : 78.189687728881836,
             "width" : 896.29199999999992,
             "height" : 49
-          }
-        },
-        {
-          "text" : "spectre: Variant 1  (CVE-2017-5753)",
-          "targetRectangle" : {
-            "y" : 125,
-            "x" : 36,
-            "width" : 575.61599999999999,
-            "height" : 48.400146484375
-          }
-        },
-        {
-          "text" : "￼",
-          "targetRectangle" : {
-            "y" : 38,
-            "x" : 964.57660043239594,
-            "width" : 23.0390625,
-            "height" : 28
           }
         }
       ],
@@ -15356,7 +15356,7 @@
                         "pointY" : 0.5
                       }
                     },
-                    "texture" : "763F2C241DC1912BA77A29A23BE50E3F"
+                    "texture" : "9D508B017A6C136D76F92794F61D9535"
                   }
                 ]
               }

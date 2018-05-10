@@ -86,6 +86,20 @@ local_slide( {
         "width" : 48,
         "height" : 124
       },
+      "1E780DE6D8A724FFDDBA71E2B9ABB501" : {
+        "type" : "texture",
+        "index" : 2,
+        "assetRequest" : {
+          "type" : "slide",
+          "state" : "contents",
+          "slide" : "none"
+        },
+        "url" : {
+          "native" : "assets\/FC4D9D0D-2FE5-433D-B817-3F1B2E807FC4.pdf"
+        },
+        "width" : 1004,
+        "height" : 328
+      },
       "90378145A205DD6BB310F8C7D03013F0" : {
         "type" : "texture",
         "index" : 19,
@@ -282,20 +296,6 @@ local_slide( {
         "width" : 56,
         "height" : 39
       },
-      "8444D61AB30B0E0194900BDB07AACDC1" : {
-        "type" : "texture",
-        "index" : 2,
-        "assetRequest" : {
-          "type" : "slide",
-          "state" : "contents",
-          "slide" : "none"
-        },
-        "url" : {
-          "native" : "assets\/FC4D9D0D-2FE5-433D-B817-3F1B2E807FC4.pdf"
-        },
-        "width" : 1004,
-        "height" : 328
-      },
       "19F69C6E0C53B0A9591C0CC3EBA11CC3" : {
         "type" : "texture",
         "index" : 20,
@@ -310,20 +310,6 @@ local_slide( {
         "width" : 67,
         "height" : 43
       },
-      "15D23D95074F2CAAEB1698842522B510" : {
-        "type" : "texture",
-        "index" : 7,
-        "assetRequest" : {
-          "type" : "slide",
-          "state" : "contents",
-          "slide" : "none"
-        },
-        "url" : {
-          "native" : "assets\/FC4D9D0D-2FE5-433D-B817-3F1B2E807FC4.pdf"
-        },
-        "width" : 47,
-        "height" : 124
-      },
       "C5DF51CAFAC91E192EBD91C146CE0123" : {
         "type" : "texture",
         "index" : 27,
@@ -337,6 +323,20 @@ local_slide( {
         },
         "width" : 1024,
         "height" : 768
+      },
+      "15D23D95074F2CAAEB1698842522B510" : {
+        "type" : "texture",
+        "index" : 7,
+        "assetRequest" : {
+          "type" : "slide",
+          "state" : "contents",
+          "slide" : "none"
+        },
+        "url" : {
+          "native" : "assets\/FC4D9D0D-2FE5-433D-B817-3F1B2E807FC4.pdf"
+        },
+        "width" : 47,
+        "height" : 124
       },
       "EC588049143531C590806FA17D5CC29D" : {
         "type" : "texture",
@@ -687,12 +687,39 @@ local_slide( {
             }
           },
           {
+            "text" : "Meltdown & Spectre for normal people",
+            "targetRectangle" : {
+              "y" : 40,
+              "x" : 36,
+              "width" : 519.28593814373016,
+              "height" : 28
+            }
+          },
+          {
             "text" : "Instruction",
             "targetRectangle" : {
               "y" : 430.50000029802322,
               "x" : 315.2706298828125,
               "width" : 104.13999999999999,
               "height" : 27
+            }
+          },
+          {
+            "text" : "CPU core",
+            "targetRectangle" : {
+              "y" : 430.50000029802322,
+              "x" : 566.60369873046875,
+              "width" : 88.659999999999968,
+              "height" : 27
+            }
+          },
+          {
+            "text" : "Confidential Burgers Inc.",
+            "targetRectangle" : {
+              "y" : 125,
+              "x" : 36,
+              "width" : 428.30399999999992,
+              "height" : 48.400146484375
             }
           },
           {
@@ -711,33 +738,6 @@ local_slide( {
               "x" : 27.857795715332031,
               "width" : 444.27599999999995,
               "height" : 49
-            }
-          },
-          {
-            "text" : "Confidential Burgers Inc.",
-            "targetRectangle" : {
-              "y" : 125,
-              "x" : 36,
-              "width" : 428.30399999999992,
-              "height" : 48.400146484375
-            }
-          },
-          {
-            "text" : "CPU core",
-            "targetRectangle" : {
-              "y" : 430.50000029802322,
-              "x" : 566.60369873046875,
-              "width" : 88.659999999999968,
-              "height" : 27
-            }
-          },
-          {
-            "text" : "Meltdown & Spectre for normal people",
-            "targetRectangle" : {
-              "y" : 40,
-              "x" : 36,
-              "width" : 519.28593814373016,
-              "height" : 28
             }
           }
         ],
@@ -1633,7 +1633,7 @@ local_slide( {
                           "pointY" : 0.5
                         }
                       },
-                      "texture" : "8444D61AB30B0E0194900BDB07AACDC1"
+                      "texture" : "1E780DE6D8A724FFDDBA71E2B9ABB501"
                     }
                   ]
                 }

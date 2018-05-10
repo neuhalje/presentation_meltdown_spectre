@@ -28,20 +28,6 @@
       "width" : 1024,
       "height" : 768
     },
-    "E4C0023E4E82DA4708AE861A605CD6E2" : {
-      "type" : "texture",
-      "index" : 5,
-      "assetRequest" : {
-        "type" : "slide",
-        "state" : "contents",
-        "slide" : "none"
-      },
-      "url" : {
-        "native" : "assets\/79C72E7D-EB22-4D0D-B248-334787D77577.pdf"
-      },
-      "width" : 25,
-      "height" : 20
-    },
     "562C12C23922DC7A82842DACA4F2C56C" : {
       "type" : "texture",
       "index" : 4,
@@ -55,20 +41,6 @@
       },
       "width" : 163,
       "height" : 37
-    },
-    "D0E8E515A698389D687CF4A2228FA78D" : {
-      "type" : "texture",
-      "index" : 9,
-      "assetRequest" : {
-        "type" : "slide",
-        "state" : "contents",
-        "slide" : "none"
-      },
-      "url" : {
-        "native" : "assets\/79C72E7D-EB22-4D0D-B248-334787D77577.pdf"
-      },
-      "width" : 1024,
-      "height" : 768
     },
     "2AA70D37290A9F5E1DB01F35F5D55924" : {
       "type" : "texture",
@@ -125,6 +97,34 @@
       },
       "width" : 842,
       "height" : 527
+    },
+    "A40A48E128456F894DA2E3C11F0F3DD3" : {
+      "type" : "texture",
+      "index" : 5,
+      "assetRequest" : {
+        "type" : "slide",
+        "state" : "contents",
+        "slide" : "none"
+      },
+      "url" : {
+        "native" : "assets\/79C72E7D-EB22-4D0D-B248-334787D77577.pdf"
+      },
+      "width" : 26,
+      "height" : 20
+    },
+    "B69115E4A9922B7969D95A24703BF303" : {
+      "type" : "texture",
+      "index" : 9,
+      "assetRequest" : {
+        "type" : "slide",
+        "state" : "contents",
+        "slide" : "none"
+      },
+      "url" : {
+        "native" : "assets\/79C72E7D-EB22-4D0D-B248-334787D77577.pdf"
+      },
+      "width" : 1024,
+      "height" : 768
     },
     "A36CE115C3C1DF8F023CCD4989323094" : {
       "type" : "texture",
@@ -403,7 +403,7 @@
                         "pointY" : 0.5
                       }
                     },
-                    "texture" : "D0E8E515A698389D687CF4A2228FA78D"
+                    "texture" : "B69115E4A9922B7969D95A24703BF303"
                   }
                 ]
               }
@@ -438,6 +438,15 @@
             "x" : 25.196588516235352,
             "width" : 925.25600092506397,
             "height" : 33.000000261781679
+          }
+        },
+        {
+          "text" : "meltdown.png",
+          "targetRectangle" : {
+            "y" : 91.537521362304688,
+            "x" : 928.58154296875,
+            "width" : 70.384666442871094,
+            "height" : 114.92495727539062
           }
         },
         {
@@ -528,15 +537,6 @@
             "x" : 81.091997146606445,
             "width" : 788.17200042557715,
             "height" : 49.000000392672519
-          }
-        },
-        {
-          "text" : "meltdown.png",
-          "targetRectangle" : {
-            "y" : 91.537521362304688,
-            "x" : 928.58154296875,
-            "width" : 70.384666442871094,
-            "height" : 114.92495727539062
           }
         }
       ],
@@ -1619,10 +1619,10 @@
                   "rotation" : 0,
                   "scale" : 1,
                   "position" : {
-                    "pointX" : 972.07660043239594,
+                    "pointX" : 972.57660043239594,
                     "pointY" : 44
                   },
-                  "width" : 25,
+                  "width" : 26,
                   "sublayerTransform" : [
                     1,
                     0,
@@ -1691,10 +1691,10 @@
                       "rotation" : 0,
                       "scale" : 1,
                       "position" : {
-                        "pointX" : 15.923399567604065,
+                        "pointX" : 16.423399567604065,
                         "pointY" : 18
                       },
-                      "width" : 25,
+                      "width" : 26,
                       "sublayerTransform" : [
                         1,
                         0,
@@ -1728,7 +1728,7 @@
                         "pointY" : 0.5
                       }
                     },
-                    "texture" : "E4C0023E4E82DA4708AE861A605CD6E2"
+                    "texture" : "A40A48E128456F894DA2E3C11F0F3DD3"
                   }
                 ]
               }
