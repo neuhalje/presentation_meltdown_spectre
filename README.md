@@ -16,7 +16,7 @@ Contrary to other security bugs these flaws are
 This is for "normal people". With these slides I fill the hole between _we are going to die!_ and _white noise_. You, the reader, will understand _what_ went wrong,  _how_ it went wrong, and _why_ this is bad. I will try to minimise the computer specialists words to an absolute minimum. Promised!
 
 ## Where?
-
+* [FrOSCon 2018](https://programm.froscon.de/2018/events/2101.html) ([recording](https://media.ccc.de/v/froscon2018-2101-meltdown_an_spectre))
 * [18. Gulaschprogrammiernacht (CCC Karlsruhe)](https://pretalx.entropia.de/gpn18/talk/BT8SGL/)  ([recording](https://media.ccc.de/v/gpn18-130-meltdown-and-spectre-for-normal-people))
 * [German Perl Workshop 2018](http://act.yapc.eu/gpw2018/talk/7311)
 
